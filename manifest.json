@@ -1,12 +1,12 @@
 {
-  "version": "1085d5f510a99bc16cf17f397cc7ee5eb04e04605fa5a1549d41cfe7cf710c93",
-  "built_at": "2026-09-16T16:17:02.983587+00:00",
-  "records": 1251,
+  "version": "18693251f0ecc45167f8a7bd63571cc6390f0b2551be2d7d3099820c7ff9d771",
+  "built_at": "2026-09-16T16:22:41.751138+00:00",
+  "records": 1148,
   "status": {
     "last_attempt": "2026-09-16T16:12:34.212133+00:00",
     "last_outcome": "partial",
-    "deployed": false,
-    "schedule_state": "配置已生成，远程未验证",
+    "deployed": true,
+    "schedule_state": "远程周更已启用；未来定时触发另行记录",
     "sources": {
       "EuropePMC-CAT": {
         "query": "((TITLE_ABS:\"phacoemulsification\" OR TITLE_ABS:\"cataract surgery\" OR TITLE_ABS:\"intraocular lens implantation\" OR TITLE_ABS:\"MSICS\" OR TITLE_ABS:\"capsular tension ring\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
@@ -302,6 +302,9 @@
         "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
       }
     ],
-    "first_attempt": "2026-09-16T16:12:29.622474+00:00"
+    "first_attempt": "2026-09-16T16:12:29.622474+00:00",
+    "last_deploy": "2026-09-16T16:17:19.857907+00:00",
+    "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35120385003",
+    "last_publish_attempt": "2026-09-16T16:22:35.200504+00:00"
   }
 }
