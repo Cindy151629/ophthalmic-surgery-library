@@ -1,0 +1,12 @@
+{
+  "compared_authored_notes": 279,
+  "all_unchanged": true,
+  "stable_original_ids_preserved": true,
+  "first_remote_run": "35118990819",
+  "before": 1018,
+  "after": 1148,
+  "second_remote_run": "35120385003",
+  "second_run_authored_notes_unchanged": 279,
+  "restored_complete_resources": 1251,
+  "restoration_audit": "snapshot-recovery.json"
+}

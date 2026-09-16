@@ -114,7 +114,7 @@
       "subspecialty": "人工晶状体",
       "zh": "人工晶状体固定",
       "en": "Scleral fixation Yamane iris claw",
-      "pattern": "(?=.*(?:\\bIOL\\b|intraocular lens|\\blens\\b|人工晶状体))(?=.*fixation)|Yamane|iris.claw|人工晶状体.{0,12}固定",
+      "pattern": "(?=.*(?:\\bIOL\\b|intraocular lens|\\blens\\b|人工晶状体))(?=.*(?:fixation|fixated|固定))|Yamane|iris.claw|人工晶状体.{0,12}固定",
       "synonyms": [
         "Scleral",
         "fixation",

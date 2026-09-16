@@ -201,7 +201,7 @@ class RecoveryTests(unittest.TestCase):
         state['last_outcome'] = 'partial'  # The field currently written by update.py.
         recovery.write(self.root / 'data/status.json', state)
         steps = {name: {'outcome': 'success', 'conclusion': 'success'}
-                 for name in ('started', 'start_saved', 'dependencies', 'recovery', 'update', 'tests',
+                 for name in ('started', 'start_saved', 'dependencies', 'recovery', 'update', 'publication_guard', 'tests',
                               'pages_config', 'upload', 'deployment', 'verification', 'pin')}
         result = recovery.finish_runtime(self.root, steps)
         self.assertEqual(result['status'], 'partial')
@@ -211,7 +211,7 @@ class RecoveryTests(unittest.TestCase):
         # GitHub's steps context omits failed steps without an explicit id.
         steps = {'started': {'outcome': 'success', 'conclusion': 'success'},
                  **{name: {'outcome': 'skipped', 'conclusion': 'skipped'}
-                    for name in ('recovery', 'update', 'tests', 'deployment', 'verification', 'pin')}}
+                    for name in ('recovery', 'update', 'publication_guard', 'tests', 'deployment', 'verification', 'pin')}}
         result = recovery.finish_runtime(self.root, steps)
         self.assertEqual(result['status'], 'failed')
 

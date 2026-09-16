@@ -26,7 +26,7 @@ class IncrementalEvidence(unittest.TestCase):
   with tempfile.TemporaryDirectory() as tmp:
    root=Path(tmp);cloud_recovery.write(root/'data/status.json',{'last_success':'previous-complete','last_discovery_success':'new-discovery','last_outcome':'success'})
    cloud_recovery.start_runtime(root)
-   steps={k:{'outcome':'success','conclusion':'success'} for k in ('dependencies','update','tests','pages_config','upload','deployment','verification','pin')}
+   steps={k:{'outcome':'success','conclusion':'success'} for k in ('dependencies','update','publication_guard','tests','pages_config','upload','deployment','verification','pin')}
    steps['deployment']={'outcome':'failure','conclusion':'failure'}
    cloud_recovery.finish_runtime(root,steps)
    self.assertEqual(cloud_recovery.read(root/'data/status.json')['last_success'],'previous-complete')
@@ -51,4 +51,9 @@ class IncrementalEvidence(unittest.TestCase):
    runtime=cloud_recovery.start_runtime(root)
    self.assertEqual(runtime['run_scope'],'publish-reviewed')
    self.assertEqual(cloud_recovery.read(root/'data/status.json')['last_attempt'],'prior-real-discovery')
+ def test_scleral_fixated_is_found_under_iol_fixation(self):
+  from import_seeds import classify
+  tax=json.loads((Path(__file__).resolve().parents[1]/'config/taxonomy.json').read_text())
+  r={'aliases':[{'id':'CAT-A21'}],'title':'Scleral-Fixated Intraocular Lenses: Past and Present'}
+  self.assertIn('iol-fixation',classify(r,tax)['procedures'])
 if __name__=='__main__':unittest.main()

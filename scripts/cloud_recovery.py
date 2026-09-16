@@ -241,7 +241,7 @@ def finish_runtime(root, step_results):
     steps = {name: {'outcome': value.get('outcome'), 'conclusion': value.get('conclusion')}
              for name, value in step_results.items()}
     failed = [name for name, value in steps.items() if value['outcome'] in ('failure', 'cancelled')]
-    for name in ('dependencies','update','tests','pages_config','upload','deployment','verification','pin'):
+    for name in ('dependencies','update','publication_guard','tests','pages_config','upload','deployment','verification','pin'):
         if steps.get(name,{}).get('outcome') != 'success' and name not in failed:
             failed.append(name)
             steps.setdefault(name, {'outcome':'not_successful','conclusion':'failure'})

@@ -59,6 +59,9 @@ jobs:
           else
             python scripts/build.py
           fi
+      - name: Check every publication against the previous verified artifact
+        id: publication_guard
+        run: python scripts/validate_publication.py --previous-dir previous-site
       - name: Test data safety, source outages, and identity boundaries
         id: tests
         run: python -m unittest discover -s tests -v
@@ -123,5 +126,6 @@ jobs:
             data/publication-status.json
             reports/current-run.json
             reports/deployment-verification.json
+            reports/publication-safety.json
             reports/runs/*.json
           retention-days: 90
