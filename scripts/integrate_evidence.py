@@ -67,6 +67,7 @@ def run():
   if evidence.get('summary_zh'):r['video']['summary']=evidence['summary_zh']
   r['video']['summary_basis']=evidence.get('summary_locator') or evidence.get('evidence')
   r['video']['official_title']=evidence.get('official_title')
+  r['video']['media_identifiers']=evidence.get('media_identifiers',[])
   if evidence['status']=='verified':r['publication_status']='verified-index'
  for evidence in read(WORK/'playback_checks.json',[]):
   r=next((r for r in records if r['id']==evidence.get('id')),None)

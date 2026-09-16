@@ -62,7 +62,7 @@ def run():
    rid=next(iter(matches)) if len(matches)==1 else ('eye-'+('v-' if raw['kind']=='video' else 'a-')+digest(keys[0] if keys else key)[:12])
    alias={'edition':edition,'id':raw['id'],'title':raw['title']}
    if not matches or len(matches)>1:
-    paras=raw.get('paragraphs',[]);line=paras[0] if paras else '';parts=[p.strip() for p in re.split(r'\s*[|·]\s*',line)]
+    paras=raw.get('paragraphs',[]);line=paras[0] if paras else '';parts=[p.strip() for p in re.split(r'\s*\|\s*|\s{2,}·\s{2,}',line)]
     years=re.findall(r'\b(?:19|20)\d{2}\b',parts[0] if raw['kind']=='literature' else parts[-1])
     r={'id':rid,'kind':raw['kind'],'title':raw['title'],'aliases':[alias],'identity_keys':keys,'source_keys':[key],'seed_history':[{'source_key':key,'paragraphs':paras}],
        'seed_description':paras[1] if len(paras)>1 else '', 'source':parts[1] if raw['kind']=='literature' and len(parts)>1 else parts[0],
@@ -76,6 +76,7 @@ def run():
      if k.startswith(('doi:','pmid:','pmcid:')):a,b=k.split(':',1);r[a]=b
     if raw['id'].startswith('CN-'):r['language']='zh'
     if raw['kind']=='video':
+     if len(parts)>=3 and re.search(r'^(?:19|20)\d{2}|日期未核实',parts[0]):r['source']=parts[1];r['resource_type']=parts[2]
      host=urllib.parse.urlsplit(r['urls'][0]['url']).hostname if r['urls'] else ''
      hosts={'morancore.utah.edu':'Moran CORE','cybersight.org':'Cybersight','webeye.ophth.uiowa.edu':'University of Iowa EyeRounds','eyerounds.org':'EyeRounds','eyetube.net':'Eyetube','www.aao.org':'AAO','www.djo.harvard.edu':'Digital Journal of Ophthalmology'}
      if host in hosts:r['source']=hosts[host]

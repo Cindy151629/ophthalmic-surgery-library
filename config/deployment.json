@@ -6,5 +6,6 @@
   "status_url": "https://raw.githubusercontent.com/Cindy151629/ophthalmic-surgery-library/main/data/publication-status.json",
   "runtime_status_url": "https://raw.githubusercontent.com/Cindy151629/ophthalmic-surgery-library/main/data/runtime-status.json",
   "schedule_timezone": "Asia/Shanghai",
-  "schedule_state": "not-yet-deployed"
+  "schedule_state": "active-verified",
+  "schedule_evidence": "GitHub Actions workflow API, verified 2026-09-16T16:05:27Z; actual future scheduled event not yet observed"
 }

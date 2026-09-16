@@ -214,6 +214,8 @@ def start_runtime(root):
     result = {
         'domain_id': 'ophthalmic-surgery', 'schema_version': 1, 'status': 'running',
         'started_at': stamp, 'finished_at': None, 'event': event,
+        'first_started_at': old.get('first_started_at') or old.get('started_at') or stamp,
+        'last_success': old.get('last_success'),
         'run_id': os.environ.get('GITHUB_RUN_ID'),
         'run_url': 'https://github.com/' + os.environ.get('GITHUB_REPOSITORY', '')
                    + '/actions/runs/' + os.environ.get('GITHUB_RUN_ID', ''),
@@ -222,6 +224,7 @@ def start_runtime(root):
         'steps': {}, 'rollback': {'status': 'not_checked'}, 'last_errors': [], 'last_counts': {},
     }
     state = read(root / 'data/status.json', {})
+    state.setdefault('first_attempt', stamp)
     state.update(last_attempt=stamp, last_attempt_status='running', last_counts={}, last_errors=[])
     write(root / 'data/status.json', state)
     write(root / 'data/runtime-status.json', result)
@@ -252,7 +255,14 @@ def finish_runtime(root, step_results):
         # Retain successful source watermarks; only the attempt outcome changes.
         state.update(last_attempt=runtime.get('started_at', now()), last_attempt_status='failed',
                      last_errors=runtime['last_errors'])
-        write(root / 'data/status.json', state)
+    elif runtime['status'] == 'success':
+        runtime['last_success'] = runtime['finished_at']
+        state['last_success'] = runtime['finished_at']
+    receipt = read(root / 'data/publication-status.json', {})
+    if receipt.get('deployed') and receipt.get('verified_at'):
+        state.update(deployed=True,last_deploy=receipt['verified_at'],workflow_url=receipt.get('run_url'),next_run=receipt.get('next_planned_run'))
+        state['schedule_state']='远程周更已启用；未来定时触发另行记录' if receipt.get('schedule_active') is True else '云端已部署，调度状态待核验'
+    write(root / 'data/status.json', state)
     write(root / 'data/runtime-status.json', runtime)
     return runtime
 

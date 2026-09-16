@@ -40,6 +40,15 @@ def pubmed_records(rows):
     ids2={x.get('IdType'):''.join(x.itertext()) for x in a.findall('./PubmedData/ArticleIdList/ArticleId')}
     corrections=[{'type':x.get('RefType'),'pmid':x.findtext('PMID')} for x in a.findall('./MedlineCitation/CommentsCorrectionsList/CommentsCorrections')]
     out[pid]={'title':title,'ids':ids2,'corrections':corrections,'source_url':'https://pubmed.ncbi.nlm.nih.gov/'+pid+'/','checked_at':log['checked_at']}
+   for a in root.findall('./PubmedBookArticle'):
+    doc=a.find('./BookDocument');pid=doc.findtext('PMID') if doc is not None else None
+    if not pid:continue
+    heading=doc.find('ArticleTitle')
+    if heading is None:heading=doc.find('./Book/BookTitle')
+    title=''.join(heading.itertext()) if heading is not None else ''
+    ids2={x.get('IdType'):''.join(x.itertext()) for x in doc.findall('./ArticleIdList/ArticleId')}
+    corrections=[{'type':x.get('RefType'),'pmid':x.findtext('PMID')} for x in a.findall('.//CommentsCorrections')]
+    out[pid]={'title':title,'ids':ids2,'corrections':corrections,'source_url':'https://pubmed.ncbi.nlm.nih.gov/'+pid+'/','checked_at':log['checked_at'],'record_type':'PubmedBookArticle'}
   except ET.ParseError:log['parse_error']='invalid PubMed XML'
  return out,logs
 
@@ -166,13 +175,19 @@ def run(skip_links=False):
    source={**source,'modified_after':(datetime.datetime.fromisoformat(prev.get('last_success',start))-datetime.timedelta(days=cfg['overlap_days'])).strftime('%Y-%m-%dT%H:%M:%S')}
    videos,ledger=discover_videos(source,known);entry.update(hits=len(videos),pages=ledger,pagination_complete=True,scope='配置官方目录暴露的全部链接；或CMS指定时间窗口完整分页，不代表平台所有历史视频')
    known_urls={urlnorm(u['url']) for r in candidate_records for u in r.get('urls',[])}
+   failed_pages=0
    for url,title in videos.items():
     if urlnorm(url) in known_urls:continue
     r,reason=candidate_video(url,title,source,tax)
     if r:
      candidate_records.append(r);known_urls.add(urlnorm(url));known.update(r['identity_keys']);entry['added']+=1;runlog['added']+=1
-    else:stage('video:'+digest(url),title,reason,name,url)
-   entry.update(status='success',last_success=now());state['sources'][name]={'last_success':entry['last_success'],'last_directory_hashes':[x['sha256'] for x in ledger]}
+    else:
+     stage('video:'+digest(url),title,reason,name,url)
+     if '访问失败' in reason:failed_pages+=1
+   if failed_pages:
+    entry.update(status='partial',failed_candidate_pages=failed_pages,error='部分候选具体页面获取失败；未推进来源成功水位');runlog['errors'].append(name)
+   else:
+    entry.update(status='success',last_success=now());state['sources'][name]={'last_success':entry['last_success'],'last_directory_hashes':[x['sha256'] for x in ledger]}
   except Exception as exc:entry.update(status='failed',error=str(exc)[:1000],pagination_complete=False);runlog['errors'].append(name)
   runlog['sources'][name]=entry;print(name,entry['status'],entry.get('hits'),flush=True);write(ROOT/'reports/current-run.json',runlog)
  # Previously indexed papers must also be checked for later corrections/retractions.
@@ -200,8 +215,9 @@ def run(skip_links=False):
    for r in items:
     if failures>=3:
      results.append((r['id'],r['urls'][0]['url'],{'requested_url':r['urls'][0]['url'],'checked_at':now(),'status':None,'check_scope':'deferred-source-outage','page_state':'来源连续失败，暂停本轮该源请求；保留上一记录'}));continue
-    rid,url,c=one((r['id'],r['urls'][0]['url'],r['title']));results.append((rid,url,c))
-    if c.get('status')!=200:failures+=1
+    previous=next((c for c in reversed(r.get('page_checks',[])) if c.get('status') in (200,304) and c.get('sha256') and c.get('requested_url')==r['urls'][0]['url']),{})
+    rid,url,c=one((r['id'],r['urls'][0]['url'],r['title'],previous));results.append((rid,url,c))
+    if c.get('status') not in (200,304):failures+=1
    return results
   with ThreadPoolExecutor(max_workers=6) as pool:
    for f in as_completed([pool.submit(check_host,items) for items in hosts.values()]):
@@ -211,14 +227,21 @@ def run(skip_links=False):
      if previous and check.get('status')==200 and check.get('sha256')!=previous['sha256']:
       r['source_changed_since_note']=True;stage('page-change:'+rid+check['sha256'],r['title'],'主来源页面内容哈希变化，正文笔记保持原值，等待复核','link-audit',url)
      r.setdefault('page_checks',[]).append(check)
+     if r['kind']=='video' and check.get('status') in (200,304) and check.get('title_present') is True and not r.get('identity',{}).get('conflicts'):
+      r['identity']={**r['identity'],'status':'verified','checked_at':check['checked_at'],'source_url':url,'scope':'官方具体页面主资源题名对应；页面读取核实，未测试视频播放。'}
+      r['publication_status']='verified-index'
     print('primary links',len(runlog['primary_link_checks']),flush=True)
   runlog['link_audit_scope']={'attempted':sum(x.get('check_scope')!='deferred-source-outage' for x in runlog['primary_link_checks']),'deferred':sum(x.get('check_scope')=='deferred-source-outage' for x in runlog['primary_link_checks'])}
+  failed_links=sum(c.get('status') not in (200,304) or c.get('page_state')=='访问验证或限制页面' for c in runlog['primary_link_checks'])
+  runlog['sources']['Primary-links']={'status':'partial' if failed_links else 'success','hits':len(runlog['primary_link_checks']),'failed_or_deferred':failed_links,'added':0,'scope':runlog['link_audit_scope'],'last_success':state['sources'].get('Primary-links',{}).get('last_success')}
+  if failed_links:runlog['errors'].append('Primary-links');runlog['sources']['Primary-links']['error']='主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据'
+  else:state['sources']['Primary-links']={'last_success':now()};runlog['sources']['Primary-links']['last_success']=state['sources']['Primary-links']['last_success']
  validate_transition(old,candidate_records)
  snapshot=ROOT/'data/versions'/digest(json.dumps(old,ensure_ascii=False,sort_keys=True));snapshot.mkdir(parents=True,exist_ok=True)
  if not (snapshot/'records.json').exists():write(snapshot/'records.json',old)
  state['rotation']=(rot+1)%len(sections);write(ROOT/'data/records.json',candidate_records);write(ROOT/'data/review-queue.json',staged);write(ROOT/'data/update-state.json',state)
  runlog['finished_at']=now();runlog['outcome']='partial' if runlog['errors'] else 'success';status['sources']=runlog['sources'];status['last_attempt']=start;status['last_local_run']=runlog['finished_at'];status['last_outcome']=runlog['outcome'];status['last_attempt_status']=runlog['outcome'];status['last_counts']={'added':runlog['added'],'staged':runlog['staged'],'records':len(candidate_records)};status['last_errors']=[{'source':name,'reason':runlog['sources'].get(name,{}).get('error','来源复核未完成')} for name in runlog['errors']]
- if not runlog['errors']:status['last_success']=runlog['finished_at']
+ if not runlog['errors']:status['last_discovery_success']=runlog['finished_at']
  status.setdefault('deployed',False);status.setdefault('schedule_state','配置已生成，远程未验证');status['schedule_description']='每周一09:17 · Asia/Shanghai；复用既有维护时段'
  from zoneinfo import ZoneInfo
  t=datetime.datetime.now(ZoneInfo(cfg['timezone']));n=(t+datetime.timedelta(days=(7-t.weekday())%7)).replace(hour=9,minute=17,second=0,microsecond=0)

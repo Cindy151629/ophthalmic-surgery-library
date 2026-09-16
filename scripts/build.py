@@ -5,7 +5,7 @@ from copy import deepcopy
 import shutil
 
 PUBLIC_KEYS=['id','kind','title','aliases','seed_description','source','resource_type','year','language','section','procedures','cross_sections','doi','pmid','pmcid','authors','first_added_at','last_changed_at','identity','note','page_checks','fulltext','publication_status','video','corrections','scientific_status_checked_at','source_changed_since_note']
-CHECK_KEYS=['requested_url','final_url','checked_at','status','sha256','page_state','page_title','title_present','title_match_source','content_format','body_present']
+CHECK_KEYS=['requested_url','final_url','checked_at','status','sha256','page_state','page_title','title_present','title_match_source','content_format','body_present','etag','last_modified','check_scope']
 def public_record(r):
  d={k:deepcopy(r.get(k)) for k in PUBLIC_KEYS}
  d['page_checks']=[{k:c.get(k) for k in CHECK_KEYS if k in c} for c in r.get('page_checks',[])]

@@ -19,7 +19,7 @@ def safe_url(url):
  for item in socket.getaddrinfo(p.hostname,p.port or (443 if p.scheme=='https' else 80)):
   if not ipaddress.ip_address(item[4][0]).is_global:raise ValueError('private destination denied')
  return p.hostname
-def fetch(url,params=None,timeout=22,retries=2):
+def fetch(url,params=None,timeout=22,retries=2,conditional=None):
  if params:url+='&' if '?' in url else '?';url+=urllib.parse.urlencode(params) if params else ''
  initial=url;record={'requested_url':initial,'checked_at':now(),'attempts':[]}
  for attempt in range(retries+1):
@@ -30,7 +30,9 @@ def fetch(url,params=None,timeout=22,retries=2):
     with lock:
      time.sleep(max(0,.45-(time.monotonic()-_last.get(host,0))))
      if re.search(r'\.(mp4|m3u8|webm|mov|mp3)(?:$|\?)',url,re.I):raise ValueError('media download disabled')
-     r=requests.get(url,timeout=timeout,allow_redirects=False,stream=True,headers={'User-Agent':'Ophthalmic-Surgery-Library/1.0 (educational bibliography verification)'})
+     headers={'User-Agent':'Ophthalmic-Surgery-Library/1.0 (educational bibliography verification)'}
+     headers.update({k:v for k,v in (conditional or {}).items() if k in ('If-None-Match','If-Modified-Since') and isinstance(v,str)})
+     r=requests.get(url,timeout=timeout,allow_redirects=False,stream=True,headers=headers)
      ct=r.headers.get('content-type','').lower()
      if ct.startswith(('video/','audio/')) or 'mpegurl' in ct:
       r.close();raise ValueError('media download disabled')
@@ -44,6 +46,7 @@ def fetch(url,params=None,timeout=22,retries=2):
     if r.status_code in (301,302,303,307,308) and r.headers.get('Location'):url=urllib.parse.urljoin(url,r.headers['Location']);continue
     break
    record['attempts'].append({'status':r.status_code,'url':r.url});record.update(status=r.status_code,final_url=r.url,content_type=r.headers.get('content-type',''),bytes=len(r.content),sha256=digest(r.content))
+   record.update(etag=r.headers.get('etag'),last_modified=r.headers.get('last-modified'))
    if r.status_code in (429,500,502,503,504) and attempt<retries:time.sleep(min(8,2**(attempt+1)));continue
    return r,record
   except Exception as e:

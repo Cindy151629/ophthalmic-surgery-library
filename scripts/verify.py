@@ -6,8 +6,12 @@ from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 
 def one(item):
- rid,url,title=item
- resp,log=fetch(url,retries=1)
+ rid,url,title=item[:3];previous=item[3] if len(item)>3 else {}
+ conditional={k:previous[v] for k,v in [('If-None-Match','etag'),('If-Modified-Since','last_modified')] if previous.get(v)}
+ resp,log=fetch(url,retries=1,conditional=conditional)
+ if resp is not None and resp.status_code==304:
+  if not previous or not previous.get('sha256'):return rid,url,{**log,'page_state':'304但无既有身份依据，待复核'}
+  return rid,url,{**previous,**{k:v for k,v in log.items() if v is not None},'sha256':previous['sha256'],'page_state':'条件请求确认未修改；沿用上次页面身份核验','check_scope':'conditional-not-modified'}
  if resp is not None:
   log,body=parse_page_content(resp.content,title,log)
   dest=WORK/'page_cache';dest.mkdir(exist_ok=True)
