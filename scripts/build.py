@@ -3,6 +3,7 @@ from common import *
 from collections import Counter
 from copy import deepcopy
 import shutil
+from audit_notes import audit as audit_notes
 
 PUBLIC_KEYS=['id','kind','title','aliases','seed_description','source','resource_type','year','language','section','procedures','cross_sections','doi','pmid','pmcid','authors','first_added_at','last_changed_at','identity','note','page_checks','fulltext','publication_status','video','corrections','scientific_status_checked_at','source_changed_since_note']
 CHECK_KEYS=['requested_url','final_url','checked_at','status','sha256','page_state','page_title','title_present','title_match_source','content_format','body_present','etag','last_modified','check_scope']
@@ -29,13 +30,16 @@ def coverage(records,tax):
 def build():
  records=read(ROOT/'data/records.json',[])
  if not records:raise ValueError('empty database: refusing build')
+ notes_audit=audit_notes(records)
+ if notes_audit['errors']:raise ValueError('note audit failed: '+str(notes_audit['errors'][:5]))
+ write(ROOT/'reports/note-coverage.json',notes_audit)
  public=[public_record(r) for r in records];tax=read(ROOT/'config/taxonomy.json');status=read(ROOT/'data/status.json',{})
  version=digest(json.dumps(public,ensure_ascii=False,sort_keys=True));cov=coverage(public,tax);data={'records':public,'taxonomy':tax,'coverage':cov,'status':status,'deployment':read(ROOT/'config/deployment.json',{}),'version':version,'built_at':now(),'audit_summary':f"当前 {len(public)} 条去重资源；身份核验、详细阅读与播放测试分别计数。"}
  site=ROOT/'site';site.mkdir(exist_ok=True)
  raw=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
  html=(ROOT/'src/index.html').read_text().replace('/*STYLE*/',(ROOT/'src/style.css').read_text()).replace('/*SCRIPT*/',(ROOT/'src/app.js').read_text()).replace('/*DATA*/',raw)
  tmp=site/'index.html.tmp';tmp.write_text(html);tmp.replace(site/'index.html');shutil.copy2(site/'index.html',ROOT/'眼科手术阅读库.html');(site/'.nojekyll').write_text('')
- write(site/'records.json',public);write(site/'manifest.json',{'version':version,'built_at':data['built_at'],'records':len(records),'status':status});write(ROOT/'reports/coverage.json',cov)
- write(ROOT/'reports/build.json',{'at':now(),'version':version,'records':len(records),'kinds':dict(Counter(r['kind'] for r in records)),'note_scopes':dict(Counter(r.get('note',{}).get('scope') if r.get('note') else 'pending' for r in records if r['kind']=='literature')),'note_completion':dict(Counter(r.get('note',{}).get('completion') if r.get('note') else 'pending' for r in records if r['kind']=='literature')),'identities':dict(Counter(r['identity']['status'] for r in records)),'videos':dict(Counter(r['video']['playback'] for r in records if r['kind']=='video'))})
+ write(site/'note-audit.json',notes_audit);write(site/'records.json',public);write(site/'manifest.json',{'version':version,'built_at':data['built_at'],'records':len(records),'status':status,'notes':{k:notes_audit[k] for k in ['articles','with_note','completion','reading_scopes']}});write(ROOT/'reports/coverage.json',cov)
+ write(ROOT/'reports/build.json',{'at':now(),'version':version,'records':len(records),'kinds':dict(Counter(r['kind'] for r in records)),'note_scopes':dict(Counter(r.get('note',{}).get('scope') if r.get('note') else 'pending' for r in records if r['kind']=='literature')),'note_completion':notes_audit['completion'],'identities':dict(Counter(r['identity']['status'] for r in records)),'videos':dict(Counter(r['video']['playback'] for r in records if r['kind']=='video'))})
  print('built',len(records),version,flush=True)
 if __name__=='__main__':build()

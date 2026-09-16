@@ -1,0 +1,84 @@
+{
+  "checked_at": "2026-09-16T18:01:30.638680+00:00",
+  "remote_parent": "a2ecb6b7bd8303a059d0eb93b9efcf62739245a6",
+  "before": {
+    "articles": 961,
+    "with_note": 279,
+    "without_note": 682
+  },
+  "after": {
+    "articles": 961,
+    "with_note": 961,
+    "completion": {
+      "substantive": 924,
+      "limited": 30,
+      "pending": 7
+    },
+    "reading_scopes": {
+      "partial": 25,
+      "abstract": 667,
+      "fulltext": 262,
+      "metadata": 2,
+      "restricted": 5
+    },
+    "sections": {
+      "CAT": {
+        "substantive": 262,
+        "limited": 21,
+        "pending": 1
+      },
+      "CR": {
+        "substantive": 107
+      },
+      "GEN": {
+        "substantive": 97,
+        "limited": 5
+      },
+      "GL": {
+        "substantive": 175,
+        "limited": 3,
+        "pending": 4
+      },
+      "OCP": {
+        "substantive": 49,
+        "limited": 1,
+        "pending": 1
+      },
+      "PTO": {
+        "substantive": 59
+      },
+      "RET": {
+        "substantive": 175,
+        "pending": 1
+      }
+    },
+    "definition": "substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为待补证据或需复核，pending为未取得实质内容。"
+  },
+  "changed_notes": 954,
+  "new_notes": 682,
+  "reviewed_articles": 961,
+  "reviewed_existing_notes": 279,
+  "enhanced_existing_notes": 257,
+  "source_files": {
+    "notes-cat-completed.json": 180,
+    "notes-cat-enhanced.json": 44,
+    "notes-gl_gen-completed.json": 170,
+    "notes-gl_gen-enhanced.json": 94,
+    "notes-ret_cornea-completed.json": 170,
+    "notes-ret_cornea-enhanced.json": 60,
+    "notes-main-completed.json": 162,
+    "notes-main-enhanced.json": 37,
+    "notes-root-gl-enhanced.json": 21,
+    "notes-root-cat-enhanced.json": 23
+  },
+  "preservation": {
+    "previous_resources": 1251,
+    "current_resources": 1251,
+    "resources_preserved": true,
+    "authored_notes_present": 961,
+    "checked_at": "2026-09-16T18:01:31.111532+00:00"
+  },
+  "videos_unchanged": true,
+  "original_aliases_preserved": true,
+  "scope": "逐篇阅读来源并写作；取得正文不等于阅读全文，摘要和正文层次分别计数。"
+}

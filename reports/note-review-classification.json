@@ -1,0 +1,76 @@
+[
+  {
+    "id": "eye-a-558ed4c3c449",
+    "before": {
+      "section": "GL",
+      "procedures": [
+        "migs"
+      ]
+    },
+    "after": {
+      "section": "RET",
+      "procedures": [
+        "ret-general"
+      ]
+    },
+    "reason": "胰肾移植后糖尿病视网膜病变随访为全身病背景，非MIGS",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/41227173/"
+  },
+  {
+    "id": "eye-a-0b6d41e7f191",
+    "before": {
+      "section": "GL",
+      "procedures": [
+        "cyclo",
+        "lasik",
+        "smile"
+      ]
+    },
+    "after": {
+      "section": "CR",
+      "procedures": [
+        "lasik",
+        "smile"
+      ]
+    },
+    "reason": "LASIK/SMILE比较；cyclotorsion不是睫状体治疗",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/42678560/"
+  },
+  {
+    "id": "eye-a-24895ccb986e",
+    "before": {
+      "section": "GL",
+      "procedures": [
+        "cyclo",
+        "lasik"
+      ]
+    },
+    "after": {
+      "section": "CR",
+      "procedures": [
+        "lasik"
+      ]
+    },
+    "reason": "远视LASIK眼球旋转补偿，非睫状体治疗",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/41914646/"
+  },
+  {
+    "id": "eye-a-83c1110f6e7c",
+    "before": {
+      "section": "GL",
+      "procedures": [
+        "tube",
+        "endothelial"
+      ]
+    },
+    "after": {
+      "section": "CR",
+      "procedures": [
+        "endothelial",
+        "tube"
+      ]
+    },
+    "reason": "既往Ahmed植入眼的DSAEK/DMEK比较；主类为内皮移植",
+    "source": "https://pubmed.ncbi.nlm.nih.gov/41770808/"
+  }
+]
