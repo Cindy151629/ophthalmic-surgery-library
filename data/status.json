@@ -1,5 +1,5 @@
 {
-  "last_attempt": "2026-09-16T15:33:01.178297+00:00",
+  "last_attempt": "2026-09-16T15:59:47.670583+00:00",
   "last_outcome": "partial",
   "deployed": false,
   "schedule_state": "配置已生成，远程未验证",
@@ -273,5 +273,8 @@
   },
   "last_local_run": "2026-09-16T15:44:10.763911+00:00",
   "schedule_description": "每周一09:17 · Asia/Shanghai；复用既有维护时段",
-  "next_run": "2026-09-21T09:17:00+08:00"
+  "next_run": "2026-09-21T09:17:00+08:00",
+  "last_attempt_status": "running",
+  "last_counts": {},
+  "last_errors": []
 }

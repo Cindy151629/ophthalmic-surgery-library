@@ -1,0 +1,17 @@
+{
+  "domain_id": "ophthalmic-surgery",
+  "schema_version": 1,
+  "status": "running",
+  "started_at": "2026-09-16T15:59:47.670583+00:00",
+  "finished_at": null,
+  "event": "workflow_dispatch",
+  "run_id": "35118990819",
+  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35118990819",
+  "observed_scheduled_run": null,
+  "steps": {},
+  "rollback": {
+    "status": "not_checked"
+  },
+  "last_errors": [],
+  "last_counts": {}
+}
