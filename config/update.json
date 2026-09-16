@@ -1,0 +1,51 @@
+{
+  "timezone": "Asia/Shanghai",
+  "schedule": "17 9 * * 1",
+  "schedule_reason": "复用现有阅读库每周一 01:17 UTC 的维护时段；Asia/Shanghai 无夏令时，等价于北京时间09:17。",
+  "overlap_days": 30,
+  "overdue_days": 10,
+  "page_size": 500,
+  "max_pages_per_source": 100,
+  "historical_rotation_days": 365,
+  "historical_initial_end": "2026-08-17",
+  "article_queries": {
+    "CAT": "(TITLE_ABS:\"phacoemulsification\" OR TITLE_ABS:\"cataract surgery\" OR TITLE_ABS:\"intraocular lens implantation\" OR TITLE_ABS:\"MSICS\" OR TITLE_ABS:\"capsular tension ring\")",
+    "RET": "(TITLE_ABS:\"vitrectomy\" OR TITLE_ABS:\"scleral buckling\" OR TITLE_ABS:\"pneumatic retinopexy\" OR TITLE_ABS:\"macular hole surgery\" OR TITLE_ABS:\"epiretinal membrane peeling\" OR TITLE_ABS:\"submacular hemorrhage\" OR TITLE_ABS:\"subretinal delivery\" OR TITLE_ABS:\"silicone oil removal\" OR TITLE_ABS:\"proliferative vitreoretinopathy\")",
+    "GL": "(TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")",
+    "CR": "(TITLE_ABS:\"keratoplasty\" OR TITLE_ABS:\"DMEK\" OR TITLE_ABS:\"DSAEK\" OR TITLE_ABS:\"DALK\" OR TITLE_ABS:\"limbal stem cell transplantation\" OR TITLE_ABS:\"pterygium surgery\" OR TITLE_ABS:\"corneal perforation\" OR TITLE_ABS:\"corneal cross-linking\" OR TITLE_ABS:\"intracorneal ring\" OR TITLE_ABS:\"LASIK\" OR TITLE_ABS:\"photorefractive keratectomy\" OR TITLE_ABS:\"small incision lenticule extraction\" OR TITLE_ABS:\"implantable collamer lens\")",
+    "OCP": "(TITLE_ABS:\"blepharoptosis surgery\" OR TITLE_ABS:\"blepharoplasty\" OR TITLE_ABS:\"eyelid reconstruction\" OR TITLE_ABS:\"entropion surgery\" OR TITLE_ABS:\"ectropion surgery\" OR TITLE_ABS:\"dacryocystorhinostomy\" OR TITLE_ABS:\"canalicular laceration\" OR TITLE_ABS:\"orbital decompression\" OR TITLE_ABS:\"orbital fracture surgery\" OR TITLE_ABS:\"evisceration\" OR TITLE_ABS:\"anophthalmic socket\")",
+    "PTO": "(TITLE_ABS:\"strabismus surgery\" OR TITLE_ABS:\"rectus transposition\" OR TITLE_ABS:\"pediatric cataract surgery\" OR TITLE_ABS:\"congenital glaucoma surgery\" OR TITLE_ABS:\"retinopathy of prematurity vitrectomy\" OR TITLE_ABS:\"open globe repair\" OR TITLE_ABS:\"intraocular foreign body\" OR TITLE_ABS:\"uveal melanoma biopsy\" OR TITLE_ABS:\"conjunctival melanoma surgery\" OR TITLE_ABS:\"retinoblastoma enucleation\" OR TITLE_ABS:\"ocular surface squamous neoplasia\")",
+    "GEN": "((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))"
+  },
+  "video_sources": [
+    {
+      "id": "Moran",
+      "url": "https://morancore.utah.edu/section-14-ophthalmic-surgery/",
+      "host": "morancore.utah.edu",
+      "mode": "directory",
+      "article_selector": "a[href]",
+      "allowed_path": "^/section-|^/basic-ophthalmology-review/",
+      "title_selector": "h2"
+    },
+    {
+      "id": "Cybersight",
+      "url": "https://cybersight.org/library/",
+      "host": "cybersight.org",
+      "mode": "wordpress",
+      "article_selector": "a[href]",
+      "allowed_path": "^/library/(?:surgery|lecture|webinar|手术|讲座)[^/]+/?$",
+      "title_selector": "h1",
+      "api": "https://cybersight.org/wp-json/wp/v2/library"
+    },
+    {
+      "id": "EyeRounds",
+      "url": "https://webeye.ophth.uiowa.edu/eyeforum/video/",
+      "host": "webeye.ophth.uiowa.edu",
+      "mode": "directory",
+      "article_selector": "a[href]",
+      "allowed_path": "/atlas-video/|/video/[^/]+\\.htm",
+      "title_selector": "h1,h2"
+    }
+  ],
+  "policy": "仅自动加入已由原始来源匹配身份及分类的题录或具体视频页。新增文献未具实质笔记时明确显示待阅读；临床摘要、正文笔记及高风险配对不自动生成。来源失败不删除旧数据。"
+}

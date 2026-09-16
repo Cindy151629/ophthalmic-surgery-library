@@ -1,0 +1,114 @@
+name: Ophthalmic weekly discovery and publication
+on:
+  schedule:
+    - cron: '17 9 * * 1'
+      timezone: Asia/Shanghai
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: read
+  pages: write
+  id-token: write
+concurrency:
+  group: ophthalmic-cumulative-update
+  cancel-in-progress: false
+jobs:
+  update-publish:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Use private temporary storage for fetched source text
+        run: echo "OPHTH_WORK_DIR=$RUNNER_TEMP/ophthalmic-evidence" >> "$GITHUB_ENV"
+      - name: Check exact publication target and approved scope
+        run: python scripts/cloud_recovery.py authorize
+      - name: Record real remote start
+        id: started
+        run: python scripts/cloud_recovery.py start
+      - name: Persist start before network work
+        id: start_saved
+        run: python scripts/cloud_recovery.py persist
+      - name: Install deterministic updater dependencies
+        id: dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Restore previous verified artifact for recovery
+        id: recovery
+        run: python scripts/cloud_recovery.py restore --directory previous-site
+      - name: Discover, verify, deduplicate, preserve notes, and build
+        id: update
+        timeout-minutes: 90
+        run: python scripts/update.py
+      - name: Test data safety, source outages, and identity boundaries
+        id: tests
+        run: python -m unittest discover -s tests -v
+      - uses: actions/configure-pages@v5
+        id: pages_config
+      - uses: actions/upload-pages-artifact@v3
+        id: upload
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
+        id: deployment
+      - name: Independently verify the actual HTTPS bytes
+        id: verification
+        env:
+          DEPLOYED_URL: ${{ steps.deployment.outputs.page_url }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/deploy_check.py --url "$DEPLOYED_URL" --expected-dir site
+      - name: Pin externally verified artifact
+        id: pin
+        run: python scripts/cloud_recovery.py pin --directory site
+      - name: Upload previous verified artifact if deployment validation failed
+        if: always() && steps.recovery.outputs.available == 'true' && (steps.deployment.outcome == 'failure' || steps.verification.outcome == 'failure')
+        id: recovery_upload
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: ophthalmic-recovery
+          path: previous-site
+      - name: Restore previous verified publication
+        if: always() && steps.recovery_upload.outcome == 'success'
+        id: rollback
+        uses: actions/deploy-pages@v4
+        with:
+          artifact_name: ophthalmic-recovery
+      - name: Verify the recovered HTTPS artifact
+        if: always() && steps.rollback.outcome == 'success'
+        id: rollback_check
+        env:
+          DEPLOYED_URL: ${{ steps.rollback.outputs.page_url }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/deploy_check.py --url "$DEPLOYED_URL" --expected-dir previous-site --rollback
+      - name: Record final outcome separately from source watermarks
+        if: always() && steps.started.outcome == 'success'
+        env:
+          OPHTH_STEP_RESULTS: ${{ toJSON(steps) }}
+        run: python scripts/cloud_recovery.py finish
+      - name: Persist cumulative records and actual run outcome
+        if: always() && steps.started.outcome == 'success'
+        id: persisted
+        run: python scripts/cloud_recovery.py persist
+      - name: Record persistence failure in the retained run evidence
+        if: always() && steps.started.outcome == 'success' && steps.persisted.outcome == 'failure'
+        env:
+          OPHTH_STEP_RESULTS: ${{ toJSON(steps) }}
+        run: python scripts/cloud_recovery.py finish
+      - name: Retain public run evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ophthalmic-run-${{ github.run_id }}
+          path: |
+            data/runtime-status.json
+            data/publication-status.json
+            reports/current-run.json
+            reports/deployment-verification.json
+            reports/runs/*.json
+          retention-days: 90

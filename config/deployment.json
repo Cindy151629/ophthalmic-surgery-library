@@ -1,0 +1,10 @@
+{
+  "repository": "Cindy151629/ophthalmic-surgery-library",
+  "public_scope_approved": true,
+  "public_scope": "用户授权的眼科手术资源索引、为本网页撰写的来源受限阅读笔记、核验状态与汇总运行记录。排除原文缓存、私人批注、原始Word文件、账户信息与本地路径。",
+  "https_base_url": "https://cindy151629.github.io/ophthalmic-surgery-library/",
+  "status_url": "https://raw.githubusercontent.com/Cindy151629/ophthalmic-surgery-library/main/data/publication-status.json",
+  "runtime_status_url": "https://raw.githubusercontent.com/Cindy151629/ophthalmic-surgery-library/main/data/runtime-status.json",
+  "schedule_timezone": "Asia/Shanghai",
+  "schedule_state": "not-yet-deployed"
+}

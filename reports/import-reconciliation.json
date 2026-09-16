@@ -1,0 +1,3449 @@
+{
+  "at": "2026-09-16T14:58:52.430781+00:00",
+  "inputs": {
+    "expanded": 432,
+    "original": 177
+  },
+  "input_rows": 609,
+  "canonical_records": 562,
+  "kind_counts": {
+    "literature": 279,
+    "video": 283
+  },
+  "dispositions": {
+    "imported-pending": 562,
+    "merged": 47
+  },
+  "same_label_different_identity": {
+    "CAT-V01": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-cc7458a4092d",
+        "title": "Cataract Surgery: Phacoemulsification – A Complete Case"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-634594c8ff1c",
+        "title": "Basic Cataract Surgery. Great Third Year Case"
+      }
+    ],
+    "CAT-V02": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-150a2d65998c",
+        "title": "Phacoemulsification: Manual Capsulorrhexis"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-8faf993511b5",
+        "title": "Learning Phaco Chop Step By Step"
+      }
+    ],
+    "CAT-V03": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-44fff36fd38c",
+        "title": "Phacoemulsification: Hydrodissection and Nuclear Removal"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-58101081b1d2",
+        "title": "The Little Technique"
+      }
+    ],
+    "CAT-V04": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-9dbed17d3db9",
+        "title": "Double Chop and Cross Chop"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-86b734696eee",
+        "title": "Radial Rhexis Recovery: Radial Tear With Single Piece IOL In Bag"
+      }
+    ],
+    "CAT-V05": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-2cad3573ae43",
+        "title": "Small Incision Manual Cataract Surgery"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-a14731209c17",
+        "title": "Stop N Chop Some Teaching Points"
+      }
+    ],
+    "CAT-V06": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-ee6863579f96",
+        "title": "Femtosecond Laser Assisted Cataract Surgery Technique"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-6532da110ab6",
+        "title": "Secondary Anterior Chamber Intraocular Lens"
+      }
+    ],
+    "CAT-V07": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-1267c1fbd665",
+        "title": "Phacoemulsification: Malyugin Ring Insertion and Removal"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-862aab1d55ef",
+        "title": "Surgery: Cataract Surgery Compilation Video: Teaching Pearls from the Moran Eye Institute"
+      }
+    ],
+    "CAT-V08": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-190b8b87fd47",
+        "title": "How to Insert a Capsular Tension Ring"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-67db0f003a8e",
+        "title": "Live Surgical Demonstration: Complex Cataract Surgeries"
+      }
+    ],
+    "CAT-V09": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-5cadfee92911",
+        "title": "Yamane Intraocular Lens Fixation in a Patient with a Large Iris Defect"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-26dd952eb985",
+        "title": "Live Surgical Demo: Surgical Management of Dislocated Intra-ocular Lens (IOL)"
+      }
+    ],
+    "CAT-V10": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-08497b602839",
+        "title": "IOL Exchange and Reposition"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-530dff78a979",
+        "title": "Lecture: Visualizing Cataract Surgery & Techniques: A Step-by-Step Surgical Walkthrough"
+      }
+    ],
+    "RET-V01": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-ade4cef08f8e",
+        "title": "Live Surgical Demonstration: The Basics of Vitrectomy Surgery (Part I)"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-7dbefae1dbf6",
+        "title": "Cryotherapy for Retinal Tears and Detachment"
+      }
+    ],
+    "RET-V02": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-dd5974a26a87",
+        "title": "Surgery: Live Surgical Demonstration: Basics of Macular Hole Surgery"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-fc07884efc72",
+        "title": "Epiretinal Membrane Peel"
+      }
+    ],
+    "RET-V03": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-9b5cdbd5080a",
+        "title": "Surgery: The 21st Century Scleral Buckle: Heads up with a Chandelier"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-ad95e2660584",
+        "title": "Intravitreal Injection Technique: a primer"
+      }
+    ],
+    "RET-V04": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-446b7672096c",
+        "title": "Lecture: Surgery for Retinal Detachment"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-6544c2a9ed6b",
+        "title": "Retinal Detachment"
+      }
+    ],
+    "RET-V05": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-d502ffc0ac0f",
+        "title": "Simulated Surgery: Retinal Buckling: Placing the Sutures for a Scleral Buckle"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-2b4d24d95788",
+        "title": "Vitreous Surgery"
+      }
+    ],
+    "RET-V06": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-a8768141f069",
+        "title": "Surgery: Vitrectomy in Tractional Retinal Detachment"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-6fa9f13c9fba",
+        "title": "Vitrectomy with Internal Limiting Membrane Peel for Idiopathic Macular Hole"
+      }
+    ],
+    "RET-V07": [
+      {
+        "edition": "expanded",
+        "canonical_id": "eye-v-864a41040477",
+        "title": "Live Surgical Demo: Fundamentals of Macular Surgery"
+      },
+      {
+        "edition": "original",
+        "canonical_id": "eye-v-108098eda902",
+        "title": "Surgery: Live Surgical Demonstration: Vitreoretinal"
+      }
+    ]
+  },
+  "rows": [
+    {
+      "source_key": "expanded:CAT-A01",
+      "canonical_id": "eye-a-8f6562ca2534",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A02",
+      "canonical_id": "eye-a-f6273c4f9014",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A03",
+      "canonical_id": "eye-a-fdfdfea50ea6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A04",
+      "canonical_id": "eye-a-e571c8ce68c2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A05",
+      "canonical_id": "eye-a-82271e0f3a56",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A06",
+      "canonical_id": "eye-a-1d35c2f1052c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A07",
+      "canonical_id": "eye-a-d78c35f3bd01",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A08",
+      "canonical_id": "eye-a-16c522ea0a8a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A09",
+      "canonical_id": "eye-a-2ec7a7eba8ac",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A10",
+      "canonical_id": "eye-a-8de6c3f93a09",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A11",
+      "canonical_id": "eye-a-6ca9a0376019",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A12",
+      "canonical_id": "eye-a-078ac3456f24",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A13",
+      "canonical_id": "eye-a-0dbe5a15894c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A14",
+      "canonical_id": "eye-a-c5e3d69c93b9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A15",
+      "canonical_id": "eye-a-08fdb3b6678c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A16",
+      "canonical_id": "eye-a-6ef76adca97d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A17",
+      "canonical_id": "eye-a-b068ef175852",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A18",
+      "canonical_id": "eye-a-baae821be006",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A19",
+      "canonical_id": "eye-a-58e32be0be53",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A20",
+      "canonical_id": "eye-a-1c6ae3e4ff94",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A21",
+      "canonical_id": "eye-a-b5fb8571973c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A22",
+      "canonical_id": "eye-a-0e557253e11f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A23",
+      "canonical_id": "eye-a-65e91bede613",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A24",
+      "canonical_id": "eye-a-bc9acfbb6b57",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A25",
+      "canonical_id": "eye-a-20e47e09edea",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A26",
+      "canonical_id": "eye-a-41418762c7e4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A27",
+      "canonical_id": "eye-a-368cf3a3944e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A28",
+      "canonical_id": "eye-a-fb1b09f15423",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A29",
+      "canonical_id": "eye-a-2a39a42ab57b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A30",
+      "canonical_id": "eye-a-7c99eb961c83",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A31",
+      "canonical_id": "eye-a-cbf38d099465",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-A32",
+      "canonical_id": "eye-a-5ddc3b9d9297",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V01",
+      "canonical_id": "eye-v-cc7458a4092d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V02",
+      "canonical_id": "eye-v-150a2d65998c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V03",
+      "canonical_id": "eye-v-44fff36fd38c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V04",
+      "canonical_id": "eye-v-9dbed17d3db9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V05",
+      "canonical_id": "eye-v-2cad3573ae43",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V06",
+      "canonical_id": "eye-v-ee6863579f96",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V07",
+      "canonical_id": "eye-v-1267c1fbd665",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V08",
+      "canonical_id": "eye-v-190b8b87fd47",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V09",
+      "canonical_id": "eye-v-5cadfee92911",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V10",
+      "canonical_id": "eye-v-08497b602839",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V11",
+      "canonical_id": "eye-v-b4d548c7f650",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V12",
+      "canonical_id": "eye-v-15b37c22faf9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V13",
+      "canonical_id": "eye-v-206d2c8b8ef6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V14",
+      "canonical_id": "eye-v-deed5e7d99b0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V15",
+      "canonical_id": "eye-v-616549f04325",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V16",
+      "canonical_id": "eye-v-851083dbfce8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V17",
+      "canonical_id": "eye-v-f0114cec5741",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V18",
+      "canonical_id": "eye-v-5e29c7df5fd0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V19",
+      "canonical_id": "eye-v-40a1726d3c17",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V20",
+      "canonical_id": "eye-v-5348c68fbce4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V21",
+      "canonical_id": "eye-v-55c3f2a73e9a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V22",
+      "canonical_id": "eye-v-3260010f6c47",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V23",
+      "canonical_id": "eye-v-530dff78a979",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V24",
+      "canonical_id": "eye-v-a9e64a6a1036",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V25",
+      "canonical_id": "eye-v-f728eec7952e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CAT-V26",
+      "canonical_id": "eye-v-6ff4d8c49053",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A01",
+      "canonical_id": "eye-a-a6530b5ebd95",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A02",
+      "canonical_id": "eye-a-9541bcb940fd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A03",
+      "canonical_id": "eye-a-e8c352d21bf3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A04",
+      "canonical_id": "eye-a-1c4050b25db0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A05",
+      "canonical_id": "eye-a-1a952bb5c817",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A06",
+      "canonical_id": "eye-a-16a31b77d45f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A07",
+      "canonical_id": "eye-a-237b68ef7959",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A08",
+      "canonical_id": "eye-a-8d4e1094f1a1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A09",
+      "canonical_id": "eye-a-0477b6836b35",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A10",
+      "canonical_id": "eye-a-e0ffea9bd68c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A11",
+      "canonical_id": "eye-a-111a4c3ecdfb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A12",
+      "canonical_id": "eye-a-0f9fbb278f88",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A13",
+      "canonical_id": "eye-a-e07fe5d757dd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A14",
+      "canonical_id": "eye-a-63fc22b97a94",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A15",
+      "canonical_id": "eye-a-6a6571bc4ae3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A16",
+      "canonical_id": "eye-a-33a597eb4b6f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A17",
+      "canonical_id": "eye-a-58231c7a4754",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A18",
+      "canonical_id": "eye-a-edae58996958",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A19",
+      "canonical_id": "eye-a-071c45da89c0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A20",
+      "canonical_id": "eye-a-f47de397f16e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A21",
+      "canonical_id": "eye-a-6947bb50aea5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A22",
+      "canonical_id": "eye-a-d0807e24b5ca",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A23",
+      "canonical_id": "eye-a-4fa55ae6f477",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A24",
+      "canonical_id": "eye-a-aa875e98eea8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A25",
+      "canonical_id": "eye-a-25da3adce00b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A26",
+      "canonical_id": "eye-a-7da39e3dbf52",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A27",
+      "canonical_id": "eye-a-ed18568870b4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A28",
+      "canonical_id": "eye-a-b94fe3f41ad2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A29",
+      "canonical_id": "eye-a-5eab39f0250f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A30",
+      "canonical_id": "eye-a-5bfacb350f9b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A31",
+      "canonical_id": "eye-a-bcd9a27efeff",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A32",
+      "canonical_id": "eye-a-49c12d446898",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A33",
+      "canonical_id": "eye-a-07ecf415336b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A34",
+      "canonical_id": "eye-a-10ef318cb99b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A35",
+      "canonical_id": "eye-a-214b73e2ad0d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A36",
+      "canonical_id": "eye-a-9f4bdb17bbbb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A37",
+      "canonical_id": "eye-a-4cb6b6a100c4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A38",
+      "canonical_id": "eye-a-f679efa15887",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A39",
+      "canonical_id": "eye-a-c202b619c7d0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A40",
+      "canonical_id": "eye-a-6c142ee3e724",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A41",
+      "canonical_id": "eye-a-c4f35121a86c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-A42",
+      "canonical_id": "eye-a-198e9443ef77",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V01",
+      "canonical_id": "eye-v-ade4cef08f8e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V02",
+      "canonical_id": "eye-v-dd5974a26a87",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V03",
+      "canonical_id": "eye-v-9b5cdbd5080a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V04",
+      "canonical_id": "eye-v-446b7672096c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V05",
+      "canonical_id": "eye-v-d502ffc0ac0f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V06",
+      "canonical_id": "eye-v-a8768141f069",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V07",
+      "canonical_id": "eye-v-864a41040477",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V08",
+      "canonical_id": "eye-v-ecad29c834e2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V09",
+      "canonical_id": "eye-v-83016ec352b2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V10",
+      "canonical_id": "eye-v-795f4e14ac31",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V11",
+      "canonical_id": "eye-v-449ea1418025",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V12",
+      "canonical_id": "eye-v-994a69c86b1d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V13",
+      "canonical_id": "eye-v-4de7e66399bb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V14",
+      "canonical_id": "eye-v-22ba43b50d72",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V15",
+      "canonical_id": "eye-v-3dd713005ea4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V16",
+      "canonical_id": "eye-v-cc41776b09e2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V17",
+      "canonical_id": "eye-v-62d57038b0fe",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V18",
+      "canonical_id": "eye-v-59bfccaf3460",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V19",
+      "canonical_id": "eye-v-f88f9119104b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V20",
+      "canonical_id": "eye-v-99c6634e05ea",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V21",
+      "canonical_id": "eye-v-6737cd7007a2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V22",
+      "canonical_id": "eye-v-4420b2785868",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V23",
+      "canonical_id": "eye-v-1e998461a8fc",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V24",
+      "canonical_id": "eye-v-2c43ad279378",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V25",
+      "canonical_id": "eye-v-bb1fc04f3322",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V26",
+      "canonical_id": "eye-v-5cc67699efc5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V27",
+      "canonical_id": "eye-v-30d4d2bbf675",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V28",
+      "canonical_id": "eye-v-f83801915854",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V29",
+      "canonical_id": "eye-v-79f9cd71cfa8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:RET-V30",
+      "canonical_id": "eye-v-9bd72582ecb1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A01",
+      "canonical_id": "eye-a-8696159425f9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A02",
+      "canonical_id": "eye-a-00c81e526948",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A03",
+      "canonical_id": "eye-a-a14259e6f14f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A04",
+      "canonical_id": "eye-a-b4fdeb244c1a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A05",
+      "canonical_id": "eye-a-ebc3032fcf7a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A06",
+      "canonical_id": "eye-a-3ba08161b8c4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A07",
+      "canonical_id": "eye-a-77bf8013c75e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A08",
+      "canonical_id": "eye-a-1afbc4f25ccb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A09",
+      "canonical_id": "eye-a-772eae3a6f39",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A10",
+      "canonical_id": "eye-a-dbe85e82c19a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A11",
+      "canonical_id": "eye-a-54d31d60eeee",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A12",
+      "canonical_id": "eye-a-9676566bd8c2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A13",
+      "canonical_id": "eye-a-6ef84b4f8451",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A14",
+      "canonical_id": "eye-a-447e6c46e29c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A15",
+      "canonical_id": "eye-a-d747deb75c97",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A16",
+      "canonical_id": "eye-a-51896d363a35",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A17",
+      "canonical_id": "eye-a-ef761fe792c5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A18",
+      "canonical_id": "eye-a-6297a1aa5032",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A19",
+      "canonical_id": "eye-a-8266c964f4fe",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A20",
+      "canonical_id": "eye-a-d33c2e00e0c6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A21",
+      "canonical_id": "eye-a-208ef83df3e3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A22",
+      "canonical_id": "eye-a-170b14fc3af8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A23",
+      "canonical_id": "eye-a-7b5a41b89a06",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A24",
+      "canonical_id": "eye-a-fb383ab08150",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A25",
+      "canonical_id": "eye-a-006d17fa675f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A26",
+      "canonical_id": "eye-a-4de6e74c21f7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A27",
+      "canonical_id": "eye-a-bbbe5900fff2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A28",
+      "canonical_id": "eye-a-94b351e9bde7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A29",
+      "canonical_id": "eye-a-fc24a48a7571",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A30",
+      "canonical_id": "eye-a-3a61e9760ecd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A31",
+      "canonical_id": "eye-a-1467426a336f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A32",
+      "canonical_id": "eye-a-6410364a5da5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-A33",
+      "canonical_id": "eye-a-1d2a81b9a8ea",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V01",
+      "canonical_id": "eye-v-34ef8c0c36a3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V02",
+      "canonical_id": "eye-v-f679d925c5c1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V03",
+      "canonical_id": "eye-v-096750e51cc4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V04",
+      "canonical_id": "eye-v-9dcd8b791ad7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V05",
+      "canonical_id": "eye-v-e63e0f1a1f19",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V06",
+      "canonical_id": "eye-v-0f350c1c74c9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V07",
+      "canonical_id": "eye-v-44d8e7460635",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V08",
+      "canonical_id": "eye-v-2b51d0074510",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V09",
+      "canonical_id": "eye-v-dccc62d8cc9e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V10",
+      "canonical_id": "eye-v-299fd5592d2b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V11",
+      "canonical_id": "eye-v-e18454810ea1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V12",
+      "canonical_id": "eye-v-0c858d8f1853",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V13",
+      "canonical_id": "eye-v-96c8f2a79c9f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V14",
+      "canonical_id": "eye-v-060b703ffd26",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V15",
+      "canonical_id": "eye-v-6b15ac9a2b32",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V16",
+      "canonical_id": "eye-v-85d3a8a3340a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V17",
+      "canonical_id": "eye-v-359b97a9faf6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V18",
+      "canonical_id": "eye-v-b2420cb9f33d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V19",
+      "canonical_id": "eye-v-9cdcac2c6bd8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V20",
+      "canonical_id": "eye-v-8c9fde9d5fd7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V21",
+      "canonical_id": "eye-v-9b8cd9615bca",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V22",
+      "canonical_id": "eye-v-39b9d16a384e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V23",
+      "canonical_id": "eye-v-3bd7574374af",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V24",
+      "canonical_id": "eye-v-324c46c8f4d5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V25",
+      "canonical_id": "eye-v-5ed1aed6d65e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V26",
+      "canonical_id": "eye-v-1393fcb7eb03",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V27",
+      "canonical_id": "eye-v-56485db96c0f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V28",
+      "canonical_id": "eye-v-f9c6becddeb1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V29",
+      "canonical_id": "eye-v-f10edce92ce2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GL-V30",
+      "canonical_id": "eye-v-67faee58c1d4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A001",
+      "canonical_id": "eye-a-ee6c1f4a679e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A002",
+      "canonical_id": "eye-a-b13ae97837d1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A003",
+      "canonical_id": "eye-a-6379b435651c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A004",
+      "canonical_id": "eye-a-7e6ce9dc91fd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A005",
+      "canonical_id": "eye-a-4e5e6e2af1a3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A006",
+      "canonical_id": "eye-a-a71eac04e2f7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A007",
+      "canonical_id": "eye-a-5537c689b257",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A008",
+      "canonical_id": "eye-a-c802555373da",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A009",
+      "canonical_id": "eye-a-d731b2630d35",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A010",
+      "canonical_id": "eye-a-e6e3e8207982",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A011",
+      "canonical_id": "eye-a-b83dd85379ff",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A012",
+      "canonical_id": "eye-a-d3f11cf34395",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A013",
+      "canonical_id": "eye-a-46eae6bcd600",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A014",
+      "canonical_id": "eye-a-429ca9a332be",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A015",
+      "canonical_id": "eye-a-ab4a8afb27f2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A016",
+      "canonical_id": "eye-a-7dee436d7555",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A017",
+      "canonical_id": "eye-a-c6de1f786ade",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A018",
+      "canonical_id": "eye-a-4d91a42f58a8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A019",
+      "canonical_id": "eye-a-4c4a2623c356",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A020",
+      "canonical_id": "eye-a-730cb5ac69ec",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A021",
+      "canonical_id": "eye-a-9960c5cdd427",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A022",
+      "canonical_id": "eye-a-e6a694d25f32",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A023",
+      "canonical_id": "eye-a-8632fcc77f6b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A024",
+      "canonical_id": "eye-a-b1501721c1cb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A025",
+      "canonical_id": "eye-a-90bb4f8bf253",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A026",
+      "canonical_id": "eye-a-e89b0f8d259f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A027",
+      "canonical_id": "eye-a-f23cf042ff6e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A028",
+      "canonical_id": "eye-a-f72e7928a273",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A029",
+      "canonical_id": "eye-a-6e7c90318658",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A030",
+      "canonical_id": "eye-a-5fbb02971a97",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A031",
+      "canonical_id": "eye-a-9bd1cc8b1db9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A032",
+      "canonical_id": "eye-a-ad7d1a2d69a2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A033",
+      "canonical_id": "eye-a-929b74d02d13",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A034",
+      "canonical_id": "eye-a-cabbccbf18e0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A035",
+      "canonical_id": "eye-a-4f0864a8ac93",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A036",
+      "canonical_id": "eye-a-73a2567e2394",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A037",
+      "canonical_id": "eye-a-1ef93f0c8136",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A038",
+      "canonical_id": "eye-a-524e664a2440",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A039",
+      "canonical_id": "eye-a-157b21901d40",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A040",
+      "canonical_id": "eye-a-2302fd1a0a33",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A041",
+      "canonical_id": "eye-a-b319c78c493d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A042",
+      "canonical_id": "eye-a-41a7f86c5139",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-A043",
+      "canonical_id": "eye-a-1fd8f6abb15e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V001",
+      "canonical_id": "eye-v-d8a9bcd77c95",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V002",
+      "canonical_id": "eye-v-5d10e34fad1e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V003",
+      "canonical_id": "eye-v-3738684c0a44",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V004",
+      "canonical_id": "eye-v-97a28ccbcdc4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V005",
+      "canonical_id": "eye-v-23166791a8c9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V006",
+      "canonical_id": "eye-v-8ca274caaf6c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V007",
+      "canonical_id": "eye-v-80adb264663c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V008",
+      "canonical_id": "eye-v-6ea699470cab",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V009",
+      "canonical_id": "eye-v-b24ba3558848",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V010",
+      "canonical_id": "eye-v-39c607ca6165",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V011",
+      "canonical_id": "eye-v-bf75a88e75f3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V012",
+      "canonical_id": "eye-v-48e6a5257016",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V013",
+      "canonical_id": "eye-v-e95a3a27c671",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V014",
+      "canonical_id": "eye-v-2a1ca1ec3ac3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V015",
+      "canonical_id": "eye-v-fef41c30cf54",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V016",
+      "canonical_id": "eye-v-b5a20297edbe",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V017",
+      "canonical_id": "eye-v-a6baa3a564b2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V018",
+      "canonical_id": "eye-v-cc7a9503481b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V019",
+      "canonical_id": "eye-v-0f108cd1b821",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V020",
+      "canonical_id": "eye-v-d5d2a79a08b9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V021",
+      "canonical_id": "eye-v-80f8d3b20cc0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V022",
+      "canonical_id": "eye-v-0c1c98ff3032",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V023",
+      "canonical_id": "eye-v-b8e2d43da73a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V024",
+      "canonical_id": "eye-v-af5eb8612d0f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V025",
+      "canonical_id": "eye-v-46926692b955",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V026",
+      "canonical_id": "eye-v-c227b9553807",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V027",
+      "canonical_id": "eye-v-837f0d31954a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V028",
+      "canonical_id": "eye-v-4295978917e0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V029",
+      "canonical_id": "eye-v-3286ef264de1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V030",
+      "canonical_id": "eye-v-e4152646fb5a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CR-V031",
+      "canonical_id": "eye-v-51239afa8b1e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A001",
+      "canonical_id": "eye-a-ee893a18999f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A002",
+      "canonical_id": "eye-a-32cbf7bac00b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A003",
+      "canonical_id": "eye-a-31e521e2ad75",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A004",
+      "canonical_id": "eye-a-ff9cea7d5708",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A005",
+      "canonical_id": "eye-a-4996e8e5152b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A006",
+      "canonical_id": "eye-a-f81b5aef2f10",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A007",
+      "canonical_id": "eye-a-06e6f9a110d9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A008",
+      "canonical_id": "eye-a-52a2377c36cb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A009",
+      "canonical_id": "eye-a-69b26d326f2c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A010",
+      "canonical_id": "eye-a-781bb036f5ab",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A011",
+      "canonical_id": "eye-a-4dc16fa31ace",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A012",
+      "canonical_id": "eye-a-a38b658d1379",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A013",
+      "canonical_id": "eye-a-895e18424f39",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A014",
+      "canonical_id": "eye-a-037d140893ba",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A015",
+      "canonical_id": "eye-a-a1df691aa207",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A016",
+      "canonical_id": "eye-a-7c7761733ecc",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A017",
+      "canonical_id": "eye-a-ce5b4ebc1058",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A018",
+      "canonical_id": "eye-a-a58b68be311c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A019",
+      "canonical_id": "eye-a-9bdfedddfc4c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A020",
+      "canonical_id": "eye-a-605747e1bf82",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A021",
+      "canonical_id": "eye-a-fa24365c0d55",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A022",
+      "canonical_id": "eye-a-f331aabefbbe",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A023",
+      "canonical_id": "eye-a-1fd5a0ce8a92",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A024",
+      "canonical_id": "eye-a-a89f07da4a25",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A025",
+      "canonical_id": "eye-a-f3b7066a0ee6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A026",
+      "canonical_id": "eye-a-2e19378a42a4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A027",
+      "canonical_id": "eye-a-9f38cfbda24b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A028",
+      "canonical_id": "eye-a-3df08d9a196b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A029",
+      "canonical_id": "eye-a-17f1c5138c5f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A030",
+      "canonical_id": "eye-a-faa80fa7fa42",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A031",
+      "canonical_id": "eye-a-c440b594e2a1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A032",
+      "canonical_id": "eye-a-a93898d95cd4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-A033",
+      "canonical_id": "eye-a-a9594eae24e2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V001",
+      "canonical_id": "eye-v-99f892235c46",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V002",
+      "canonical_id": "eye-v-782dc5d1ed39",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V003",
+      "canonical_id": "eye-v-e78b3d9baf67",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V004",
+      "canonical_id": "eye-v-bf31ef343ae4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V005",
+      "canonical_id": "eye-v-0ca0f525ea4b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V006",
+      "canonical_id": "eye-v-0894bf5c6ddd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V007",
+      "canonical_id": "eye-v-1258f50ecb14",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V008",
+      "canonical_id": "eye-v-8348dca2dd35",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V009",
+      "canonical_id": "eye-v-14d11b7360ce",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V010",
+      "canonical_id": "eye-v-a61a952e8d72",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V011",
+      "canonical_id": "eye-v-30a9010d4b4d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V012",
+      "canonical_id": "eye-v-ea046f8aa7a6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V013",
+      "canonical_id": "eye-v-97dd0e5dd422",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V014",
+      "canonical_id": "eye-v-4e0911fc8abe",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V015",
+      "canonical_id": "eye-v-6b18510100e1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V016",
+      "canonical_id": "eye-v-be189ccb4f5b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V017",
+      "canonical_id": "eye-v-eaf8e185c272",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V018",
+      "canonical_id": "eye-v-1957956551d4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V019",
+      "canonical_id": "eye-v-a964c25edd7c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V020",
+      "canonical_id": "eye-v-146565767a82",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V021",
+      "canonical_id": "eye-v-b1cec673e889",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V022",
+      "canonical_id": "eye-v-4db07a082770",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V023",
+      "canonical_id": "eye-v-ff1307ac9ad9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V024",
+      "canonical_id": "eye-v-199c96cf1fa4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V025",
+      "canonical_id": "eye-v-97e84e9bde09",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V026",
+      "canonical_id": "eye-v-8eff9e12647a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V027",
+      "canonical_id": "eye-v-f60c56869843",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V028",
+      "canonical_id": "eye-v-9aa0b70d5f7d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V029",
+      "canonical_id": "eye-v-70d79a2ec7c2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V030",
+      "canonical_id": "eye-v-db1ea041bb94",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V031",
+      "canonical_id": "eye-v-d0022c3797eb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V032",
+      "canonical_id": "eye-v-74379058bb00",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V033",
+      "canonical_id": "eye-v-a9de38286730",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:OCP-V034",
+      "canonical_id": "eye-v-bc61808415fd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A01",
+      "canonical_id": "eye-a-2d7b1380923e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A02",
+      "canonical_id": "eye-a-d190baad3af2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A03",
+      "canonical_id": "eye-a-8813bdce1be8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A04",
+      "canonical_id": "eye-a-193770accbf6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A05",
+      "canonical_id": "eye-a-0805b2af9879",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A06",
+      "canonical_id": "eye-a-bd0c1751b285",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A07",
+      "canonical_id": "eye-a-1bef37df1afe",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A08",
+      "canonical_id": "eye-a-c25c033cfc9e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A09",
+      "canonical_id": "eye-a-6e4033434f9a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A10",
+      "canonical_id": "eye-a-eb1221a5ebfa",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A11",
+      "canonical_id": "eye-a-eeef146959fb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A12",
+      "canonical_id": "eye-a-00c961614a8c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A13",
+      "canonical_id": "eye-a-f2f3a4f008c5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A14",
+      "canonical_id": "eye-a-219595ca346a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A15",
+      "canonical_id": "eye-a-7884b6f8c328",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A16",
+      "canonical_id": "eye-a-2ad2ecb4b26b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A17",
+      "canonical_id": "eye-a-623022676740",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A18",
+      "canonical_id": "eye-a-5308c8792f2e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A19",
+      "canonical_id": "eye-a-08c8013cc6ba",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A20",
+      "canonical_id": "eye-a-4dc5105ee5d6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A21",
+      "canonical_id": "eye-a-87d72d48e3ec",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A22",
+      "canonical_id": "eye-a-e7da8b4e86e7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A23",
+      "canonical_id": "eye-a-9153e06a6a3f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A24",
+      "canonical_id": "eye-a-0d71ac4bc8d7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A25",
+      "canonical_id": "eye-a-8af8ce7a3513",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A26",
+      "canonical_id": "eye-a-1bf07f646138",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A27",
+      "canonical_id": "eye-a-5758d7ec9ee8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A28",
+      "canonical_id": "eye-a-a4cf472b94c7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A29",
+      "canonical_id": "eye-a-08f0848da9ce",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A30",
+      "canonical_id": "eye-a-5e40f37b097e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A31",
+      "canonical_id": "eye-a-37636490d514",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A32",
+      "canonical_id": "eye-a-792e1b11b032",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A33",
+      "canonical_id": "eye-a-241b8d97e61d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A34",
+      "canonical_id": "eye-a-e3207d58be39",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A35",
+      "canonical_id": "eye-a-b08a313a9eed",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A36",
+      "canonical_id": "eye-a-612fc93b5994",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-A37",
+      "canonical_id": "eye-a-f0472ce2fb99",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V01",
+      "canonical_id": "eye-v-6b7b97a54bd9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V02",
+      "canonical_id": "eye-v-0f5bc7ebc599",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V03",
+      "canonical_id": "eye-v-a1c4cbb8b111",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V04",
+      "canonical_id": "eye-v-5f6b331fb8ba",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V05",
+      "canonical_id": "eye-v-72a829514af0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V06",
+      "canonical_id": "eye-v-a0acfd2af8c4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V07",
+      "canonical_id": "eye-v-e254126a8b3c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V08",
+      "canonical_id": "eye-v-78467d31e8c5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V09",
+      "canonical_id": "eye-v-48912e27ee12",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V10",
+      "canonical_id": "eye-v-0a4211bdac6f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V11",
+      "canonical_id": "eye-v-bf4b2f5ba007",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V12",
+      "canonical_id": "eye-v-12e6e3462249",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V13",
+      "canonical_id": "eye-v-aceed3cea737",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V14",
+      "canonical_id": "eye-v-969271ff6665",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V15",
+      "canonical_id": "eye-v-c5936fc354d5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V16",
+      "canonical_id": "eye-v-c44d5b4048f2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V17",
+      "canonical_id": "eye-v-c2539f46607c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V18",
+      "canonical_id": "eye-v-8cffe031f13e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V19",
+      "canonical_id": "eye-v-5c11fbd2e234",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V20",
+      "canonical_id": "eye-v-f6c8f0422f5b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V21",
+      "canonical_id": "eye-v-07a22c3d8f17",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V22",
+      "canonical_id": "eye-v-a51bd9166997",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V23",
+      "canonical_id": "eye-v-d7560e4c9a0f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V24",
+      "canonical_id": "eye-v-908a48decdd0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:PTO-V25",
+      "canonical_id": "eye-v-bca5b29bfd40",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A32203241",
+      "canonical_id": "eye-a-3acb613dc15f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A25864793",
+      "canonical_id": "eye-a-2e593b317425",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A42145730",
+      "canonical_id": "eye-a-4b805bf97cd2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A33151321",
+      "canonical_id": "eye-a-f596aa8afff1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A31543349",
+      "canonical_id": "eye-a-2aaa13506cd9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A36960436",
+      "canonical_id": "eye-a-44b86eecbc66",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A32576719",
+      "canonical_id": "eye-a-2ececd88da24",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A30616299",
+      "canonical_id": "eye-a-56b516a186e2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A7487614",
+      "canonical_id": "eye-a-b32380a7a519",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A36140501",
+      "canonical_id": "eye-a-c03f9d7a3924",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A40925902",
+      "canonical_id": "eye-a-b0d6fcb366a3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A32701225",
+      "canonical_id": "eye-a-7548c2cca3b8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A41853573",
+      "canonical_id": "eye-a-7419af6b92ef",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A40484849",
+      "canonical_id": "eye-a-bdf97f1b2038",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A39375138",
+      "canonical_id": "eye-a-7d1665a11cc8",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A39085154",
+      "canonical_id": "eye-a-d58e41f7e782",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A36480882",
+      "canonical_id": "eye-a-9a127e388571",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A36220646",
+      "canonical_id": "eye-a-dc7700bf15df",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A37670652",
+      "canonical_id": "eye-a-a6b9b8e09526",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A34256469",
+      "canonical_id": "eye-a-d2b40374709f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A34743466",
+      "canonical_id": "eye-a-0863cd9d29dd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A35796121",
+      "canonical_id": "eye-a-056e07187138",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-A34098689",
+      "canonical_id": "eye-a-f3158c86095d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:GEN-AAO",
+      "canonical_id": "eye-a-43b37ddb18ca",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V01",
+      "canonical_id": "eye-v-cb1c5111f2e2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V02",
+      "canonical_id": "eye-v-3121a97fc153",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V03",
+      "canonical_id": "eye-v-6a7ca0c8a13a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V04",
+      "canonical_id": "eye-v-d8e3a62fa101",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V05",
+      "canonical_id": "eye-v-ca1b136d266d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V06",
+      "canonical_id": "eye-v-d7c3a7b54bc5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V07",
+      "canonical_id": "eye-v-eadae667bb0f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V08",
+      "canonical_id": "eye-v-ad5e982ee4ba",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V09",
+      "canonical_id": "eye-v-0faf74324808",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V10",
+      "canonical_id": "eye-v-d7ac5ccf0f5b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V11",
+      "canonical_id": "eye-v-5518450fd489",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "expanded:CN-V12",
+      "canonical_id": "eye-v-276f40edf7b7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P01",
+      "canonical_id": "eye-a-fb1b09f15423",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2021.10.006",
+        "pmid:34780842"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P02",
+      "canonical_id": "eye-a-8f6562ca2534",
+      "status": "merged",
+      "basis": [
+        "url:https://www.escrs.org/escrs-recommendations-for-cataract-surgery"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P03",
+      "canonical_id": "eye-a-fdfdfea50ea6",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2020.02.028",
+        "pmcid:PMC7397499",
+        "pmid:32386810"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P04",
+      "canonical_id": "eye-a-e571c8ce68c2",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/s0140-6736(19)32481-x",
+        "pmid:31954466"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P05",
+      "canonical_id": "eye-a-7338c3524238",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P06",
+      "canonical_id": "eye-a-d976827c27f5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P07",
+      "canonical_id": "eye-a-58afc5401525",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P08",
+      "canonical_id": "eye-a-c497bd06d17e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P09",
+      "canonical_id": "eye-a-58e32be0be53",
+      "status": "merged",
+      "basis": [
+        "doi:10.1097/icu.0000000000000907",
+        "pmcid:PMC9835660",
+        "pmid:36206058"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P10",
+      "canonical_id": "eye-a-08fdb3b6678c",
+      "status": "merged",
+      "basis": [
+        "doi:10.3390/jcm13113071",
+        "pmcid:PMC11173341",
+        "pmid:38892783"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P11",
+      "canonical_id": "eye-a-c5e3d69c93b9",
+      "status": "merged",
+      "basis": [
+        "pmcid:PMC5665580"
+      ]
+    },
+    {
+      "source_key": "original:CAT-P12",
+      "canonical_id": "eye-a-4cf206bb156b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P13",
+      "canonical_id": "eye-a-88a98786daa6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P14",
+      "canonical_id": "eye-a-c94efeea641a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-P15",
+      "canonical_id": "eye-a-29a0c1cee714",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V01",
+      "canonical_id": "eye-v-634594c8ff1c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V02",
+      "canonical_id": "eye-v-8faf993511b5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V03",
+      "canonical_id": "eye-v-58101081b1d2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V04",
+      "canonical_id": "eye-v-86b734696eee",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V05",
+      "canonical_id": "eye-v-a14731209c17",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V06",
+      "canonical_id": "eye-v-6532da110ab6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V07",
+      "canonical_id": "eye-v-862aab1d55ef",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V08",
+      "canonical_id": "eye-v-67db0f003a8e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V09",
+      "canonical_id": "eye-v-26dd952eb985",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:CAT-V10",
+      "canonical_id": "eye-v-530dff78a979",
+      "status": "merged",
+      "basis": [
+        "url:https://cybersight.org/library/lecture-visualizing-cataract-surgery-techniques-a-step-by-step-surgical-walkthrough"
+      ]
+    },
+    {
+      "source_key": "original:RET-P01",
+      "canonical_id": "eye-a-9541bcb940fd",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2018.11.014",
+        "pmid:30468761"
+      ]
+    },
+    {
+      "source_key": "original:RET-P02",
+      "canonical_id": "eye-a-1c4050b25db0",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2007.09.013",
+        "pmid:18054633"
+      ]
+    },
+    {
+      "source_key": "original:RET-P03",
+      "canonical_id": "eye-a-a6530b5ebd95",
+      "status": "merged",
+      "basis": [
+        "doi:10.1038/s41572-024-00501-5"
+      ]
+    },
+    {
+      "source_key": "original:RET-P04",
+      "canonical_id": "eye-a-e07fe5d757dd",
+      "status": "merged",
+      "basis": [
+        "doi:10.1001/jamaophthalmol.2020.0987",
+        "pmcid:PMC7206530",
+        "pmid:32379288"
+      ]
+    },
+    {
+      "source_key": "original:RET-P05",
+      "canonical_id": "eye-a-edae58996958",
+      "status": "merged",
+      "basis": [
+        "doi:10.1038/s41433-021-01681-0",
+        "pmcid:PMC9074182"
+      ]
+    },
+    {
+      "source_key": "original:RET-P06",
+      "canonical_id": "eye-a-305775422634",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-P07",
+      "canonical_id": "eye-a-d0807e24b5ca",
+      "status": "merged",
+      "basis": [
+        "doi:10.1001/jama.2020.23027",
+        "pmcid:PMC7739132"
+      ]
+    },
+    {
+      "source_key": "original:RET-P08",
+      "canonical_id": "eye-a-516fec0a2b16",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-P09",
+      "canonical_id": "eye-a-b32380a7a519",
+      "status": "merged",
+      "basis": [
+        "pmid:7487614"
+      ]
+    },
+    {
+      "source_key": "original:RET-P10",
+      "canonical_id": "eye-a-68bb05d98e12",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V01",
+      "canonical_id": "eye-v-7dbefae1dbf6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V02",
+      "canonical_id": "eye-v-fc07884efc72",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V03",
+      "canonical_id": "eye-v-ad95e2660584",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V04",
+      "canonical_id": "eye-v-6544c2a9ed6b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V05",
+      "canonical_id": "eye-v-2b4d24d95788",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V06",
+      "canonical_id": "eye-v-6fa9f13c9fba",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:RET-V07",
+      "canonical_id": "eye-v-108098eda902",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-P01",
+      "canonical_id": "eye-a-a14259e6f14f",
+      "status": "merged",
+      "basis": [
+        "pmcid:PMC4460598",
+        "pmid:22245458"
+      ]
+    },
+    {
+      "source_key": "original:GLA-P02",
+      "canonical_id": "eye-a-b4fdeb244c1a",
+      "status": "merged",
+      "basis": [
+        "pmcid:PMC9691551",
+        "pmid:35835337"
+      ]
+    },
+    {
+      "source_key": "original:GLA-P03",
+      "canonical_id": "eye-a-77bf8013c75e",
+      "status": "merged",
+      "basis": [
+        "pmcid:PMC11190021",
+        "pmid:38199528"
+      ]
+    },
+    {
+      "source_key": "original:GLA-P04",
+      "canonical_id": "eye-a-1afbc4f25ccb",
+      "status": "merged",
+      "basis": [
+        "pmid:27707497"
+      ]
+    },
+    {
+      "source_key": "original:GLA-P05",
+      "canonical_id": "eye-a-772eae3a6f39",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2022.02.021",
+        "pmid:35218867"
+      ]
+    },
+    {
+      "source_key": "original:GLA-P06",
+      "canonical_id": "eye-a-2b27b126a8eb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-P07",
+      "canonical_id": "eye-a-0cb57157dce7",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-P08",
+      "canonical_id": "eye-a-6f1c9e7e85ff",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-V01",
+      "canonical_id": "eye-v-d54a81fd9f98",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-V02",
+      "canonical_id": "eye-v-8dc925826813",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-V03",
+      "canonical_id": "eye-v-6f6d1fd712ae",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-V04",
+      "canonical_id": "eye-v-93d3820afa1f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-V05",
+      "canonical_id": "eye-v-0729f661779b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:GLA-V06",
+      "canonical_id": "eye-v-beacb5af3c10",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-P01",
+      "canonical_id": "eye-a-d009b8ab18ad",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-P02",
+      "canonical_id": "eye-a-a38c1316aa82",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-P03",
+      "canonical_id": "eye-a-e6e3e8207982",
+      "status": "merged",
+      "basis": [
+        "doi:10.1002/sctm.19-0203",
+        "pmcid:PMC7031634"
+      ]
+    },
+    {
+      "source_key": "original:COR-P04",
+      "canonical_id": "eye-a-b1501721c1cb",
+      "status": "merged",
+      "basis": [
+        "pmcid:PMC8225709",
+        "pmid:33359556"
+      ]
+    },
+    {
+      "source_key": "original:COR-P05",
+      "canonical_id": "eye-a-f72e7928a273",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2021.04.019"
+      ]
+    },
+    {
+      "source_key": "original:COR-P06",
+      "canonical_id": "eye-a-7e6ce9dc91fd",
+      "status": "merged",
+      "basis": [
+        "doi:10.1038/s41433-023-02467-2"
+      ]
+    },
+    {
+      "source_key": "original:COR-P07",
+      "canonical_id": "eye-a-7258382b7a3b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V01",
+      "canonical_id": "eye-v-0b5fd55c73fa",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V02",
+      "canonical_id": "eye-v-86458ea6cf27",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V03",
+      "canonical_id": "eye-v-a2cf31326cd3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V04",
+      "canonical_id": "eye-v-20c5beab8628",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V05",
+      "canonical_id": "eye-v-f397255fb9a0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V06",
+      "canonical_id": "eye-v-c5ff1a69291e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V07",
+      "canonical_id": "eye-v-6bc24bc270e1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V08",
+      "canonical_id": "eye-v-07daa0a0570c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V09",
+      "canonical_id": "eye-v-0ff89feb56a2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V10",
+      "canonical_id": "eye-v-e808fbfe8b45",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V11",
+      "canonical_id": "eye-v-70dbd270c8a0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V12",
+      "canonical_id": "eye-v-596790409854",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V13",
+      "canonical_id": "eye-v-c29bf0f9987a",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:COR-V14",
+      "canonical_id": "eye-v-c90d3caeb0f6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-P01",
+      "canonical_id": "eye-a-49454cb35992",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-P02",
+      "canonical_id": "eye-a-730cb5ac69ec",
+      "status": "merged",
+      "basis": [
+        "doi:10.2147/opth.s188785",
+        "pmcid:PMC6267497"
+      ]
+    },
+    {
+      "source_key": "original:REF-P03",
+      "canonical_id": "eye-a-71809d0313d3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-P04",
+      "canonical_id": "eye-a-09de590e39c3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-P05",
+      "canonical_id": "eye-a-9960c5cdd427",
+      "status": "merged",
+      "basis": [
+        "doi:10.2147/opth.s456397",
+        "pmcid:PMC11005927",
+        "pmid:38601168"
+      ]
+    },
+    {
+      "source_key": "original:REF-V01",
+      "canonical_id": "eye-v-d8cc279ba509",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-V02",
+      "canonical_id": "eye-v-edda77d952e3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-V03",
+      "canonical_id": "eye-v-7b2c9413f879",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:REF-V04",
+      "canonical_id": "eye-v-c227b9553807",
+      "status": "merged",
+      "basis": [
+        "url:https://eyetube.net/videos/real-time-smile-surgery"
+      ]
+    },
+    {
+      "source_key": "original:STR-P01",
+      "canonical_id": "eye-a-2d7b1380923e",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2021.07.026",
+        "pmcid:PMC10187043"
+      ]
+    },
+    {
+      "source_key": "original:STR-P02",
+      "canonical_id": "eye-a-bd0c1751b285",
+      "status": "merged",
+      "basis": [
+        "doi:10.1016/j.ophtha.2023.09.004",
+        "pmcid:PMC10841051"
+      ]
+    },
+    {
+      "source_key": "original:STR-P03",
+      "canonical_id": "eye-a-6fbfd471d19d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:STR-P04",
+      "canonical_id": "eye-a-0805b2af9879",
+      "status": "merged",
+      "basis": [
+        "doi:10.3980/j.issn.2222-3959.2014.06.27"
+      ]
+    },
+    {
+      "source_key": "original:STR-P05",
+      "canonical_id": "eye-a-084cf3460d53",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:STR-V01",
+      "canonical_id": "eye-v-a1c4cbb8b111",
+      "status": "merged",
+      "basis": [
+        "url:https://eyerounds.org/atlas-video/adjustable_Suture_Technique_in_strabismus_surgery_Lateral_Rectus_Resection.htm"
+      ]
+    },
+    {
+      "source_key": "original:STR-V02",
+      "canonical_id": "eye-v-5f6b331fb8ba",
+      "status": "merged",
+      "basis": [
+        "url:https://eyerounds.org/atlas-video/Inferior-Oblique-Myectomy.htm"
+      ]
+    },
+    {
+      "source_key": "original:STR-V03",
+      "canonical_id": "eye-v-72a829514af0",
+      "status": "merged",
+      "basis": [
+        "url:https://eyerounds.org/video/PediatricOphth-Strabismus-vids/medial-rectus-recession.htm"
+      ]
+    },
+    {
+      "source_key": "original:STR-V04",
+      "canonical_id": "eye-v-a0acfd2af8c4",
+      "status": "merged",
+      "basis": [
+        "url:https://eyerounds.org/atlas-video/strabismus-surgery-scleral-buckle.htm"
+      ]
+    },
+    {
+      "source_key": "original:STR-V05",
+      "canonical_id": "eye-v-e254126a8b3c",
+      "status": "merged",
+      "basis": [
+        "url:https://eyerounds.org/video/Peds-Ophth/harada-ito-SO-tuck.htm"
+      ]
+    },
+    {
+      "source_key": "original:STR-V06",
+      "canonical_id": "eye-v-83c2fd12d4db",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:PED-P01",
+      "canonical_id": "eye-a-00c961614a8c",
+      "status": "merged",
+      "basis": [
+        "doi:10.1001/jamaophthalmol.2020.0006",
+        "pmcid:PMC7042945",
+        "pmid:32077909"
+      ]
+    },
+    {
+      "source_key": "original:PED-P02",
+      "canonical_id": "eye-a-97307b6dd48f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:PED-P03",
+      "canonical_id": "eye-a-854eba49496d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:PED-V01",
+      "canonical_id": "eye-v-6b7b97a54bd9",
+      "status": "merged",
+      "basis": [
+        "url:https://eyerounds.org/video/PediatricOphth-Strabismus-vids/congenital-infantile-cataract-surgery.htm"
+      ]
+    },
+    {
+      "source_key": "original:PED-V02",
+      "canonical_id": "eye-v-1393fcb7eb03",
+      "status": "merged",
+      "basis": [
+        "url:https://vimeo.com/467427040"
+      ]
+    },
+    {
+      "source_key": "original:PED-V03",
+      "canonical_id": "eye-v-b328919dfc9e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:PED-V04",
+      "canonical_id": "eye-v-18de7bded377",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:PED-V05",
+      "canonical_id": "eye-v-c59484000a32",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:PED-V06",
+      "canonical_id": "eye-v-56485db96c0f",
+      "status": "merged",
+      "basis": [
+        "url:https://vimeo.com/467427004"
+      ]
+    },
+    {
+      "source_key": "original:OPL-P01",
+      "canonical_id": "eye-a-2e1d9082f4e2",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-P02",
+      "canonical_id": "eye-a-1fd5a0ce8a92",
+      "status": "merged",
+      "basis": [
+        "doi:10.1055/s-0037-1598192",
+        "pmcid:PMC5330789",
+        "pmid:28255288"
+      ]
+    },
+    {
+      "source_key": "original:OPL-P03",
+      "canonical_id": "eye-a-a38b658d1379",
+      "status": "merged",
+      "basis": [
+        "doi:10.1055/s-0038-1642058",
+        "pmcid:PMC5951709",
+        "pmid:29765274"
+      ]
+    },
+    {
+      "source_key": "original:OPL-P04",
+      "canonical_id": "eye-a-037d140893ba",
+      "status": "merged",
+      "basis": [
+        "doi:10.1055/s-0044-1795099",
+        "pmcid:PMC11651827",
+        "pmid:39697411"
+      ]
+    },
+    {
+      "source_key": "original:OPL-P05",
+      "canonical_id": "eye-a-a0b300218eb5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V01",
+      "canonical_id": "eye-v-bb907b107312",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V02",
+      "canonical_id": "eye-v-5824408566c1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V03",
+      "canonical_id": "eye-v-a76f8eb4c94c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V04",
+      "canonical_id": "eye-v-7781ff5227d4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V05",
+      "canonical_id": "eye-v-8ad5132a09b9",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V06",
+      "canonical_id": "eye-v-228068fd5532",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V07",
+      "canonical_id": "eye-v-fb0af0418710",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V08",
+      "canonical_id": "eye-v-3c4f2481af1d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V09",
+      "canonical_id": "eye-v-190b0107d9bf",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V10",
+      "canonical_id": "eye-v-1944a81cc53f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V11",
+      "canonical_id": "eye-v-69bb5198f01c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V12",
+      "canonical_id": "eye-v-438b794a159e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V13",
+      "canonical_id": "eye-v-5b65efe21bc3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V14",
+      "canonical_id": "eye-v-1525736d423e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V15",
+      "canonical_id": "eye-v-0d075b652af0",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:OPL-V16",
+      "canonical_id": "eye-v-5ae6f3d15ed4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-P01",
+      "canonical_id": "eye-a-247a40273b70",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-P02",
+      "canonical_id": "eye-a-7ddb451d12fd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-P03",
+      "canonical_id": "eye-a-f0472ce2fb99",
+      "status": "merged",
+      "basis": [
+        "doi:10.1001/archophthalmol.2009.66",
+        "pmcid:PMC2682211",
+        "pmid:19433712"
+      ]
+    },
+    {
+      "source_key": "original:LAC-V01",
+      "canonical_id": "eye-v-438647e5e24e",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V02",
+      "canonical_id": "eye-v-28ff8d314a3c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V03",
+      "canonical_id": "eye-v-5b266fdc3575",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V04",
+      "canonical_id": "eye-v-5648b12f2b01",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V05",
+      "canonical_id": "eye-v-5b0ed4ef3b17",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V06",
+      "canonical_id": "eye-v-e690a62d8ffa",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V07",
+      "canonical_id": "eye-v-36dd3c2efbce",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V08",
+      "canonical_id": "eye-v-13bf17b9e07c",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V09",
+      "canonical_id": "eye-v-7279c4a736cd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V10",
+      "canonical_id": "eye-v-50b037d21e21",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:LAC-V11",
+      "canonical_id": "eye-v-58d422101bbd",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-P01",
+      "canonical_id": "eye-a-623022676740",
+      "status": "merged",
+      "basis": [
+        "doi:10.2147/opth.s372011",
+        "pmcid:PMC9379121"
+      ]
+    },
+    {
+      "source_key": "original:TRA-P02",
+      "canonical_id": "eye-a-9f38cfbda24b",
+      "status": "merged",
+      "basis": [
+        "doi:10.2147/opth.s80463",
+        "pmcid:PMC4655944"
+      ]
+    },
+    {
+      "source_key": "original:TRA-P03",
+      "canonical_id": "eye-a-23d115a17847",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-P04",
+      "canonical_id": "eye-a-f0b2d64191a1",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V01",
+      "canonical_id": "eye-v-5eb12c713324",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V02",
+      "canonical_id": "eye-v-a69e0feaecc6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V03",
+      "canonical_id": "eye-v-02b84729875b",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V04",
+      "canonical_id": "eye-v-902ebf06dee4",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V05",
+      "canonical_id": "eye-v-f2df1873f4a5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V06",
+      "canonical_id": "eye-v-20a88a72f9be",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V07",
+      "canonical_id": "eye-v-1a7de1c7f917",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V08",
+      "canonical_id": "eye-v-dc371b282bed",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V09",
+      "canonical_id": "eye-v-66367bc23982",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:TRA-V10",
+      "canonical_id": "eye-v-14073dccaf81",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-P01",
+      "canonical_id": "eye-a-41a771fdfc76",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-P02",
+      "canonical_id": "eye-a-8516ef24f933",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V01",
+      "canonical_id": "eye-v-a41a32c9a2ac",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V02",
+      "canonical_id": "eye-v-3daabc63a656",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V03",
+      "canonical_id": "eye-v-75ed3c36abee",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V04",
+      "canonical_id": "eye-v-c1a9e79599ef",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V05",
+      "canonical_id": "eye-v-6d9532ec860f",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V06",
+      "canonical_id": "eye-v-2a443d063bf6",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V07",
+      "canonical_id": "eye-v-269ff7c053a3",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V08",
+      "canonical_id": "eye-v-49e4e82d9edb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V09",
+      "canonical_id": "eye-v-b47f046f4d9d",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:ONC-V10",
+      "canonical_id": "eye-v-1f0a858cf996",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-P01",
+      "canonical_id": "eye-a-42446c7118aa",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-P02",
+      "canonical_id": "eye-a-995311ce7917",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-P03",
+      "canonical_id": "eye-a-2ececd88da24",
+      "status": "merged",
+      "basis": [
+        "doi:10.1097/iio.0000000000000316",
+        "pmcid:PMC7334869"
+      ]
+    },
+    {
+      "source_key": "original:EDU-P04",
+      "canonical_id": "eye-a-f596aa8afff1",
+      "status": "merged",
+      "basis": [
+        "doi:10.1001/jamaophthalmol.2020.4718"
+      ]
+    },
+    {
+      "source_key": "original:EDU-P05",
+      "canonical_id": "eye-a-e0b4117b3c54",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-V01",
+      "canonical_id": "eye-v-10d4fe59ac68",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-V02",
+      "canonical_id": "eye-v-bec58d835acb",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-V03",
+      "canonical_id": "eye-v-9d9921a3a720",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-V04",
+      "canonical_id": "eye-v-3b225a20bab5",
+      "status": "imported-pending"
+    },
+    {
+      "source_key": "original:EDU-V05",
+      "canonical_id": "eye-v-32b228c31b81",
+      "status": "imported-pending"
+    }
+  ]
+}

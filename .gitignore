@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+site/
+previous-site/
+work/
+data/versions/
+*.html
+.update.lock
+.env*

@@ -1,0 +1,1002 @@
+{
+  "sections": [
+    {
+      "id": "CAT",
+      "zh": "白内障与人工晶状体",
+      "en": "Cataract & IOL"
+    },
+    {
+      "id": "RET",
+      "zh": "玻璃体视网膜",
+      "en": "Vitreoretinal surgery"
+    },
+    {
+      "id": "GL",
+      "zh": "青光眼",
+      "en": "Glaucoma"
+    },
+    {
+      "id": "CR",
+      "zh": "角膜、眼表与屈光",
+      "en": "Cornea, ocular surface & refractive"
+    },
+    {
+      "id": "OCP",
+      "zh": "眼整形、眼眶与泪道",
+      "en": "Oculoplastics, orbit & lacrimal"
+    },
+    {
+      "id": "PTO",
+      "zh": "斜视、小儿、外伤与肿瘤",
+      "en": "Strabismus, pediatric, trauma & oncology"
+    },
+    {
+      "id": "GEN",
+      "zh": "围手术期、训练与新技术",
+      "en": "Perioperative care, training & technology"
+    }
+  ],
+  "procedures": [
+    {
+      "id": "phaco",
+      "section": "CAT",
+      "subspecialty": "白内障",
+      "zh": "常规超乳",
+      "en": "Phacoemulsification",
+      "pattern": "超乳|phacoemuls|常规超乳",
+      "synonyms": [
+        "Phacoemulsification"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "msics",
+      "section": "CAT",
+      "subspecialty": "白内障",
+      "zh": "小切口与囊外摘除",
+      "en": "MSICS ECCE",
+      "pattern": "\\bMSICS\\b|\\bECCE\\b|small.incision cataract|extracapsular|小切口|囊外",
+      "synonyms": [
+        "MSICS",
+        "ECCE"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "flacs",
+      "section": "CAT",
+      "subspecialty": "白内障",
+      "zh": "飞秒辅助白内障",
+      "en": "FLACS femtosecond laser cataract",
+      "pattern": "femtosecond.{0,25}cataract|\\bFLACS\\b|FACT study|\\bFEMCAT\\b|飞秒.*白内障",
+      "synonyms": [
+        "FLACS",
+        "femtosecond",
+        "laser",
+        "cataract"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "complex-cataract",
+      "section": "CAT",
+      "subspecialty": "白内障",
+      "zh": "复杂白内障与囊袋支持",
+      "en": "Complex cataract zonular CTR",
+      "pattern": "complex cataract|capsular tension|zonul|small pupil|小瞳孔|晶状体脱位|悬韧带",
+      "synonyms": [
+        "Complex",
+        "cataract",
+        "zonular",
+        "CTR"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "iol",
+      "section": "CAT",
+      "subspecialty": "人工晶状体",
+      "zh": "人工晶状体选择与计算",
+      "en": "IOL calculation toric multifocal EDOF",
+      "pattern": "intraocular lens|\\bIOL\\b|multifocal|toric|人工晶状体|屈光预测",
+      "synonyms": [
+        "IOL",
+        "calculation",
+        "toric",
+        "multifocal",
+        "EDOF"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "iol-fixation",
+      "section": "CAT",
+      "subspecialty": "人工晶状体",
+      "zh": "人工晶状体固定",
+      "en": "Scleral fixation Yamane iris claw",
+      "pattern": "(?=.*(?:\\bIOL\\b|intraocular lens|\\blens\\b|人工晶状体))(?=.*fixation)|Yamane|iris.claw|人工晶状体.{0,12}固定",
+      "synonyms": [
+        "Scleral",
+        "fixation",
+        "Yamane",
+        "iris",
+        "claw"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "cataract-complication",
+      "section": "CAT",
+      "subspecialty": "并发症",
+      "zh": "白内障并发症",
+      "en": "PCR vitreous loss endophthalmitis CME",
+      "pattern": "posterior capsul.{0,10}rupture|vitreous loss|cystoid macular|后囊破|玻璃体脱出",
+      "synonyms": [
+        "PCR",
+        "vitreous",
+        "loss",
+        "endophthalmitis",
+        "CME"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "ppv",
+      "section": "RET",
+      "subspecialty": "视网膜脱离",
+      "zh": "玻璃体切除",
+      "en": "PPV vitrectomy",
+      "pattern": "vitrectomy|玻切|玻璃体切除",
+      "synonyms": [
+        "PPV",
+        "vitrectomy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "buckle",
+      "section": "RET",
+      "subspecialty": "视网膜脱离",
+      "zh": "巩膜扣带",
+      "en": "Scleral buckling SB",
+      "pattern": "scleral buckl|巩膜扣带|巩膜外垫压",
+      "synonyms": [
+        "Scleral",
+        "buckling",
+        "SB"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "pneumatic",
+      "section": "RET",
+      "subspecialty": "视网膜脱离",
+      "zh": "气体复位",
+      "en": "Pneumatic retinopexy PIVOT",
+      "pattern": "pneumatic retinopexy|\\bPIVOT\\b|气体复位",
+      "synonyms": [
+        "Pneumatic",
+        "retinopexy",
+        "PIVOT"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "macula",
+      "section": "RET",
+      "subspecialty": "黄斑",
+      "zh": "黄斑孔与前膜",
+      "en": "Macular hole ERM ILM peeling",
+      "pattern": "macular hole|epiretinal|\\bILM\\b|internal limiting|黄斑孔|前膜|内界膜",
+      "synonyms": [
+        "Macular",
+        "hole",
+        "ERM",
+        "ILM",
+        "peeling"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "pvr",
+      "section": "RET",
+      "subspecialty": "复杂视网膜",
+      "zh": "复杂PVR与巨大裂孔",
+      "en": "PVR giant retinal tear retinectomy",
+      "pattern": "proliferative vitreoretinopathy|\\bPVR\\b|giant retinal|retinectom|巨大裂孔|视网膜切除",
+      "synonyms": [
+        "PVR",
+        "giant",
+        "retinal",
+        "tear",
+        "retinectomy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "diabetic-trd",
+      "section": "RET",
+      "subspecialty": "复杂视网膜",
+      "zh": "糖尿病牵拉性脱离",
+      "en": "Diabetic tractional retinal detachment TRD",
+      "pattern": "tractional|diabetic.{0,25}vitrectomy|糖尿病|牵拉性",
+      "synonyms": [
+        "Diabetic",
+        "tractional",
+        "retinal",
+        "detachment",
+        "TRD"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "submacular",
+      "section": "RET",
+      "subspecialty": "复杂视网膜",
+      "zh": "黄斑下出血",
+      "en": "Submacular hemorrhage tPA",
+      "pattern": "submacular|黄斑下出血",
+      "synonyms": [
+        "Submacular",
+        "hemorrhage",
+        "tPA"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "silicone",
+      "section": "RET",
+      "subspecialty": "复杂视网膜",
+      "zh": "硅油相关操作",
+      "en": "Silicone oil tamponade removal",
+      "pattern": "silicone oil|硅油",
+      "synonyms": [
+        "Silicone",
+        "oil",
+        "tamponade",
+        "removal"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "subretinal",
+      "section": "RET",
+      "subspecialty": "视网膜下操作",
+      "zh": "视网膜下递送",
+      "en": "Subretinal delivery gene therapy injection",
+      "pattern": "subretinal|gene therapy|视网膜下递送|基因治疗",
+      "synonyms": [
+        "Subretinal",
+        "delivery",
+        "gene",
+        "therapy",
+        "injection"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "optic-pit",
+      "section": "RET",
+      "subspecialty": "黄斑",
+      "zh": "视盘小凹相关黄斑病变",
+      "en": "Optic disc pit maculopathy",
+      "pattern": "optic disc pit|视盘小凹",
+      "synonyms": [
+        "Optic",
+        "disc",
+        "pit",
+        "maculopathy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "trabeculectomy",
+      "section": "GL",
+      "subspecialty": "滤过手术",
+      "zh": "小梁切除与滤过泡",
+      "en": "Trabeculectomy bleb needling",
+      "pattern": "trabeculectomy|bleb|needling|小梁切除|滤过泡",
+      "synonyms": [
+        "Trabeculectomy",
+        "bleb",
+        "needling"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "tube",
+      "section": "GL",
+      "subspecialty": "引流装置",
+      "zh": "引流装置",
+      "en": "GDD Ahmed Baerveldt tube shunt",
+      "pattern": "Ahmed|Baerveldt|glaucoma.{0,20}(?:tube|drainage)|aqueous shunt|青光眼.{0,12}引流|引流阀",
+      "synonyms": [
+        "GDD",
+        "Ahmed",
+        "Baerveldt",
+        "tube",
+        "shunt"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "migs",
+      "section": "GL",
+      "subspecialty": "房角与微创",
+      "zh": "MIGS与房角手术",
+      "en": "MIGS iStent Hydrus GATT KDB trabeculotomy",
+      "pattern": "\\bMIGS\\b|iStent|Hydrus|\\bGATT\\b|Kahook|trabeculotomy|goniotomy|房角|小梁切开",
+      "synonyms": [
+        "MIGS",
+        "iStent",
+        "Hydrus",
+        "GATT",
+        "KDB",
+        "trabeculotomy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "microshunt",
+      "section": "GL",
+      "subspecialty": "滤过手术",
+      "zh": "微型分流器",
+      "en": "PRESERFLO XEN microshunt",
+      "pattern": "\\bPRESERFLO\\b|\\bXEN\\b|microshunt|微型分流",
+      "synonyms": [
+        "PRESERFLO",
+        "XEN",
+        "microshunt"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "gl-laser",
+      "section": "GL",
+      "subspecialty": "激光与睫状体",
+      "zh": "青光眼激光",
+      "en": "SLT LPI laser trabeculoplasty iridotomy",
+      "pattern": "trabeculoplasty|iridotomy|\\bSLT\\b|\\bLPI\\b|激光虹膜|激光小梁",
+      "synonyms": [
+        "SLT",
+        "LPI",
+        "laser",
+        "trabeculoplasty",
+        "iridotomy"
+      ],
+      "operation_type": "激光/能量操作"
+    },
+    {
+      "id": "cyclo",
+      "section": "GL",
+      "subspecialty": "激光与睫状体",
+      "zh": "睫状体相关治疗",
+      "en": "Cyclophotocoagulation CPC ECP micropulse",
+      "pattern": "cyclo|micropulse|睫状体|微脉冲",
+      "synonyms": [
+        "Cyclophotocoagulation",
+        "CPC",
+        "ECP",
+        "micropulse"
+      ],
+      "operation_type": "激光/能量操作"
+    },
+    {
+      "id": "child-glaucoma",
+      "section": "GL",
+      "subspecialty": "儿童与联合",
+      "zh": "儿童青光眼",
+      "en": "Primary congenital glaucoma PCG",
+      "pattern": "congenital glaucoma|pediatric glaucoma|儿童青光眼|先天性青光眼",
+      "synonyms": [
+        "Primary",
+        "congenital",
+        "glaucoma",
+        "PCG"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "endothelial",
+      "section": "CR",
+      "subspecialty": "角膜移植",
+      "zh": "内皮移植",
+      "en": "DMEK DSAEK DSEK endothelial keratoplasty",
+      "pattern": "\\bDMEK\\b|\\bDSAEK\\b|\\bDSEK\\b|endothelial keratoplasty|内皮移植",
+      "synonyms": [
+        "DMEK",
+        "DSAEK",
+        "DSEK",
+        "endothelial",
+        "keratoplasty"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "pk-dalk",
+      "section": "CR",
+      "subspecialty": "角膜移植",
+      "zh": "穿透与深板层移植",
+      "en": "PK DALK penetrating deep anterior lamellar keratoplasty",
+      "pattern": "penetrating keratoplasty|deep anterior|\\bDALK\\b|穿透.*移植|深板层",
+      "synonyms": [
+        "PK",
+        "DALK",
+        "penetrating",
+        "deep",
+        "anterior",
+        "lamellar",
+        "keratoplasty"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "surface",
+      "section": "CR",
+      "subspecialty": "眼表",
+      "zh": "眼表重建与角膜缘干细胞",
+      "en": "SLET CLET limbal stem cell amniotic membrane",
+      "pattern": "limbal|\\bSLET\\b|\\bCLET\\b|amniotic|眼表重建|干细胞|羊膜",
+      "synonyms": [
+        "SLET",
+        "CLET",
+        "limbal",
+        "stem",
+        "cell",
+        "amniotic",
+        "membrane"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "pterygium",
+      "section": "CR",
+      "subspecialty": "眼表",
+      "zh": "翼状胬肉",
+      "en": "Pterygium conjunctival autograft",
+      "pattern": "pterygium|翼状胬肉",
+      "synonyms": [
+        "Pterygium",
+        "conjunctival",
+        "autograft"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "cornea-repair",
+      "section": "CR",
+      "subspecialty": "角膜修复",
+      "zh": "角膜穿孔与修补",
+      "en": "Corneal perforation glue patch graft",
+      "pattern": "perforation|tissue adhesive|corneal repair|穿孔|角膜修补",
+      "synonyms": [
+        "Corneal",
+        "perforation",
+        "glue",
+        "patch",
+        "graft"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "cxl-ring",
+      "section": "CR",
+      "subspecialty": "角膜修复",
+      "zh": "交联与角膜环",
+      "en": "CXL corneal cross-linking ICRS ring segments",
+      "pattern": "cross.link|ring segment|\\bICRS\\b|角膜环|交联",
+      "synonyms": [
+        "CXL",
+        "corneal",
+        "cross-linking",
+        "ICRS",
+        "ring",
+        "segments"
+      ],
+      "operation_type": "激光/能量操作"
+    },
+    {
+      "id": "lasik",
+      "section": "CR",
+      "subspecialty": "屈光",
+      "zh": "LASIK",
+      "en": "LASIK laser in situ keratomileusis",
+      "pattern": "\\bLASIK\\b|keratomileusis",
+      "synonyms": [
+        "LASIK",
+        "laser",
+        "in",
+        "situ",
+        "keratomileusis"
+      ],
+      "operation_type": "激光/能量操作"
+    },
+    {
+      "id": "prk",
+      "section": "CR",
+      "subspecialty": "屈光",
+      "zh": "PRK与表层消融",
+      "en": "PRK photorefractive keratectomy TransPRK",
+      "pattern": "photorefractive|\\bPRK\\b|表层消融",
+      "synonyms": [
+        "PRK",
+        "photorefractive",
+        "keratectomy",
+        "TransPRK"
+      ],
+      "operation_type": "激光/能量操作"
+    },
+    {
+      "id": "smile",
+      "section": "CR",
+      "subspecialty": "屈光",
+      "zh": "SMILE",
+      "en": "Small incision lenticule extraction SMILE",
+      "pattern": "lenticule extraction|\\bSMILE\\b|全飞秒",
+      "synonyms": [
+        "Small",
+        "incision",
+        "lenticule",
+        "extraction",
+        "SMILE"
+      ],
+      "operation_type": "激光/能量操作"
+    },
+    {
+      "id": "icl",
+      "section": "CR",
+      "subspecialty": "屈光",
+      "zh": "有晶状体眼人工晶状体",
+      "en": "ICL phakic intraocular lens",
+      "pattern": "\\bICL\\b|phakic|有晶状体眼",
+      "synonyms": [
+        "ICL",
+        "phakic",
+        "intraocular",
+        "lens"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "ptosis",
+      "section": "OCP",
+      "subspecialty": "眼睑",
+      "zh": "上睑下垂",
+      "en": "Ptosis levator MMCR frontalis sling",
+      "pattern": "ptosis|levator|frontalis|Müller|Muller|上睑下垂|额肌",
+      "synonyms": [
+        "Ptosis",
+        "levator",
+        "MMCR",
+        "frontalis",
+        "sling"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "lid-malposition",
+      "section": "OCP",
+      "subspecialty": "眼睑",
+      "zh": "睑内翻与外翻",
+      "en": "Entropion ectropion lateral tarsal strip LTS",
+      "pattern": "entropion|ectropion|malposition|tarsal strip|内翻|外翻",
+      "synonyms": [
+        "Entropion",
+        "ectropion",
+        "lateral",
+        "tarsal",
+        "strip"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "blepharoplasty",
+      "section": "OCP",
+      "subspecialty": "眼睑",
+      "zh": "眼睑成形",
+      "en": "Blepharoplasty",
+      "pattern": "blepharoplasty|眼睑成形",
+      "synonyms": [
+        "Blepharoplasty"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "lid-reconstruction",
+      "section": "OCP",
+      "subspecialty": "眼睑",
+      "zh": "眼睑缺损与重建",
+      "en": "Eyelid reconstruction Mohs flap",
+      "pattern": "eyelid reconstruction|lid.{0,20}defect|Mohs|眼睑.*重建|皮瓣",
+      "synonyms": [
+        "Eyelid",
+        "reconstruction",
+        "Mohs",
+        "flap"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "dcr",
+      "section": "OCP",
+      "subspecialty": "泪道",
+      "zh": "泪囊鼻腔吻合",
+      "en": "DCR dacryocystorhinostomy",
+      "pattern": "dacryocystorhinostomy|\\bDCR\\b|泪囊鼻腔",
+      "synonyms": [
+        "DCR",
+        "dacryocystorhinostomy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "lacrimal",
+      "section": "OCP",
+      "subspecialty": "泪道",
+      "zh": "泪道探通、置管与修复",
+      "en": "Lacrimal probing intubation canalicular repair",
+      "pattern": "nasolacrimal|canalicular|Mini.Monoka|Jones tube|dacryocystorhinostomy|泪道|泪小管",
+      "synonyms": [
+        "Lacrimal",
+        "probing",
+        "intubation",
+        "canalicular",
+        "repair"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "decompression",
+      "section": "OCP",
+      "subspecialty": "眼眶",
+      "zh": "眼眶减压与甲状腺眼病",
+      "en": "Orbital decompression TED",
+      "pattern": "decompression|thyroid eye|减压|甲状腺",
+      "synonyms": [
+        "Orbital",
+        "decompression",
+        "TED"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "orbit-fracture",
+      "section": "OCP",
+      "subspecialty": "眼眶",
+      "zh": "眼眶骨折",
+      "en": "Orbital fracture reconstruction",
+      "pattern": "orbital fracture|眼眶骨折",
+      "synonyms": [
+        "Orbital",
+        "fracture",
+        "reconstruction"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "orbit-tumor",
+      "section": "OCP",
+      "subspecialty": "眼眶",
+      "zh": "眼眶肿瘤与入路",
+      "en": "Orbitotomy cranio-orbital tumors",
+      "pattern": "orbital tumor|orbitotomy|cranio.orbital|眼眶肿瘤",
+      "synonyms": [
+        "Orbitotomy",
+        "cranio-orbital",
+        "tumors"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "socket",
+      "section": "OCP",
+      "subspecialty": "眼眶",
+      "zh": "眼球摘除、内容剜除与义眼座",
+      "en": "Enucleation evisceration anophthalmic socket implant",
+      "pattern": "enucleation|evisceration|anophthalmic|orbital implant|眼球摘除|内容剜除|义眼",
+      "synonyms": [
+        "Enucleation",
+        "evisceration",
+        "anophthalmic",
+        "socket",
+        "implant"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "strabismus",
+      "section": "PTO",
+      "subspecialty": "斜视",
+      "zh": "水平斜视与可调缝线",
+      "en": "Strabismus esotropia exotropia adjustable sutures",
+      "pattern": "strabismus|esotropia|exotropia|adjustable suture|斜视|可调缝线",
+      "synonyms": [
+        "Strabismus",
+        "esotropia",
+        "exotropia",
+        "adjustable",
+        "sutures"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "transposition",
+      "section": "PTO",
+      "subspecialty": "斜视",
+      "zh": "复杂斜视、肌肉移位与斜肌",
+      "en": "Transposition oblique muscle palsy",
+      "pattern": "transposition|oblique|Duane|肌肉移位|斜肌|麻痹性",
+      "synonyms": [
+        "Transposition",
+        "oblique",
+        "muscle",
+        "palsy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "pediatric-cataract",
+      "section": "PTO",
+      "subspecialty": "小儿眼科",
+      "zh": "儿童白内障",
+      "en": "Infant pediatric cataract IATS aphakia",
+      "pattern": "infant.{0,25}cataract|pediatric cataract|aphakia|\\bIATS\\b|儿童白内障|婴儿白内障",
+      "synonyms": [
+        "Infant",
+        "pediatric",
+        "cataract",
+        "IATS",
+        "aphakia"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "rop",
+      "section": "PTO",
+      "subspecialty": "小儿眼科",
+      "zh": "ROP与小儿视网膜手术",
+      "en": "Retinopathy of prematurity ROP",
+      "pattern": "retinopathy of prematurity|\\bROP\\b|早产儿视网膜",
+      "synonyms": [
+        "Retinopathy",
+        "of",
+        "prematurity",
+        "ROP"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "open-globe",
+      "section": "PTO",
+      "subspecialty": "眼外伤",
+      "zh": "开放性眼外伤与伤口修复",
+      "en": "Open globe corneal scleral wound repair",
+      "pattern": "open.globe|corneal wound|scleral wound|开放性|眼球破裂|角膜伤口|巩膜伤口",
+      "synonyms": [
+        "Open",
+        "globe",
+        "corneal",
+        "scleral",
+        "wound",
+        "repair"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "foreign-body",
+      "section": "PTO",
+      "subspecialty": "眼外伤",
+      "zh": "眼内异物与外伤玻切",
+      "en": "IOFB intraocular foreign body traumatic vitrectomy",
+      "pattern": "foreign bod|眼内异物|外伤.*玻切",
+      "synonyms": [
+        "IOFB",
+        "intraocular",
+        "foreign",
+        "body",
+        "traumatic",
+        "vitrectomy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "melanoma",
+      "section": "PTO",
+      "subspecialty": "眼肿瘤",
+      "zh": "葡萄膜与结膜黑色素瘤",
+      "en": "Uveal conjunctival melanoma biopsy brachytherapy COMS",
+      "pattern": "melanoma|brachytherapy|\\bCOMS\\b|黑色素瘤|敷贴",
+      "synonyms": [
+        "Uveal",
+        "conjunctival",
+        "melanoma",
+        "biopsy",
+        "brachytherapy",
+        "COMS"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "ossn",
+      "section": "PTO",
+      "subspecialty": "眼肿瘤",
+      "zh": "眼表鳞状上皮肿瘤",
+      "en": "OSSN ocular surface squamous neoplasia",
+      "pattern": "squamous|\\bOSSN\\b|鳞状上皮",
+      "synonyms": [
+        "OSSN",
+        "ocular",
+        "surface",
+        "squamous",
+        "neoplasia"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "retinoblastoma",
+      "section": "PTO",
+      "subspecialty": "眼肿瘤",
+      "zh": "视网膜母细胞瘤",
+      "en": "Retinoblastoma intra-arterial chemotherapy",
+      "pattern": "retinoblastoma|视网膜母细胞瘤",
+      "synonyms": [
+        "Retinoblastoma",
+        "intra-arterial",
+        "chemotherapy"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "anesthesia",
+      "section": "GEN",
+      "subspecialty": "围手术期",
+      "zh": "眼科麻醉",
+      "en": "Anesthesia sub-Tenon retrobulbar peribulbar",
+      "pattern": "ana?esthesia|retrobulbar|peribulbar|sub.tenon|麻醉",
+      "synonyms": [
+        "Anesthesia",
+        "sub-Tenon",
+        "retrobulbar",
+        "peribulbar"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "infection",
+      "section": "GEN",
+      "subspecialty": "围手术期",
+      "zh": "感染预防与眼内炎",
+      "en": "Endophthalmitis prophylaxis antisepsis intracameral",
+      "pattern": "endophthalmitis|antisepsis|intracameral|眼内炎|感染预防",
+      "synonyms": [
+        "Endophthalmitis",
+        "prophylaxis",
+        "antisepsis",
+        "intracameral"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "safety",
+      "section": "GEN",
+      "subspecialty": "围手术期",
+      "zh": "手术安全",
+      "en": "Surgical safety checklist",
+      "pattern": "surgical safety|patient safety|checklist|手术安全|安全核查|核查表",
+      "synonyms": [
+        "Surgical",
+        "safety",
+        "checklist"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "simulation",
+      "section": "GEN",
+      "subspecialty": "教学与训练",
+      "zh": "模拟训练与学习曲线",
+      "en": "Simulation wet lab learning curve OSATS ICO-OSCAR",
+      "pattern": "simulat|training|learning curve|\\bOSCAR\\b|\\bOSATS\\b|训练|模拟|学习曲线",
+      "synonyms": [
+        "Simulation",
+        "wet",
+        "lab",
+        "learning",
+        "curve",
+        "OSATS",
+        "ICO-OSCAR"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "digital",
+      "section": "GEN",
+      "subspecialty": "数字技术",
+      "zh": "三维数字与机器人",
+      "en": "3D heads up robotic surgery OCT guidance",
+      "pattern": "robot|heads.up|\\b3D\\b|digital|intraoperative OCT|机器人|数字|三维",
+      "synonyms": [
+        "3D",
+        "heads",
+        "up",
+        "robotic",
+        "surgery",
+        "OCT",
+        "guidance"
+      ],
+      "operation_type": "手术/专业主题"
+    },
+    {
+      "id": "cat-general",
+      "section": "CAT",
+      "subspecialty": "总论",
+      "zh": "白内障与人工晶状体总论",
+      "en": "Cataract & IOL overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    },
+    {
+      "id": "ret-general",
+      "section": "RET",
+      "subspecialty": "总论",
+      "zh": "玻璃体视网膜总论",
+      "en": "Vitreoretinal surgery overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    },
+    {
+      "id": "gl-general",
+      "section": "GL",
+      "subspecialty": "总论",
+      "zh": "青光眼总论",
+      "en": "Glaucoma overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    },
+    {
+      "id": "cr-general",
+      "section": "CR",
+      "subspecialty": "总论",
+      "zh": "角膜、眼表与屈光总论",
+      "en": "Cornea, ocular surface & refractive overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    },
+    {
+      "id": "ocp-general",
+      "section": "OCP",
+      "subspecialty": "总论",
+      "zh": "眼整形、眼眶与泪道总论",
+      "en": "Oculoplastics, orbit & lacrimal overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    },
+    {
+      "id": "pto-general",
+      "section": "PTO",
+      "subspecialty": "总论",
+      "zh": "斜视、小儿、外伤与肿瘤总论",
+      "en": "Strabismus, pediatric, trauma & oncology overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    },
+    {
+      "id": "gen-general",
+      "section": "GEN",
+      "subspecialty": "总论",
+      "zh": "围手术期、训练与新技术总论",
+      "en": "Perioperative care, training & technology overview",
+      "pattern": "(?!)",
+      "synonyms": [],
+      "operation_type": "专业主题"
+    }
+  ],
+  "sort": "原文档板块与编号优先；新版在前。可切换发表年份。未使用模型权威评分。",
+  "version": 1
+}

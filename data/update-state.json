@@ -1,0 +1,46 @@
+{
+  "sources": {
+    "EuropePMC-CAT": {
+      "historical_end": "2025-08-17",
+      "last_success": "2026-09-16T15:34:32.384508+00:00",
+      "last_query": "((TITLE_ABS:\"phacoemulsification\" OR TITLE_ABS:\"cataract surgery\" OR TITLE_ABS:\"intraocular lens implantation\" OR TITLE_ABS:\"MSICS\" OR TITLE_ABS:\"capsular tension ring\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "EuropePMC-RET": {
+      "last_success": "2026-09-16T15:34:46.364278+00:00",
+      "last_query": "((TITLE_ABS:\"vitrectomy\" OR TITLE_ABS:\"scleral buckling\" OR TITLE_ABS:\"pneumatic retinopexy\" OR TITLE_ABS:\"macular hole surgery\" OR TITLE_ABS:\"epiretinal membrane peeling\" OR TITLE_ABS:\"submacular hemorrhage\" OR TITLE_ABS:\"subretinal delivery\" OR TITLE_ABS:\"silicone oil removal\" OR TITLE_ABS:\"proliferative vitreoretinopathy\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "EuropePMC-GL": {
+      "last_success": "2026-09-16T15:34:54.099689+00:00",
+      "last_query": "((TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "EuropePMC-CR": {
+      "last_success": "2026-09-16T15:35:10.616456+00:00",
+      "last_query": "((TITLE_ABS:\"keratoplasty\" OR TITLE_ABS:\"DMEK\" OR TITLE_ABS:\"DSAEK\" OR TITLE_ABS:\"DALK\" OR TITLE_ABS:\"limbal stem cell transplantation\" OR TITLE_ABS:\"pterygium surgery\" OR TITLE_ABS:\"corneal perforation\" OR TITLE_ABS:\"corneal cross-linking\" OR TITLE_ABS:\"intracorneal ring\" OR TITLE_ABS:\"LASIK\" OR TITLE_ABS:\"photorefractive keratectomy\" OR TITLE_ABS:\"small incision lenticule extraction\" OR TITLE_ABS:\"implantable collamer lens\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "EuropePMC-OCP": {
+      "last_success": "2026-09-16T15:35:17.739551+00:00",
+      "last_query": "((TITLE_ABS:\"blepharoptosis surgery\" OR TITLE_ABS:\"blepharoplasty\" OR TITLE_ABS:\"eyelid reconstruction\" OR TITLE_ABS:\"entropion surgery\" OR TITLE_ABS:\"ectropion surgery\" OR TITLE_ABS:\"dacryocystorhinostomy\" OR TITLE_ABS:\"canalicular laceration\" OR TITLE_ABS:\"orbital decompression\" OR TITLE_ABS:\"orbital fracture surgery\" OR TITLE_ABS:\"evisceration\" OR TITLE_ABS:\"anophthalmic socket\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "EuropePMC-PTO": {
+      "last_success": "2026-09-16T15:35:21.691395+00:00",
+      "last_query": "((TITLE_ABS:\"strabismus surgery\" OR TITLE_ABS:\"rectus transposition\" OR TITLE_ABS:\"pediatric cataract surgery\" OR TITLE_ABS:\"congenital glaucoma surgery\" OR TITLE_ABS:\"retinopathy of prematurity vitrectomy\" OR TITLE_ABS:\"open globe repair\" OR TITLE_ABS:\"intraocular foreign body\" OR TITLE_ABS:\"uveal melanoma biopsy\" OR TITLE_ABS:\"conjunctival melanoma surgery\" OR TITLE_ABS:\"retinoblastoma enucleation\" OR TITLE_ABS:\"ocular surface squamous neoplasia\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "EuropePMC-GEN": {
+      "last_success": "2026-09-16T15:35:25.832370+00:00",
+      "last_query": "(((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
+    },
+    "Video-Moran": {
+      "last_success": "2026-09-16T15:43:45.928639+00:00",
+      "last_directory_hashes": [
+        "0d75c84fed286b74ca39ff38574d727395fdf40317233765aa13e18ab1de23ba"
+      ]
+    },
+    "Video-Cybersight": {
+      "last_success": "2026-09-16T15:43:52.600818+00:00",
+      "last_directory_hashes": [
+        "f3d7e5ef6ab4d339d1de16abf89b2e891a43689f70e53ec703ed867e1ef00ecf"
+      ]
+    }
+  },
+  "rotation": 1
+}
