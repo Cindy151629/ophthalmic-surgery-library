@@ -7,3 +7,4 @@ data/versions/
 *.html
 .update.lock
 .env*
+!src/index.html
