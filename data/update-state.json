@@ -30,17 +30,23 @@
       "last_query": "(((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])"
     },
     "Video-Moran": {
-      "last_success": "2026-09-16T15:43:45.928639+00:00",
+      "last_success": "2026-09-16T16:03:09.014723+00:00",
       "last_directory_hashes": [
         "0d75c84fed286b74ca39ff38574d727395fdf40317233765aa13e18ab1de23ba"
       ]
     },
     "Video-Cybersight": {
-      "last_success": "2026-09-16T15:43:52.600818+00:00",
+      "last_success": "2026-09-16T16:03:19.286269+00:00",
       "last_directory_hashes": [
         "f3d7e5ef6ab4d339d1de16abf89b2e891a43689f70e53ec703ed867e1ef00ecf"
       ]
+    },
+    "Video-EyeRounds": {
+      "last_success": "2026-09-16T16:03:22.055878+00:00",
+      "last_directory_hashes": [
+        "14991943d48ac471693108ec6628a3e91ee5bc2d71b7108e328cfd47bc2a2944"
+      ]
     }
   },
-  "rotation": 1
+  "rotation": 2
 }
