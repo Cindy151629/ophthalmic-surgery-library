@@ -1,9 +1,9 @@
 {
   "domain_id": "ophthalmic-surgery",
   "schema_version": 1,
-  "status": "running",
+  "status": "partial",
   "started_at": "2026-09-16T18:02:31.613242+00:00",
-  "finished_at": null,
+  "finished_at": "2026-09-16T18:03:07.047343+00:00",
   "event": "workflow_dispatch",
   "first_started_at": "2026-09-16T15:59:47.670583+00:00",
   "last_success": null,
@@ -11,10 +11,83 @@
   "run_id": "35131883574",
   "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35131883574",
   "observed_scheduled_run": null,
-  "steps": {},
-  "rollback": {
-    "status": "not_checked"
+  "steps": {
+    "started": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "start_saved": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "dependencies": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "recovery": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "update": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "publication_guard": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "tests": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "pages_config": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "upload": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "deployment": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "verification": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "pin": {
+      "outcome": "success",
+      "conclusion": "success"
+    },
+    "recovery_upload": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    },
+    "rollback": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    },
+    "rollback_check": {
+      "outcome": "skipped",
+      "conclusion": "skipped"
+    }
   },
-  "last_errors": [],
-  "last_counts": {}
+  "rollback": {
+    "available": true,
+    "status": "ready",
+    "commit": "ed333c097c3e60c38911893bdab828c62391a847",
+    "data_version": "9a4dfa537f3c66071148b84a6f1354b6c04a7f0dd4525a6579a904ea4d773410"
+  },
+  "last_errors": [
+    {
+      "source": "Primary-links",
+      "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
+    }
+  ],
+  "last_counts": {
+    "added": 103,
+    "staged": 651,
+    "records": 1251
+  }
 }
