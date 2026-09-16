@@ -1,0 +1,85 @@
+[
+  {
+    "id": "eye-a-20e47e09edea",
+    "title": "Pseudophakic cystoid macular edema: update 2016",
+    "removed_false_tags": [
+      "icl"
+    ],
+    "retained": [
+      "cataract-complication"
+    ]
+  },
+  {
+    "id": "eye-a-c1565a54ab4f",
+    "title": "Comparison of topical nepafenac 0.1% and 0.3% for the treatment of pseudophakic cystoid macular edema following cataract surgery.",
+    "removed_false_tags": [
+      "icl"
+    ],
+    "retained": [
+      "cataract-complication"
+    ]
+  },
+  {
+    "id": "eye-a-6d067c1e47db",
+    "title": "Needle-assisted iris-claw lens implantation: A novel, simplified technique for aphakia without capsular support.",
+    "removed_false_tags": [
+      "pediatric-cataract"
+    ],
+    "retained": [
+      "iol-fixation"
+    ]
+  },
+  {
+    "id": "eye-a-29e9f25803bb",
+    "title": "Comparative outcomes of posterior sub-Tenon triamcinolone for pseudophakic cystoid macular edema in diabetic and non-diabetic patients: a retrospective study.",
+    "removed_false_tags": [
+      "icl"
+    ],
+    "retained": [
+      "anesthesia",
+      "cataract-complication"
+    ]
+  },
+  {
+    "id": "eye-a-49e838113cca",
+    "title": "Yamane Technique Versus Prolene Mesh for Intraocular Lens Scleral Fixation in Aphakia.",
+    "removed_false_tags": [
+      "pediatric-cataract"
+    ],
+    "retained": [
+      "iol",
+      "iol-fixation"
+    ]
+  },
+  {
+    "id": "eye-a-4c9c2d31f23b",
+    "title": "Short-term outcomes of selective laser trabeculoplasty in pseudophakic primary angle-closure glaucoma after iridotomy: a retrospective pilot comparison with primary open-angle glaucoma.",
+    "removed_false_tags": [
+      "icl"
+    ],
+    "retained": [
+      "gl-laser"
+    ]
+  },
+  {
+    "id": "eye-a-056e56735f5c",
+    "title": "Vitrectomy with and without encircling band for pseudophakic retinal detachment: VIPER study report No. 4-long-term results.",
+    "removed_false_tags": [
+      "icl"
+    ],
+    "retained": [
+      "ppv"
+    ]
+  },
+  {
+    "id": "eye-a-9525455475f6",
+    "title": "[Clinical efficacy of 12 o'clock peripheral iridectomy in aphakic eyes undergoing pars plana vitrectomy with heavy silicone oil tamponade].",
+    "removed_false_tags": [
+      "icl"
+    ],
+    "retained": [
+      "ppv",
+      "silicone"
+    ]
+  }
+]

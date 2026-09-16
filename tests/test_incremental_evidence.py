@@ -30,4 +30,25 @@ class IncrementalEvidence(unittest.TestCase):
    steps['deployment']={'outcome':'failure','conclusion':'failure'}
    cloud_recovery.finish_runtime(root,steps)
    self.assertEqual(cloud_recovery.read(root/'data/status.json')['last_success'],'previous-complete')
+ def test_pseudophakic_is_not_phakic_icl(self):
+  from import_seeds import classify
+  tax=json.loads((Path(__file__).resolve().parents[1]/'config/taxonomy.json').read_text())
+  r={'aliases':[{'id':'CAT-A28'}],'title':'Pseudophakic cystoid macular edema: update 2016'}
+  self.assertNotIn('icl',classify(r,tax)['procedures'])
+ def test_proptosis_is_not_blepharoptosis(self):
+  from import_seeds import classify
+  tax=json.loads((Path(__file__).resolve().parents[1]/'config/taxonomy.json').read_text())
+  r={'aliases':[{'id':'OCP-A01'}],'title':'Orbital decompression for proptosis'}
+  self.assertNotIn('ptosis',classify(r,tax)['procedures'])
+ def test_adult_aphakia_is_not_infant_cataract(self):
+  from import_seeds import classify
+  tax=json.loads((Path(__file__).resolve().parents[1]/'config/taxonomy.json').read_text())
+  r={'aliases':[{'id':'CAT-A01'}],'title':'Intraocular lens fixation in adult aphakia'}
+  self.assertNotIn('pediatric-cataract',classify(r,tax)['procedures'])
+ def test_publication_only_does_not_advance_discovery_attempt(self):
+  with tempfile.TemporaryDirectory() as tmp,patch.dict(os.environ,{'OPHTH_REFRESH_SOURCES':'false'}):
+   root=Path(tmp);cloud_recovery.write(root/'data/status.json',{'last_attempt':'prior-real-discovery'})
+   runtime=cloud_recovery.start_runtime(root)
+   self.assertEqual(runtime['run_scope'],'publish-reviewed')
+   self.assertEqual(cloud_recovery.read(root/'data/status.json')['last_attempt'],'prior-real-discovery')
 if __name__=='__main__':unittest.main()

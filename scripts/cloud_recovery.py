@@ -216,6 +216,7 @@ def start_runtime(root):
         'started_at': stamp, 'finished_at': None, 'event': event,
         'first_started_at': old.get('first_started_at') or old.get('started_at') or stamp,
         'last_success': old.get('last_success'),
+        'run_scope': 'publish-reviewed' if os.environ.get('OPHTH_REFRESH_SOURCES') == 'false' else 'update-and-publish',
         'run_id': os.environ.get('GITHUB_RUN_ID'),
         'run_url': 'https://github.com/' + os.environ.get('GITHUB_REPOSITORY', '')
                    + '/actions/runs/' + os.environ.get('GITHUB_RUN_ID', ''),
@@ -225,7 +226,10 @@ def start_runtime(root):
     }
     state = read(root / 'data/status.json', {})
     state.setdefault('first_attempt', stamp)
-    state.update(last_attempt=stamp, last_attempt_status='running', last_counts={}, last_errors=[])
+    if result['run_scope'] == 'update-and-publish':
+        state.update(last_attempt=stamp, last_attempt_status='running', last_counts={}, last_errors=[])
+    else:
+        state['last_publish_attempt'] = stamp
     write(root / 'data/status.json', state)
     write(root / 'data/runtime-status.json', result)
     return result
@@ -255,7 +259,7 @@ def finish_runtime(root, step_results):
         # Retain successful source watermarks; only the attempt outcome changes.
         state.update(last_attempt=runtime.get('started_at', now()), last_attempt_status='failed',
                      last_errors=runtime['last_errors'])
-    elif runtime['status'] == 'success':
+    elif runtime['status'] == 'success' and runtime.get('run_scope') != 'publish-reviewed':
         runtime['last_success'] = runtime['finished_at']
         state['last_success'] = runtime['finished_at']
     receipt = read(root / 'data/publication-status.json', {})

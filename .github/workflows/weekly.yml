@@ -4,6 +4,12 @@ on:
     - cron: '17 9 * * 1'
       timezone: Asia/Shanghai
   workflow_dispatch:
+    inputs:
+      refresh_sources:
+        description: 'Run source discovery; disable only to publish reviewed data/UI fixes'
+        required: true
+        type: boolean
+        default: true
 permissions:
   contents: write
   actions: read
@@ -16,6 +22,8 @@ jobs:
   update-publish:
     runs-on: ubuntu-24.04
     timeout-minutes: 120
+    env:
+      OPHTH_REFRESH_SOURCES: ${{ github.event_name != 'workflow_dispatch' || inputs.refresh_sources }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -42,10 +50,15 @@ jobs:
       - name: Restore previous verified artifact for recovery
         id: recovery
         run: python scripts/cloud_recovery.py restore --directory previous-site
-      - name: Discover, verify, deduplicate, preserve notes, and build
+      - name: Refresh sources or publish the reviewed data according to run scope
         id: update
         timeout-minutes: 90
-        run: python scripts/update.py
+        run: |
+          if [ "$OPHTH_REFRESH_SOURCES" = "true" ]; then
+            python scripts/update.py
+          else
+            python scripts/build.py
+          fi
       - name: Test data safety, source outages, and identity boundaries
         id: tests
         run: python -m unittest discover -s tests -v

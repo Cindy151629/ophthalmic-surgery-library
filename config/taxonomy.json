@@ -548,7 +548,7 @@
       "subspecialty": "屈光",
       "zh": "有晶状体眼人工晶状体",
       "en": "ICL phakic intraocular lens",
-      "pattern": "\\bICL\\b|phakic|有晶状体眼",
+      "pattern": "\\bICL\\b|\\bphakic\\b|有晶状体眼",
       "synonyms": [
         "ICL",
         "phakic",
@@ -563,7 +563,7 @@
       "subspecialty": "眼睑",
       "zh": "上睑下垂",
       "en": "Ptosis levator MMCR frontalis sling",
-      "pattern": "ptosis|levator|frontalis|Müller|Muller|上睑下垂|额肌",
+      "pattern": "\\b(?:blepharo)?ptosis\\b|levator|frontalis|Müller|Muller|上睑下垂|额肌",
       "synonyms": [
         "Ptosis",
         "levator",
@@ -740,7 +740,7 @@
       "subspecialty": "小儿眼科",
       "zh": "儿童白内障",
       "en": "Infant pediatric cataract IATS aphakia",
-      "pattern": "infant.{0,25}cataract|pediatric cataract|aphakia|\\bIATS\\b|儿童白内障|婴儿白内障",
+      "pattern": "infant.{0,25}cataract|pediatric cataract|(?:infant|pediatric|child).{0,25}aphakia|\\bIATS\\b|儿童白内障|婴儿白内障",
       "synonyms": [
         "Infant",
         "pediatric",

@@ -17,7 +17,7 @@ python scripts/update.py
 
 ## 云端每周维护
 
-GitHub Actions 的 `weekly.yml` 按 Asia/Shanghai 每周一 09:17 调度，也支持 workflow_dispatch。调度 active、手动触发运行完成、未来某次定时实际发生，是三种不同证据。网页分别读取运行状态和已验证发布回执。
+GitHub Actions 的 `weekly.yml` 按 Asia/Shanghai 每周一 09:17 调度，也支持 workflow_dispatch。手动发布已经核验的目录/页面修订时可关闭 refresh_sources；该模式会明确记录为 publish-reviewed，不推进任何发现水位。定时运行始终执行来源发现。调度 active、手动触发运行完成、未来某次定时实际发生，是三种不同证据。网页分别读取运行状态和已验证发布回执。
 
 程序以 Europe PMC/PubMed 和配置的官方视频目录为来源，完整分页、30 天重叠窗口、七板块轮转历史补检，逐项去重和核验。符合自动规则的题录、具体视频页可发布；正文阅读不由定时脚本伪造。失败的来源不推进成功水位；网络失败不删除旧条目。来源连续失败时暂停同源链接重试并记录延期范围，避免整库受一次来源故障拖累。
 
