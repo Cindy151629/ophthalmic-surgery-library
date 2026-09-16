@@ -1,113 +1,19 @@
 {
   "domain_id": "ophthalmic-surgery",
   "schema_version": 1,
-  "status": "partial",
-  "started_at": "2026-09-16T15:59:47.670583+00:00",
-  "finished_at": "2026-09-16T16:05:30.246903+00:00",
+  "status": "running",
+  "started_at": "2026-09-16T16:12:29.622474+00:00",
+  "finished_at": null,
   "event": "workflow_dispatch",
-  "run_id": "35118990819",
-  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35118990819",
+  "first_started_at": "2026-09-16T15:59:47.670583+00:00",
+  "last_success": null,
+  "run_id": "35120385003",
+  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35120385003",
   "observed_scheduled_run": null,
-  "steps": {
-    "started": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "start_saved": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "dependencies": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "update": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "tests": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pages_config": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "upload": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "deployment": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "verification": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pin": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery_upload": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback_check": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    }
-  },
+  "steps": {},
   "rollback": {
-    "available": false,
-    "status": "unavailable",
-    "reason": "No externally verified previous release exists"
+    "status": "not_checked"
   },
-  "last_errors": [
-    {
-      "source": "EuropePMC-CAT",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "EuropePMC-RET",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "EuropePMC-GL",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "EuropePMC-CR",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "EuropePMC-OCP",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "EuropePMC-PTO",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "EuropePMC-GEN",
-      "reason": "部分PubMed原始题录取得失败；保留上次成功水位"
-    },
-    {
-      "source": "PubMed-status",
-      "reason": "来源复核未完成"
-    }
-  ],
-  "last_counts": {
-    "added": 130,
-    "staged": 1157,
-    "records": 1148
-  }
+  "last_errors": [],
+  "last_counts": {}
 }
