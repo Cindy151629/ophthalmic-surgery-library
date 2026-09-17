@@ -9,12 +9,19 @@ def completion(record):
  return 'substantive' if n.get('completion')=='substantive' else 'limited'
 
 def audit(records):
- articles=[r for r in records if r.get('kind')=='literature'];errors=[];gaps=[];fingerprints={}
+ articles=[r for r in records if r.get('kind')=='literature'];errors=[];gaps=[];concerns=[];fingerprints={}
  for r in articles:
   n=r.get('note');status=completion(r)
   if status!='substantive':
    gaps.append({'id':r['id'],'title':r['title'],'pmid':r.get('pmid'),'status':status,'scope':n.get('scope') if n else None,'reason':n.get('limitations',[]) if n else ['尚未形成逐篇阅读笔记'],'sources':n.get('sources',[]) if n else []})
   if not n:continue
+  issues=n.get('evidence_issues',[])
+  valid_issues=isinstance(issues,list) and all(isinstance(x,str) and x.strip() for x in issues)
+  if not valid_issues:errors.append(r['id']+': evidence issues must be a list of nonempty text')
+  if n.get('evidence_status')=='concerns' and not issues:errors.append(r['id']+': concern status requires actual issue descriptions')
+  if issues and valid_issues:
+   if n.get('evidence_status')!='concerns':errors.append(r['id']+': evidence issues require explicit concern status')
+   concerns.append({'id':r['id'],'title':r['title'],'pmid':r.get('pmid'),'completion':status,'scope':n.get('scope'),'issues':issues,'sources':n.get('sources',[])})
   if n.get('completion')=='substantive' and n.get('scope') in ('metadata','restricted'):errors.append(r['id']+': title-only/restricted note cannot be complete')
   if status=='substantive':
    for k in ('question','design','methods','results','interpretation','limitations','sources'):
@@ -28,8 +35,8 @@ def audit(records):
    if u.scheme not in ('https','http') or not u.netloc or u.username or u.password:errors.append(r['id']+': invalid source URL')
   if '/Users/' in json.dumps(n,ensure_ascii=False):errors.append(r['id']+': private path')
  sections={s:dict(Counter(completion(r) for r in articles if r.get('section')==s)) for s in sorted({r.get('section') for r in articles})}
- return {'articles':len(articles),'with_note':sum(bool(r.get('note')) for r in articles),'completion':dict(Counter(completion(r) for r in articles)),'reading_scopes':dict(Counter((r.get('note') or {}).get('scope','pending') for r in articles)),'sections':sections,'definition':'substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为待补证据或需复核，pending为未取得实质内容。','errors':errors,'gaps':gaps}
+ return {'articles':len(articles),'with_note':sum(bool(r.get('note')) for r in articles),'completion':dict(Counter(completion(r) for r in articles)),'reading_scopes':dict(Counter((r.get('note') or {}).get('scope','pending') for r in articles)),'sections':sections,'source_concerns':len(concerns),'concerns':concerns,'definition':'substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为实质内容仍待补充，pending为未取得实质内容。原文报告问题用concerns独立记录；完整的批判性笔记不意味着原文数据可靠。','errors':errors,'gaps':gaps}
 
 if __name__=='__main__':
  from common import ROOT,read,write
- report=audit(read(ROOT/'data/records.json',[]));write(ROOT/'reports/note-coverage.json',report);print(json.dumps({k:v for k,v in report.items() if k!='gaps'},ensure_ascii=False));raise SystemExit(bool(report['errors']))
+ report=audit(read(ROOT/'data/records.json',[]));write(ROOT/'reports/note-coverage.json',report);print(json.dumps({k:v for k,v in report.items() if k not in ('gaps','concerns')},ensure_ascii=False));raise SystemExit(bool(report['errors']))

@@ -39,7 +39,7 @@ def build():
  raw=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
  html=(ROOT/'src/index.html').read_text().replace('/*STYLE*/',(ROOT/'src/style.css').read_text()).replace('/*SCRIPT*/',(ROOT/'src/app.js').read_text()).replace('/*DATA*/',raw)
  tmp=site/'index.html.tmp';tmp.write_text(html);tmp.replace(site/'index.html');shutil.copy2(site/'index.html',ROOT/'眼科手术阅读库.html');(site/'.nojekyll').write_text('')
- write(site/'note-audit.json',notes_audit);write(site/'records.json',public);write(site/'manifest.json',{'version':version,'built_at':data['built_at'],'records':len(records),'status':status,'notes':{k:notes_audit[k] for k in ['articles','with_note','completion','reading_scopes']}});write(ROOT/'reports/coverage.json',cov)
+ write(site/'note-audit.json',notes_audit);write(site/'records.json',public);write(site/'manifest.json',{'version':version,'built_at':data['built_at'],'records':len(records),'status':status,'notes':{k:notes_audit[k] for k in ['articles','with_note','completion','reading_scopes','source_concerns']}});write(ROOT/'reports/coverage.json',cov)
  write(ROOT/'reports/build.json',{'at':now(),'version':version,'records':len(records),'kinds':dict(Counter(r['kind'] for r in records)),'note_scopes':dict(Counter(r.get('note',{}).get('scope') if r.get('note') else 'pending' for r in records if r['kind']=='literature')),'note_completion':notes_audit['completion'],'identities':dict(Counter(r['identity']['status'] for r in records)),'videos':dict(Counter(r['video']['playback'] for r in records if r['kind']=='video'))})
  print('built',len(records),version,flush=True)
 if __name__=='__main__':build()

@@ -1,0 +1,368 @@
+[
+  {
+    "id": "eye-a-3a61e9760ecd",
+    "title": "Comparisons of the short-term effectiveness and safety of surgical treatment for neovascular glaucoma: a systematic review and network meta-analysis",
+    "pmid": "35613778",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "摘要和Results成功率段将OR写为负值；图3明确为正OR并标有比较方向。笔记引用原图，不替作者改写摘要。",
+      "统计方法印出的变化值SD公式含两个方差相乘，量纲与前两项不一致；未获得分析代码，不能确定实际计算是否使用该式。",
+      "表4六个月闭环不一致性P=0.395，而文字称显著不一致；此判断不符合通常0.05阈值。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131079/",
+        "locator": "Methods—Statistical analysis；Results—IOPR、Success rate；Table 4；Discussion"
+      },
+      {
+        "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/94fc/9131079/b60c868fa430/bmjopen-2021-051794f03.jpg",
+        "locator": "Figure 3右侧Success rate面板，逐行核对OR、区间及比较方向"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-a93898d95cd4",
+    "title": "Integrated versus non-integrated orbital implants for treating anophthalmic sockets.",
+    "pmid": "27820878",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "摘要将PP暴露4/50与PMMA的6/100比较并列RR 17.82，无法由该2×2表重现；正文6/50实际指上睑沟畸形。未取得原始试验完整事件表，保留RR计算与终点定义警示。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6465188/",
+        "locator": "Results—Included studies及Clinical characteristics表；Risk of bias；Effects of interventions—Successful procedures、Motility、Adverse events；Discussion"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20417565/",
+        "locator": "Shome 2010原试验身份及摘要；期刊正文访问未成功，未声称已核原始事件表"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-c03f9d7a3924",
+    "title": "Three-Dimensional Heads-Up vs. Standard Operating Microscope for Cataract Surgery: A Systematic Review and Meta-Analysis",
+    "pmid": "36140501",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Results 3.1把BCVA/并发症的研究数写为9/5，实际3.3和3.5及对应引用为5/9；同一文章分析口径报告不一致。",
+      "图2C使用的效应与无并发症比例一致，但结果段和图题称术中并发症RR，存在结局编码/标签冲突。复算仅用来定位问题，没有以新的事件模型替作者发表修正结果。",
+      "图2A的BCVA总效应为+0.01，而Results 3.3写−0.01；已以图示记录，不宣称正式更正。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497825/",
+        "locator": "Methods 2.1、2.7；Table 1；Results 3.1、3.3–3.6；Discussion"
+      },
+      {
+        "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/9497825/97455c76ddaf/diagnostics-12-02100-g002.jpg",
+        "locator": "Figure 2A与2C原图；与Table 1的Berquet/Wang事件数复算核对"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-b0d6fcb366a3",
+    "title": "A soft micron accuracy robot design and clinical validation for retinal surgery",
+    "pmid": "40925902",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Clinical assessment把1.24/0.78称为mean LogMAR而讨论称改善量；表1与Statistical analysis支持均方根改善量解释，原文措辞仍容易误导。",
+      "Recruitment写10例随机之外另有6例急性出血；Anesthesia写前5例黄斑前膜、后5例局麻，与表1全为出血病例及结果全麻描述不一致；实际入组流向和麻醉人群未澄清。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12420835/",
+        "locator": "Results—Teleoperation test、Evaluation of live animal experiment、Clinical assessment；Table 1；Figure 7；Experimental section—Recruitment and eligibility、Anesthesia、Statistical analysis；Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-d976827c27f5",
+    "title": "Femtosecond laser-assisted cataract surgery compared with phacoemulsification cataract surgery: randomized noninferiority trial with 1-year outcomes",
+    "pmid": "32773608",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "摘要写FLACS 311/392、PCS 292/393回访；正文Results写FLACS 292/392、PCS 311/393，Discussion失访比例支持后者。没有擅自选一组作为已核准人数。",
+      "表1图像及摘要双眼CDVA 95%CI为−0.05至+0.002而P=0.036；Results文字写上限−0.002。点估计约−0.02 logMAR一致，但区间符号与显著性报告不一致；已读正式勘误未解决此项。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000257",
+        "locator": "Methods；Results；Tables 1–2；Economic evaluation；Discussion"
+      },
+      {
+        "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000504",
+        "locator": "Erratum：协作作者名单更正"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-1e1ae7688720",
+    "title": "In-bag vs out-of-bag intraocular lens implantation for ectopia lentis: prospective comparative study.",
+    "pmid": "41423799",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Methods和Table 1合计814眼，但Consistency Check首句写841 cases，疑为笔误；以表1眼数记录并保留冲突。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000001759",
+        "locator": "Patient enrollment；Statistical analysis；Tables 1–2；Functional/Refractive outcomes；Consistency check；Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-6d067c1e47db",
+    "title": "Needle-assisted iris-claw lens implantation: A novel, simplified technique for aphakia without capsular support.",
+    "pmid": "42060946",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Conclusion声称降低术后并发症并推荐普遍采用，但正文没有提供支持这一比较效应的临床数据。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13235813/",
+        "locator": "Preoperative Evaluation；Surgical Technique及Figures 1–4；Discussion；Conclusion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-dba338b2989d",
+    "title": "Efficacy of fluid flow posterior capsule polishing in reducing capsule rupture and enhancing visual recovery during phacoemulsification cataract surgery.",
+    "pmid": "41021122",
+    "completion": "limited",
+    "scope": "abstract",
+    "issues": [
+      "机械组15.38%与报告146眼不对应整数计数；分析分母尚未确定。",
+      "官方数据声明称模拟实验，摘要称临床随机研究；需取得完整方法才能核实。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
+        "locator": "结构式摘要Methods/Results"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
+        "locator": "Abstract、Data availability及正文订阅限制"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-a6732a7610b1",
+    "title": "Comparison of Clinical Outcomes Between Femtosecond Laser-assisted Cataract Surgery and Phacoemulsification in Patients with Diabetes: A Systematic Review.",
+    "pmid": "42564994",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "表1各组人数合计649而结果写345，未说明另选亚组的分母。",
+      "方法明确未作正式Meta分析，Results却称“pooled effect”“forest plot”；未提供可追溯合并模型和区间。",
+      "Kang比较组、Ma黄斑结果引用、Tang随访以及Yang偏倚等级的正文/表格不一致，影响直接适用性。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446067/",
+        "locator": "Methods—Data Synthesis and Statistical Analysis；Results—Study Characteristics、Risk of Bias、Primary Outcomes；Tables 1–5；Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-3c979c93a02b",
+    "title": "A Comparative Study of Surgically Induced Astigmatism From Temporal and Steep-Axis Clear Corneal Incisions in Phacoemulsification Cataract Surgery.",
+    "pmid": "41058836",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Tables 2–4同一时间点的UCVA/BCVA分类、均值和检验不相容；尚未取得正式更正或逐例视力数据。",
+      "表4把术前量标为SIA且非零，未说明该术前“术源性”指标的定义；研究设计称观察性又描述随机分配，报告需澄清。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12498305/",
+        "locator": "Materials and methods—Study design、Randomization、Postoperative assessment；Tables 2–6；Discussion—Limitations"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-0922dad5d483",
+    "title": "Postoperative Decline in Antioxidant Concentrations in Aqueous Humor: Comparison Between Femtosecond Laser-assisted Cataract Surgery and Conventional Cataract Surgery.",
+    "pmid": "40877159",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Results把术后残余比例标为下降比例；Table III可定位并复算，本笔记保留原数和复算口径。",
+      "高度近视AA aOR正文0.81而Table IV为0.281；连续结局使用aOR的模型定义仍不足，不能解释为临床风险降低。",
+      "Table IV高眼压行标<21mmHg，与方法>21mmHg不一致；亚组阈值需作者澄清。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12396061/",
+        "locator": "Patients and Methods—Antioxidant agent measurement、Statistical analysis；Results；Discussion—Study limitations"
+      },
+      {
+        "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/5aadeac4e6d5/in_vivo-39-2732-i0002.jpg",
+        "locator": "Table III原图：基线、术后及Change三行"
+      },
+      {
+        "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/25d1123f0f4d/in_vivo-39-2734-i0001.jpg",
+        "locator": "Table IV原图：高度近视AA aOR及高眼压阈值"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-acc4cee57712",
+    "title": "Real-World IOL Performance with Bilateral Plano Outcomes After Cataract Surgery: A Prospective, Comparative Study.",
+    "pmid": "42534280",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Results把逐眼选择回答误称patients；眼数来源可解释，独立观察假设仍需澄清。",
+      "双眼视力统计报告F(2,241)，与121名患者、甚至242眼三组的通常残差自由度都不一致；无法据摘要重建分析集。",
+      "Q6三组满意度结果写F(3,241)、p<0.51，讨论写p=0.051；两处口径不同，不能把某一个值擅作正式更正。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420260/",
+        "locator": "Materials and Methods—Eligibility、RCSS、Statistical comparisons；Results—Visual Acuity、Patient Satisfaction、Lens Selection；Table 1；Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-6987caf69ac5",
+    "title": "Predictive Accuracy of Intraocular Lens Power Calculation Formulas for Cataract Surgery in Keratoconus: A Systematic Review and Network Meta-Analysis.",
+    "pmid": "42199326",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "表2总体530眼可复现；表1多个结局分母超过公式总眼数，原始提取集未附可用解释。",
+      "Bayesian模型、netmeta实现及CI/CrI混用，模型复现要素不足；同眼多公式协方差处理未清楚报告。",
+      "达标率效应被正文称MD但数量和意义属比例比较；笔记不把这些数解释成屈光度差。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13200680/",
+        "locator": "Methods—Study Outcomes、Statistical Analysis；Tables 1–3；Results—MPE、MAE、PE within ±0.50D/±1.00D；Discussion—limitations"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-963108d113a4",
+    "title": "Different formulations of corticosteroid eye drops at different treatment times in the control of inflammation and prevention of cystoid macular edema after cataract surgery: randomized clinical trial.",
+    "pmid": "41294172",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "摘要地塞米松写1%，PDF Methods为0.1% Maxidex；笔记明确采用方法中的制剂信息，未当作正式勘误。",
+      "PDF Results/Discussion的CME比例与Table 4人数不符；按表仅提供可复核的独立计算。",
+      "摘要反跳的疗程描述与正文以10天组为主不一致；表1术眼左右分母也少于各组总数，缺失处理未解释。"
+    ],
+    "sources": [
+      {
+        "url": "https://aboonline.org.br/export-pdf/6791/v89n1e2025-0097.pdf",
+        "locator": "官方PDF第2页Methods药物浓度；第3页入组/终点；第4和6页Tables 1–3；第6–7页CME、Rebound和Table 4；第7–8页Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-c583626e4cfe",
+    "title": "Visco-circumferential-suture-trabeculotomy-synechiolysis with phacoemulsification versus phacoemulsification alone for chronic primary angle closure glaucoma.",
+    "pmid": "40958099",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "方法与表1/3称视力为Decimal，但结果按logMAR解释0.59/0.60降至0.30/0.35为改善；尺度未澄清，不能确认视觉改善量。",
+      "讨论将P=0.074称显著，且重度积血正文1例与表4的2例不一致。",
+      "基线眼压离散量表注为SD时，与独立t检验所列P值不匹配；可能存在SD/SE或分析集标记问题，未擅自改数。",
+      "19位跨两组双眼患者的分组患者数报告与总独立人数关系不清，需要病例流程表解释。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12439390/",
+        "locator": "Patients and methods—Eligibility、bilateral assignment、conversion exclusion、Outcome measures、Statistics；Tables 1–4；Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-e47268c5a507",
+    "title": "Preoperative and Intraoperative Risk Factors for Short-Term Corneal Endothelial Cell Loss After Phacoemulsification in Dogs: A Comparative Study.",
+    "pmid": "40984013",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "摘要术后CED的SD为29，正文/表2为293；摘要CCT597至620与其称增加8不相容，表4为598至606。引用表中数值并保留摘要冲突。",
+      "Results称糖尿病犬内皮损失较多，而表2和讨论均为较少；本笔记按表报告，不替作者发布更正。",
+      "回归表Beta与SE/t的尺度说明不充分，可能混用标准化和非标准化系数；不将其解释为每毫米眼轴的细胞数量因果效应。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961251/",
+        "locator": "Materials and Methods 2.1、2.2、2.7、2.8；Results 3.1–3.3及Tables 1–4；Discussion—diabetes及limitations；与PubMed摘要逐项比对"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-5cf196b9ecea",
+    "title": "International consensuses and guidelines on multifocal intraocular lenses (IOLs) by the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO).",
+    "pmid": "41419160",
+    "completion": "substantive",
+    "scope": "partial",
+    "issues": [
+      "Statement 1.1写共识分数100%，但列出的strongly agree 50%+agree 45.45%=95.45%，与自身定义不合。",
+      "Statement 6.4称年轻年龄与更佳适应/满意度相关且不是绝对预测，Discussion却称年轻患者更难适应；8.2对年轻人EDOF的表述也与Discussion方向不一致。不能合成为一个无争议推荐。",
+      "Statement 11.2正文共识分数90.91%，Table 3同一条列81.82%，投票百分比也不同；需要作者澄清。上述差异未被已核读100280勘误覆盖。"
+    ],
+    "sources": [
+      {
+        "url": "https://doi.org/10.1016/j.apjo.2025.100274",
+        "locator": "Methodology；Statements 6.2–6.4、7.1–7.6、8.1–8.3、9.1–9.5、10.2；Results of voting and discussion；Table 3"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/S216209892600006X",
+        "locator": "Corrigendum 100280：Artis Symbiose Addition(D)/IDF更正段落"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-76776aed8809",
+    "title": "Enhanced Monovision Intraocular Lenses: Current Status and Future Perspectives-Systematic Review.",
+    "pmid": "41595610",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "199/297和250/364可由表中新增51/67人解释，但讨论与结果段没有同步使用同一纳入集合。",
+      "Table 4逐项均值不能复现Table 6若干“更新”汇总；笔记给出明确复算口径，未假称正式更正。",
+      "Scarfone镜片在Table 2写Clareon SY60WF，Table 7却写Clareon Vivity；设备身份需回到原研究核实，不能把它们当同一光学设计。",
+      "Table 8多行明确“未测量像差”却推论像差无改变，超出直接测量证据。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838369/",
+        "locator": "Methods 2.1–2.5；Tables 2、4、5、6、8、9；Results 3.1–3.6；Discussion"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-1f44f56132cc",
+    "title": "Comparison of visual quality after implantation of trifocal intraocular lenses with different diopter values in the two eyes: a retrospective study.",
+    "pmid": "41120951",
+    "completion": "substantive",
+    "scope": "fulltext",
+    "issues": [
+      "Table 1性别百分比不能由每组31人的整数计数准确形成，需原始分母解释。",
+      "相关段同一r=−0.261轮流称夜眩光/夜光晕，且P=0.00未说明有效样本单位；按62名独立患者的一般近似检验约P=0.04，仅供核查，Spearman精确值仍需原始秩次。",
+      "Table 2右眼近视力P=0.04而文字写0.01；对瞳孔中心位移的未显著结果直接称排除致因，推断过强。"
+    ],
+    "sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12542111/",
+        "locator": "Methods—Study design、targeted refraction、Postoperative examination、questionnaire scoring、Statistical analysis；Tables 1–2；Results—stereopsis、light interference、correlation；Discussion"
+      }
+    ]
+  }
+]

@@ -16,4 +16,13 @@ class NoteCoverageTests(unittest.TestCase):
  def test_public_sources_cannot_be_private_or_credentialed(self):
   for u in ['/Users/a/paper.pdf','https://secret:password@example.org/a']:
    r=audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(sources=[{'url':u}])}]);self.assertTrue(r['errors'])
+ def test_complete_critical_note_keeps_source_warning_without_false_gap(self):
+  r=audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(evidence_status='concerns',evidence_issues=['Abstract and table use different denominators; no pooled rate calculated.'])}])
+  self.assertFalse(r['errors']);self.assertFalse(r['gaps']);self.assertEqual(r['source_concerns'],1);self.assertEqual(r['concerns'][0]['completion'],'substantive')
+ def test_source_warning_does_not_complete_a_limited_note(self):
+  r=audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(completion='limited',evidence_status='concerns',evidence_issues=['Full denominator not yet obtained.'])}])
+  self.assertFalse(r['errors']);self.assertEqual(len(r['gaps']),1);self.assertEqual(r['source_concerns'],1)
+ def test_malformed_or_hidden_concerns_fail_audit(self):
+  for change in [{'evidence_status':'concerns'},{'evidence_issues':['Table conflict']},{'evidence_status':'concerns','evidence_issues':'Table conflict'}]:
+   r=audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(**change)}]);self.assertTrue(r['errors'])
 if __name__=='__main__':unittest.main()
