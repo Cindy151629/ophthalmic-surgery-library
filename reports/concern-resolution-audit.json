@@ -1,0 +1,1304 @@
+{
+  "checked_at": "2026-09-20T18:06:59.014441+00:00",
+  "remote_parent": "c48d47454d1621451ece88cac4787a101584de05",
+  "reviewed_articles": 19,
+  "reviewed_issues": 52,
+  "decisions": {
+    "resolved": 9,
+    "retained": 41,
+    "reclassified": 2
+  },
+  "before_concern_articles": 19,
+  "after_concern_articles": 17,
+  "cleared_articles": [
+    "eye-a-6d067c1e47db",
+    "eye-a-1e1ae7688720"
+  ],
+  "notes_with_content_changes": 18,
+  "preservation": {
+    "previous_resources": 1251,
+    "current_resources": 1251,
+    "resources_preserved": true,
+    "authored_notes_present": 961,
+    "checked_at": "2026-09-20T18:06:59.275262+00:00"
+  },
+  "unassigned_records_videos_aliases_preserved": true,
+  "completion_counts_unchanged": true,
+  "definition": "resolved表示依据原文、图表或补充来源厘清本笔记的阅读口径，不意味着原期刊已正式更正；retained表示仍有未解决部分；reclassified表示转为明确保留的研究局限。复合疑点仅部分解决仍算retained。",
+  "entries": [
+    {
+      "id": "eye-a-c03f9d7a3924",
+      "title": "Three-Dimensional Heads-Up vs. Standard Operating Microscope for Cataract Surgery: A Systematic Review and Meta-Analysis",
+      "pmid": "36140501",
+      "before_issue_count": 3,
+      "remaining_issue_count": 1,
+      "decisions": [
+        {
+          "original": "Results 3.1把BCVA/并发症的研究数写为9/5，实际3.3和3.5及对应引用为5/9；同一文章分析口径报告不一致。",
+          "status": "resolved",
+          "finding": "按Figure 2A逐项计数为5项BCVA研究，Figure 2C为9项并发症分析研究，分别与Results 3.3、3.5一致。因此笔记采用5/9；Results 3.1的9/5为汇总段倒置，与逐项分析不符。这是依据原图厘清分析口径，不是期刊勘误。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497825/",
+              "locator": "Results 3.1、3.3、3.5；Table 1"
+            },
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/9497825/97455c76ddaf/diagnostics-12-02100-g002.jpg",
+              "locator": "Figure 2A与2C原图；与Table 1的Berquet/Wang事件数复算核对"
+            }
+          ]
+        },
+        {
+          "original": "图2C使用的效应与无并发症比例一致，但结果段和图题称术中并发症RR，存在结局编码/标签冲突。复算仅用来定位问题，没有以新的事件模型替作者发表修正结果。",
+          "status": "retained",
+          "finding": "实际核看Figure 2C，Berquet行RR约1.05，与Table 1无并发症24/25对44/48的RR=1.047相符；若用并发症1/25对4/48，RR=0.48。原图仍把结局称为并发症，无法把该合并值解释成并发症相对风险。没有原始分析代码及完整事件编码，仍保留，不自行发表修正Meta分析。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497825/",
+              "locator": "Results 3.1、3.3、3.5；Table 1"
+            },
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/9497825/97455c76ddaf/diagnostics-12-02100-g002.jpg",
+              "locator": "Figure 2A与2C原图；与Table 1的Berquet/Wang事件数复算核对"
+            }
+          ]
+        },
+        {
+          "original": "图2A的BCVA总效应为+0.01，而Results 3.3写−0.01；已以图示记录，不宣称正式更正。",
+          "status": "resolved",
+          "finding": "Figure 2A的合并行明确为+0.01 logMAR（95%CI −0.01至0.02），图中菱形也位于零线右侧；与Results 3.3中的−0.01不同。笔记将该值明确限定为森林图报告值，不再作为无法选择阅读口径的疑点；正文符号差异保留于复核记录，没有发现正式勘误。",
+          "sources": [
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/9497825/97455c76ddaf/diagnostics-12-02100-g002.jpg",
+              "locator": "Figure 2A与2C原图；与Table 1的Berquet/Wang事件数复算核对"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497825/",
+              "locator": "Results 3.3；Figure 2A合并行及菱形"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "本轮重读PMC正式全文并实际查看Figure 2A、2C原图；核对Table 1及Results 3.1、3.3、3.5。补充ZIP链接返回验证页面，未取得其内容。",
+      "correction_search": "检索PubMed勘误关联、Crossref关系及MDPI版本记录页（https://www.mdpi.com/2075-4418/12/9/2100/notes），本轮范围内未见针对上述问题的正式更正；不表示穷尽所有更新渠道。",
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-6d067c1e47db",
+      "title": "Needle-assisted iris-claw lens implantation: A novel, simplified technique for aphakia without capsular support.",
+      "pmid": "42060946",
+      "before_issue_count": 1,
+      "remaining_issue_count": 0,
+      "decisions": [
+        {
+          "original": "Conclusion声称降低术后并发症并推荐普遍采用，但正文没有提供支持这一比较效应的临床数据。",
+          "status": "reclassified",
+          "finding": "重新核读后确认本文是技术描述：摘要仅称多个患者，正文无队列样本量、对照或系统临床结果，并且结论也要求更大样本和长期随访。原标记所指出的“降低并发症”未获比较数据支持，仍明确保留为研究局限；本项不属于数字、题名或来源相互矛盾，故从“原文疑点”移至“技术主张尚未验证”。这不等于证实NAIL更安全或适宜普遍采用。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13235813/",
+              "locator": "Abstract；Surgical Technique；Discussion；Conclusion"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "本轮重读PMC全文的摘要、技术步骤、讨论和结论，确认无可供比较的临床队列结果；视频链接仅核对关联，没有下载或观看。",
+      "correction_search": "核对PubMed勘误关联与Crossref记录，本轮未发现相关勘误；这里的变化是证据类型重新分类，并非作者更正。",
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-dba338b2989d",
+      "title": "Efficacy of fluid flow posterior capsule polishing in reducing capsule rupture and enhancing visual recovery during phacoemulsification cataract surgery.",
+      "pmid": "41021122",
+      "before_issue_count": 5,
+      "remaining_issue_count": 5,
+      "decisions": [
+        {
+          "original": "摘要机械组PCR15.38%，正文及表2为11/146（7.53%）；没有说明采用不同分析集。",
+          "status": "retained",
+          "finding": "正式PDF第1页摘要仍写机械组15.38%，第5页结果/表2报告11例、随机分母146（7.53%）。与HTML一致，没有不同分析集的解释；取得PDF未解决该冲突。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/content/pdf/10.1007/s10792-025-03748-3.pdf",
+              "locator": "PDF第1页摘要、第5页Results/Table 2"
+            }
+          ]
+        },
+        {
+          "original": "年龄及核硬度基线的正文数值与表1不一致；实际年龄范围74–95岁与≤60岁亚组相冲突。",
+          "status": "retained",
+          "finding": "正式PDF第3页Table 1与第5页Results的年龄、核硬度数值不同；年龄范围74–95岁与第6页Table 4的≤60岁亚组也不相容。不能从现有版本确认正确年龄分布及基线。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/content/pdf/10.1007/s10792-025-03748-3.pdf",
+              "locator": "PDF第3页Table 1、第5页Results、第6页Table 4"
+            }
+          ]
+        },
+        {
+          "original": "表3的随访/PCO标题与BCVA分级错位，机械行合计144而随机分组146；视力和PCO比例无法可靠复算。",
+          "status": "retained",
+          "finding": "实际渲染核看正式PDF第6页，Table 3也将1天BCVA、1个月BCVA和1个月PCO置于同一表头，下行却为三个视力等级；两行计数均合计144。已排除“只有HTML转表错位”的解释，但真正随访分母及PCO事件数仍不能确定。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/content/pdf/10.1007/s10792-025-03748-3.pdf",
+              "locator": "PDF第6页Table 3原始版面"
+            }
+          ]
+        },
+        {
+          "original": "方法PCO分级0–3与图注1–4不一致；表4≤60岁P=0.0434与正文亚组解释不一致且缺少分母。",
+          "status": "retained",
+          "finding": "正式PDF第4页Methods为PCO Grade 0–3而Fig.1图注为Grade 1–4；第6页≤60岁Table 4 P=0.0434，旁文仍称该组未见降低，且未给亚组分母。分级和亚组解释仍需作者澄清。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/content/pdf/10.1007/s10792-025-03748-3.pdf",
+              "locator": "PDF第4页Methods/Fig.1图注、第6页Table 4及Subgroup analysis"
+            }
+          ]
+        },
+        {
+          "original": "Data availability仍称模拟实验数据，与正文临床随机设计不一致。",
+          "status": "retained",
+          "finding": "正式PDF第8页Data availability仍使用simulation experiment data，与临床随机研究叙述不一致。HTML与PDF互相复核后该用语差异依然存在；现有资料不足以判断实际数据来源，更不能据此断言研究造假。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/content/pdf/10.1007/s10792-025-03748-3.pdf",
+              "locator": "PDF第8页Data availability"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "正式HTML全文与9页正式PDF交叉核对；第6页表3、表4实际图像核看；图1只读图注。",
+      "correction_search": "PubMed勘误关联、Crossref关系与正式出版页面本轮未见相关更正；没有患者级数据、澄清稿或可核实注册结果可用于消除五项冲突。",
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-0922dad5d483",
+      "title": "Postoperative Decline in Antioxidant Concentrations in Aqueous Humor: Comparison Between Femtosecond Laser-assisted Cataract Surgery and Conventional Cataract Surgery.",
+      "pmid": "40877159",
+      "before_issue_count": 3,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "Results把术后残余比例标为下降比例；Table III可定位并复算，本笔记保留原数和复算口径。",
+          "status": "resolved",
+          "finding": "Table III均值可直接核算：TAC保留比例为68.67%/54.22%，AA为65.07%/50.23%，相应下降约31.33%/45.78%及34.93%/49.77%。因此正文称为“下降”的百分数实际上对应术后保留比例，FLACS AA正文65.08%另有0.01个百分点舍入差异。笔记已明确区分两个口径；这些是组均值之比，不是个体百分比均值，也不是期刊正式勘误。",
+          "sources": [
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/5aadeac4e6d5/in_vivo-39-2732-i0002.jpg",
+              "locator": "Table III原图：基线、术后及Change三行"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12396061/",
+              "locator": "Results关于decreased by的段落"
+            }
+          ]
+        },
+        {
+          "original": "高度近视AA aOR正文0.81而Table IV为0.281；连续结局使用aOR的模型定义仍不足，不能解释为临床风险降低。",
+          "status": "retained",
+          "finding": "实际核看Table IV，高度近视AA点估计确为0.281（0.099–0.518）；正文0.81在该区间之外，可定位为表文小数差异，笔记采用明确标注的表值。但Statistical analysis只称广义线性混合模型，未给连续浓度差为何产生aOR所需的分布、连接函数或二分类定义。本条只部分厘清，核心模型解释仍保留，不能把aOR当作临床风险降低。",
+          "sources": [
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/25d1123f0f4d/in_vivo-39-2734-i0001.jpg",
+              "locator": "Table IV原图：高度近视AA aOR及高眼压阈值"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12396061/",
+              "locator": "Statistical analysis；Results亚组段落"
+            }
+          ]
+        },
+        {
+          "original": "Table IV高眼压行标<21mmHg，与方法>21mmHg不一致；亚组阈值需作者澄清。",
+          "status": "retained",
+          "finding": "Table IV原图仍写High baseline IOP (<21 mmHg)，Methods将高眼压定义为>21 mmHg。来源未披露实际分组编码及样本数据，无法据常用定义替作者确认该模型究竟用哪一阈值；保留疑点。",
+          "sources": [
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/25d1123f0f4d/in_vivo-39-2734-i0001.jpg",
+              "locator": "Table IV原图：高度近视AA aOR及高眼压阈值"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12396061/",
+              "locator": "Patients and Methods高眼压定义"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "本轮重读PMC正式全文，并实际查看Table III/IV原图、逐项重算均值比例；未取得患者级数据或模型代码。",
+      "correction_search": "本轮查PubMed勘误关联、Crossref关系及题名/DOI相关更正检索，未发现可处理模型或阈值问题的正式更正。",
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-d976827c27f5",
+      "title": "Femtosecond laser-assisted cataract surgery compared with phacoemulsification cataract surgery: randomized noninferiority trial with 1-year outcomes",
+      "pmid": "32773608",
+      "before_issue_count": 2,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "摘要写FLACS 311/392、PCS 292/393回访；正文Results写FLACS 292/392、PCS 311/393，Discussion失访比例支持后者。没有擅自选一组作为已核准人数。",
+          "status": "retained",
+          "finding": "新增核对NIHR完整试验报告（DOI 10.3310/hta25060）仍不能确定两组一年回访人数。其Figure 1流程图给出PCS 311/393、FLACS 292/392，并分别列失访82和100；但同一报告12-month outcomes段落及Table 8却给出FLACS 311、PCS 292，Appendix 3 Table 28亦沿用后一分组。它不是单纯期刊摘要与正文之间的转录差异，而是试验报告内部也并存两套归组。现有汇总来源无法确定哪套归组用于模型，不能把流程图或某一张表单独认定为纠正。正式勘误仅补协作作者。",
+          "sources": [
+            {
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10120523/1/3035723.pdf",
+              "locator": "正文印刷页13 Figure 1（PDF页37）；印刷页19–20 Twelve-month outcomes、Table 8（PDF页43–44）；Appendix 3 Table 28，印刷页63（PDF页87）"
+            },
+            {
+              "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000257",
+              "locator": "Abstract、Results、Discussion中的一年回访/失访人数"
+            },
+            {
+              "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000504",
+              "locator": "Erratum全文：仅协作作者名单"
+            }
+          ]
+        },
+        {
+          "original": "表1图像及摘要双眼CDVA 95%CI为−0.05至+0.002而P=0.036；Results文字写上限−0.002。点估计约−0.02 logMAR一致，但区间符号与显著性报告不一致；已读正式勘误未解决此项。",
+          "status": "retained",
+          "finding": "NIHR报告同样重复区间符号冲突：正文印刷页19及Appendix 3 Table 28给双眼CDVA差约−0.02 logMAR、95%CI −0.05至−0.002、P=0.036；Table 8则上限为+0.002且仍P=0.036。负上限与双侧显著性更相容，但没有模型输出或正式更正，不能据这一相容性擅自确定正确值。正式勘误没有涉及效应或区间。",
+          "sources": [
+            {
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10120523/1/3035723.pdf",
+              "locator": "印刷页19 Twelve-month outcomes；印刷页20 Table 8；印刷页63 Appendix 3 Table 28，binocular CDVA"
+            },
+            {
+              "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000257",
+              "locator": "Table 1图像、Abstract与Results的binocular CDVA"
+            },
+            {
+              "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000504",
+              "locator": "Erratum全文"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "实际取得并检索94页NIHR报告PDF，定向核读流程图、12个月结果/表8、附录3表28；重读官方勘误。原期刊正文及表图采用此前已核读缓存。未取得受试者级数据或原模型输出。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:49.348987+00:00",
+        "method": "重新取得PubMed XML的CommentsCorrectionsList，并以精确DOI结合erratum/correction检索；对检出的官方更正核读实际内容。未检出不等于证明不存在。",
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32773608/",
+            "locator": "当前PubMed关联更正"
+          },
+          {
+            "url": "https://doi.org/10.1097/j.jcrs.0000000000000257",
+            "locator": "论文身份及出版社入口"
+          }
+        ],
+        "finding": "PubMed关联唯一检出的ErratumIn为PMID 33901158、DOI 10.1097/j.jcrs.0000000000000504。实际内容补列Walter Andreatta与Matthew Edmunds两位协作作者，未修改两项数字疑点。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-1e1ae7688720",
+      "title": "In-bag vs out-of-bag intraocular lens implantation for ectopia lentis: prospective comparative study.",
+      "pmid": "41423799",
+      "before_issue_count": 1,
+      "remaining_issue_count": 0,
+      "decisions": [
+        {
+          "original": "Methods和Table 1合计814眼，但Consistency Check首句写841 cases，疑为笔误；以表1眼数记录并保留冲突。",
+          "status": "resolved",
+          "finding": "已用实际补充表和招募比例独立澄清：Supplementary Table 1的三种囊袋内术式303+295+8=606眼，两种袋外术式129+79=208眼，共814眼；814/1260=64.603%，与Methods的64.6%相符，841/1260则为66.746%。Table 1组内人数359+140，扣除45名双眼分属不同术式者，得到454名独立患者，也支持区分眼数与人数。因而Consistency Check孤立的841可在读者层面判定为数字转置，而非另一分析集或患者数。可将纳入样本明确记为814眼；截至本轮未查到正式勘误，原文841仍存在，历史疑点保留在本条复核记录。",
+          "sources": [
+            {
+              "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000001759",
+              "locator": "Methods—Patient enrollment的1260、814、606/208与64.6%；Table 1人数/眼数；Consistency Check首句"
+            },
+            {
+              "url": "https://cdn-links.lww.com/permalink/jrs/b/jrs_2025_08_07_jiang_1_sdc4.docx",
+              "locator": "Supplementary Table 1：五种具体术式的Count；官方短链接 https://links.lww.com/JRS/B438"
+            }
+          ],
+          "resolution_type": "reader_level_clarification_without_formal_erratum"
+        }
+      ],
+      "actual_scope": "Ovid当前实际正文及官方补充DOCX表均取得并阅读；独立计算五种术式总数、纳入率及跨组患者去重。没有获取原始逐例数据，也没有把读者层面的澄清称作期刊正式勘误。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:49.348987+00:00",
+        "method": "重新取得PubMed XML的CommentsCorrectionsList，并以精确DOI结合erratum/correction检索；对检出的官方更正核读实际内容。未检出不等于证明不存在。",
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41423799/",
+            "locator": "当前PubMed关联更正"
+          },
+          {
+            "url": "https://doi.org/10.1097/j.jcrs.0000000000001759",
+            "locator": "论文身份及出版社入口"
+          }
+        ],
+        "finding": "当前PubMed未列关联更正；精确DOI检索及当前官方正文未发现针对841的正式勘误。解决依据是实际补充表、Methods、Table 1和招募比例相互一致。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-a6732a7610b1",
+      "title": "Comparison of Clinical Outcomes Between Femtosecond Laser-assisted Cataract Surgery and Phacoemulsification in Patients with Diabetes: A Systematic Review.",
+      "pmid": "42564994",
+      "before_issue_count": 3,
+      "remaining_issue_count": 3,
+      "decisions": [
+        {
+          "original": "表1各组人数合计649而结果写345，未说明另选亚组的分母。",
+          "status": "retained",
+          "finding": "重新取得当前全文XML并逐行复算Table 1：Cruz 48+47、Ma 2023 54+53、Yang 60+101、Ma 2021 44+47、Kang 31+44、Tang 60+60，合计649。扣去Kang的44名非糖尿病对照仍为605，而Results声称345；正文没有提供可将这些数转换成345的排除、去重或结局子集流程。各原研究报告单位还涉及患者与眼，649应称表列数值合计，不能直接当独立糖尿病眼数。",
+          "sources": [
+            {
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13446067/fullTextXML",
+              "locator": "Results—Study Characteristics及Table 1六行样本量"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34294644/",
+              "locator": "Methods：75名患者，31名糖尿病及44名非糖尿病，全部接受FLACS"
+            }
+          ]
+        },
+        {
+          "original": "方法明确未作正式Meta分析，Results却称“pooled effect”“forest plot”；未提供可追溯合并模型和区间。",
+          "status": "retained",
+          "finding": "Methods—Data Synthesis and Statistical Analysis明确因I²>60%未开展正式Meta分析，采用叙述综合/方向计票；Results却使用pooled effect和forest plot并作总体显著性陈述。本轮取得XML含Figure 1 PRISMA及Tables 1–5，没有可核对的森林图、合并权重、模型或区间；423.55 cells/mm²在Table 3归属Cruz单项研究，不能认作六项研究合并效应。作者提到的两份补充材料分别是PRISMA清单和检索式，出版社入口本轮503，未取到它们；因此不声称已穷尽出版社所有附件，但现有可核验内容不能支撑所述合并分析。",
+          "sources": [
+            {
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13446067/fullTextXML",
+              "locator": "Methods—Data Synthesis and Statistical Analysis；Results—Primary Outcomes；Table 3；Figure 1及XML附件节点"
+            },
+            {
+              "url": "https://kneopen.com/jovr/article/view/18209",
+              "locator": "出版社入口本轮503，补充文件未取得"
+            }
+          ]
+        },
+        {
+          "original": "Kang比较组、Ma黄斑结果引用、Tang随访以及Yang偏倚等级的正文/表格不一致，影响直接适用性。",
+          "status": "retained",
+          "finding": "该复合疑点仅Tang随访部分得到原研究澄清，其余错误仍存在。Kang原始摘要明确31名糖尿病与44名非糖尿病患者均接受FLACS，没有PE对照。Ma黄斑结果的相应原研究为2021年论文（综述参考文献22），而综述表4/文字引文指向其他年份/编号；原研究FLACS在3个月开始下降，不是恢复基线：Table 2的基线276.86 μm、3个月279.66 μm、12个月276.98 μm，Table 3比较基线与3个月报告P=0.000、与12个月P=0.859。综述所谓3个月已恢复基线与实际表格不符。Tang原文Methods及Tables 2–3确实随访6个月，故综述表1/2的3个月属于提取差异，应撤回旧笔记对“原研究只有3个月”的暗示；但这不自动证明其所有结果可靠。Yang风险偏倚在综述正文为moderate、Table 2为low，未取得一致的判断依据。",
+          "sources": [
+            {
+              "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13446067/fullTextXML",
+              "locator": "综述Tables 1–5、Risk of Bias及对应引文20–24"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/34294644/",
+              "locator": "原始研究Methods摘要"
+            },
+            {
+              "url": "https://link.springer.com/article/10.1007/s40123-020-00326-x",
+              "locator": "Results—Central Macular Thickness；Table 2及Table 3"
+            },
+            {
+              "url": "https://link.springer.com/article/10.1007/s40123-020-00326-x/tables/3",
+              "locator": "页面实际表题Table 2：各时间点CMT均值（URL序号与可见表题不同）"
+            },
+            {
+              "url": "https://link.springer.com/article/10.1007/s40123-020-00326-x/tables/4",
+              "locator": "页面实际表题Table 3：CMT基线与术后配对比较"
+            },
+            {
+              "url": "https://www.wjgnet.com/2307-8960/full/v12/i10/1733.htm",
+              "locator": "Methods—Follow-up and observation；Results及Tables 2–3的6个月终点"
+            }
+          ],
+          "subfindings": [
+            {
+              "component": "Tang随访时长",
+              "status": "resolved",
+              "finding": "原研究方法和结果表均确认6个月；综述表1/2的3个月为提取差异，未发现正式更正。"
+            },
+            {
+              "component": "Kang比较组、Ma归引与恢复时间、Yang偏倚等级",
+              "status": "retained",
+              "finding": "原研究或综述内部仍显示上述未被正式解释的差异。"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "重新取得综述全文XML，复核全部相关表及引文；读Ma 2021官方全文相关方法/结果/讨论与两张CMT表，读Tang 2024实际全文的随访方法/结果表；Kang仅原始PubMed摘要。KnE出版社503，未取得综述所提两份补充文件。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:49.348987+00:00",
+        "method": "重新取得PubMed XML的CommentsCorrectionsList，并以精确DOI结合erratum/correction检索；对检出的官方更正核读实际内容。未检出不等于证明不存在。",
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42564994/",
+            "locator": "当前PubMed关联更正"
+          },
+          {
+            "url": "https://doi.org/10.18502/jovr.v21.18209",
+            "locator": "论文身份及出版社入口"
+          }
+        ],
+        "finding": "PubMed没有关联更正，本轮精确DOI检索未找到相关更正。已对照当前Europe PMC全文XML；出版社入口503，因此其未索引附件或更正无法排除。原研究对照仅澄清具体提取错误，没有把它当作本综述正式修订。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-3c979c93a02b",
+      "title": "A Comparative Study of Surgically Induced Astigmatism From Temporal and Steep-Axis Clear Corneal Incisions in Phacoemulsification Cataract Surgery.",
+      "pmid": "41058836",
+      "before_issue_count": 2,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "Tables 2–4同一时间点的UCVA/BCVA分类、均值和检验不相容；尚未取得正式更正或逐例视力数据。",
+          "status": "retained",
+          "finding": "实际取得Cureus官方两个日期路径的12页PDF，提取文本一致，相关表格均保留原疑点，排除仅PMC转录造成差异。Table 2第7天UCVA最佳档59/65与60/65，以[[59,6],[60,5]]作不校正Pearson检验得χ²=0.09931、P=0.75266，而原表χ²=10.183、P=0.006；1个月两组全部65人落在同一档，仍列非零检验。Table 3第1个月陡轴组BCVA为47人最佳档、17人中间档、1人更差，Table 4却记该组0±0 logMAR，不相容。没有逐例视力或正式更正，不能猜测互换UCVA/BCVA或删行来修复。",
+          "sources": [
+            {
+              "url": "https://assets.cureus.com/uploads/original_article/pdf/389547/20251006-139158-fyiblo.pdf",
+              "locator": "Tables 2–4：UCVA、BCVA分类及均值"
+            },
+            {
+              "url": "https://assets.cureus.com/uploads/original_article/pdf/389547/20250906-269716-gxi6of.pdf",
+              "locator": "同一Tables 2–4，核对两个官方PDF文本；独立Pearson复算不作连续性校正"
+            }
+          ]
+        },
+        {
+          "original": "表4把术前量标为SIA且非零，未说明该术前“术源性”指标的定义；研究设计称观察性又描述随机分配，报告需澄清。",
+          "status": "retained",
+          "finding": "两份官方PDF均在Table 4把术前数据标为SIA，颞侧0.51±0.312 D、陡轴0.53±0.298 D，另列术前Corneal Astigmatism 0.62±0.386 D与0.71±0.433 D；没有给出使术前“术源性”量成立的另一参考手术/时间点。Methods既称prospective observational study，又描述电脑随机、密封不透明信封和评估者设盲；这是设计报告身份不一致，不能当作普通观察研究局限后直接撤下。尚无公开材料可判定具体哪个标签误写。",
+          "sources": [
+            {
+              "url": "https://assets.cureus.com/uploads/original_article/pdf/389547/20251006-139158-fyiblo.pdf",
+              "locator": "Materials and methods—Study design、Randomization；Table 4术前SIA与Corneal Astigmatism"
+            },
+            {
+              "url": "https://assets.cureus.com/uploads/original_article/pdf/389547/20250906-269716-gxi6of.pdf",
+              "locator": "对应方法及Table 4"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "两个官方PDF均实际取得、提取文本并对照；相关方法和Tables 2–4重新阅读。复算是根据发表汇总表的独立检查，不是对原始研究数据的复现；未取得逐例数据。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:49.348987+00:00",
+        "method": "重新取得PubMed XML的CommentsCorrectionsList，并以精确DOI结合erratum/correction检索；对检出的官方更正核读实际内容。未检出不等于证明不存在。",
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41058836/",
+            "locator": "当前PubMed关联更正"
+          },
+          {
+            "url": "https://doi.org/10.7759/cureus.91714",
+            "locator": "论文身份及出版社入口"
+          }
+        ],
+        "finding": "PubMed无关联更正；精确DOI检索未发现正式更正。比较2025-09-06和2025-10-06路径的官方PDF，文本相同，不能把路径日期更新当作勘误。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-963108d113a4",
+      "title": "Different formulations of corticosteroid eye drops at different treatment times in the control of inflammation and prevention of cystoid macular edema after cataract surgery: randomized clinical trial.",
+      "pmid": "41294172",
+      "before_issue_count": 3,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "摘要地塞米松写1%，PDF Methods为0.1% Maxidex；笔记明确采用方法中的制剂信息，未当作正式勘误。",
+          "status": "resolved",
+          "finding": "新增取得第一作者2024年Unichristus学位论文，题名、研究者、注册号RBR-2frpntv、140眼、六组和事件表均与期刊研究对应。该论文葡/英文摘要（PDF页6–7）及§3.4分组（页20）明确为dexamethasone 0.1%，与期刊Methods所列Maxidex 0.1%一致；Maxidex监管产品说明也列1 mg/mL=0.1%。因此可在读者层面明确笔记记录的实际方法制剂为0.1%，摘要1%是浓度转述错误而非另一个比较药。期刊摘要并未正式更正；注册平台的早期计划仍写1%且为不同的四组方案，不能将注册记录视为支持0.1%的证据，也不能据本次核对消除所有方案历史疑问。",
+          "sources": [
+            {
+              "url": "https://aboonline.org.br/export-pdf/6791/v89n1e2025-0097.pdf",
+              "locator": "PDF页1 Abstract的1%；页2 Methods的Maxidex 0.1%"
+            },
+            {
+              "url": "https://repositorio.unichristus.edu.br/jspui/bitstream/123456789/1707/1/ADRIANE%20MAC%C3%8ADO%20FEITOSA.pdf",
+              "locator": "PDF页6–7葡/英文摘要；§3.4页20：分组2与5的dexametasona 0,1%；注册号及六组样本对应"
+            },
+            {
+              "url": "https://cima.aemps.es/cima/dochtml/p/42666/P_42666.html",
+              "locator": "§6制剂组成：dexamethasone 1 mg/mL"
+            },
+            {
+              "url": "https://ensaiosclinicos.gov.br/rg/RBR-2frpntv",
+              "locator": "2022年登记的四组计划，浓度仍记1%；不作为已实施制剂的独立确证"
+            }
+          ],
+          "resolution_type": "reader_level_clarification_without_formal_erratum"
+        },
+        {
+          "original": "PDF Results/Discussion的CME比例与Table 4人数不符；按表仅提供可复核的独立计算。",
+          "status": "retained",
+          "finding": "新增作者学位论文§4.7/Table 5也重复正文5.88%（n=5）与14.2%（n=10），不能靠它解释期刊冲突。期刊Table 4及论文Table 5六组分母为29/18/21与28/22/22，合并为68与72，结构性CME为5与10；读者按完整表复算7.35%与13.89%。4/68=5.88%可对应排除1名临床显著个案的猜测，但正文同时写n=5及不论视力受损，且10/72仍不等于14.2%，因此不能把猜测当确定口径。未取得未报告的分析集、原始病例或正式更正，保留疑点。",
+          "sources": [
+            {
+              "url": "https://aboonline.org.br/export-pdf/6791/v89n1e2025-0097.pdf",
+              "locator": "PDF页6–7 Results—CME、Table 4；Discussion的比例"
+            },
+            {
+              "url": "https://repositorio.unichristus.edu.br/jspui/bitstream/123456789/1707/1/ADRIANE%20MAC%C3%8ADO%20FEITOSA.pdf",
+              "locator": "PDF页30 §4.7 Edema Macular Cistoide及Table 5：相同人数、分母与百分比"
+            }
+          ]
+        },
+        {
+          "original": "摘要反跳的疗程描述与正文以10天组为主不一致；表1术眼左右分母也少于各组总数，缺失处理未解释。",
+          "status": "retained",
+          "finding": "期刊摘要及作者论文摘要均指向DEXA28反跳较多，正文则报告15例中10例在10天组，DEXA10占5例、PRED28有1例；没有提供完整六组反跳事件表来澄清摘要结论或比较口径。期刊Table 1和论文Table 1的左右眼计数亦相同：六组相加24、15、20、21、19、20眼，共119而非140，比各组29、18、21、28、22、22少21眼；正文未解释该变量缺失或分析方式。新来源重复这些差异，没有消除它们。",
+          "sources": [
+            {
+              "url": "https://aboonline.org.br/export-pdf/6791/v89n1e2025-0097.pdf",
+              "locator": "PDF页1 Abstract；页4 Table 1右/左眼；页7 Rebound"
+            },
+            {
+              "url": "https://repositorio.unichristus.edu.br/jspui/bitstream/123456789/1707/1/ADRIANE%20MAC%C3%8ADO%20FEITOSA.pdf",
+              "locator": "PDF页6–7摘要；页25 Table 1；页31 §4.8 Rebound"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "重新取得期刊官方PDF/HTML；新增取得第一作者2024年46页学位论文并选读与疑点有关的摘要、方法和事件表；实际读取药品监管说明及官方登记计划。没有获取逐例原始数据，没有把学位论文当作期刊更正。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:49.348987+00:00",
+        "method": "重新取得PubMed XML的CommentsCorrectionsList，并以精确DOI结合erratum/correction检索；对检出的官方更正核读实际内容。未检出不等于证明不存在。",
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41294172/",
+            "locator": "当前PubMed关联更正"
+          },
+          {
+            "url": "https://doi.org/10.5935/0004-2749.2025-0097",
+            "locator": "论文身份及出版社入口"
+          }
+        ],
+        "finding": "PubMed未列关联更正，本轮精确DOI检索未发现正式勘误。期刊当前PDF及HTML保留原差异。机构库作者学位论文支持实施方案0.1%但同样重复CME/反跳/左右眼问题；登记平台早期计划不能作为这些差异已解决的依据。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-acc4cee57712",
+      "title": "Real-World IOL Performance with Bilateral Plano Outcomes After Cataract Surgery: A Prospective, Comparative Study.",
+      "pmid": "42534280",
+      "before_issue_count": 3,
+      "remaining_issue_count": 3,
+      "decisions": [
+        {
+          "original": "Results把逐眼选择回答误称patients；眼数来源可解释，独立观察假设仍需澄清。",
+          "status": "retained",
+          "finding": "计数来源已解开：Methods两次明确RCSS逐眼施测，118/124=95.16%、62/66=93.94%、40/52=76.92%，与报告95%、94%、77%一致，不是额外多出患者。仍然存在把回答数称patients和未报告双眼相关性处理的复合问题；只能把计数解释为逐眼回答，不能改写为118名患者或推定已按患者聚类。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420260/",
+              "locator": "Materials and Methods：RCSS逐眼施测、Statistical comparisons；Results：Visual Acuity Outcomes、Q6、Lens Selection Preferences；Discussion"
+            },
+            {
+              "url": "https://www.dovepress.com/article/download/117689",
+              "locator": "官方PDF：Materials and Methods、Visual Acuity Outcomes、Q6及Discussion原排版复核"
+            }
+          ]
+        },
+        {
+          "original": "双眼视力统计报告F(2,241)，与121名患者、甚至242眼三组的通常残差自由度都不一致；无法据摘要重建分析集。",
+          "status": "retained",
+          "finding": "官方PDF与新取PMC XML一致，并非网页抽取错误。文述三组普通ANOVA的通常残差df为N−3：按121人是118，按242眼是239；241可能混入总df，但没有原始分析可验证，不能擅改为任一数字。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420260/",
+              "locator": "Materials and Methods：RCSS逐眼施测、Statistical comparisons；Results：Visual Acuity Outcomes、Q6、Lens Selection Preferences；Discussion"
+            },
+            {
+              "url": "https://www.dovepress.com/article/download/117689",
+              "locator": "官方PDF：Materials and Methods、Visual Acuity Outcomes、Q6及Discussion原排版复核"
+            }
+          ]
+        },
+        {
+          "original": "Q6三组满意度结果写F(3,241)、p<0.51，讨论写p=0.051；两处口径不同，不能把某一个值擅作正式更正。",
+          "status": "retained",
+          "finding": "复核到原排版仍为F(3,241)=3.007、p<0.51；讨论为p=0.051。作为独立算术诊断，F=3.007、df(3,241)对应右尾P约0.0310，而df(2,239)约0.0513。后者提示可能的报告笔误，但不能替代原始输出或正式勘误。应保留未解统计口径，同时避免把p<0.51和p=0.051本身误称逻辑互斥。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420260/",
+              "locator": "Materials and Methods：RCSS逐眼施测、Statistical comparisons；Results：Visual Acuity Outcomes、Q6、Lens Selection Preferences；Discussion"
+            },
+            {
+              "url": "https://www.dovepress.com/article/download/117689",
+              "locator": "官方PDF：Materials and Methods、Visual Acuity Outcomes、Q6及Discussion原排版复核"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "全文复核：新取得PMC全文XML及出版社12页PDF，实际读方法、结果、讨论、表1与相关统计段落；没有个体数据或SPSS分析文件。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:55.801853+00:00",
+        "methods": [
+          "按精确DOI联合correction/erratum检索；核对PubMed本记录CommentsCorrections关系",
+          "重新读取官方全文/PMC XML；核查Crossref update-to、updated-by、relation字段"
+        ],
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42534280/",
+            "locator": "本记录更正/评论关系"
+          },
+          {
+            "url": "https://api.crossref.org/works/10.2147/opth.s606813",
+            "locator": "更新与关系字段"
+          }
+        ],
+        "finding": "PubMed未列ErratumIn，Crossref未提供更新关系，精确DOI检索未取得更正。",
+        "limit": "截至本次实际检索未找到并不等于证明不存在；没有将人工复算或参考原研究的纠错称为期刊正式勘误。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-6987caf69ac5",
+      "title": "Predictive Accuracy of Intraocular Lens Power Calculation Formulas for Cataract Surgery in Keratoconus: A Systematic Review and Network Meta-Analysis.",
+      "pmid": "42199326",
+      "before_issue_count": 3,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "表2总体530眼可复现；表1多个结局分母超过公式总眼数，原始提取集未附可用解释。",
+          "status": "retained",
+          "finding": "530=23+41+102+73+87+57+147；跨公式重复评估同眼、不同终点数据可得性不同，均属正常设计，不能把公式行相加当独立总样本。真正保留的是同一行Eyes(n)与结局分母矛盾，官方PDF确认True-K measured 87/189、Holladay 2 original 220/272/249。原研究Vandevenne确有57眼同时报告两True-K版本的多项结局；Heath摘要确有87眼比较多公式，仍没有对应NMA各单元格的提取矩阵可重建。Wu来信也提出数据呈现问题，但它不是勘误；其中把Table 1的MAE=0眼当作零误差的解读不宜照搬，因为该表标题说明格内是眼数。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13200680/",
+              "locator": "Methods—Study Outcomes、Statistical Analysis；Tables 1–2；Results的±0.50D/±1.00D段"
+            },
+            {
+              "url": "https://www.dovepress.com/article/download/115441",
+              "locator": "官方PDF第3–4页Table 1；第10页Fig.6B和第11页Fig.7B原始森林图，标题Odds Ratio (95% CrI)"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9981321/",
+              "locator": "Vandevenne原研究：Methods、Table 1的57眼；Table 2六公式MPE/MAE/MedAE及正文达标率"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37044197/",
+              "locator": "Heath原研究摘要：87眼67人、同眼比较13公式"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/32279887/",
+              "locator": "Kane原研究摘要：147眼147人、各公式预测误差与MAE"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13282979/",
+              "locator": "Wu等2026-06-16读者来信全文，尤其第1–3项；没有新数据或原作者更正"
+            }
+          ]
+        },
+        {
+          "original": "Bayesian模型、netmeta实现及CI/CrI混用，模型复现要素不足；同眼多公式协方差处理未清楚报告。",
+          "status": "retained",
+          "finding": "软件歧义已部分解释：MetaInsight官方v6.2记录同时列netmeta/gemtc，官方文档分别对应频率学派/Bayesian。故不能仅凭论文写netmeta就断言Bayesian模型不存在；原始森林图也明确CrI。但论文依然没有交代实际模块、先验、迭代/收敛、同眼多公式配对相关性及完整提取集。属于尚未解决的模型报告/复现限制，而非已证明模型执行错误。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13200680/",
+              "locator": "Methods—Study Outcomes、Statistical Analysis；Tables 1–2；Results的±0.50D/±1.00D段"
+            },
+            {
+              "url": "https://www.dovepress.com/article/download/115441",
+              "locator": "官方PDF第3–4页Table 1；第10页Fig.6B和第11页Fig.7B原始森林图，标题Odds Ratio (95% CrI)"
+            },
+            {
+              "url": "https://zenodo.org/records/13991256",
+              "locator": "MetaInsight v6.2.0官方软件记录：同时使用netmeta与gemtc"
+            },
+            {
+              "url": "https://apps.crsu.org.uk/MetaInsight/docs/articles/MetaInsight.html",
+              "locator": "官方文档：Frequentist network meta-analysis使用netmeta；Bayesian network meta-analysis使用gemtc"
+            }
+          ]
+        },
+        {
+          "original": "达标率效应被正文称MD但数量和意义属比例比较；笔记不把这些数解释成屈光度差。",
+          "status": "resolved",
+          "finding": "直接阅读PDF第10页Fig.6B及第11页Fig.7B原始图片，右侧标题明确Odds Ratio (95% CrI)，横轴以1为无差异线。BTK predicted相对measured的两个估计分别为1.13（0.599–2.11）和1.32（0.661–2.59）。效应尺度已据原图确认，应在笔记中标OR且区间均跨1；正文/图注误写MD仍是报告标签问题，这不是正式更正，也不应改称RR或屈光度差。",
+          "sources": [
+            {
+              "url": "https://www.dovepress.com/article/download/115441",
+              "locator": "官方PDF第3–4页Table 1；第10页Fig.6B和第11页Fig.7B原始森林图，标题Odds Ratio (95% CrI)"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13200680/",
+              "locator": "Methods—Study Outcomes、Statistical Analysis；Tables 1–2；Results的±0.50D/±1.00D段"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "全文及原图复核：当前PMC XML、官方16页PDF的Table 1及Fig.6B/7B；追加上述原研究与读者来信。未重建NMA，未得到个体数据、完整提取矩阵或作者回复。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:55.801853+00:00",
+        "methods": [
+          "按精确DOI联合correction/erratum检索；核对PubMed本记录CommentsCorrections关系",
+          "重新读取官方全文/PMC XML；核查Crossref update-to、updated-by、relation字段"
+        ],
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42199326/",
+            "locator": "本记录更正/评论关系"
+          },
+          {
+            "url": "https://api.crossref.org/works/10.2147/opth.s590465",
+            "locator": "更新与关系字段"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13282979/",
+            "locator": "Wu等2026-06-16读者来信全文，尤其第1–3项；没有新数据或原作者更正"
+          }
+        ],
+        "finding": "发现2026-06-16已发表读者来信DOI10.2147/OPTH.S630065，已读全文；未找到处理这些问题的作者回复或正式勘误。PubMed主记录无ErratumIn，Crossref更新关系为空。",
+        "limit": "截至本次实际检索未找到并不等于证明不存在；没有将人工复算或参考原研究的纠错称为期刊正式勘误。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-5cf196b9ecea",
+      "title": "International consensuses and guidelines on multifocal intraocular lenses (IOLs) by the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO).",
+      "pmid": "41419160",
+      "before_issue_count": 3,
+      "remaining_issue_count": 3,
+      "decisions": [
+        {
+          "original": "Statement 1.1写共识分数100%，但列出的strongly agree 50%+agree 45.45%=95.45%，与自身定义不合。",
+          "status": "retained",
+          "finding": "当前官方索引仍显示总分100%，分项50%、45.45%、4.55%、0%、0%，且Methods定义C score为前两项之和，计算应为95.45%。这是内部算术不符，不能用四舍五入解释4.55个百分点；两种分数都超过共识阈值，但100%不是可据此确认的最终分数。",
+          "sources": [
+            {
+              "url": "https://doi.org/10.1016/j.apjo.2025.100274",
+              "locator": "当前出版社可索引正文：Methodology、Statement 1.1、Results of voting and discussion"
+            },
+            {
+              "url": "https://www.sciencedirect.com/science/article/pii/S216209892600006X",
+              "locator": "Corrigendum 100280：Artis Symbiose Addition(D)/IDF 1.75/3.75 → 1.75/3.25；当前官方索引更正全文"
+            }
+          ]
+        },
+        {
+          "original": "Statement 6.4称年轻年龄与更佳适应/满意度相关且不是绝对预测，Discussion却称年轻患者更难适应；8.2对年轻人EDOF的表述也与Discussion方向不一致。不能合成为一个无争议推荐。",
+          "status": "retained",
+          "finding": "本轮当前索引复读Discussion，并从留存的官方正文选段实读8.2：8.2将年轻患者较高可塑性与EDOF适配相连，Discussion则写年轻患者可能更难适应、EDOF未必理想。两种说法也可能涉及不同需求和手术场景，不能仅据措辞断言医学矛盾已证实；文中适用条件仍未充分对齐。旧issue中的6.4段本轮未取到，明确保留这一阅读限制，不引用旧笔记证明原文。",
+          "sources": [
+            {
+              "url": "https://doi.org/10.1016/j.apjo.2025.100274",
+              "locator": "当前出版社可索引正文：Methodology、Statement 1.1、Results of voting and discussion"
+            },
+            {
+              "url": "https://doi.org/10.1016/j.apjo.2025.100274",
+              "locator": "2026-09-17留存的出版社正文选段：Statement 8.2、Statement 11.2与Table 3对应行，缓存aappo-specific-statements.json；本轮再次实读"
+            }
+          ]
+        },
+        {
+          "original": "Statement 11.2正文共识分数90.91%，Table 3同一条列81.82%，投票百分比也不同；需要作者澄清。上述差异未被已核读100280勘误覆盖。",
+          "status": "retained",
+          "finding": "实读留存的出版社Statement 11.2及Table 3对应行：正文90.91%=22.73+68.18，表格81.82%=18.18+63.64；中立比例亦分别4.55%和13.64%。不是同一分布的舍入差异，也不能仅选择表格当最终更正。当前正式100280明确更正Artis Symbiose附加度数，不是仅修作者名单，亦未改这些投票值。",
+          "sources": [
+            {
+              "url": "https://doi.org/10.1016/j.apjo.2025.100274",
+              "locator": "2026-09-17留存的出版社正文选段：Statement 8.2、Statement 11.2与Table 3对应行，缓存aappo-specific-statements.json；本轮再次实读"
+            },
+            {
+              "url": "https://www.sciencedirect.com/science/article/pii/S216209892600006X",
+              "locator": "Corrigendum 100280：Artis Symbiose Addition(D)/IDF 1.75/3.75 → 1.75/3.25；当前官方索引更正全文"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/41547647/",
+              "locator": "Published Erratum、Erratum for 41419160关系；其两名署名作者不能当作勘误内容"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "局部正文及正式勘误：当前官方可索引文本+先前留存官方选段；完整主文HTML403、DOI页只有跳转题录。6.4未能本轮重取；没有原始投票表，未标完整全文已复核。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:55.801853+00:00",
+        "methods": [
+          "PubMed主记录ErratumIn与勘误ErratumFor核对",
+          "当前ScienceDirect正式100280更正段逐句核读；主文官方索引及旧原文缓存对照"
+        ],
+        "sources": [
+          {
+            "url": "https://www.sciencedirect.com/science/article/pii/S216209892600006X",
+            "locator": "Corrigendum 100280：Artis Symbiose Addition(D)/IDF 1.75/3.75 → 1.75/3.25；当前官方索引更正全文"
+          },
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41547647/",
+            "locator": "Published Erratum、Erratum for 41419160关系；其两名署名作者不能当作勘误内容"
+          }
+        ],
+        "finding": "100280是正式内容勘误：Artis Symbiose Addition(D)/IDF由1.75/3.75改成1.75/3.25；不是仅修作者信息。未见对1.1、6.4/8.2或11.2投票/年龄表述的更正。",
+        "limit": "主文当前完整文件访问失败；8.2和11.2使用保留的出版社原文选段复读，而非依赖旧中文笔记。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-76776aed8809",
+      "title": "Enhanced Monovision Intraocular Lenses: Current Status and Future Perspectives-Systematic Review.",
+      "pmid": "41595610",
+      "before_issue_count": 4,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "199/297和250/364可由表中新增51/67人解释，但讨论与结果段没有同步使用同一纳入集合。",
+          "status": "retained",
+          "finding": "Table 2现有250与364人可复算，剔除Llovet-Rausell 51人和Auffarth 67人恰得199与297。官方补充Table S2也列这两项，支持现纳入集合包含它们；Discussion/手术人数段仍沿用496人，混用尚存。差额来源可解释，不等于正文已同步或样本矛盾得到正式更正。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838369/",
+              "locator": "Methods 2/2.5；Tables 2、4、5、6、7、8；Results与Discussion"
+            },
+            {
+              "url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-14-00074/article_deploy/biomedicines-14-00074-s001.zip",
+              "locator": "官方补充材料4页PDF：Table S1 PRISMA清单、Table S2风险偏倚表；无汇总均值原始计算表"
+            }
+          ]
+        },
+        {
+          "original": "Table 4逐项均值不能复现Table 6若干“更新”汇总；笔记给出明确复算口径，未假称正式更正。",
+          "status": "retained",
+          "finding": "实际重算Table 4：未加权UDVA=0.04343、UIVA=0.11286、非缺失UNVA=0.20667。按人数加权UIVA=31.78/250=0.12712，能解释Table 6这一值；但方法明确未加权，且加权UDVA=0.04539、UNVA=0.25377仍不等于0.0557、0.1943。故只是部分解开，不可将选择一种算法当整张表已正确。官方补充无原始计算数据。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838369/",
+              "locator": "Methods 2/2.5；Tables 2、4、5、6、7、8；Results与Discussion"
+            },
+            {
+              "url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-14-00074/article_deploy/biomedicines-14-00074-s001.zip",
+              "locator": "官方补充材料4页PDF：Table S1 PRISMA清单、Table S2风险偏倚表；无汇总均值原始计算表"
+            }
+          ]
+        },
+        {
+          "original": "Scarfone镜片在Table 2写Clareon SY60WF，Table 7却写Clareon Vivity；设备身份需回到原研究核实，不能把它们当同一光学设计。",
+          "status": "resolved",
+          "finding": "Scarfone原研究DOI10.3390/life15010064，全文Introduction明确型号Clareon SY60WF，Methods 2.4明确非散光单焦点，Discussion再次称Clareon monofocal aspheric。可确认综述Table 2的型号有原研究支持；其Methods 2.5、Table 7和Discussion写Vivity属不应延用的身份误标。笔记按原研究纠正，同时说明未发现综述正式勘误。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838369/",
+              "locator": "Methods 2/2.5；Tables 2、4、5、6、7、8；Results与Discussion"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11766993/",
+              "locator": "Scarfone原研究Introduction明确SY60WF；Methods 2.4为Clareon monofocal non-toric；Discussion第一段"
+            }
+          ]
+        },
+        {
+          "original": "Table 8多行明确“未测量像差”却推论像差无改变，超出直接测量证据。",
+          "status": "reclassified",
+          "finding": "Table 8本身逐行标Not measured，多处写indirectly suggests、likely或only indirectly；问题主要是间接观察不足以支撑像差相同的强结论，不是已证明作者伪造了直接像差测量。把它移到研究局限/证据间接性，保留“未测量不等于无改变”的解释，不再作为待解决的数值或资源身份异常。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838369/",
+              "locator": "Methods 2/2.5；Tables 2、4、5、6、7、8；Results与Discussion"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "综述当前全文、原表、官方补充PDF与Scarfone原研究全文实际复核；均为原来源，不凭综述镜片名称推断。没有汇总运算原表或正式修订稿。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:55.801853+00:00",
+        "methods": [
+          "按精确DOI联合correction/erratum检索；核对PubMed本记录CommentsCorrections关系",
+          "重新读取官方全文/PMC XML；核查Crossref update-to、updated-by、relation字段"
+        ],
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41595610/",
+            "locator": "本记录更正/评论关系"
+          },
+          {
+            "url": "https://api.crossref.org/works/10.3390/biomedicines14010074",
+            "locator": "更新与关系字段"
+          },
+          {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11766993/",
+            "locator": "Scarfone原研究Introduction明确SY60WF；Methods 2.4为Clareon monofocal non-toric；Discussion第一段"
+          },
+          {
+            "url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-14-00074/article_deploy/biomedicines-14-00074-s001.zip",
+            "locator": "官方补充材料4页PDF：Table S1 PRISMA清单、Table S2风险偏倚表；无汇总均值原始计算表"
+          }
+        ],
+        "finding": "主记录未查到ErratumIn；Crossref未列更新；精确DOI检索未找到正式Correction。镜片身份由所引原研究解开，属于本笔记的有依据校正。",
+        "limit": "截至本次实际检索未找到并不等于证明不存在；没有将人工复算或参考原研究的纠错称为期刊正式勘误。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-1f44f56132cc",
+      "title": "Comparison of visual quality after implantation of trifocal intraocular lenses with different diopter values in the two eyes: a retrospective study.",
+      "pmid": "41120951",
+      "before_issue_count": 3,
+      "remaining_issue_count": 3,
+      "decisions": [
+        {
+          "original": "Table 1性别百分比不能由每组31人的整数计数准确形成，需原始分母解释。",
+          "status": "retained",
+          "finding": "当前出版社表1与PMC一致。31人一组时，18/31=58.06%应约58.1%，而14/31=45.16%应约45.2%；表内58.3%和44.8%都无对应的一位小数整数计数。正文未说明性别另用有效样本数，补充S1只是问卷，故不能自行改成18/31或14/31，也不能猜分母。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04429-6",
+              "locator": "当前出版社Methods、Tables 1–2、Results—Factors related...相关段；Data availability"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12542111/",
+              "locator": "新取得全文XML：相同Methods、Tables 1–2、相关段及Supplementary information"
+            },
+            {
+              "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12886-025-04429-6/MediaObjects/12886_2025_4429_MOESM2_ESM.doc",
+              "locator": "Supplementary Table S1原始问卷：Night glare与Night halos为两个分立项目，症状频率选项never/rarely/sometimes/often/always；不是个体答卷或相关分析数据"
+            }
+          ]
+        },
+        {
+          "original": "相关段同一r=−0.261轮流称夜眩光/夜光晕，且P=0.00未说明有效样本单位；按62名独立患者的一般近似检验约P=0.04，仅供核查，Spearman精确值仍需原始秩次。",
+          "status": "retained",
+          "finding": "Methods评分及补充问卷使相关负号可解释：症状越少分越高，不必为使结论“正相关”而改符号。但官方正文先写night glare r=−0.261，紧接解释为night halo，随后又称night halo无相关；S1证实二者是独立问题，未提供答案矩阵来判定真实终点。P=0.00只是原文显示值，不能理解为严格零概率；按n=62的近似P约0.0405是诊断线索，精确Spearman/并列秩及有效n仍需原数据。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04429-6",
+              "locator": "当前出版社Methods、Tables 1–2、Results—Factors related...相关段；Data availability"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12542111/",
+              "locator": "新取得全文XML：相同Methods、Tables 1–2、相关段及Supplementary information"
+            },
+            {
+              "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12886-025-04429-6/MediaObjects/12886_2025_4429_MOESM2_ESM.doc",
+              "locator": "Supplementary Table S1原始问卷：Night glare与Night halos为两个分立项目，症状频率选项never/rarely/sometimes/often/always；不是个体答卷或相关分析数据"
+            }
+          ]
+        },
+        {
+          "original": "Table 2右眼近视力P=0.04而文字写0.01；对瞳孔中心位移的未显著结果直接称排除致因，推断过强。",
+          "status": "retained",
+          "finding": "当前原表2右眼UNVA P=0.04，正文P=0.01；两者都低于0.05，但精确P报告冲突尚未更正。另须区分证据层级：瞳孔中心位移差异未显著不能推出它不参与眩光/光晕的因果机制；这是解释局限，不能用来改动已有测量数值。复合issue只部分能分类澄清，整体继续保留。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04429-6",
+              "locator": "当前出版社Methods、Tables 1–2、Results—Factors related...相关段；Data availability"
+            },
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12542111/",
+              "locator": "新取得全文XML：相同Methods、Tables 1–2、相关段及Supplementary information"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "全文和补充问卷复核：出版社当前HTML与PMC XML一致；S1是空白满意度/光干扰问卷，不是个体数据或性别/相关性补表。未取得逐人数据，未把近似P值称正式重新分析。",
+      "correction_search": {
+        "checked_at": "2026-09-20T18:04:55.801853+00:00",
+        "methods": [
+          "按精确DOI联合correction/erratum检索；核对PubMed本记录CommentsCorrections关系",
+          "重新读取官方全文/PMC XML；核查Crossref update-to、updated-by、relation字段"
+        ],
+        "sources": [
+          {
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41120951/",
+            "locator": "本记录更正/评论关系"
+          },
+          {
+            "url": "https://api.crossref.org/works/10.1186/s12886-025-04429-6",
+            "locator": "更新与关系字段"
+          },
+          {
+            "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1186%2Fs12886-025-04429-6/MediaObjects/12886_2025_4429_MOESM2_ESM.doc",
+            "locator": "Supplementary Table S1原始问卷：Night glare与Night halos为两个分立项目，症状频率选项never/rarely/sometimes/often/always；不是个体答卷或相关分析数据"
+          }
+        ],
+        "finding": "PubMed无ErratumIn，Crossref无更新关系；出版社页面版本仍为2025-10-21，未见正式更正链接。补充S1没有解开性别分母或相关终点。",
+        "limit": "截至本次实际检索未找到并不等于证明不存在；没有将人工复算或参考原研究的纠错称为期刊正式勘误。"
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-3a61e9760ecd",
+      "title": "Comparisons of the short-term effectiveness and safety of surgical treatment for neovascular glaucoma: a systematic review and network meta-analysis",
+      "pmid": "35613778",
+      "before_issue_count": 3,
+      "remaining_issue_count": 3,
+      "decisions": [
+        {
+          "original": "摘要和Results成功率段将OR写为负值；图3明确为正OR并标有比较方向。笔记引用原图，不替作者改写摘要。",
+          "status": "retained",
+          "finding": "补充材料Appendix 9第11页的success/failure表虽标Odds ratio，实际数值含log尺度；本轮另将PDF该页渲染后目视核对。success下三角CCT行、AGV+IVAV列印2.33（1.19–3.48）；按图3的CCT相对AGV+IVAV方向反向取负，再指数化得到0.0973（0.0308–0.3042），与图3的0.10（0.03–0.31）相符。这解释部分数值来源，但摘要负点估计−0.10既不是合法OR，也不是log(0.10)≈−2.303，且混用了负OR点估计和log区间。不能给全部负数统一指数化后声称已纠正，仍保留尺度/方向报告冲突。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131079/",
+              "locator": "Abstract及Results成功率"
+            },
+            {
+              "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/94fc/9131079/b60c868fa430/bmjopen-2021-051794f03.jpg",
+              "locator": "Figure 3最右Success rate，逐行核图"
+            },
+            {
+              "url": "https://bmjopen.bmj.com/content/bmjopen/12/5/e051794/DC1/embed/inline-supplementary-material-1.pdf?download=true",
+              "locator": "Appendix 9 PDF第11页，下半success/failure矩阵"
+            }
+          ]
+        },
+        {
+          "original": "统计方法印出的变化值SD公式含两个方差相乘，量纲与前两项不一致；未获得分析代码，不能确定实际计算是否使用该式。",
+          "status": "retained",
+          "finding": "重新核对Outcomes原式，末项确印为SD_baseline²×SD_endpoint²，前两项是方差，末项为四次量纲；变化量方差一般需要协方差项2r SD_baseline SD_endpoint。补充材料20页包含检索、成功标准、偏倚、比较/排名、节点拆分、GRADE及事件汇总，未提供可核查这一转换的Stata代码或逐研究计算表，不能认定实际分析确实用了排印错误公式。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131079/",
+              "locator": "Methods—Outcomes，SD_IOPR计算式"
+            },
+            {
+              "url": "https://bmjopen.bmj.com/content/bmjopen/12/5/e051794/DC1/embed/inline-supplementary-material-1.pdf?download=true",
+              "locator": "20页补充材料目录与Appendices 1–14；未附原计算代码"
+            }
+          ]
+        },
+        {
+          "original": "表4六个月闭环不一致性P=0.395，而文字称显著不一致；此判断不符合通常0.05阈值。",
+          "status": "retained",
+          "finding": "Table 4六个月闭环Z=0.85、P=0.395仍与Results/Discussion称显著不一致冲突。新读Appendix 11第13页，6个月node-splitting各比较P=0.268、0.265、0.267、0.978、0.958，也未显著；该表针对不同检验，不能替代闭环检验，但没有为“显著”提供补充支持。0.395并非可通过舍入解释成<0.05。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131079/",
+              "locator": "Results一致性段、Table 4、Discussion"
+            },
+            {
+              "url": "https://bmjopen.bmj.com/content/bmjopen/12/5/e051794/DC1/embed/inline-supplementary-material-1.pdf?download=true",
+              "locator": "Appendix 11，PDF第13页，IOPR(6mo)六列P值"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "Re-read cached official PMC full text and visually inspected Figure3; fresh PubMed XML; official 20-page BMJ supplement retrieved, contents read, Appendix9 page11 rendered and visually inspected, Appendix11 page13 and Appendix12 pages14–15 read. Original Stata code not obtained.",
+      "correction_search": {
+        "checked_at": "2026-09-20T17:59:58.871361+00:00",
+        "queries": [
+          "10.1136/bmjopen-2021-051794 correction OR erratum OR corrigendum"
+        ],
+        "pubmed_source": "https://pubmed.ncbi.nlm.nih.gov/35613778/",
+        "pubmed_comments_corrections": "No ErratumIn/ErratumFor/RetractionIn linked in freshly fetched PubMed XML. ",
+        "result": "No formal correction located within exact-DOI web search and current PubMed-linked records; absence in searched sources is not proof that no correction exists elsewhere."
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-a93898d95cd4",
+      "title": "Integrated versus non-integrated orbital implants for treating anophthalmic sockets.",
+      "pmid": "27820878",
+      "before_issue_count": 1,
+      "remaining_issue_count": 1,
+      "decisions": [
+        {
+          "original": "摘要将PP暴露4/50与PMMA的6/100比较并列RR 17.82，无法由该2×2表重现；正文6/50实际指上睑沟畸形。未取得原始试验完整事件表，保留RR计算与终点定义警示。",
+          "status": "retained",
+          "finding": "仍不能核实RevMan录入的原始事件数。实读PMC全文Summary of findings、Table 3及Adverse events，并检查全部图：公开HTML只有流程图和偏倚图，未包含所需2×2森林图；Cochrane full/downloadstats及Wiley PDF均403，PMC“PDF”返回HTML验证页，未取得有效PDF。原试验Shome 2010正文入口亦403，作者条目仅摘要。可确定的是摘要4/50与6/100计算RR=1.333，而正文6/50指上睑沟畸形，不是暴露；若假设暴露为4/50对0/100并四格加0.5，才复现RR17.8235及95%CI0.9784–324.68。这个匹配仍只是审计假设，不能证明对照真实0事件，也不能消除终点混合警示。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6465188/",
+              "locator": "Abstract Main results；Summary of findings；Table 3 Clinical outcome；Effects—Adverse events；Figure1–3"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20417565/",
+              "locator": "Shome 2010 DOI10.1016/j.ophtha.2009.12.035，原试验摘要不提供完整不良事件表"
+            },
+            {
+              "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD010293.pub2/downloadstats",
+              "locator": "本轮下载分析数据入口403；没有获得RevMan事件数"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "Official PMC cached full text read; all three displayed figures checked by caption/type, no adverse-event forest plot in accessible HTML; current Cochrane evidence page/PubMed checked. Cochrane downloadstats403, publisherPDF403, PMCPDF200 non-PDF, original Shome full text403. Primary event verification remains incomplete.",
+      "correction_search": {
+        "checked_at": "2026-09-20T17:59:58.871361+00:00",
+        "queries": [
+          "10.1002/14651858.cd010293.pub2 correction OR erratum OR corrigendum"
+        ],
+        "pubmed_source": "https://pubmed.ncbi.nlm.nih.gov/27820878/",
+        "pubmed_comments_corrections": "No ErratumIn/ErratumFor/RetractionIn linked in freshly fetched PubMed XML. UpdateOf points to the 2013 protocol DOI10.1002/14651858.CD010293; this is not a correction.",
+        "result": "No formal correction located within exact-DOI web search and current PubMed-linked records; absence in searched sources is not proof that no correction exists elsewhere."
+      },
+      "note_content_changed": false
+    },
+    {
+      "id": "eye-a-b0d6fcb366a3",
+      "title": "A soft micron accuracy robot design and clinical validation for retinal surgery",
+      "pmid": "40925902",
+      "before_issue_count": 2,
+      "remaining_issue_count": 1,
+      "decisions": [
+        {
+          "original": "Clinical assessment把1.24/0.78称为mean LogMAR而讨论称改善量；表1与Statistical analysis支持均方根改善量解释，原文措辞仍容易误导。",
+          "status": "resolved",
+          "finding": "已澄清本文阅读口径：Statistical analysis明确多样本用RMS±SD；表1逐例术前减术后改善量的RMS为机器人1.2360、手工0.7841，样本SD为0.7071、0.4402，能复现1.24±0.70和0.78±0.44；摘要及Discussion同时称improvement。因此可确定这组数值表示改善量的均方根，而不是末次视力或改善量的算术平均。Results局部mean LogMAR为已定位的术语误写，记录在历史与局限中；这项resolved表示阅读口径已厘清，不声称期刊发布勘误。",
+          "sources": [
+            {
+              "url": "https://www.nature.com/articles/s41378-025-01002-5",
+              "locator": "Results—Clinical assessment；Table 1；Experimental section—Statistical analysis；Abstract/Discussion"
+            }
+          ]
+        },
+        {
+          "original": "Recruitment写10例随机之外另有6例急性出血；Anesthesia写前5例黄斑前膜、后5例局麻，与表1全为出血病例及结果全麻描述不一致；实际入组流向和麻醉人群未澄清。",
+          "status": "retained",
+          "finding": "当前出版网页仍同时写“10例随机，另6例急性黄斑下出血”、表1仅10例且9PCV+1RAM，以及Anesthesia的前5例机器人黄斑前膜手术全麻/后5例rt-PA局麻。Clinical assessment又称出血病例机器人操作全麻，未说明额外6例是否进入分析。新增阅读两个文字补充材料：MOESM7仅研究亮点，MOESM8为10只动物双眼方案，未提供人类CONSORT流程或解释这些人群。故仍不能以“不同阶段”自行消除冲突。",
+          "sources": [
+            {
+              "url": "https://www.nature.com/articles/s41378-025-01002-5",
+              "locator": "Clinical assessment、Table1、Recruitment and eligibility、Anesthesia"
+            },
+            {
+              "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41378-025-01002-5/MediaObjects/41378_2025_1002_MOESM7_ESM.docx",
+              "locator": "Research highlights全文"
+            },
+            {
+              "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41378-025-01002-5/MediaObjects/41378_2025_1002_MOESM8_ESM.docx",
+              "locator": "Animal experiment全文及Table1；只有动物分组，无人类流向"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "Current publisher full article, Table1 and clinical/methods paragraphs read; both DOCX supplements read fully. No video analysis; no patient-level source beyond publishedTable1. Existing RMS resolution preserved.",
+      "correction_search": {
+        "checked_at": "2026-09-20T17:59:58.871361+00:00",
+        "queries": [
+          "10.1038/s41378-025-01002-5 correction OR erratum OR corrigendum"
+        ],
+        "pubmed_source": "https://pubmed.ncbi.nlm.nih.gov/40925902/",
+        "pubmed_comments_corrections": "No ErratumIn/ErratumFor/RetractionIn linked in freshly fetched PubMed XML. ",
+        "result": "No formal correction located within exact-DOI web search and current PubMed-linked records; absence in searched sources is not proof that no correction exists elsewhere."
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-c583626e4cfe",
+      "title": "Visco-circumferential-suture-trabeculotomy-synechiolysis with phacoemulsification versus phacoemulsification alone for chronic primary angle closure glaucoma.",
+      "pmid": "40958099",
+      "before_issue_count": 4,
+      "remaining_issue_count": 4,
+      "decisions": [
+        {
+          "original": "方法与表1/3称视力为Decimal，但结果按logMAR解释0.59/0.60降至0.30/0.35为改善；尺度未澄清，不能确认视觉改善量。",
+          "status": "retained",
+          "finding": "当前正文、表1/3仍保留decimal标签，Results却将同一0.59/0.60至0.30/0.35称logMAR改善。若数字是decimal则下降代表变差，若为logMAR则下降代表改善；从原文无法确定是否转换及哪个标签错误。公开作者回复未解释此尺度，警示保留。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04373-5",
+              "locator": "Patients and methods首段BCVA decimal；Tables1/3；Results末段logMAR"
+            },
+            {
+              "url": "https://static-content.springer.com/openpeerreview/art%3A10.1186%2Fs12886-025-04373-5/12886_2025_4373_AuthorComment_V1.pdf",
+              "locator": "作者回复全文9页，未澄清视力尺度"
+            }
+          ]
+        },
+        {
+          "original": "讨论将P=0.074称显著，且重度积血正文1例与表4的2例不一致。",
+          "status": "retained",
+          "finding": "Results明说P=0.074不显著，Discussion仍用同一值称完全成功显著更高；不能拿另算的二分类P替换原文三分类/生存检验。Table4重度积血2眼，正文只写1眼发生重度并冲洗，原句不只是“2眼中1眼需冲洗”，所以不能据此消除差异。公开回复只泛称积血保守消退，并未给更正事件表。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04373-5",
+              "locator": "Results—Primary/Secondary outcomes、Discussion首段及Tables2/4"
+            },
+            {
+              "url": "https://static-content.springer.com/openpeerreview/art%3A10.1186%2Fs12886-025-04373-5/12886_2025_4373_AuthorComment_V1.pdf",
+              "locator": "Reviewer1 response9(f) p6仅概述积血恢复，非更正表"
+            }
+          ]
+        },
+        {
+          "original": "基线眼压离散量表注为SD时，与独立t检验所列P值不匹配；可能存在SD/SE或分析集标记问题，未擅自改数。",
+          "status": "retained",
+          "finding": "表1眼压27.46±0.32与28.0±0.30、43/45眼，标SD且声称独立t检验：按此重算双侧P≈2.39×10^-12，而原P=0.176。将两离散量改作SE再算P≈0.221，仍不能复现0.176；因此“只是SD写成SE”尚非有证据的解决。缺原始分布和分析集，保留疑点，不替换原数。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04373-5",
+              "locator": "Statistical analysis；Table1 baselineIOP，n43/45及SD标签"
+            }
+          ]
+        },
+        {
+          "original": "19位跨两组双眼患者的分组患者数报告与总独立人数关系不清，需要病例流程表解释。",
+          "status": "retained",
+          "finding": "公开作者回复第8页确认双眼患者一眼各组、第一眼随机后对眼分另一组，但只承认可能偏倚，没有提供相关性校正。若33与36是两组独立患者计数，且19人同时在两组，则并集为33+36−19=50，与69不一致；若33/36仅按第一眼归属计数，则必须明确标签且解释43/45眼。回复没有给病例流程表，不能自行选定解释。另第6页明确8眼360°失败改180°并排除，属于真实新增说明，已补入方法；并未填补上述人数矛盾。",
+          "sources": [
+            {
+              "url": "https://link.springer.com/article/10.1186/s12886-025-04373-5",
+              "locator": "Patients and methods bilateral allocation；Results baseline counts"
+            },
+            {
+              "url": "https://static-content.springer.com/openpeerreview/art%3A10.1186%2Fs12886-025-04373-5/12886_2025_4373_AuthorComment_V1.pdf",
+              "locator": "PDF第8页Reviewer2 comment3及回复；第6页Reviewer1 comment9(c)回复，8眼排除"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "Current publisher full text/tables; all public peer-review reports (V0 R2/R3, V1 R3) and 9-pageAuthorComment read. Audit calculations are consistency checks under reported independent t method, not reanalysis of patient data.",
+      "correction_search": {
+        "checked_at": "2026-09-20T17:59:58.871361+00:00",
+        "queries": [
+          "10.1186/s12886-025-04373-5 correction OR erratum OR corrigendum"
+        ],
+        "pubmed_source": "https://pubmed.ncbi.nlm.nih.gov/40958099/",
+        "pubmed_comments_corrections": "No ErratumIn/ErratumFor/RetractionIn linked in freshly fetched PubMed XML. ",
+        "result": "No formal correction located within exact-DOI web search and current PubMed-linked records; absence in searched sources is not proof that no correction exists elsewhere."
+      },
+      "note_content_changed": true
+    },
+    {
+      "id": "eye-a-e47268c5a507",
+      "title": "Preoperative and Intraoperative Risk Factors for Short-Term Corneal Endothelial Cell Loss After Phacoemulsification in Dogs: A Comparative Study.",
+      "pmid": "40984013",
+      "before_issue_count": 3,
+      "remaining_issue_count": 2,
+      "decisions": [
+        {
+          "original": "摘要术后CED的SD为29，正文/表2为293；摘要CCT597至620与其称增加8不相容，表4为598至606。引用表中数值并保留摘要冲突。",
+          "status": "retained",
+          "finding": "新取PubMed摘要仍为1741±29、CCT597±68至620±60并称增加8；已重新核读PMC全文Table2的1741±293和Table4的598±73至606±69。后者均值差8而摘要均值差23，不能靠整数舍入解释。CCT使用26眼子集可解释与CED33眼分母不同，却不能自行解释同一摘要的23与8；无正式更正，保留两处冲突。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961251/",
+              "locator": "Abstract Results；Tables2/4；Methods及Results CCT26眼子集"
+            },
+            {
+              "url": "https://pubmed.ncbi.nlm.nih.gov/40984013/",
+              "locator": "本轮新取摘要Results，仍为SD29及CCT597→620/增加8"
+            }
+          ]
+        },
+        {
+          "original": "Results称糖尿病犬内皮损失较多，而表2和讨论均为较少；本笔记按表报告，不替作者发布更正。",
+          "status": "resolved",
+          "finding": "已澄清组间结果方向：Table2分别列糖尿病组8眼与非糖尿病组25眼，绝对CED损失183±333对397±275 cells/mm²、相对损失8±15%对19±12%，两种指标均为糖尿病组较少；Discussion独立明确less CED reduction并以较短超声时间解释。因此Results3.2的greater为可定位的方向措辞误写，笔记可以准确报告“本观察队列中糖尿病组损失较少”，无需把方向保留为未知。原文字冲突记录在历史/局限，resolved不代表正式勘误，也不构成糖尿病有保护作用的因果结论。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961251/",
+              "locator": "Results3.2；Table2；Discussion diabetes段"
+            }
+          ]
+        },
+        {
+          "original": "回归表Beta与SE/t的尺度说明不充分，可能混用标准化和非标准化系数；不将其解释为每毫米眼轴的细胞数量因果效应。",
+          "status": "retained",
+          "finding": "Table3脚注把Beta定义为自变量每一单位对应的变化，按此应有t=B/SE；AL行−0.402/1.893=−0.212（不是−2.826），APT行0.514/0.48=1.071（不是3.613）。若Beta为标准化系数而SE来自未标准化B，则这一除法不适用，但文中未明确两列采用不同尺度且脚注支持未标准化解释；无原SPSS输出或标准化SE，不能证实具体原因。保留报告口径警示，避免解释为每毫米/每秒因果效应。",
+          "sources": [
+            {
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961251/",
+              "locator": "Table3 Beta/SE/t各列及脚注；Statistical Analysis逐步回归说明"
+            }
+          ]
+        }
+      ],
+      "actual_scope": "Re-read cached official PMC full text and Tables1–4; freshly fetched PubMed abstract/relations; attempted Wiley publisher403. Prior R² vs adjustedR² explanation preserved; not newly flagged.",
+      "correction_search": {
+        "checked_at": "2026-09-20T17:59:58.871361+00:00",
+        "queries": [
+          "10.1111/vop.70085 correction OR erratum OR corrigendum"
+        ],
+        "pubmed_source": "https://pubmed.ncbi.nlm.nih.gov/40984013/",
+        "pubmed_comments_corrections": "No ErratumIn/ErratumFor/RetractionIn linked in freshly fetched PubMed XML. ",
+        "result": "No formal correction located within exact-DOI web search and current PubMed-linked records; absence in searched sources is not proof that no correction exists elsewhere."
+      },
+      "note_content_changed": true
+    }
+  ]
+}

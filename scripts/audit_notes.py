@@ -22,6 +22,21 @@ def audit(records):
   if issues and valid_issues:
    if n.get('evidence_status')!='concerns':errors.append(r['id']+': evidence issues require explicit concern status')
    concerns.append({'id':r['id'],'title':r['title'],'pmid':r.get('pmid'),'completion':status,'scope':n.get('scope'),'issues':issues,'sources':n.get('sources',[])})
+  review=n.get('evidence_review')
+  if review is not None:
+   entries=review.get('issues',[]) if isinstance(review,dict) else []
+   if not isinstance(review,dict) or not review.get('checked_at') or not isinstance(entries,list) or not entries:
+    errors.append(r['id']+': evidence review requires dated issue decisions')
+   else:
+    for entry in entries:
+     if not isinstance(entry,dict) or entry.get('status') not in ('resolved','retained','reclassified') or not entry.get('original') or not entry.get('finding') or not entry.get('sources'):
+      errors.append(r['id']+': incomplete evidence review decision');continue
+     for source in entry['sources']:
+      u=urlsplit(source.get('url',''))
+      if u.scheme not in ('https','http') or not u.netloc or u.username or u.password or not source.get('locator'):
+       errors.append(r['id']+': evidence review source needs public URL and locator')
+    if valid_issues and sum(isinstance(e,dict) and e.get('status')=='retained' for e in entries)!=len(issues):
+     errors.append(r['id']+': unresolved review decisions must retain matching concern count')
   if n.get('completion')=='substantive' and n.get('scope') in ('metadata','restricted'):errors.append(r['id']+': title-only/restricted note cannot be complete')
   if status=='substantive':
    for k in ('question','design','methods','results','interpretation','limitations','sources'):

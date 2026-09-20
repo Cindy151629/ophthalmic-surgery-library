@@ -25,4 +25,19 @@ class NoteCoverageTests(unittest.TestCase):
  def test_malformed_or_hidden_concerns_fail_audit(self):
   for change in [{'evidence_status':'concerns'},{'evidence_issues':['Table conflict']},{'evidence_status':'concerns','evidence_issues':'Table conflict'}]:
    r=audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(**change)}]);self.assertTrue(r['errors'])
+ def review(self,status='resolved'):
+  return {'checked_at':'2026-09-21','issues':[{'original':'Two different denominators','status':status,'finding':'The flow diagram distinguishes enrolled and analyzed eyes.','sources':[{'url':'https://example.org/article','locator':'Figure 1 flow diagram'}]}]}
+ def test_resolved_history_is_visible_without_active_warning(self):
+  r=audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(evidence_review=self.review())}])
+  self.assertFalse(r['errors']);self.assertEqual(r['source_concerns'],0);self.assertFalse(r['gaps'])
+ def test_review_cannot_silently_clear_an_unresolved_issue(self):
+  n=self.note(evidence_review=self.review('retained'))
+  row={'id':'a','kind':'literature','section':'CAT','title':'A','note':n}
+  self.assertTrue(audit([row])['errors'])
+  n.update(evidence_status='concerns',evidence_issues=['The denominator is still unexplained.'])
+  self.assertFalse(audit([row])['errors']);self.assertEqual(audit([row])['source_concerns'],1)
+ def test_review_requires_actual_findings_and_located_public_sources(self):
+  for key,value in [('finding',''),('status','cleared'),('sources',[{'url':'https://secret:password@example.org/article','locator':'Table 1'}]),('sources',[{'url':'https://example.org/article'}])]:
+   review=self.review();review['issues'][0][key]=value
+   self.assertTrue(audit([{'id':'a','kind':'literature','section':'CAT','title':'A','note':self.note(evidence_review=review)}])['errors'])
 if __name__=='__main__':unittest.main()
