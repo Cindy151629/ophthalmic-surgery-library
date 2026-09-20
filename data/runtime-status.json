@@ -1,117 +1,20 @@
 {
   "domain_id": "ophthalmic-surgery",
   "schema_version": 1,
-  "status": "failed",
-  "started_at": "2026-09-20T17:43:00.969675+00:00",
-  "finished_at": "2026-09-20T17:43:09.533792+00:00",
+  "status": "running",
+  "started_at": "2026-09-20T17:46:16.226008+00:00",
+  "finished_at": null,
   "event": "workflow_dispatch",
   "first_started_at": "2026-09-16T15:59:47.670583+00:00",
   "last_success": null,
   "run_scope": "publish-reviewed",
-  "run_id": "35526739364",
-  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35526739364",
+  "run_id": "35526907398",
+  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35526907398",
   "observed_scheduled_run": null,
-  "steps": {
-    "started": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "start_saved": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "dependencies": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "update": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "publication_guard": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "tests": {
-      "outcome": "failure",
-      "conclusion": "failure"
-    },
-    "pages_config": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "upload": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "deployment": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "verification": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "pin": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "recovery_upload": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback_check": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    }
-  },
+  "steps": {},
   "rollback": {
-    "available": true,
-    "status": "ready",
-    "commit": "3f9cda64d00291e4f1c65ce1806f235deac6a0b1",
-    "data_version": "ccd67a33fdcb6c108e6b2a97f5ab7d3dc4f55d4ade8a4b34bef867cda8e34060"
+    "status": "not_checked"
   },
-  "last_errors": [
-    {
-      "source": "Primary-links",
-      "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
-    },
-    {
-      "source": "tests",
-      "reason": "Workflow step failure"
-    },
-    {
-      "source": "pages_config",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "upload",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "deployment",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "verification",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "pin",
-      "reason": "Workflow step skipped"
-    }
-  ],
-  "last_counts": {
-    "added": 103,
-    "staged": 651,
-    "records": 1251
-  }
+  "last_errors": [],
+  "last_counts": {}
 }
