@@ -1,9 +1,9 @@
 {
-  "version": "ccd67a33fdcb6c108e6b2a97f5ab7d3dc4f55d4ade8a4b34bef867cda8e34060",
-  "built_at": "2026-09-17T02:51:55.436777+00:00",
+  "version": "690c9483e94478ab943d2f54e2f41e9f30cfe6aafa8d575f7a3a27f0220815ab",
+  "built_at": "2026-09-20T17:46:21.699459+00:00",
   "records": 1251,
   "status": {
-    "last_attempt": "2026-09-16T16:12:34.212133+00:00",
+    "last_attempt": "2026-09-20T17:43:00.969675+00:00",
     "last_outcome": "partial",
     "deployed": true,
     "schedule_state": "远程周更已启用；未来定时触发另行记录",
@@ -290,7 +290,7 @@
     "last_local_run": "2026-09-16T16:17:02.628156+00:00",
     "schedule_description": "每周一09:17 · Asia/Shanghai；复用既有维护时段",
     "next_run": "2026-09-21T09:17:00+08:00",
-    "last_attempt_status": "partial",
+    "last_attempt_status": "failed",
     "last_counts": {
       "added": 103,
       "staged": 651,
@@ -300,25 +300,49 @@
       {
         "source": "Primary-links",
         "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
+      },
+      {
+        "source": "tests",
+        "reason": "Workflow step failure"
+      },
+      {
+        "source": "pages_config",
+        "reason": "Workflow step skipped"
+      },
+      {
+        "source": "upload",
+        "reason": "Workflow step skipped"
+      },
+      {
+        "source": "deployment",
+        "reason": "Workflow step skipped"
+      },
+      {
+        "source": "verification",
+        "reason": "Workflow step skipped"
+      },
+      {
+        "source": "pin",
+        "reason": "Workflow step skipped"
       }
     ],
     "first_attempt": "2026-09-16T16:12:29.622474+00:00",
-    "last_deploy": "2026-09-16T18:03:02.953472+00:00",
-    "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35131883574",
-    "last_publish_attempt": "2026-09-17T02:51:49.829497+00:00"
+    "last_deploy": "2026-09-17T02:52:08.972940+00:00",
+    "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35175997412",
+    "last_publish_attempt": "2026-09-20T17:46:16.226008+00:00"
   },
   "notes": {
     "articles": 961,
     "with_note": 961,
     "completion": {
-      "substantive": 948,
-      "limited": 9,
+      "substantive": 949,
+      "limited": 8,
       "pending": 4
     },
     "reading_scopes": {
-      "partial": 30,
-      "abstract": 657,
-      "fulltext": 270,
+      "partial": 31,
+      "abstract": 655,
+      "fulltext": 271,
       "metadata": 1,
       "restricted": 3
     },

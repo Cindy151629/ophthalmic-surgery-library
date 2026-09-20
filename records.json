@@ -54266,7 +54266,7 @@
       "Refractive Surgery Experts Group of Ocular Microcirculation Branch of Chinese Society of Microcirculation."
     ],
     "first_added_at": "2026-09-16T14:58:52.403602+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "doi": "10.3760/cma.j.cn112142-20240124-00045",
@@ -54293,7 +54293,8 @@
       "limitations": [
         "实际读到PubMed摘要和出版社引言；官方XML的正文仅一个引言节，参考文献较长不等于全文已取得。",
         "未读到推荐条文，不能完成用药层面的详细笔记，也不能确认具体方案变化。",
-        "继续获取路径：打开 https://rs.yiigle.com/cmaid/1510455 ，使用已有机构或个人全文权限阅读2024年648–657页原文；无需提供账号密码。"
+        "2026-09-21再次检查：官方页面仍提示试读结束；页面给出的PDF路径返回安全验证HTML，而非PDF。当前检索未找到同版可读的作者或学会公开全文。",
+        "待补的是不同术式的药物选择、剂量、疗程、监测及推荐条款；须取得同DOI的2024年648–657页原件。2019版及并发症共识不代替本篇。"
       ],
       "completion": "limited",
       "sources": [
@@ -54303,11 +54304,11 @@
         },
         {
           "url": "https://rs.yiigle.com/cmaid/1510455",
-          "locator": "DOI官方解析目标；正文试读第一节引言，未含推荐条款；题录、DOI及试读结束提示"
+          "locator": "2026-09-21已重新获取；官方XML body仅引言1节（367字符）；题录和摘要匹配，页面明确试读结束，具体推荐未开放取得"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "scope_description": "已读PubMed中英文摘要与中华医学会官方引言；官网明确提示试读结束、须全文权限。未取得推荐正文。"
+      "reviewed_at": "2026-09-20T17:37:49.297230+00:00",
+      "scope_description": "2026-09-21重新取得并核阅官方摘要和XML引言；body仅1节，未取得具体推荐正文，未将XML声明fulltext视为阅读全文。"
     },
     "page_checks": [
       {
@@ -54388,7 +54389,7 @@
       "Ocular Oncology Committee of China Anti‑Cancer Association, Ophthalmological Society of China Medicine Education Association."
     ],
     "first_added_at": "2026-09-16T14:58:52.403835+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "doi": "10.3760/cma.j.cn112142-20220906-00440",
@@ -54416,7 +54417,8 @@
       "limitations": [
         "已读官方引言两段及摘要，但其余正文须全文权限；未核实特定病种的适应证、禁忌证或检测算法。",
         "引言对技术进步的叙述不是本篇提供的比较疗效或诊断准确率结果。",
-        "继续获取路径：在 https://rs.yiigle.com/cmaid/1435320 通过已有机构或个人权限阅读同DOI的1017–1023页；2024年玻璃体视网膜淋巴瘤共识是另一篇文献。"
+        "2026-09-21再次检查：官方页面仍提示试读结束；页面给出的PDF路径返回安全验证HTML，而非PDF。当前检索未找到同版可读的作者或学会公开全文。",
+        "待补的是具体适应证、取样参数、标本处理/送检、检测方法选择和并发症处置条款；须取得同DOI的2022年1017–1023页原件。淋巴瘤专病共识不代替本篇。"
       ],
       "completion": "limited",
       "sources": [
@@ -54426,11 +54428,11 @@
         },
         {
           "url": "https://rs.yiigle.com/cmaid/1435320",
-          "locator": "官方XML body/s1：两段引言；试读后正文受限"
+          "locator": "2026-09-21已重新获取；官方XML body仅引言1节（429字符）；题录和摘要匹配，页面明确试读结束，具体推荐未开放取得"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "scope_description": "已读PubMed/SinoMed摘要及出版社正文引言两段；未读到操作、标本和检测推荐正文。"
+      "reviewed_at": "2026-09-20T17:37:49.297230+00:00",
+      "scope_description": "2026-09-21重新取得并核阅官方摘要和XML引言；body仅1节，未取得具体推荐正文，未将XML声明fulltext视为阅读全文。"
     },
     "page_checks": [
       {
@@ -57659,7 +57661,7 @@
       "Venkatesh R, Chang DF, Muralikrishnan R, Hemal K, Gogate P, Sengupta S."
     ],
     "first_added_at": "2026-09-16T14:58:52.409678+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "doi": "10.1097/apo.0b013e318249f7b9",
@@ -57677,13 +57679,13 @@
       "scope": "abstract",
       "question": "在高量或资源有限环境，MSICS的有效性与适用性有哪些支持？",
       "design": "2012年综述，以PubMed及Cochrane的英文文献为主，未设时间限制；包含不同层级比较研究。",
-      "methods": "比较MSICS、超乳和ECCE的视力、并发症、手术时间及经济负担，并讨论成熟硬核与晶状体相关青光眼。 PubMed及原始期刊卷期明确为2012年3–4月1(2):113–119，本轮纠正原笔记误写的2015年。检索仅限英文，纳入至少II、III级证据，未限定为随机试验。",
+      "methods": "比较MSICS、超乳和ECCE的视力、并发症、手术时间及经济负担，并讨论成熟硬核与晶状体相关青光眼。 PubMed及原始期刊卷期明确为2012年3–4月1(2):113–119，本轮纠正原笔记误写的2015年。检索仅限英文，纳入至少II、III级证据，未限定为随机试验。 对阅读证据需分开三个比较维度：与超乳比较资源/视觉结局；与大切口ECCE比较切口及并发症；复杂病例的可行性观察。摘要没有报告各层的纳入数，不能把三者合并成一个统一的随机比较结论。",
       "results": [
         "摘要认为MSICS在所引研究中获得良好视力结局，与超乳相近，最长观察到6个月，并具有较低成本；摘要没有统一区分所有研究的裸眼与最佳矫正终点。",
         "其适用报道包括白色及棕黑核白内障、晶状体溶解性和膨胀性青光眼。",
         "高量手术流程与设备需求是其重要价值维度，不能仅以一个视觉终点评价。"
       ],
-      "interpretation": "可与Cochrane综述互补：后者对裸眼视力及罕见并发症不确定性更谨慎，不能只摘取本综述的积极结论。 作者对总体安全性的积极判断与缺少摘要效应区间并存。不同复杂病例由不同研究报道，不能把它们当成一个经过分层随机的比较人群。",
+      "interpretation": "可与Cochrane综述互补：后者对裸眼视力及罕见并发症不确定性更谨慎，不能只摘取本综述的积极结论。 作者对总体安全性的积极判断与缺少摘要效应区间并存。不同复杂病例由不同研究报道，不能把它们当成一个经过分层随机的比较人群。 对高量场景的实际启示是同时考察术者经验、设备依赖、手术时间与费用；这是对综述研究问题的解读，不是摘要提供了可直接套用的当代成本估算。 “最长随访6个月”和“结局相近”也不能证明更长期等效。",
       "limitations": [
         "当前只有摘要，纳入研究数、搜索完整性及偏倚表未核阅。",
         "复杂白内障病例报告不等于所有患者的比较优势，2012成本与技术背景也需更新。",
@@ -57699,11 +57701,15 @@
         {
           "url": "https://www.sciencedirect.com/science/article/pii/S2162098923008587",
           "locator": "迁移后出版社正式题录与公开摘要：2012年1(2):113–119、原DOI一致；页面标Open access"
+        },
+        {
+          "url": "https://aravind.org/clinics/cataract/",
+          "locator": "作者医院Publications中2012年同篇题名、作者、卷页；实际超链接指向PubMed26107133，用于身份交叉核对，不是全文来源"
         }
       ],
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
+      "reviewed_at": "2026-09-20T17:37:59.256032+00:00",
       "applicability": "可与Cochrane综述互补：后者对裸眼视力及罕见并发症不确定性更谨慎，不能只摘取本综述的积极结论。",
-      "scope_description": "本轮重新读PubMed和迁移后ScienceDirect官方摘要，找到真实新PII并核对题名、DOI与卷页。原DOI跳转Ovid失效；新站标Open access，但正文/PDF请求403，官方FULL API需权限。当前仍未实读正文。"
+      "scope_description": "本轮重新核对出版社公开摘要、作者医院白内障文献目录和2012年4月院刊的原始链接，确认2012年1(2):113–119及同篇作者。院刊指向旧刊站目录，医院目录指向PubMed，均不是原文PDF；ScienceDirect正文请求本轮仍返回403。当前仍为摘要阅读。"
     },
     "page_checks": [
       {
@@ -60242,7 +60248,7 @@
       "Mathew DJ, Buys YM."
     ],
     "first_added_at": "2026-09-16T14:58:52.412508+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "doi": "10.1146/annurev-vision-121219-081737",
@@ -60283,8 +60289,8 @@
           "locator": "正式题录与公开摘要；全文加载入口受限"
         }
       ],
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "scope_description": "重新核读Annual Reviews与PubMed摘要；正式正文加载、PDF入口均403，OpenAlex没有列出可公开机构版本。没有用同一作者2023年的另一篇MIGS综述替代2020年本文。"
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00",
+      "scope_description": "2026-09-21再核读既有PubMed摘要并重试正式期刊入口；本轮未取得新增正文。Annual Reviews返回403，OpenAlex和OpenAIRE均只给出版社/PubMed入口，未列可公开读取的作者稿。保留原摘要笔记，不把2023年同作者另一篇MIGS综述当作2020年本文。"
     },
     "page_checks": [
       {
@@ -78868,7 +78874,7 @@
       "Konopińska J"
     ],
     "first_added_at": "2026-09-16T15:34:32.084464+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41796861/",
@@ -78894,7 +78900,7 @@
         "机构库仅发现题录入口，未发现已成功访问的正文文件；不能声称已阅读6篇纳入文献或核过综述全文表格。"
       ],
       "scope": "abstract",
-      "scope_description": "重新实读PubMed结构式摘要；Crossref及Elsevier官方接口确认PII S1896112626000106，接口只返回题录并标非开放。出版社正文403；作者机构库条目目前返回机器人检查，未取得附件。",
+      "scope_description": "2026-09-21重新实读PubMed结构式摘要，核对6篇、CP 711眼和PCP 475眼；未取得新增正文。OpenAlex/OpenAIRE没有正文文件；波兰作者机构PPM题录可被检索，但本轮页面请求发生SSL错误，不能据此断言库内绝无附件。仍未读到6篇纳入研究表格。",
       "completion": "limited",
       "sources": [
         {
@@ -78906,7 +78912,7 @@
           "locator": "出版社正式PII，由Crossref和Elsevier API核对DOI、题名、期刊；未获得正文"
         }
       ],
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00"
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00"
     },
     "page_checks": [
       {
@@ -83333,7 +83339,7 @@
       "Zhang X"
     ],
     "first_added_at": "2026-09-16T15:34:32.127257+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
@@ -83342,38 +83348,62 @@
       "conflicts": []
     },
     "note": {
-      "zh_title": "液流后囊抛光与机械抛光：受限摘要及未解决的安全事件分母",
-      "question": "液流清理后囊能否减少机械接触相关破裂，并改善早期视力及后囊混浊？",
-      "design": "摘要称随机分配290眼：液流144眼、机械146眼。已重查PubMed和Springer正式页，仍仅取得摘要与公开声明；未取得方法正文、事件表或完整原稿。",
-      "methods": "摘要比较后囊破裂、术后1天和1个月BCVA及1个月PCO，并报告年龄亚组。未说明随机隐藏、核硬度、手术难度分层、术者及完整分析集。原站正文订阅限制未以其他网页摘要或预览冒充全文。",
+      "zh_title": "液流后囊抛光与机械抛光：290眼随机研究及摘要、正文、表格的不一致",
+      "question": "在常规年龄相关核性白内障中，IOL植入前液流后囊抛光与I/A机械抛光相比，能否减少术中后囊破裂（PCR）、改善早期最佳矫正视力（BCVA），并减少1个月后囊混浊（PCO）？",
+      "design": "单中心、单术者、作者报告的随机比较研究。2024年1月1日至12月1日于滁州人民医院纳入290眼；每位患者只纳入先安排手术的一眼，液流144眼、机械146眼。正文称采用计算机生成随机数；未给分配隐藏、预设样本量或可核实的注册编号。研究设术后1天、1周、1个月随访，PCO被限定为短期次要结局。",
+      "methods": "纳入标准为40–95岁、Emery–Little核硬度1–4级、散瞳至少5 mm；排除成熟、后极性、皮质性及前后囊下白内障，以及青光眼、糖尿病视网膜病变、黄斑变性和超过指定范围的屈光异常。正文说明既往玻璃体视网膜手术作为例外记录，表1中机械17眼、液流19眼。两组均由同一有经验术者完成超乳，植入同型疏水丙烯酸锐方边AcrySof IQ SN60WF。主要区别为IOL植入前用I/A机械抛光，或采用液流冲洗清除残余物；本文未给可重复的流速、压力或标准化冲洗量。PCR术中直接观察记录；PCO由两名不知道分组的眼科医师评估，分歧经协商解决。统计方案包括Fisher精确检验、卡方检验、独立样本t检验及按年龄和性别分析。",
       "results": [
-        "作者报告后囊破裂液流0%、机械15.38%，并称差异显著；若机械组分析分母确为146眼，15.38%对应22.4548例，不能由整数事件数直接产生。22/146为15.07%，23/146为15.75%。",
-        "不同分析分母或文本错误均可能解释该差异，但摘要未提供流失及事件计数，无法选择其中一个解释。不能擅自将分母改为某个可产生15.38%的数。",
-        "摘要称液流组1天、1个月视力更好，1个月PCO更少；没有足够数值计算效应大小、临床重要性或精度。>60岁亚组亦未给人数和交互检验。",
-        "官方Data availability使用“simulation experiment data”的表述，与摘要人体随机研究的叙述需要全文进一步协调。"
+        "主要安全终点：结果正文及表2明确写液流0例、机械11例；按随机分组分母为0/144与11/146（7.53%），正文给P=0.0012。摘要仍写机械组15.38%。这是两个版本区域的实质不一致，不能把摘要15.38%当成已由全文证实，也不能擅自修改期刊数字。",
+        "破裂发生阶段：作者称机械组多数PCR发生在皮质清理阶段，少数发生在IOL植入阶段，核分解阶段没有PCR；但未给各阶段的具体事件数，不能据此计算分阶段风险。",
+        "视力结果按正文原样记录：术后1天液流组BCVA≥0.5与≥0.8分别88.74%、42.64%，机械组68.65%、22.5%；1个月液流91.97%、45.79%，机械仍68.65%、22.5%。这些比例缺少清晰对应的整数计数和各时点分析人数，不能直接据此复算可靠效应。",
+        "表3存在表头与数据错位的解释障碍：最上层标题是1天BCVA、1个月BCVA、1个月PCO，下一行却是≤0.4、0.5–0.6、≥0.8三个视力等级；液流行17、81、46合计144，机械行44、66、34也合计144，与机械随机146眼不一致。不能自行重排表格后宣称修复了数据。",
+        "正文报告1个月PCO液流7.7%、机械18.5%，但表3未提供可清楚对应的PCO事件数。图注使用Grade 1–4，而方法段给Grade 0–3，两处终点分级需要作者澄清。短期观察不足以推断长期PCO或Nd:YAG治疗需求。",
+        "基线表1与叙述不一致：表1机械/液流年龄均值分别74.9±0.68、73.6±0.75；正文另写液流74.8±0.68、机械73.4±0.75。核硬度3级表1为100/146（68.5%）、97/144（67.4%），正文却为33.8%、34.8%。不能同时采信两套数值。",
+        "年龄亚组解释受限：正文声称实际年龄74–95岁，却在表4列出≤60岁机械组6例PCR和>60岁5例；且≤60岁P=0.0434与正文称该亚组未见差异不一致。表4没有亚组总人数，无法核实风险或交互作用。"
       ],
-      "interpretation": "本条提供已可获得的研究内容和具体缺口，尚不足以采信显著安全优势。破裂是关键安全终点，必须有同一分析集下的整数事件数和结局定义；早期PCO也不能代替长期后囊混浊及Nd:YAG需求。",
+      "interpretation": "读者可从本文了解IOL植入前液流抛光的研究思路、患者筛选、观察终点及盲法安排，但这篇论文目前不宜作为量化安全优势或常规推广的可靠依据。正文11例PCR补上了此前缺失的整数事件数，同时暴露了其与摘要的冲突；“找到正文”并未解决原文质量问题。若仅描述表2，机械组观察风险为7.53%，两组风险差为−7.53个百分点，但这只是对该表的算术描述，不能替代矛盾数据澄清后的可信估计。作者的“高龄获益更大”还需要明确年龄分布、分层分母与交互检验，不能由分层P值不同推出。",
       "limitations": [
-        "无法核查基线、随机流程和完整并发症表；正文受限导致关键研究设计仍不清楚。",
-        "短随访、未给绝对视觉差异与亚组分母；不能从P值推导实际获益。"
+        "摘要、正文和表格关于PCR、年龄、核硬度、视力及PCO的报告不一致；本笔记保留各处原数并给定位，不替作者选择正确版本。",
+        "作者将样本限制为常规核性白内障及良好散瞳，结果不能直接外推到小瞳孔、悬韧带异常、后极性或成熟白内障。单术者和未报告标准化液流参数限制可重复性。",
+        "1个月随访只能说明早期表现；不能验证长期PCO、晚发玻璃体相关并发症或再次干预。本文未见清晰的逐时点随访流程和失访解释。",
+        "数据可用性声明仍称simulation experiment data，与临床随机设计叙述不一致；伦理声明未给审批编号。该问题需作者澄清，不能自行断定其数据来源或研究真实性。"
       ],
-      "scope": "abstract",
-      "completion": "limited",
+      "scope": "fulltext",
+      "completion": "substantive",
       "sources": [
         {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
-          "locator": "结构式摘要Methods/Results"
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
+          "locator": "正式全文Abstract、Methods、Results、Discussion、Data availability；图1仅核对图注"
         },
         {
-          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
-          "locator": "Abstract、Data availability及正文订阅限制"
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/1",
+          "locator": "Table 1：分组人数、年龄、既往玻璃体视网膜手术及核硬度"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/2",
+          "locator": "Table 2：PCR事件0与11，P=0.0012"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/3",
+          "locator": "Table 3：三列表头、视力分级和行合计"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/4",
+          "locator": "Table 4：年龄/性别亚组事件和P值，未给亚组分母"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
+          "locator": "PubMed摘要：机械组PCR15.38%，与正文表2对照"
         }
       ],
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "scope_description": "已读实际取得的摘要及公开页面；未将无法取得的正文列为已读。",
+      "reviewed_at": "2026-09-20T17:35:45.604974+00:00",
+      "scope_description": "本轮实际读取Springer正式HTML全文：Introduction、完整Methods、Results、Discussion、声明及独立表1–4页面；图1核对图注，未分析裂隙灯原图。已将原摘要笔记升级为全文批判性阅读，正文与摘要的矛盾分别列出。",
       "evidence_issues": [
-        "机械组15.38%与报告146眼不对应整数计数；分析分母尚未确定。",
-        "官方数据声明称模拟实验，摘要称临床随机研究；需取得完整方法才能核实。"
+        "摘要机械组PCR15.38%，正文及表2为11/146（7.53%）；没有说明采用不同分析集。",
+        "年龄及核硬度基线的正文数值与表1不一致；实际年龄范围74–95岁与≤60岁亚组相冲突。",
+        "表3的随访/PCO标题与BCVA分级错位，机械行合计144而随机分组146；视力和PCO比例无法可靠复算。",
+        "方法PCO分级0–3与图注1–4不一致；表4≤60岁P=0.0434与正文亚组解释不一致且缺少分母。",
+        "Data availability仍称模拟实验数据，与正文临床随机设计不一致。"
       ],
       "evidence_status": "concerns"
     },
@@ -83394,11 +83424,14 @@
       }
     ],
     "fulltext": {
-      "status": "unknown",
-      "url": null,
-      "read_scope": null
+      "status": "retrieved",
+      "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
+      "read_scope": "fulltext",
+      "retrieved": true,
+      "checked_at": "2026-09-20T17:35:45.604974+00:00",
+      "evidence": "已实际阅读所列对应正文；阅读范围、表图和版本见本轮笔记与来源定位。"
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index-with-reading-note",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -83561,7 +83594,7 @@
       "Dokania S"
     ],
     "first_added_at": "2026-09-16T15:34:32.128990+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41083149/",
@@ -83573,19 +83606,20 @@
       "zh_title": "后房有晶状体眼人工晶状体共识的建设性评论：正文待获取",
       "question": "该评论对后房有晶状体眼晶状体植入共识提出哪些具体补充或质疑？",
       "design": "PubMed确认是Aphale、Shekhar、Dokania的Letter，DOI 10.1016/j.apjo.2025.100250；在线日期2025年10月，卷期为2026年15卷2期100250。",
-      "methods": "核对PubMed、Elsevier公开接口及出版社入口。接口返回相符题名、DOI、PII和开放获取标记，但仅有coredata；没有通信正文。ScienceDirect程序访问受限，全文API要求有效API凭据；ResearchGate只有题录和索取入口。",
+      "methods": "2026年9月21日重新核对PubMed、Crossref与Elsevier正式接口。出版社XML返回题名、DOI、PII及CC-BY 4.0许可，但响应只有coredata；Crossref注册的文本接口返回参数错误，全文视图要求有效API凭据。官方ScienceDirect PDF请求返回403；LinkingHub给出的ClinicalKey入口也未返回正文。本轮浏览器没有可用连接，未发生实际网页阅读。",
       "results": [
-        "文献身份已确认：Aphale、Shekhar、Dokania的来信，在线2025年10月，正式编入2026年15卷2期100250。",
-        "出版社元数据标记开放获取，不能将本次技术性获取失败描述为必须购买的文章；具体批评和建议仍未读到。"
+        "文献身份已确认：Aphale、Shekhar、Dokania的来信，在线发表于2025年10月11日，正式编入2026年15卷2期100250。",
+        "Elsevier官方元数据明确openaccessArticle=true、许可CC-BY 4.0；Crossref的正式发表版本许可一致。应记录为开放获取文章的技术访问缺口，不能称为必须购买的文章。",
+        "本轮仍未取得正文或摘要，具体批评、建议及论证尚未核读；题名和参考文献不能代替其观点。"
       ],
       "interpretation": "该文应与其所评论的共识一起保留为后续批判性阅读入口。它不是新的共识指南，也不是原始临床试验；待取得原文后，才能区分哪些是作者建议、证据争议或编辑回应。",
       "limitations": [
         "无摘要且未取得正文，实质笔记尚未完成；参考文献列表不能证明作者对某个问题的立场。",
-        "API的full-text-retrieval-response标签仅是响应结构名，本次响应只有coredata；不等于读取全文。",
-        "可行下一步是正常浏览器打开官方ScienceDirect页面阅读/保存其开放获取正文。本轮程序及浏览器读取未取得正文；不要求用户订阅或提供密码。"
+        "API的full-text-retrieval-response仅是响应结构名，本次200响应没有正文；不能标为全文阅读。",
+        "待通过正常可用的ScienceDirect页面读取其开放获取正文，或取得出版社正式文件后补写。2026年9月21日本轮浏览器未连接，不等于已在浏览器中测试播放或阅读，也不要求用户提供密码。"
       ],
       "scope": "metadata",
-      "scope_description": "核对题录及官方OA标记；本轮程序及浏览器读取未取得正文。开放获取与本次可读性分别记录。",
+      "scope_description": "已复核题录、DOI/PII及官方CC-BY 4.0开放许可；实际只读元数据。官方PDF和全文接口未返回正文。",
       "completion": "pending",
       "sources": [
         {
@@ -83594,14 +83628,18 @@
         },
         {
           "url": "https://api.elsevier.com/content/article/pii/S2162098925001173?httpAccept=text/xml",
-          "locator": "200响应仅coredata，DOI/PII/题名及openaccess标记；不含正文"
+          "locator": "2026-09-21实取XML：200且只有coredata，DOI/PII/题名、openaccessArticle=true及CC-BY 4.0许可；不含正文"
         },
         {
           "url": "https://www.sciencedirect.com/science/article/pii/S2162098925001173",
-          "locator": "官方开放获取阅读入口；本轮自动访问失败，待正常网页读取"
+          "locator": "官方阅读入口；2026-09-21网页及PDF访问403，未读正文"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.apjo.2025.100250",
+          "locator": "license中content-version=vor、CC-BY 4.0；link提供Elsevier XML/plain文本入口；无正文"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00"
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00"
     },
     "page_checks": [
       {
@@ -93900,7 +93938,7 @@
       "Sharma B"
     ],
     "first_added_at": "2026-09-16T15:34:32.227080+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41642844/",
@@ -93909,24 +93947,25 @@
       "conflicts": []
     },
     "note": {
-      "zh_title": "人工晶体居中优化的叙述性综述",
+      "zh_title": "人工晶体居中优化：术前、术中框架与居中参考轴（摘要及首页预览）",
       "question": "如何从术前评估到囊袋操作理解影响人工晶体居中的因素？",
       "design": "叙述性综述，聚焦多焦点、景深延长和散光等对位置较敏感的晶体；摘要未提供系统检索、纳入篇数或定量综合。",
-      "methods": "内容框架分为术前与术中：术前关注屈光状态、轴位标记、度数计算、晶体材料/设计及视觉角度测量；术中讨论适当大小及位置的撕囊、悬韧带完整性、囊袋内植入和计划轴位对准。作者还概述用于提高居中精度的新技术。",
+      "methods": "内容框架分为术前与术中：术前关注屈光状态、轴位标记、度数计算、晶体材料/设计及视觉角度测量；术中讨论适当大小及位置的撕囊、悬韧带完整性、囊袋内植入和计划轴位对准。作者还概述用于提高居中精度的新技术。 本轮首页引言进一步定义：居中是IOL光学中心与眼参考轴的对应；参考轴选择随IOL类型和测量方式变化，不能直接把“位于瞳孔中央”当成所有光学设计共有的完整定义。",
       "results": [
         "摘要核心观点是晶体居中由患者解剖和手术多个因素共同决定，不能只依靠一种标记设备或单一切口技巧。",
-        "摘要没有任何具体偏心/倾斜阈值、随机比较效应、视觉质量变化量或成本数据。",
-        "未给出新技术名称及独立验证结果，因此本笔记不据标题补写器械排名或操作参数。"
+        "本轮新增引言内容：作者区分早期采用的瞳孔轴、临床以未散瞳瞳孔中心作多焦点IOL居中参考，以及较新的视觉轴/角膜顶点测量思路；引言认为后者受瞳孔形状影响较小，但没有在这一页给出可比较的视觉获益数值。",
+        "引言把眼轴长度、囊袋和悬韧带完整性列为位置稳定的解剖因素，同时强调囊袋内植入的机械稳定性；术中与术后偏心、倾斜是两个需要分别评估的问题。",
+        "当前可读部分未给出不同晶体的允许偏心/倾斜阈值，也没有测量设备的误差范围、各技术的独立效果或成本，不能据首篇页推荐某项设备或统一数值标准。"
       ],
-      "interpretation": "这篇文章适合作为居中问题的概念导览和进一步检索入口，而非可直接引用的定量优效证据。需区分瞳孔中心、视轴和囊袋中心等目标，但摘要未展开其定义，现有证据不足以归纳作者对此的具体选择建议。",
+      "interpretation": "实际阅读可以建立三层理解：术前解剖和屈光评估；术中撕囊、悬韧带与囊袋内定位；术后IOL光学中心相对选定参考轴的偏移。这里第三层的参考轴本身必须说明，不能直接把不同设备/不同瞳孔条件下的居中数值相互替换。以上是对已读引言和摘要的整理；作者在后续全文如何比较角膜顶点、视觉轴和瞳孔中心，以及是否支持某种临床选择，尚未读到。",
       "limitations": [
-        "仅摘要，无法列出全文所评术式、证据等级和具体争议。",
-        "叙述性选择可能存在引文选择偏倚，未见系统检索方法。",
-        "没有实测结局，不能证明任一策略降低光晕、脱位或再次手术；需获得正文后扩充技术层面的阅读笔记。",
-        "尚缺本文对居中参考轴、不同IOL设计、测量/手术策略的具体比较和作者结论；出版社摘要及参考目录不提供这些内容。"
+        "只读到正式首页及摘要，未取得其余19页；不能归纳未读技术比较、图表及总结。",
+        "本文是叙述性综述；公开部分未提供系统筛选流程、逐研究偏倚评价或合并效应，不能当作系统综述或随机试验。",
+        "ResearchGate页面的相关文献摘要与本文正文是不同来源，本笔记没有将这些相关研究的数字拼成本文结果。",
+        "须取得同一DOI的完整正文，才能继续补充IOL设计差异、具体参考轴、居中工具、并发症及结局证据。"
       ],
-      "scope": "abstract",
-      "scope_description": "本轮直接读Sage正式摘要、参考文献目录及版本信息；Full Text按钮实际重定向摘要且显示Restricted access。网页列出Version1 PDF文件名不代表正文可读，未把参考文献的研究结果当作本综述已读内容。",
+      "scope": "partial",
+      "scope_description": "本轮新增阅读SAGE提供在ResearchGate的正式第一页预览：题名、DOI、摘要及Introduction至第一页末尾。仅此页及目录，不是492–511页整篇全文；技术比较、表格和结论正文仍未取得。",
       "completion": "limited",
       "sources": [
         {
@@ -93936,9 +93975,13 @@
         {
           "url": "https://journals.sagepub.com/doi/10.1177/11206721251414692",
           "locator": "出版社Abstract、版本与作者信息、References；View Full Text重定向至abs并显示Restricted access"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/400507189_Optimizing_IOL_centration_in_cataract_surgery_Narrative_review_of_techniques_challenges_and_outcomes",
+          "locator": "SAGE出版社提供的Publisher Preview第一页：Abstract及Introduction；止于第一页末，未把引用文献摘要当作本篇正文"
         }
       ],
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00"
+      "reviewed_at": "2026-09-20T17:37:59.256032+00:00"
     },
     "page_checks": [
       {
@@ -138187,7 +138230,7 @@
       "Miguel A"
     ],
     "first_added_at": "2026-09-16T16:13:14.649616+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41075733/",
@@ -138213,7 +138256,7 @@
         "本轮定位到正式PDF入口，但无正文内容；待补病例数、随访时点、逐组眼压与用药、needling/再手术及并发症数据。"
       ],
       "scope": "abstract",
-      "scope_description": "本轮新核读EM-consulte出版社双语摘要和目录；PDF按钮进入9页预览外壳，正式PDF请求虽HTTP 200却为0字节，并非全文成功。Elsevier接口也只返回题录；没有实际观看研究中的手术视频。",
+      "scope_description": "2026-09-21实际读取EM-consulte官方法文Résumé、英文Summary及目录；内容与既有摘要笔记一致，正文仍明确需要订阅。本轮未取得新增病例结果或操作正文。HAL API连接失败不是零命中证据；OpenAlex/OpenAIRE未列公开稿件。此前正式PDF请求为0字节，不能算全文。",
       "completion": "limited",
       "sources": [
         {
@@ -138221,11 +138264,11 @@
           "locator": "PubMed Abstract：研究设计、方法、结果及结论段"
         },
         {
-          "url": "https://www.em-consulte.com/es/article/1768424/article/revue-des-techniques-chirurgicales-d-implantation-",
-          "locator": "Résumé/Summary与Esquema目录；页面明确全文需订阅"
+          "url": "https://www.em-consulte.com/article/1768424/revue-des-techniques-chirurgicales-d-implantation-du",
+          "locator": "本轮实际读取Résumé/Summary与Plan目录；全文入口明确订阅限制。法文正文题名与DOI吻合。"
         }
       ],
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00"
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00"
     },
     "page_checks": [
       {
@@ -139580,7 +139623,7 @@
       "Morgan WH"
     ],
     "first_added_at": "2026-09-16T16:13:14.692654+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41834590/",
@@ -139592,10 +139635,11 @@
       "zh_title": "Virna 低成本引流装置技术来信的作者回复",
       "question": "作者如何回应对Virna装置手术技术的讨论？",
       "design": "已核验身份的学术来信；不是可确认的新临床队列。",
-      "methods": "核对PubMed、Wiley和作者所在UWA机构库。Wiley可见作者、日期、卷期页码、参考文献和访问入口，但全文/PDF入口回到题录页；UWA记录同样只链接DOI，没有公开稿文件。",
+      "methods": "2026年9月21日重新核对PubMed、Wiley和UWA机构库。Wiley公开页面可核对作者、日期、页码、数据可用性声明及两条参考文献，未提供回复正文；Crossref登记的full-xml入口本轮返回403。实际重读UWA记录，其Access to Document仍只有DOI，没有公开稿文件。",
       "results": [
-        "确认这是Asrory与Morgan对Au技术来信的回复，2026年54卷587–588页，共两页。",
-        "当前无摘要也无可读正文，无法核实回复如何解释手术技术，或是否报告新增结果。"
+        "确认作者为Virna Dwi Oktariana Asrory与William H. Morgan，2026年3月16日在线发表，54卷4期587–588页；这是对Au技术来信的回复。",
+        "可见的数据可用性声明称本通信没有生成或分析数据集；这不是研究摘要，也不说明回复具体技术观点。",
+        "未取得回复正文，不能核实作者如何解释手术操作、回应何种质疑，或是否给出未构成数据集的补充描述。"
       ],
       "interpretation": "这条应保留与原论文/回复的书目关系，列入正文待补队列；不能用同主题原论文的数据替代本篇内容。",
       "limitations": [
@@ -139603,7 +139647,7 @@
         "具体获取路径：在Wiley DOI 10.1111/ceo.70111页面使用已有机构权限读取587–588页，或从图书馆合法取得该回复；UWA记录目前不提供稿件。"
       ],
       "scope": "restricted",
-      "scope_description": "题录已与Wiley和UWA机构库交叉核验；无摘要，两个来源都未提供公开正文。",
+      "scope_description": "2026-09-21重读出版社公开题录/声明/参考文献及UWA机构库；无摘要、没有可读回复正文。机构库没有公开稿附件，XML请求亦未返回正文。",
       "completion": "pending",
       "sources": [
         {
@@ -139612,14 +139656,14 @@
         },
         {
           "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70111",
-          "locator": "出版社题录及全文访问入口；本轮全文不可读"
+          "locator": "公开题录、Data Availability Statement及References 1–2；无可读回复正文；full-xml请求403"
         },
         {
           "url": "https://research-repository.uwa.edu.au/en/publications/surgical-techniques-for-the-virna-glaucoma-implant-a-low-cost-new/",
-          "locator": "UWA机构库：同DOI、作者和587–588页；Access to Document仅为DOI，无稿件文件"
+          "locator": "2026-09-21实际读取题录及Access to Document；仅DOI链接，没有PDF或稿件附件"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00"
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00"
     },
     "page_checks": [
       {
@@ -139986,7 +140030,7 @@
       "González-Martín-Moro J"
     ],
     "first_added_at": "2026-09-16T16:13:14.707788+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42002017/",
@@ -139998,7 +140042,7 @@
       "zh_title": "关于 MIGS 随机试验统计脆弱性的评论",
       "question": "这封评论对MIGS试验脆弱性分析提出了哪些具体方法学意见？",
       "design": "已核验身份的学术来信；不是可确认的新临床队列。",
-      "methods": "核对PubMed和Elsevier接口，题名、作者、DOI、PII S0002939426002072一致。官方API只返回题录；ScienceDirect/AJO全文请求未取得正文。检索作者机构及公开稿线索未找到本封来信可读版本。",
+      "methods": "2026年9月21日再次核对PubMed题录与Crossref注册信息，题名、González-Martín-Moro、DOI和目标PII S0002939426002072一致。AJO正式全文及PDF入口均未返回正文；OpenAlex未列出可用PDF或机构库全文，对作者及其机构的定向检索也未发现匹配稿件。",
       "results": [
         "确认González-Martín-Moro的评论发表于AJO2026年288卷338–339页，在线日期2026年4月17日。",
         "本篇无摘要，尚无可核实的方法学论点、重分析结果或数值；它与原综述及其作者回复是三个独立记录。"
@@ -140010,7 +140054,7 @@
         "具体获取路径：在AJO/ScienceDirect通过已有机构权限打开DOI 10.1016/j.ajo.2026.03.047（288卷338–339页）；未找到可公开读取的作者稿。"
       ],
       "scope": "restricted",
-      "scope_description": "已核对官方题录；无摘要、未取得正文，作者机构定向检索没有找到匹配公开稿。",
+      "scope_description": "2026-09-21复核官方题录与注册信息；无摘要，正式HTML/PDF请求未取得正文，未发现匹配的公开作者稿。",
       "completion": "pending",
       "sources": [
         {
@@ -140019,14 +140063,18 @@
         },
         {
           "url": "https://api.elsevier.com/content/article/pii/S0002939426002072?httpAccept=text/xml",
-          "locator": "200但仅coredata；不含实质正文"
+          "locator": "此前实取200响应只有coredata；本轮用Crossref确认相同目标PII，未取得实质正文"
         },
         {
           "url": "https://www.ajo.com/article/S0002-9394(26)00207-2/fulltext",
-          "locator": "匹配本篇PII的正式全文入口；本轮获取失败"
+          "locator": "2026-09-21正式全文与PDF入口均返回访问错误，未读取正文"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.ajo.2026.03.047",
+          "locator": "2026-09-21 DOI注册信息及TDM链接；目标PII为S0002939426002072，未提供正文"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00"
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00"
     },
     "page_checks": [
       {
@@ -140087,7 +140135,7 @@
       "Au SCL"
     ],
     "first_added_at": "2026-09-16T16:13:14.709802+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41552978/",
@@ -140099,10 +140147,11 @@
       "zh_title": "Virna 低成本引流装置手术技术的读者来信",
       "question": "来信对Virna引流装置的技术说明提出了哪些具体问题？",
       "design": "已核验身份的学术来信；不是可确认的新临床队列。",
-      "methods": "核对PubMed和Wiley题录，作者为Sunny Chi Lik Au，在线2026年1月19日，正式页码585–586。Wiley全文入口未显示正文，ResearchGate记录明确无公开全文；进一步机构/作者检索未找到可读稿。",
+      "methods": "2026年9月21日重新核对PubMed与Wiley公开页面：作者Sunny Chi Lik Au，在线2026年1月19日，54卷4期585–586页。公开页只有题录、数据声明及参考文献，full-xml入口返回403。对HKU机构库、作者与精确DOI的检索未发现与本通信匹配的可读稿；ResearchGate仍只有索取入口。",
       "results": [
-        "身份确认是读者来信，不能当作Virna装置原始252例队列研究。",
-        "无摘要、无正文，尚不能给出技术质疑、手术步骤或数据的具体概括。"
+        "身份确认是Sunny Chi Lik Au的读者来信，不能当作Virna装置原始252例队列研究，也不能与587–588页的作者回复合并。",
+        "Wiley公开数据声明表示未生成或分析数据集；它不能替代缺失摘要，更不能据此推出具体手术技术意见。",
+        "本轮仍未读到正文，无法给出技术质疑、操作步骤或结果的具体概括。"
       ],
       "interpretation": "这条应保留与原论文/回复的书目关系，列入正文待补队列；不能用同主题原论文的数据替代本篇内容。",
       "limitations": [
@@ -140110,7 +140159,7 @@
         "具体获取路径：在Wiley DOI 10.1111/ceo.70063页面通过已有机构权限读取54卷585–586页；目前检索到的ResearchGate页面只有索取入口，本轮未联系作者。"
       ],
       "scope": "restricted",
-      "scope_description": "官方题录核验完成；无摘要，出版社及作者公开稿检索均未取得可读正文。",
+      "scope_description": "2026-09-21重读官方题录、公开数据声明及参考文献；无摘要、全文XML访问受阻，机构/作者检索未取得匹配公开稿。",
       "completion": "pending",
       "sources": [
         {
@@ -140119,10 +140168,10 @@
         },
         {
           "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70063",
-          "locator": "出版社题录；全文/PDF访问仍受限"
+          "locator": "公开题录、Data Availability Statement、References；不含来信论述；full-xml请求403"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00"
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00"
     },
     "page_checks": [
       {
@@ -142821,7 +142870,7 @@
       "Prokosch V"
     ],
     "first_added_at": "2026-09-16T16:13:14.795905+00:00",
-    "last_changed_at": "2026-09-17T02:49:32.835269+00:00",
+    "last_changed_at": "2026-09-20T17:41:29.005449+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40889752/",
@@ -142846,7 +142895,7 @@
         "单病例即使结果良好也无法分离各层材料贡献，不能据此估计降低复发的概率。"
       ],
       "scope": "partial",
-      "scope_description": "已读出版社Background片段；正文病例方法、结果、随访和图片未开放取得，机构库仅有书目记录。",
+      "scope_description": "保留此前实读的出版社公开Background片段及其有限笔记。2026-09-21重试Thieme得到HTTP 200反机器人页面，RWTH返回空壳，均不是全文；OpenAlex仍将RWTH记录列为无PDF，OpenAIRE只列正式DOI/PubMed。未取得病例方法、随访、结果或图片的新内容。",
       "completion": "limited",
       "sources": [
         {
@@ -142862,7 +142911,7 @@
           "locator": "RWTH作者机构记录；DOI/PMID一致、Files为空"
         }
       ],
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00"
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00"
     },
     "page_checks": [
       {
