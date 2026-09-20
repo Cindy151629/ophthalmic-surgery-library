@@ -1,5 +1,5 @@
 {
-  "last_attempt": "2026-09-16T16:12:34.212133+00:00",
+  "last_attempt": "2026-09-20T17:43:00.969675+00:00",
   "last_outcome": "partial",
   "deployed": true,
   "schedule_state": "远程周更已启用；未来定时触发另行记录",
@@ -286,7 +286,7 @@
   "last_local_run": "2026-09-16T16:17:02.628156+00:00",
   "schedule_description": "每周一09:17 · Asia/Shanghai；复用既有维护时段",
   "next_run": "2026-09-21T09:17:00+08:00",
-  "last_attempt_status": "partial",
+  "last_attempt_status": "failed",
   "last_counts": {
     "added": 103,
     "staged": 651,
@@ -296,6 +296,30 @@
     {
       "source": "Primary-links",
       "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
+    },
+    {
+      "source": "tests",
+      "reason": "Workflow step failure"
+    },
+    {
+      "source": "pages_config",
+      "reason": "Workflow step skipped"
+    },
+    {
+      "source": "upload",
+      "reason": "Workflow step skipped"
+    },
+    {
+      "source": "deployment",
+      "reason": "Workflow step skipped"
+    },
+    {
+      "source": "verification",
+      "reason": "Workflow step skipped"
+    },
+    {
+      "source": "pin",
+      "reason": "Workflow step skipped"
     }
   ],
   "first_attempt": "2026-09-16T16:12:29.622474+00:00",
