@@ -8,7 +8,8 @@
     "reason": [
       "实际读到PubMed摘要和出版社引言；官方XML的正文仅一个引言节，参考文献较长不等于全文已取得。",
       "未读到推荐条文，不能完成用药层面的详细笔记，也不能确认具体方案变化。",
-      "继续获取路径：打开 https://rs.yiigle.com/cmaid/1510455 ，使用已有机构或个人全文权限阅读2024年648–657页原文；无需提供账号密码。"
+      "2026-09-21再次检查：官方页面仍提示试读结束；页面给出的PDF路径返回安全验证HTML，而非PDF。当前检索未找到同版可读的作者或学会公开全文。",
+      "待补的是不同术式的药物选择、剂量、疗程、监测及推荐条款；须取得同DOI的2024年648–657页原件。2019版及并发症共识不代替本篇。"
     ],
     "sources": [
       {
@@ -17,7 +18,7 @@
       },
       {
         "url": "https://rs.yiigle.com/cmaid/1510455",
-        "locator": "DOI官方解析目标；正文试读第一节引言，未含推荐条款；题录、DOI及试读结束提示"
+        "locator": "2026-09-21已重新获取；官方XML body仅引言1节（367字符）；题录和摘要匹配，页面明确试读结束，具体推荐未开放取得"
       }
     ]
   },
@@ -30,7 +31,8 @@
     "reason": [
       "已读官方引言两段及摘要，但其余正文须全文权限；未核实特定病种的适应证、禁忌证或检测算法。",
       "引言对技术进步的叙述不是本篇提供的比较疗效或诊断准确率结果。",
-      "继续获取路径：在 https://rs.yiigle.com/cmaid/1435320 通过已有机构或个人权限阅读同DOI的1017–1023页；2024年玻璃体视网膜淋巴瘤共识是另一篇文献。"
+      "2026-09-21再次检查：官方页面仍提示试读结束；页面给出的PDF路径返回安全验证HTML，而非PDF。当前检索未找到同版可读的作者或学会公开全文。",
+      "待补的是具体适应证、取样参数、标本处理/送检、检测方法选择和并发症处置条款；须取得同DOI的2022年1017–1023页原件。淋巴瘤专病共识不代替本篇。"
     ],
     "sources": [
       {
@@ -39,7 +41,7 @@
       },
       {
         "url": "https://rs.yiigle.com/cmaid/1435320",
-        "locator": "官方XML body/s1：两段引言；试读后正文受限"
+        "locator": "2026-09-21已重新获取；官方XML body仅引言1节（429字符）；题录和摘要匹配，页面明确试读结束，具体推荐未开放取得"
       }
     ]
   },
@@ -63,6 +65,10 @@
       {
         "url": "https://www.sciencedirect.com/science/article/pii/S2162098923008587",
         "locator": "迁移后出版社正式题录与公开摘要：2012年1(2):113–119、原DOI一致；页面标Open access"
+      },
+      {
+        "url": "https://aravind.org/clinics/cataract/",
+        "locator": "作者医院Publications中2012年同篇题名、作者、卷页；实际超链接指向PubMed26107133，用于身份交叉核对，不是全文来源"
       }
     ]
   },
@@ -112,27 +118,6 @@
     ]
   },
   {
-    "id": "eye-a-dba338b2989d",
-    "title": "Efficacy of fluid flow posterior capsule polishing in reducing capsule rupture and enhancing visual recovery during phacoemulsification cataract surgery.",
-    "pmid": "41021122",
-    "status": "limited",
-    "scope": "abstract",
-    "reason": [
-      "无法核查基线、随机流程和完整并发症表；正文受限导致关键研究设计仍不清楚。",
-      "短随访、未给绝对视觉差异与亚组分母；不能从P值推导实际获益。"
-    ],
-    "sources": [
-      {
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
-        "locator": "结构式摘要Methods/Results"
-      },
-      {
-        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
-        "locator": "Abstract、Data availability及正文订阅限制"
-      }
-    ]
-  },
-  {
     "id": "eye-a-94d936d9252d",
     "title": "Constructive critique on consensus guidelines for posterior chamber phakic intraocular lens implantation.",
     "pmid": "41083149",
@@ -140,8 +125,8 @@
     "scope": "metadata",
     "reason": [
       "无摘要且未取得正文，实质笔记尚未完成；参考文献列表不能证明作者对某个问题的立场。",
-      "API的full-text-retrieval-response标签仅是响应结构名，本次响应只有coredata；不等于读取全文。",
-      "可行下一步是正常浏览器打开官方ScienceDirect页面阅读/保存其开放获取正文。本轮程序及浏览器读取未取得正文；不要求用户订阅或提供密码。"
+      "API的full-text-retrieval-response仅是响应结构名，本次200响应没有正文；不能标为全文阅读。",
+      "待通过正常可用的ScienceDirect页面读取其开放获取正文，或取得出版社正式文件后补写。2026年9月21日本轮浏览器未连接，不等于已在浏览器中测试播放或阅读，也不要求用户提供密码。"
     ],
     "sources": [
       {
@@ -150,11 +135,15 @@
       },
       {
         "url": "https://api.elsevier.com/content/article/pii/S2162098925001173?httpAccept=text/xml",
-        "locator": "200响应仅coredata，DOI/PII/题名及openaccess标记；不含正文"
+        "locator": "2026-09-21实取XML：200且只有coredata，DOI/PII/题名、openaccessArticle=true及CC-BY 4.0许可；不含正文"
       },
       {
         "url": "https://www.sciencedirect.com/science/article/pii/S2162098925001173",
-        "locator": "官方开放获取阅读入口；本轮自动访问失败，待正常网页读取"
+        "locator": "官方阅读入口；2026-09-21网页及PDF访问403，未读正文"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1016/j.apjo.2025.100250",
+        "locator": "license中content-version=vor、CC-BY 4.0；link提供Elsevier XML/plain文本入口；无正文"
       }
     ]
   },
@@ -163,12 +152,12 @@
     "title": "\"Optimizing IOL centration in cataract surgery: Narrative review of techniques, challenges, and outcomes\".",
     "pmid": "41642844",
     "status": "limited",
-    "scope": "abstract",
+    "scope": "partial",
     "reason": [
-      "仅摘要，无法列出全文所评术式、证据等级和具体争议。",
-      "叙述性选择可能存在引文选择偏倚，未见系统检索方法。",
-      "没有实测结局，不能证明任一策略降低光晕、脱位或再次手术；需获得正文后扩充技术层面的阅读笔记。",
-      "尚缺本文对居中参考轴、不同IOL设计、测量/手术策略的具体比较和作者结论；出版社摘要及参考目录不提供这些内容。"
+      "只读到正式首页及摘要，未取得其余19页；不能归纳未读技术比较、图表及总结。",
+      "本文是叙述性综述；公开部分未提供系统筛选流程、逐研究偏倚评价或合并效应，不能当作系统综述或随机试验。",
+      "ResearchGate页面的相关文献摘要与本文正文是不同来源，本笔记没有将这些相关研究的数字拼成本文结果。",
+      "须取得同一DOI的完整正文，才能继续补充IOL设计差异、具体参考轴、居中工具、并发症及结局证据。"
     ],
     "sources": [
       {
@@ -178,6 +167,10 @@
       {
         "url": "https://journals.sagepub.com/doi/10.1177/11206721251414692",
         "locator": "出版社Abstract、版本与作者信息、References；View Full Text重定向至abs并显示Restricted access"
+      },
+      {
+        "url": "https://www.researchgate.net/publication/400507189_Optimizing_IOL_centration_in_cataract_surgery_Narrative_review_of_techniques_challenges_and_outcomes",
+        "locator": "SAGE出版社提供的Publisher Preview第一页：Abstract及Introduction；止于第一页末，未把引用文献摘要当作本篇正文"
       }
     ]
   },
@@ -199,8 +192,8 @@
         "locator": "PubMed Abstract：研究设计、方法、结果及结论段"
       },
       {
-        "url": "https://www.em-consulte.com/es/article/1768424/article/revue-des-techniques-chirurgicales-d-implantation-",
-        "locator": "Résumé/Summary与Esquema目录；页面明确全文需订阅"
+        "url": "https://www.em-consulte.com/article/1768424/revue-des-techniques-chirurgicales-d-implantation-du",
+        "locator": "本轮实际读取Résumé/Summary与Plan目录；全文入口明确订阅限制。法文正文题名与DOI吻合。"
       }
     ]
   },
@@ -221,11 +214,11 @@
       },
       {
         "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70111",
-        "locator": "出版社题录及全文访问入口；本轮全文不可读"
+        "locator": "公开题录、Data Availability Statement及References 1–2；无可读回复正文；full-xml请求403"
       },
       {
         "url": "https://research-repository.uwa.edu.au/en/publications/surgical-techniques-for-the-virna-glaucoma-implant-a-low-cost-new/",
-        "locator": "UWA机构库：同DOI、作者和587–588页；Access to Document仅为DOI，无稿件文件"
+        "locator": "2026-09-21实际读取题录及Access to Document；仅DOI链接，没有PDF或稿件附件"
       }
     ]
   },
@@ -247,11 +240,15 @@
       },
       {
         "url": "https://api.elsevier.com/content/article/pii/S0002939426002072?httpAccept=text/xml",
-        "locator": "200但仅coredata；不含实质正文"
+        "locator": "此前实取200响应只有coredata；本轮用Crossref确认相同目标PII，未取得实质正文"
       },
       {
         "url": "https://www.ajo.com/article/S0002-9394(26)00207-2/fulltext",
-        "locator": "匹配本篇PII的正式全文入口；本轮获取失败"
+        "locator": "2026-09-21正式全文与PDF入口均返回访问错误，未读取正文"
+      },
+      {
+        "url": "https://api.crossref.org/works/10.1016/j.ajo.2026.03.047",
+        "locator": "2026-09-21 DOI注册信息及TDM链接；目标PII为S0002939426002072，未提供正文"
       }
     ]
   },
@@ -272,7 +269,7 @@
       },
       {
         "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70063",
-        "locator": "出版社题录；全文/PDF访问仍受限"
+        "locator": "公开题录、Data Availability Statement、References；不含来信论述；full-xml请求403"
       }
     ]
   },

@@ -137,20 +137,39 @@
     "id": "eye-a-dba338b2989d",
     "title": "Efficacy of fluid flow posterior capsule polishing in reducing capsule rupture and enhancing visual recovery during phacoemulsification cataract surgery.",
     "pmid": "41021122",
-    "completion": "limited",
-    "scope": "abstract",
+    "completion": "substantive",
+    "scope": "fulltext",
     "issues": [
-      "机械组15.38%与报告146眼不对应整数计数；分析分母尚未确定。",
-      "官方数据声明称模拟实验，摘要称临床随机研究；需取得完整方法才能核实。"
+      "摘要机械组PCR15.38%，正文及表2为11/146（7.53%）；没有说明采用不同分析集。",
+      "年龄及核硬度基线的正文数值与表1不一致；实际年龄范围74–95岁与≤60岁亚组相冲突。",
+      "表3的随访/PCO标题与BCVA分级错位，机械行合计144而随机分组146；视力和PCO比例无法可靠复算。",
+      "方法PCO分级0–3与图注1–4不一致；表4≤60岁P=0.0434与正文亚组解释不一致且缺少分母。",
+      "Data availability仍称模拟实验数据，与正文临床随机设计不一致。"
     ],
     "sources": [
       {
-        "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
-        "locator": "结构式摘要Methods/Results"
+        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
+        "locator": "正式全文Abstract、Methods、Results、Discussion、Data availability；图1仅核对图注"
       },
       {
-        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
-        "locator": "Abstract、Data availability及正文订阅限制"
+        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/1",
+        "locator": "Table 1：分组人数、年龄、既往玻璃体视网膜手术及核硬度"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/2",
+        "locator": "Table 2：PCR事件0与11，P=0.0012"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/3",
+        "locator": "Table 3：三列表头、视力分级和行合计"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/4",
+        "locator": "Table 4：年龄/性别亚组事件和P值，未给亚组分母"
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
+        "locator": "PubMed摘要：机械组PCR15.38%，与正文表2对照"
       }
     ]
   },

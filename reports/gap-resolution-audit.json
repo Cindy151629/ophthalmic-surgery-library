@@ -1,57 +1,8 @@
 {
-  "checked_at": "2026-09-17T02:49:32.835269+00:00",
-  "remote_parent": "1302a3ece0cacdd69fd49670065823bc6e28312f",
-  "reviewed_articles": 37,
+  "checked_at": "2026-09-20T17:41:29.005449+00:00",
+  "remote_parent": "2abf5e11efc7abce71435b3641328d5797ecbe1b",
+  "reviewed_articles": 13,
   "before": {
-    "articles": 961,
-    "with_note": 961,
-    "completion": {
-      "substantive": 924,
-      "limited": 30,
-      "pending": 7
-    },
-    "reading_scopes": {
-      "partial": 25,
-      "abstract": 667,
-      "fulltext": 262,
-      "metadata": 2,
-      "restricted": 5
-    },
-    "sections": {
-      "CAT": {
-        "substantive": 262,
-        "limited": 21,
-        "pending": 1
-      },
-      "CR": {
-        "substantive": 107
-      },
-      "GEN": {
-        "substantive": 97,
-        "limited": 5
-      },
-      "GL": {
-        "substantive": 175,
-        "limited": 3,
-        "pending": 4
-      },
-      "OCP": {
-        "substantive": 49,
-        "limited": 1,
-        "pending": 1
-      },
-      "PTO": {
-        "substantive": 59
-      },
-      "RET": {
-        "substantive": 175,
-        "pending": 1
-      }
-    },
-    "source_concerns": 0,
-    "definition": "substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为实质内容仍待补充，pending为未取得实质内容。原文报告问题用concerns独立记录；完整的批判性笔记不意味着原文数据可靠。"
-  },
-  "after": {
     "articles": 961,
     "with_note": 961,
     "completion": {
@@ -97,61 +48,70 @@
     "source_concerns": 19,
     "definition": "substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为实质内容仍待补充，pending为未取得实质内容。原文报告问题用concerns独立记录；完整的批判性笔记不意味着原文数据可靠。"
   },
-  "notes_with_content_changes": 37,
-  "newly_completed": 24,
-  "actual_fulltext_upgrades": 8,
+  "after": {
+    "articles": 961,
+    "with_note": 961,
+    "completion": {
+      "substantive": 949,
+      "limited": 8,
+      "pending": 4
+    },
+    "reading_scopes": {
+      "partial": 31,
+      "abstract": 655,
+      "fulltext": 271,
+      "metadata": 1,
+      "restricted": 3
+    },
+    "sections": {
+      "CAT": {
+        "substantive": 280,
+        "limited": 3,
+        "pending": 1
+      },
+      "CR": {
+        "substantive": 107
+      },
+      "GEN": {
+        "substantive": 100,
+        "limited": 2
+      },
+      "GL": {
+        "substantive": 176,
+        "limited": 3,
+        "pending": 3
+      },
+      "OCP": {
+        "substantive": 51
+      },
+      "PTO": {
+        "substantive": 59
+      },
+      "RET": {
+        "substantive": 176
+      }
+    },
+    "source_concerns": 19,
+    "definition": "substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为实质内容仍待补充，pending为未取得实质内容。原文报告问题用concerns独立记录；完整的批判性笔记不意味着原文数据可靠。"
+  },
+  "notes_with_content_changes": 10,
+  "newly_completed": 1,
+  "actual_fulltext_upgrades": 1,
   "preservation": {
     "previous_resources": 1251,
     "current_resources": 1251,
     "resources_preserved": true,
     "authored_notes_present": 961,
-    "checked_at": "2026-09-17T02:49:33.107230+00:00"
+    "checked_at": "2026-09-20T17:41:29.278916+00:00"
   },
   "videos_and_unassigned_records_unchanged": true,
   "original_aliases_preserved": true,
-  "definition": "本轮对37条原待补笔记重新查找来源、核读内容或核对原文报告问题；完成的批判性阅读与论文自身疑点分开统计。无法取得足够内容的仍待补，不以状态修改代替阅读。",
+  "definition": "本轮对13条原待补笔记重新查找来源、核读内容或核对原文报告问题；完成的批判性阅读与论文自身疑点分开统计。无法取得足够内容的仍待补，不以状态修改代替阅读。",
   "entries": [
     {
-      "id": "eye-a-ec740b0d2ac4",
-      "title": "Evisceration with intrascleral implant (a new technique).",
-      "pmid": "20241812",
-      "before": {
-        "completion": "pending",
-        "scope": "metadata"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T00:43:37.378198+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已核读PMC官方扫描的第296–303页、图1–3所在两页插图及全部现场讨论，共10张页面；无逐例数据表。",
-      "remaining_limits": [
-        "总例数、选择标准、随访分布、量化活动度与并发症分母缺失；不能把“数个脱出”换算为事件率。作者自己强调技术仍在试验阶段。",
-        "历史材料、器械与围手术期处理具有时代背景；本篇只用于技术史和证据批判，不能据此推荐现代患者的手术方式。",
-        "讨论中的Hughes方案、Allen肌锥植入与正文巩膜内方案并非同一干预，不合并其结果。",
-        "PubMed的PMID20241812列出三位作者；PMC索引另列PMID16693419。现已用扫描首页的三位作者、题名、1946年44卷296–303页及PubMed的PMC关联确认所读文献，保留原编号；未擅自合并两个PubMed条目。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/20241812/",
-          "locator": "三位作者、1946年44卷296–303页、PMC1315221关联；无摘要"
-        },
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1315221/?page=1",
-          "locator": "官方扫描全文：第296–298页及图1–3，设计目的、失败与改良"
-        },
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1315221/",
-          "locator": "第299–303页Discussion：其他设计、失败后处理、最长约6个月及例数不足；首页作者核对"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-c5e3d69c93b9",
-      "title": "Scleral-Fixated Intraocular Lenses: Past and Present",
-      "pmid": "29104957",
+      "id": "eye-a-dba338b2989d",
+      "title": "Efficacy of fluid flow posterior capsule polishing in reducing capsule rupture and enhancing visual recovery during phacoemulsification cataract surgery.",
+      "pmid": "41021122",
       "before": {
         "completion": "limited",
         "scope": "abstract"
@@ -160,183 +120,83 @@
         "completion": "substantive",
         "scope": "fulltext"
       },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已阅读全文：Background、Preoperative considerations、两类SFIOL技术、比较及Conclusion；来源为PMC收录的作者稿。",
-      "remaining_limits": [
-        "多数资料为异质性病例系列，选择偏倚明显，不能横向排列并发症百分比后直接比较优劣。",
-        "儿童缺少随机比较；本综述年代较早，不代表后续双针法等技术的最新长期结果。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5665580/",
-          "locator": "Preoperative considerations；Scleral-sutured IOLs: Present；Sutureless SFIOLs；Sutured vs. sutureless SFIOLs"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-0e557253e11f",
-      "title": "Surgical approaches to posterior polar cataract: a review",
-      "pmid": "22441026",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已阅读全文：Nature官方版本的分型、术式各节、儿童、Conclusion及检索方法。",
-      "remaining_limits": [
-        "数字来自不同小型病例系列，随访和术者水平不一致。",
-        "部分观察为作者未发表经验；不是可逐步照做的标准化手术规程。"
-      ],
-      "sources": [
-        {
-          "url": "https://www.nature.com/articles/eye201233",
-          "locator": "Types of PPC；Table 1；Surgical approaches；Site of IOL implantation；PPC in children；Method of literature search"
-        },
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3376282/",
-          "locator": "同篇存档身份PMID 22441026、DOI 10.1038/eye.2012.33"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-d976827c27f5",
-      "title": "Femtosecond laser-assisted cataract surgery compared with phacoemulsification cataract surgery: randomized noninferiority trial with 1-year outcomes",
-      "pmid": "32773608",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
+      "reviewed_at": "2026-09-20T17:35:45.604974+00:00",
       "content_changed": true,
       "source_issues": [
-        "摘要写FLACS 311/392、PCS 292/393回访；正文Results写FLACS 292/392、PCS 311/393，Discussion失访比例支持后者。没有擅自选一组作为已核准人数。",
-        "表1图像及摘要双眼CDVA 95%CI为−0.05至+0.002而P=0.036；Results文字写上限−0.002。点估计约−0.02 logMAR一致，但区间符号与显著性报告不一致；已读正式勘误未解决此项。"
+        "摘要机械组PCR15.38%，正文及表2为11/146（7.53%）；没有说明采用不同分析集。",
+        "年龄及核硬度基线的正文数值与表1不一致；实际年龄范围74–95岁与≤60岁亚组相冲突。",
+        "表3的随访/PCO标题与BCVA分级错位，机械行合计144而随机分组146；视力和PCO比例无法可靠复算。",
+        "方法PCO分级0–3与图注1–4不一致；表4≤60岁P=0.0434与正文亚组解释不一致且缺少分母。",
+        "Data availability仍称模拟实验数据，与正文临床随机设计不一致。"
       ],
-      "actual_reading_scope": "本轮取得Ovid官方主文与正式勘误，阅读Methods、Results、Discussion并直接查看表1/2图像；补全了原摘要未涉及的方法、费用及统计限制。",
+      "actual_reading_scope": "本轮实际读取Springer正式HTML全文：Introduction、完整Methods、Results、Discussion、声明及独立表1–4页面；图1核对图注，未分析裂隙灯原图。已将原摘要笔记升级为全文批判性阅读，正文与摘要的矛盾分别列出。",
       "remaining_limits": [
-        "一年约21%–26%失访，且两组回访人数在摘要与正文对调，须结合原始数据澄清。",
-        "术者与患者无法设盲；主要来自一个中心；不同手术的学习经验不对称。",
-        "英国当时设备和费用结构限制经济结果外推，不适用于所有复杂白内障或新价格情境。"
+        "摘要、正文和表格关于PCR、年龄、核硬度、视力及PCO的报告不一致；本笔记保留各处原数并给定位，不替作者选择正确版本。",
+        "作者将样本限制为常规核性白内障及良好散瞳，结果不能直接外推到小瞳孔、悬韧带异常、后极性或成熟白内障。单术者和未报告标准化液流参数限制可重复性。",
+        "1个月随访只能说明早期表现；不能验证长期PCO、晚发玻璃体相关并发症或再次干预。本文未见清晰的逐时点随访流程和失访解释。",
+        "数据可用性声明仍称simulation experiment data，与临床随机设计叙述不一致；伦理声明未给审批编号。该问题需作者澄清，不能自行断定其数据来源或研究真实性。"
       ],
       "sources": [
         {
-          "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000257",
-          "locator": "Methods；Results；Tables 1–2；Economic evaluation；Discussion"
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
+          "locator": "正式全文Abstract、Methods、Results、Discussion、Data availability；图1仅核对图注"
         },
         {
-          "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000000504",
-          "locator": "Erratum：协作作者名单更正"
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/1",
+          "locator": "Table 1：分组人数、年龄、既往玻璃体视网膜手术及核硬度"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/2",
+          "locator": "Table 2：PCR事件0与11，P=0.0012"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/3",
+          "locator": "Table 3：三列表头、视力分级和行合计"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3/tables/4",
+          "locator": "Table 4：年龄/性别亚组事件和P值，未给亚组分母"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
+          "locator": "PubMed摘要：机械组PCR15.38%，与正文表2对照"
         }
       ]
     },
     {
-      "id": "eye-a-1e1ae7688720",
-      "title": "In-bag vs out-of-bag intraocular lens implantation for ectopia lentis: prospective comparative study.",
-      "pmid": "41423799",
+      "id": "eye-a-72d8e51dcaaa",
+      "title": "\"Optimizing IOL centration in cataract surgery: Narrative review of techniques, challenges, and outcomes\".",
+      "pmid": "41642844",
       "before": {
         "completion": "limited",
         "scope": "abstract"
       },
       "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Methods和Table 1合计814眼，但Consistency Check首句写841 cases，疑为笔误；以表1眼数记录并保留冲突。"
-      ],
-      "actual_reading_scope": "本轮通过Ovid官方全文阅读纳排、手术、统计、Tables 1–2、完整Results和Discussion；补入真实人数/眼数及原摘要没有的样本构成。补充图像未逐张重算。",
-      "remaining_limits": [
-        "仅64.6%原记录满足随访要求；不同时间点子样本变化较大，长期漂移受失访影响。",
-        "组间年龄、随访长短和脱位严重程度不同；未见充分解释双眼相关性如何进入总体回归。",
-        "单中心且多数为儿童，罕见长期IOL脱位和并发症安全性尚不能据本文排除。",
-        "未提供系统汇总的并发症事件表，不能据结论safe and effective判定长期安全性等同。"
-      ],
-      "sources": [
-        {
-          "url": "https://www.ovid.com/jnls/jcrs/fulltext/10.1097/j.jcrs.0000000000001759",
-          "locator": "Patient enrollment；Statistical analysis；Tables 1–2；Functional/Refractive outcomes；Consistency check；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-fb1b09f15423",
-      "title": "Cataract in the Adult Eye Preferred Practice Pattern",
-      "pmid": "34780842",
-      "before": {
         "completion": "limited",
         "scope": "partial"
       },
-      "after": {
-        "completion": "substantive",
-        "scope": "partial"
-      },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
+      "reviewed_at": "2026-09-20T17:37:59.256032+00:00",
       "content_changed": true,
       "source_issues": [],
-      "actual_reading_scope": "已从AAO官方取得126页完整PDF，但本轮实际选读上述明确章节；保留Journal Submission Draft标记。另核对期刊官方题名、作者、DOI、2021-11-11上线及2022卷期，没有将完整文件可得等同逐页阅读。",
+      "actual_reading_scope": "本轮新增阅读SAGE提供在ResearchGate的正式第一页预览：题名、DOI、摘要及Introduction至第一页末尾。仅此页及目录，不是492–511页整篇全文；技术比较、表格和结论正文仍未取得。",
       "remaining_limits": [
-        "本轮为官方完整文件的重点章节核读，未逐页核对全部正文/附录；不能称已核对最终期刊排版版。",
-        "部分关键问题仍依赖观察研究或专家判断，药物批准、设备与费用背景属于2021版和美国语境。",
-        "具体患者处置仍取决于完整眼科评估，本笔记不替代原条款及临床判断。"
+        "只读到正式首页及摘要，未取得其余19页；不能归纳未读技术比较、图表及总结。",
+        "本文是叙述性综述；公开部分未提供系统筛选流程、逐研究偏倚评价或合并效应，不能当作系统综述或随机试验。",
+        "ResearchGate页面的相关文献摘要与本文正文是不同来源，本笔记没有将这些相关研究的数字拼成本文结果。",
+        "须取得同一DOI的完整正文，才能继续补充IOL设计差异、具体参考轴、居中工具、并发症及结局证据。"
       ],
       "sources": [
         {
-          "url": "https://www.aao.org/Assets/1d1ddbad-c41c-43fc-b5d3-3724fadc5434/637723154868200000/cataract-in-the-adult-eye-ppp-pdf",
-          "locator": "官方PDF印刷页P7–8、P16–24、P34–43、P56–58；P2版本批准信息"
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41642844/",
+          "locator": "PubMed摘要：研究目的、方法、结果与结论"
         },
         {
-          "url": "https://www.aaojournal.org/article/S0161-6420%2821%2900750-8/fulltext",
-          "locator": "期刊题录、Development process；公开可索引FLACS和Outcomes段落"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-5cf196b9ecea",
-      "title": "International consensuses and guidelines on multifocal intraocular lenses (IOLs) by the Academy of Asia-Pacific Professors of Ophthalmology (AAPPO).",
-      "pmid": "41419160",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "partial"
-      },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Statement 1.1写共识分数100%，但列出的strongly agree 50%+agree 45.45%=95.45%，与自身定义不合。",
-        "Statement 6.4称年轻年龄与更佳适应/满意度相关且不是绝对预测，Discussion却称年轻患者更难适应；8.2对年轻人EDOF的表述也与Discussion方向不一致。不能合成为一个无争议推荐。",
-        "Statement 11.2正文共识分数90.91%，Table 3同一条列81.82%，投票百分比也不同；需要作者澄清。上述差异未被已核读100280勘误覆盖。"
-      ],
-      "actual_reading_scope": "新增阅读出版社可索引正文Methodology，主要Sections 1–12条款、Table 3部分行、Results of voting and discussion，以及正式勘误内容；完整下载仍受网络访问限制。笔记已具体化，但没有标记完整全文已核读。",
-      "remaining_limits": [
-        "未读完完整PDF及全部原始引文，尚不能核验每种商业IOL的台架和临床比较。",
-        "专家名单人数不等于每轮实际投票分母；文内大量百分比呈22人分母的步长，需原始投票表进一步确认。",
-        "预测性新技术、AI和未来成本收益叙述不是本共识完成的临床试验结果。"
-      ],
-      "sources": [
-        {
-          "url": "https://doi.org/10.1016/j.apjo.2025.100274",
-          "locator": "Methodology；Statements 6.2–6.4、7.1–7.6、8.1–8.3、9.1–9.5、10.2；Results of voting and discussion；Table 3"
+          "url": "https://journals.sagepub.com/doi/10.1177/11206721251414692",
+          "locator": "出版社Abstract、版本与作者信息、References；View Full Text重定向至abs并显示Restricted access"
         },
         {
-          "url": "https://www.sciencedirect.com/science/article/pii/S216209892600006X",
-          "locator": "Corrigendum 100280：Artis Symbiose Addition(D)/IDF更正段落"
+          "url": "https://www.researchgate.net/publication/400507189_Optimizing_IOL_centration_in_cataract_surgery_Narrative_review_of_techniques_challenges_and_outcomes",
+          "locator": "SAGE出版社提供的Publisher Preview第一页：Abstract及Introduction；止于第一页末，未把引用文献摘要当作本篇正文"
         }
       ]
     },
@@ -352,10 +212,10 @@
         "completion": "limited",
         "scope": "abstract"
       },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
+      "reviewed_at": "2026-09-20T17:37:59.256032+00:00",
       "content_changed": true,
       "source_issues": [],
-      "actual_reading_scope": "本轮重新读PubMed和迁移后ScienceDirect官方摘要，找到真实新PII并核对题名、DOI与卷页。原DOI跳转Ovid失效；新站标Open access，但正文/PDF请求403，官方FULL API需权限。当前仍未实读正文。",
+      "actual_reading_scope": "本轮重新核对出版社公开摘要、作者医院白内障文献目录和2012年4月院刊的原始链接，确认2012年1(2):113–119及同篇作者。院刊指向旧刊站目录，医院目录指向PubMed，均不是原文PDF；ScienceDirect正文请求本轮仍返回403。当前仍为摘要阅读。",
       "remaining_limits": [
         "当前只有摘要，纳入研究数、搜索完整性及偏倚表未核阅。",
         "复杂白内障病例报告不等于所有患者的比较优势，2012成本与技术背景也需更新。",
@@ -370,6 +230,222 @@
         {
           "url": "https://www.sciencedirect.com/science/article/pii/S2162098923008587",
           "locator": "迁移后出版社正式题录与公开摘要：2012年1(2):113–119、原DOI一致；页面标Open access"
+        },
+        {
+          "url": "https://aravind.org/clinics/cataract/",
+          "locator": "作者医院Publications中2012年同篇题名、作者、卷页；实际超链接指向PubMed26107133，用于身份交叉核对，不是全文来源"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d58e41f7e782",
+      "title": "[Chinese expert consensus on the perioperative medication in laser corneal refractive surgery (2024)]",
+      "pmid": "39085154",
+      "before": {
+        "completion": "limited",
+        "scope": "partial"
+      },
+      "after": {
+        "completion": "limited",
+        "scope": "partial"
+      },
+      "reviewed_at": "2026-09-20T17:37:49.297230+00:00",
+      "content_changed": true,
+      "source_issues": [],
+      "actual_reading_scope": "2026-09-21重新取得并核阅官方摘要和XML引言；body仅1节，未取得具体推荐正文，未将XML声明fulltext视为阅读全文。",
+      "remaining_limits": [
+        "实际读到PubMed摘要和出版社引言；官方XML的正文仅一个引言节，参考文献较长不等于全文已取得。",
+        "未读到推荐条文，不能完成用药层面的详细笔记，也不能确认具体方案变化。",
+        "2026-09-21再次检查：官方页面仍提示试读结束；页面给出的PDF路径返回安全验证HTML，而非PDF。当前检索未找到同版可读的作者或学会公开全文。",
+        "待补的是不同术式的药物选择、剂量、疗程、监测及推荐条款；须取得同DOI的2024年648–657页原件。2019版及并发症共识不代替本篇。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39085154/",
+          "locator": "中英文摘要与题录"
+        },
+        {
+          "url": "https://rs.yiigle.com/cmaid/1510455",
+          "locator": "2026-09-21已重新获取；官方XML body仅引言1节（367字符）；题录和摘要匹配，页面明确试读结束，具体推荐未开放取得"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-9a127e388571",
+      "title": "[Chinese expert consensus on diagnostic vitrectomy for biopsy (2022)]",
+      "pmid": "36480882",
+      "before": {
+        "completion": "limited",
+        "scope": "partial"
+      },
+      "after": {
+        "completion": "limited",
+        "scope": "partial"
+      },
+      "reviewed_at": "2026-09-20T17:37:49.297230+00:00",
+      "content_changed": true,
+      "source_issues": [],
+      "actual_reading_scope": "2026-09-21重新取得并核阅官方摘要和XML引言；body仅1节，未取得具体推荐正文，未将XML声明fulltext视为阅读全文。",
+      "remaining_limits": [
+        "已读官方引言两段及摘要，但其余正文须全文权限；未核实特定病种的适应证、禁忌证或检测算法。",
+        "引言对技术进步的叙述不是本篇提供的比较疗效或诊断准确率结果。",
+        "2026-09-21再次检查：官方页面仍提示试读结束；页面给出的PDF路径返回安全验证HTML，而非PDF。当前检索未找到同版可读的作者或学会公开全文。",
+        "待补的是具体适应证、取样参数、标本处理/送检、检测方法选择和并发症处置条款；须取得同DOI的2022年1017–1023页原件。淋巴瘤专病共识不代替本篇。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36480882/",
+          "locator": "Abstract及团体作者、卷期页码"
+        },
+        {
+          "url": "https://rs.yiigle.com/cmaid/1435320",
+          "locator": "2026-09-21已重新获取；官方XML body仅引言1节（429字符）；题录和摘要匹配，页面明确试读结束，具体推荐未开放取得"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-94d936d9252d",
+      "title": "Constructive critique on consensus guidelines for posterior chamber phakic intraocular lens implantation.",
+      "pmid": "41083149",
+      "before": {
+        "completion": "pending",
+        "scope": "metadata"
+      },
+      "after": {
+        "completion": "pending",
+        "scope": "metadata"
+      },
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00",
+      "content_changed": true,
+      "source_issues": [],
+      "actual_reading_scope": "已复核题录、DOI/PII及官方CC-BY 4.0开放许可；实际只读元数据。官方PDF和全文接口未返回正文。",
+      "remaining_limits": [
+        "无摘要且未取得正文，实质笔记尚未完成；参考文献列表不能证明作者对某个问题的立场。",
+        "API的full-text-retrieval-response仅是响应结构名，本次200响应没有正文；不能标为全文阅读。",
+        "待通过正常可用的ScienceDirect页面读取其开放获取正文，或取得出版社正式文件后补写。2026年9月21日本轮浏览器未连接，不等于已在浏览器中测试播放或阅读，也不要求用户提供密码。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41083149/",
+          "locator": "Letter题录；无摘要"
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/pii/S2162098925001173?httpAccept=text/xml",
+          "locator": "2026-09-21实取XML：200且只有coredata，DOI/PII/题名、openaccessArticle=true及CC-BY 4.0许可；不含正文"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2162098925001173",
+          "locator": "官方阅读入口；2026-09-21网页及PDF访问403，未读正文"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.apjo.2025.100250",
+          "locator": "license中content-version=vor、CC-BY 4.0；link提供Elsevier XML/plain文本入口；无正文"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-539c27b3c7b2",
+      "title": "Surgical Techniques for the Virna Glaucoma Implant: A Low-Cost New Glaucoma Drainage Device-Response.",
+      "pmid": "41834590",
+      "before": {
+        "completion": "pending",
+        "scope": "restricted"
+      },
+      "after": {
+        "completion": "pending",
+        "scope": "restricted"
+      },
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00",
+      "content_changed": true,
+      "source_issues": [],
+      "actual_reading_scope": "2026-09-21重读出版社公开题录/声明/参考文献及UWA机构库；无摘要、没有可读回复正文。机构库没有公开稿附件，XML请求亦未返回正文。",
+      "remaining_limits": [
+        "完整回复尚未取得；不能从原252例研究或Au来信的题名反推回复内容。",
+        "具体获取路径：在Wiley DOI 10.1111/ceo.70111页面使用已有机构权限读取587–588页，或从图书馆合法取得该回复；UWA记录目前不提供稿件。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41834590/",
+          "locator": "Letter；无摘要"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70111",
+          "locator": "公开题录、Data Availability Statement及References 1–2；无可读回复正文；full-xml请求403"
+        },
+        {
+          "url": "https://research-repository.uwa.edu.au/en/publications/surgical-techniques-for-the-virna-glaucoma-implant-a-low-cost-new/",
+          "locator": "2026-09-21实际读取题录及Access to Document；仅DOI链接，没有PDF或稿件附件"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4f568c7050ed",
+      "title": "Surgical Techniques for the Virna Glaucoma Implant: A Low-Cost New Glaucoma Drainage Device.",
+      "pmid": "41552978",
+      "before": {
+        "completion": "pending",
+        "scope": "restricted"
+      },
+      "after": {
+        "completion": "pending",
+        "scope": "restricted"
+      },
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00",
+      "content_changed": true,
+      "source_issues": [],
+      "actual_reading_scope": "2026-09-21重读官方题录、公开数据声明及参考文献；无摘要、全文XML访问受阻，机构/作者检索未取得匹配公开稿。",
+      "remaining_limits": [
+        "未取得来信正文；不能从所引用文章推定批评内容，也不能用作者回复替代来信。",
+        "具体获取路径：在Wiley DOI 10.1111/ceo.70063页面通过已有机构权限读取54卷585–586页；目前检索到的ResearchGate页面只有索取入口，本轮未联系作者。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41552978/",
+          "locator": "Letter、作者和DOI；无摘要"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70063",
+          "locator": "公开题录、Data Availability Statement、References；不含来信论述；full-xml请求403"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-bfe96cab7713",
+      "title": "Comment on: Assessing the Fragility of Statistically Significant Outcomes in Randomised Controlled Trials of Minimally Invasive Glaucoma Surgery (MIGS).",
+      "pmid": "42002017",
+      "before": {
+        "completion": "pending",
+        "scope": "restricted"
+      },
+      "after": {
+        "completion": "pending",
+        "scope": "restricted"
+      },
+      "reviewed_at": "2026-09-20T17:39:14.334186+00:00",
+      "content_changed": true,
+      "source_issues": [],
+      "actual_reading_scope": "2026-09-21复核官方题录与注册信息；无摘要，正式HTML/PDF请求未取得正文，未发现匹配的公开作者稿。",
+      "remaining_limits": [
+        "尚未完成实质阅读，不用题名或作者回复反推本封评论。",
+        "相邻PII S0002939426002084的公开UCL稿是另一篇作者回复，不可替代本篇 S0002939426002072。",
+        "具体获取路径：在AJO/ScienceDirect通过已有机构权限打开DOI 10.1016/j.ajo.2026.03.047（288卷338–339页）；未找到可公开读取的作者稿。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42002017/",
+          "locator": "作者、Letter类型及正式卷期页码；无摘要"
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/pii/S0002939426002072?httpAccept=text/xml",
+          "locator": "此前实取200响应只有coredata；本轮用Crossref确认相同目标PII，未取得实质正文"
+        },
+        {
+          "url": "https://www.ajo.com/article/S0002-9394(26)00207-2/fulltext",
+          "locator": "2026-09-21正式全文与PDF入口均返回访问错误，未读取正文"
+        },
+        {
+          "url": "https://api.crossref.org/works/10.1016/j.ajo.2026.03.047",
+          "locator": "2026-09-21 DOI注册信息及TDM链接；目标PII为S0002939426002072，未提供正文"
         }
       ]
     },
@@ -385,10 +461,10 @@
         "completion": "limited",
         "scope": "abstract"
       },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00",
+      "content_changed": false,
       "source_issues": [],
-      "actual_reading_scope": "重新核读Annual Reviews与PubMed摘要；正式正文加载、PDF入口均403，OpenAlex没有列出可公开机构版本。没有用同一作者2023年的另一篇MIGS综述替代2020年本文。",
+      "actual_reading_scope": "2026-09-21再核读既有PubMed摘要并重试正式期刊入口；本轮未取得新增正文。Annual Reviews返回403，OpenAlex和OpenAIRE均只给出版社/PubMed入口，未列可公开读取的作者稿。保留原摘要笔记，不把2023年同作者另一篇MIGS综述当作2020年本文。",
       "remaining_limits": [
         "本次仅摘要，全文供应商403；没有从摘要推导任何器械的数值优势或当前上市状态。",
         "原刊全文请求失败的事实保留；2020年的器械名称与前景不证明当前上市或监管状态。",
@@ -417,10 +493,10 @@
         "completion": "limited",
         "scope": "abstract"
       },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00",
+      "content_changed": false,
       "source_issues": [],
-      "actual_reading_scope": "重新实读PubMed结构式摘要；Crossref及Elsevier官方接口确认PII S1896112626000106，接口只返回题录并标非开放。出版社正文403；作者机构库条目目前返回机器人检查，未取得附件。",
+      "actual_reading_scope": "2026-09-21重新实读PubMed结构式摘要，核对6篇、CP 711眼和PCP 475眼；未取得新增正文。OpenAlex/OpenAIRE没有正文文件；波兰作者机构PPM题录可被检索，但本轮页面请求发生SSL错误，不能据此断言库内绝无附件。仍未读到6篇纳入研究表格。",
       "remaining_limits": [
         "现有摘要的信息密度有限，尚不能评价6篇研究的偏倚及是否重复队列。",
         "允许用药与完全脱药的成功不可合并解释；21 mmHg也未必适合较晚期患者。",
@@ -439,39 +515,6 @@
       ]
     },
     {
-      "id": "eye-a-72d8e51dcaaa",
-      "title": "\"Optimizing IOL centration in cataract surgery: Narrative review of techniques, challenges, and outcomes\".",
-      "pmid": "41642844",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "本轮直接读Sage正式摘要、参考文献目录及版本信息；Full Text按钮实际重定向摘要且显示Restricted access。网页列出Version1 PDF文件名不代表正文可读，未把参考文献的研究结果当作本综述已读内容。",
-      "remaining_limits": [
-        "仅摘要，无法列出全文所评术式、证据等级和具体争议。",
-        "叙述性选择可能存在引文选择偏倚，未见系统检索方法。",
-        "没有实测结局，不能证明任一策略降低光晕、脱位或再次手术；需获得正文后扩充技术层面的阅读笔记。",
-        "尚缺本文对居中参考轴、不同IOL设计、测量/手术策略的具体比较和作者结论；出版社摘要及参考目录不提供这些内容。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41642844/",
-          "locator": "PubMed摘要：研究目的、方法、结果与结论"
-        },
-        {
-          "url": "https://journals.sagepub.com/doi/10.1177/11206721251414692",
-          "locator": "出版社Abstract、版本与作者信息、References；View Full Text重定向至abs并显示Restricted access"
-        }
-      ]
-    },
-    {
       "id": "eye-a-e8b1dddbc7bf",
       "title": "[Review of surgical techniques for XEN Gel Stent implantation in glaucoma surgery].",
       "pmid": "41075733",
@@ -483,10 +526,10 @@
         "completion": "limited",
         "scope": "abstract"
       },
-      "reviewed_at": "2026-09-17T02:43:35.470700+00:00",
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00",
       "content_changed": true,
       "source_issues": [],
-      "actual_reading_scope": "本轮新核读EM-consulte出版社双语摘要和目录；PDF按钮进入9页预览外壳，正式PDF请求虽HTTP 200却为0字节，并非全文成功。Elsevier接口也只返回题录；没有实际观看研究中的手术视频。",
+      "actual_reading_scope": "2026-09-21实际读取EM-consulte官方法文Résumé、英文Summary及目录；内容与既有摘要笔记一致，正文仍明确需要订阅。本轮未取得新增病例结果或操作正文。HAL API连接失败不是零命中证据；OpenAlex/OpenAIRE未列公开稿件。此前正式PDF请求为0字节，不能算全文。",
       "remaining_limits": [
         "正文受限，尚不能形成具体病例和关键步骤的完整阅读笔记。",
         "没有量化比较，不能把“有效微创装置”扩展成任一入路安全性优越。",
@@ -499,792 +542,8 @@
           "locator": "PubMed Abstract：研究设计、方法、结果及结论段"
         },
         {
-          "url": "https://www.em-consulte.com/es/article/1768424/article/revue-des-techniques-chirurgicales-d-implantation-",
-          "locator": "Résumé/Summary与Esquema目录；页面明确全文需订阅"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-3a61e9760ecd",
-      "title": "Comparisons of the short-term effectiveness and safety of surgical treatment for neovascular glaucoma: a systematic review and network meta-analysis",
-      "pmid": "35613778",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "摘要和Results成功率段将OR写为负值；图3明确为正OR并标有比较方向。笔记引用原图，不替作者改写摘要。",
-        "统计方法印出的变化值SD公式含两个方差相乘，量纲与前两项不一致；未获得分析代码，不能确定实际计算是否使用该式。",
-        "表4六个月闭环不一致性P=0.395，而文字称显著不一致；此判断不符合通常0.05阈值。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "大多数研究非随机，病因、抗VEGF方案及成功定义异质；GRADE多为中、低或极低质量。",
-        "不良事件来自不同随访和报告方式，不能以简单汇总比例断言一种术式更安全。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9131079/",
-          "locator": "Methods—Statistical analysis；Results—IOPR、Success rate；Table 4；Discussion"
-        },
-        {
-          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/94fc/9131079/b60c868fa430/bmjopen-2021-051794f03.jpg",
-          "locator": "Figure 3右侧Success rate面板，逐行核对OR、区间及比较方向"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-a93898d95cd4",
-      "title": "Integrated versus non-integrated orbital implants for treating anophthalmic sockets.",
-      "pmid": "27820878",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "摘要将PP暴露4/50与PMMA的6/100比较并列RR 17.82，无法由该2×2表重现；正文6/50实际指上睑沟畸形。未取得原始试验完整事件表，保留RR计算与终点定义警示。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "试验少、分配隐藏和盲法报告不全，Tari采用交替分配；多为极低确定性证据。",
-        "随访从3个月到约17个月，无法稳定评价多年暴露或后续修复；眶植入物运动不等同义眼运动或患者满意度。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6465188/",
-          "locator": "Results—Included studies及Clinical characteristics表；Risk of bias；Effects of interventions—Successful procedures、Motility、Adverse events；Discussion"
-        },
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/20417565/",
-          "locator": "Shome 2010原试验身份及摘要；期刊正文访问未成功，未声称已核原始事件表"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-c03f9d7a3924",
-      "title": "Three-Dimensional Heads-Up vs. Standard Operating Microscope for Cataract Surgery: A Systematic Review and Meta-Analysis",
-      "pmid": "36140501",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Results 3.1把BCVA/并发症的研究数写为9/5，实际3.3和3.5及对应引用为5/9；同一文章分析口径报告不一致。",
-        "图2C使用的效应与无并发症比例一致，但结果段和图题称术中并发症RR，存在结局编码/标签冲突。复算仅用来定位问题，没有以新的事件模型替作者发表修正结果。",
-        "图2A的BCVA总效应为+0.01，而Results 3.3写−0.01；已以图示记录，不宣称正式更正。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "术时高度异质；大样本观察研究不能消除混杂，少数随机试验分配与注册信息不全。",
-        "随访较短，未评估成本；去除离群研究可解释异质性，但不是预先保证适用于所有术者的效果。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9497825/",
-          "locator": "Methods 2.1、2.7；Table 1；Results 3.1、3.3–3.6；Discussion"
-        },
-        {
-          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8c6a/9497825/97455c76ddaf/diagnostics-12-02100-g002.jpg",
-          "locator": "Figure 2A与2C原图；与Table 1的Berquet/Wang事件数复算核对"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-b0d6fcb366a3",
-      "title": "A soft micron accuracy robot design and clinical validation for retinal surgery",
-      "pmid": "40925902",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Clinical assessment把1.24/0.78称为mean LogMAR而讨论称改善量；表1与Statistical analysis支持均方根改善量解释，原文措辞仍容易误导。",
-        "Recruitment写10例随机之外另有6例急性出血；Anesthesia写前5例黄斑前膜、后5例局麻，与表1全为出血病例及结果全麻描述不一致；实际入组流向和麻醉人群未澄清。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "动物处理固定左右眼，存在眼别及操作顺序混杂；临床每组5例，学习效应、初始出血程度和视力不平衡。",
-        "无充分样本评价罕见损害；技术参数、视力变化、临床有效性是不同层次终点。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12420835/",
-          "locator": "Results—Teleoperation test、Evaluation of live animal experiment、Clinical assessment；Table 1；Figure 7；Experimental section—Recruitment and eligibility、Anesthesia、Statistical analysis；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-6d067c1e47db",
-      "title": "Needle-assisted iris-claw lens implantation: A novel, simplified technique for aphakia without capsular support.",
-      "pmid": "42060946",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Conclusion声称降低术后并发症并推荐普遍采用，但正文没有提供支持这一比较效应的临床数据。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "没有样本数、随访、角膜内皮变化或再次手术数据，无法估计脱夹、炎症、瞳孔变形等风险。",
-        "器械引入本身可能增加角膜/虹膜接触；需规范病例系列和对照评估偏心量、手术耗时及长期稳定性。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13235813/",
-          "locator": "Preoperative Evaluation；Surgical Technique及Figures 1–4；Discussion；Conclusion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-a6732a7610b1",
-      "title": "Comparison of Clinical Outcomes Between Femtosecond Laser-assisted Cataract Surgery and Phacoemulsification in Patients with Diabetes: A Systematic Review.",
-      "pmid": "42564994",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "表1各组人数合计649而结果写345，未说明另选亚组的分母。",
-        "方法明确未作正式Meta分析，Results却称“pooled effect”“forest plot”；未提供可追溯合并模型和区间。",
-        "Kang比较组、Ma黄斑结果引用、Tang随访以及Yang偏倚等级的正文/表格不一致，影响直接适用性。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "仅1项RCT，多数观察性研究，糖尿病视网膜病变程度和基线内皮状态异质。",
-        "没有可靠的成本、长期角膜失代偿或临床显著CME比较；方向计票未考虑效应大小与精度。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446067/",
-          "locator": "Methods—Data Synthesis and Statistical Analysis；Results—Study Characteristics、Risk of Bias、Primary Outcomes；Tables 1–5；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-dba338b2989d",
-      "title": "Efficacy of fluid flow posterior capsule polishing in reducing capsule rupture and enhancing visual recovery during phacoemulsification cataract surgery.",
-      "pmid": "41021122",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "机械组15.38%与报告146眼不对应整数计数；分析分母尚未确定。",
-        "官方数据声明称模拟实验，摘要称临床随机研究；需取得完整方法才能核实。"
-      ],
-      "actual_reading_scope": "已读实际取得的摘要及公开页面；未将无法取得的正文列为已读。",
-      "remaining_limits": [
-        "无法核查基线、随机流程和完整并发症表；正文受限导致关键研究设计仍不清楚。",
-        "短随访、未给绝对视觉差异与亚组分母；不能从P值推导实际获益。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41021122/",
-          "locator": "结构式摘要Methods/Results"
-        },
-        {
-          "url": "https://link.springer.com/article/10.1007/s10792-025-03748-3",
-          "locator": "Abstract、Data availability及正文订阅限制"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-3c979c93a02b",
-      "title": "A Comparative Study of Surgically Induced Astigmatism From Temporal and Steep-Axis Clear Corneal Incisions in Phacoemulsification Cataract Surgery.",
-      "pmid": "41058836",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Tables 2–4同一时间点的UCVA/BCVA分类、均值和检验不相容；尚未取得正式更正或逐例视力数据。",
-        "表4把术前量标为SIA且非零，未说明该术前“术源性”指标的定义；研究设计称观察性又描述随机分配，报告需澄清。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "单中心、单术者、随访短，仅低度规则散光，方法提到6周但主要表未提供该终点。",
-        "分组术前轴向不均，未完整报告向量分量或调整；并发症资料不足以比较安全性。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12498305/",
-          "locator": "Materials and methods—Study design、Randomization、Postoperative assessment；Tables 2–6；Discussion—Limitations"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-0922dad5d483",
-      "title": "Postoperative Decline in Antioxidant Concentrations in Aqueous Humor: Comparison Between Femtosecond Laser-assisted Cataract Surgery and Conventional Cataract Surgery.",
-      "pmid": "40877159",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Results把术后残余比例标为下降比例；Table III可定位并复算，本笔记保留原数和复算口径。",
-        "高度近视AA aOR正文0.81而Table IV为0.281；连续结局使用aOR的模型定义仍不足，不能解释为临床风险降低。",
-        "Table IV高眼压行标<21mmHg，与方法>21mmHg不一致；亚组阈值需作者澄清。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "仅54人、随访1天，多亚组样本更少且未提供交互检验；模型稳定性和多重比较风险不清。",
-        "前后抽取房水及其他围手术因素可能影响浓度；未与超声实际能量及长期临床损害充分联结。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12396061/",
-          "locator": "Patients and Methods—Antioxidant agent measurement、Statistical analysis；Results；Discussion—Study limitations"
-        },
-        {
-          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/5aadeac4e6d5/in_vivo-39-2732-i0002.jpg",
-          "locator": "Table III原图：基线、术后及Change三行"
-        },
-        {
-          "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/60de/12396061/25d1123f0f4d/in_vivo-39-2734-i0001.jpg",
-          "locator": "Table IV原图：高度近视AA aOR及高眼压阈值"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-acc4cee57712",
-      "title": "Real-World IOL Performance with Bilateral Plano Outcomes After Cataract Surgery: A Prospective, Comparative Study.",
-      "pmid": "42534280",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Results把逐眼选择回答误称patients；眼数来源可解释，独立观察假设仍需澄清。",
-        "双眼视力统计报告F(2,241)，与121名患者、甚至242眼三组的通常残差自由度都不一致；无法据摘要重建分析集。",
-        "Q6三组满意度结果写F(3,241)、p<0.51，讨论写p=0.051；两处口径不同，不能把某一个值擅作正式更正。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "双眼相关性未在所述ANOVA中明确处理，样本量按眼计可能高估有效样本；近视力测试距离不固定。",
-        "问卷评估未盲、镜片选择和期待可能混杂；短随访且缺客观中视力/对比敏感度。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13420260/",
-          "locator": "Materials and Methods—Eligibility、RCSS、Statistical comparisons；Results—Visual Acuity、Patient Satisfaction、Lens Selection；Table 1；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-6987caf69ac5",
-      "title": "Predictive Accuracy of Intraocular Lens Power Calculation Formulas for Cataract Surgery in Keratoconus: A Systematic Review and Network Meta-Analysis.",
-      "pmid": "42199326",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "表2总体530眼可复现；表1多个结局分母超过公式总眼数，原始提取集未附可用解释。",
-        "Bayesian模型、netmeta实现及CI/CrI混用，模型复现要素不足；同眼多公式协方差处理未清楚报告。",
-        "达标率效应被正文称MD但数量和意义属比例比较；笔记不把这些数解释成屈光度差。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "主要为小型回顾研究，随访和测量异质；严重圆锥角膜亚组尤其稀疏。",
-        "SUCRA不是成功概率；作者亦承认可交换性/一致性可能不成立，排除缺少数据的公式会影响排名。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13200680/",
-          "locator": "Methods—Study Outcomes、Statistical Analysis；Tables 1–3；Results—MPE、MAE、PE within ±0.50D/±1.00D；Discussion—limitations"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-963108d113a4",
-      "title": "Different formulations of corticosteroid eye drops at different treatment times in the control of inflammation and prevention of cystoid macular edema after cataract surgery: randomized clinical trial.",
-      "pmid": "41294172",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "摘要地塞米松写1%，PDF Methods为0.1% Maxidex；笔记明确采用方法中的制剂信息，未当作正式勘误。",
-        "PDF Results/Discussion的CME比例与Table 4人数不符；按表仅提供可复核的独立计算。",
-        "摘要反跳的疗程描述与正文以10天组为主不一致；表1术眼左右分母也少于各组总数，缺失处理未解释。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "每组18–29例，样本量设计非专为罕见CME；短期随访、依从性和滴药帮助程度不一致。",
-        "纳入无并发症常规手术，不能外推高炎症风险、后囊破裂或已有黄斑病变人群。"
-      ],
-      "sources": [
-        {
-          "url": "https://aboonline.org.br/export-pdf/6791/v89n1e2025-0097.pdf",
-          "locator": "官方PDF第2页Methods药物浓度；第3页入组/终点；第4和6页Tables 1–3；第6–7页CME、Rebound和Table 4；第7–8页Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-c583626e4cfe",
-      "title": "Visco-circumferential-suture-trabeculotomy-synechiolysis with phacoemulsification versus phacoemulsification alone for chronic primary angle closure glaucoma.",
-      "pmid": "40958099",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "方法与表1/3称视力为Decimal，但结果按logMAR解释0.59/0.60降至0.30/0.35为改善；尺度未澄清，不能确认视觉改善量。",
-        "讨论将P=0.074称显著，且重度积血正文1例与表4的2例不一致。",
-        "基线眼压离散量表注为SD时，与独立t检验所列P值不匹配；可能存在SD/SE或分析集标记问题，未擅自改数。",
-        "19位跨两组双眼患者的分组患者数报告与总独立人数关系不清，需要病例流程表解释。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "统计描述主要为独立t检验和χ²，未说明同人双眼及纵向重复测量的相关性处理。",
-        "排除周向操作失败病例会高估技术成功；单术者和有限样本限制外推，缺术后前房深度及屈光数据。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12439390/",
-          "locator": "Patients and methods—Eligibility、bilateral assignment、conversion exclusion、Outcome measures、Statistics；Tables 1–4；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-e47268c5a507",
-      "title": "Preoperative and Intraoperative Risk Factors for Short-Term Corneal Endothelial Cell Loss After Phacoemulsification in Dogs: A Comparative Study.",
-      "pmid": "40984013",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "摘要术后CED的SD为29，正文/表2为293；摘要CCT597至620与其称增加8不相容，表4为598至606。引用表中数值并保留摘要冲突。",
-        "Results称糖尿病犬内皮损失较多，而表2和讨论均为较少；本笔记按表报告，不替作者发布更正。",
-        "回归表Beta与SE/t的尺度说明不充分，可能混用标准化和非标准化系数；不将其解释为每毫米眼轴的细胞数量因果效应。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "眼数少、部分同犬双眼，回归未明确校正动物内相关性；逐步筛选在小样本中容易不稳定。",
-        "仅测中心少量内皮细胞，未完成六角形等形态评价；1个月随访不能证明长期稳定或无退变。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12961251/",
-          "locator": "Materials and Methods 2.1、2.2、2.7、2.8；Results 3.1–3.3及Tables 1–4；Discussion—diabetes及limitations；与PubMed摘要逐项比对"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-76776aed8809",
-      "title": "Enhanced Monovision Intraocular Lenses: Current Status and Future Perspectives-Systematic Review.",
-      "pmid": "41595610",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "199/297和250/364可由表中新增51/67人解释，但讨论与结果段没有同步使用同一纳入集合。",
-        "Table 4逐项均值不能复现Table 6若干“更新”汇总；笔记给出明确复算口径，未假称正式更正。",
-        "Scarfone镜片在Table 2写Clareon SY60WF，Table 7却写Clareon Vivity；设备身份需回到原研究核实，不能把它们当同一光学设计。",
-        "Table 8多行明确“未测量像差”却推论像差无改变，超出直接测量证据。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "异质性I²>90%，未加权跨研究均值忽略人数与误差，不能证明优效；观察性选择和短随访限制比较。",
-        "纳入混合增强单焦点及EDOF相关产品，分类并不统一；缺标准化立体视、长期光学症状和成本效益数据。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12838369/",
-          "locator": "Methods 2.1–2.5；Tables 2、4、5、6、8、9；Results 3.1–3.6；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-1f44f56132cc",
-      "title": "Comparison of visual quality after implantation of trifocal intraocular lenses with different diopter values in the two eyes: a retrospective study.",
-      "pmid": "41120951",
-      "before": {
-        "completion": "limited",
-        "scope": "fulltext"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:48:22.425352+00:00",
-      "content_changed": true,
-      "source_issues": [
-        "Table 1性别百分比不能由每组31人的整数计数准确形成，需原始分母解释。",
-        "相关段同一r=−0.261轮流称夜眩光/夜光晕，且P=0.00未说明有效样本单位；按62名独立患者的一般近似检验约P=0.04，仅供核查，Spearman精确值仍需原始秩次。",
-        "Table 2右眼近视力P=0.04而文字写0.01；对瞳孔中心位移的未显著结果直接称排除致因，推断过强。"
-      ],
-      "actual_reading_scope": "已核对原文方法、结果、讨论及所列图表；笔记完成度与原文证据质量分别标记。",
-      "remaining_limits": [
-        "非随机且术后筛选优良结果，可能低估不满意；两组基线球镜度不同，未充分调整。",
-        "短随访、31人一组、多终点比较；未测离焦曲线和对比敏感度，未分析优势眼或实际术后屈光差。"
-      ],
-      "sources": [
-        {
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12542111/",
-          "locator": "Methods—Study design、targeted refraction、Postoperative examination、questionnaire scoring、Statistical analysis；Tables 1–2；Results—stereopsis、light interference、correlation；Discussion"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-d58e41f7e782",
-      "title": "[Chinese expert consensus on the perioperative medication in laser corneal refractive surgery (2024)]",
-      "pmid": "39085154",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "limited",
-        "scope": "partial"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已读PubMed中英文摘要与中华医学会官方引言；官网明确提示试读结束、须全文权限。未取得推荐正文。",
-      "remaining_limits": [
-        "实际读到PubMed摘要和出版社引言；官方XML的正文仅一个引言节，参考文献较长不等于全文已取得。",
-        "未读到推荐条文，不能完成用药层面的详细笔记，也不能确认具体方案变化。",
-        "继续获取路径：打开 https://rs.yiigle.com/cmaid/1510455 ，使用已有机构或个人全文权限阅读2024年648–657页原文；无需提供账号密码。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/39085154/",
-          "locator": "中英文摘要与题录"
-        },
-        {
-          "url": "https://rs.yiigle.com/cmaid/1510455",
-          "locator": "DOI官方解析目标；正文试读第一节引言，未含推荐条款；题录、DOI及试读结束提示"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-9a127e388571",
-      "title": "[Chinese expert consensus on diagnostic vitrectomy for biopsy (2022)]",
-      "pmid": "36480882",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "limited",
-        "scope": "partial"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已读PubMed/SinoMed摘要及出版社正文引言两段；未读到操作、标本和检测推荐正文。",
-      "remaining_limits": [
-        "已读官方引言两段及摘要，但其余正文须全文权限；未核实特定病种的适应证、禁忌证或检测算法。",
-        "引言对技术进步的叙述不是本篇提供的比较疗效或诊断准确率结果。",
-        "继续获取路径：在 https://rs.yiigle.com/cmaid/1435320 通过已有机构或个人权限阅读同DOI的1017–1023页；2024年玻璃体视网膜淋巴瘤共识是另一篇文献。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/36480882/",
-          "locator": "Abstract及团体作者、卷期页码"
-        },
-        {
-          "url": "https://rs.yiigle.com/cmaid/1435320",
-          "locator": "官方XML body/s1：两段引言；试读后正文受限"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-d2b40374709f",
-      "title": "[Chinese expert consensus on classification of intraocular lenses (2021)]",
-      "pmid": "34256469",
-      "before": {
-        "completion": "limited",
-        "scope": "abstract"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "partial"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "官方摘要/引言＋同题正文公开转载及分类图1已读；转载数值有疑点，非完整出版社版式核验。",
-      "remaining_limits": [
-        "正文依据公开转载长图，未取得出版社完整排版原件；参考文献全文未随图展示，不能称逐页核完官方全文。",
-        "转载的屈光度数存在明显转写疑点，相关阈值及其他精确器械参数均未采作临床建议；需以同DOI原文复核。",
-        "分类反映2021年语境，不能据此推定后来产品的设计和性能。"
-      ],
-      "sources": [
-        {
-          "url": "https://rs.yiigle.com/cmaid/1328521",
-          "locator": "官方身份、摘要和引言；其余正文需全文权限"
-        },
-        {
-          "url": "https://www.yanke360.com/news/4349903e-2120-baee-5be9-ba424b8161a3.shtml",
-          "locator": "署名转载自眼科空间；原载中华眼科杂志2021年第7期，正文长图：一、无晶状体眼IOL；二、有晶状体眼IOL；图1分类树；学组成员和声明"
-        },
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/34256469/",
-          "locator": "DOI、团体作者及57卷495–501页题录"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-94d936d9252d",
-      "title": "Constructive critique on consensus guidelines for posterior chamber phakic intraocular lens implantation.",
-      "pmid": "41083149",
-      "before": {
-        "completion": "pending",
-        "scope": "metadata"
-      },
-      "after": {
-        "completion": "pending",
-        "scope": "metadata"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "核对题录及官方OA标记；本轮程序及浏览器读取未取得正文。开放获取与本次可读性分别记录。",
-      "remaining_limits": [
-        "无摘要且未取得正文，实质笔记尚未完成；参考文献列表不能证明作者对某个问题的立场。",
-        "API的full-text-retrieval-response标签仅是响应结构名，本次响应只有coredata；不等于读取全文。",
-        "可行下一步是正常浏览器打开官方ScienceDirect页面阅读/保存其开放获取正文。本轮程序及浏览器读取未取得正文；不要求用户订阅或提供密码。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41083149/",
-          "locator": "Letter题录；无摘要"
-        },
-        {
-          "url": "https://api.elsevier.com/content/article/pii/S2162098925001173?httpAccept=text/xml",
-          "locator": "200响应仅coredata，DOI/PII/题名及openaccess标记；不含正文"
-        },
-        {
-          "url": "https://www.sciencedirect.com/science/article/pii/S2162098925001173",
-          "locator": "官方开放获取阅读入口；本轮自动访问失败，待正常网页读取"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-7132c17cb642",
-      "title": "Re: Shaheen et al: Efficacy and safety of anti-VEGF Injections and surgery for age-related macular degeneration-related submacular hemorrhage: a systematic review and meta-analysis (Ophthalmol Retina. 2025;9:4-12).",
-      "pmid": "42138654",
-      "before": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "after": {
-        "completion": "substantive",
-        "scope": "fulltext"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已读第一作者2026-05-21公开上传ResearchGate的完整Correspondence正文、披露和参考文献；未取得出版社PDF，但题名/作者/DOI一致。",
-      "remaining_limits": [
-        "通信没有新的样本量、效应值或重新分析结果，其批评仍需结合原评价和被引用试验核对。",
-        "已读来信本身，不将参考文献的数值当成本篇新增数据；作者披露了药企咨询及差旅关系。"
-      ],
-      "sources": [
-        {
-          "url": "https://www.researchgate.net/publication/404915633_Re_Shaheen_et_al_Efficacy_and_Safety_of_Anti-VEGF_Injections_and_Surgery_for_Age-Related_Macular_Degeneration-Related_Submacular_Hemorrhage_A_Systematic_Review_and_Meta-analysis_Ophthalmol_Retina_2025",
-          "locator": "Public Full-text 1；作者上传；Correspondence正文从TO THE EDITOR至TIGER讨论，Footnotes and Disclosures，References 1–4"
-        },
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42138654/",
-          "locator": "Letter身份，DOI 10.1016/j.oret.2026.04.015，正式卷期10(7):e61"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-539c27b3c7b2",
-      "title": "Surgical Techniques for the Virna Glaucoma Implant: A Low-Cost New Glaucoma Drainage Device-Response.",
-      "pmid": "41834590",
-      "before": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "after": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "题录已与Wiley和UWA机构库交叉核验；无摘要，两个来源都未提供公开正文。",
-      "remaining_limits": [
-        "完整回复尚未取得；不能从原252例研究或Au来信的题名反推回复内容。",
-        "具体获取路径：在Wiley DOI 10.1111/ceo.70111页面使用已有机构权限读取587–588页，或从图书馆合法取得该回复；UWA记录目前不提供稿件。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41834590/",
-          "locator": "Letter；无摘要"
-        },
-        {
-          "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70111",
-          "locator": "出版社题录及全文访问入口；本轮全文不可读"
-        },
-        {
-          "url": "https://research-repository.uwa.edu.au/en/publications/surgical-techniques-for-the-virna-glaucoma-implant-a-low-cost-new/",
-          "locator": "UWA机构库：同DOI、作者和587–588页；Access to Document仅为DOI，无稿件文件"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-bfe96cab7713",
-      "title": "Comment on: Assessing the Fragility of Statistically Significant Outcomes in Randomised Controlled Trials of Minimally Invasive Glaucoma Surgery (MIGS).",
-      "pmid": "42002017",
-      "before": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "after": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "已核对官方题录；无摘要、未取得正文，作者机构定向检索没有找到匹配公开稿。",
-      "remaining_limits": [
-        "尚未完成实质阅读，不用题名或作者回复反推本封评论。",
-        "相邻PII S0002939426002084的公开UCL稿是另一篇作者回复，不可替代本篇 S0002939426002072。",
-        "具体获取路径：在AJO/ScienceDirect通过已有机构权限打开DOI 10.1016/j.ajo.2026.03.047（288卷338–339页）；未找到可公开读取的作者稿。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42002017/",
-          "locator": "作者、Letter类型及正式卷期页码；无摘要"
-        },
-        {
-          "url": "https://api.elsevier.com/content/article/pii/S0002939426002072?httpAccept=text/xml",
-          "locator": "200但仅coredata；不含实质正文"
-        },
-        {
-          "url": "https://www.ajo.com/article/S0002-9394(26)00207-2/fulltext",
-          "locator": "匹配本篇PII的正式全文入口；本轮获取失败"
-        }
-      ]
-    },
-    {
-      "id": "eye-a-4f568c7050ed",
-      "title": "Surgical Techniques for the Virna Glaucoma Implant: A Low-Cost New Glaucoma Drainage Device.",
-      "pmid": "41552978",
-      "before": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "after": {
-        "completion": "pending",
-        "scope": "restricted"
-      },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
-      "source_issues": [],
-      "actual_reading_scope": "官方题录核验完成；无摘要，出版社及作者公开稿检索均未取得可读正文。",
-      "remaining_limits": [
-        "未取得来信正文；不能从所引用文章推定批评内容，也不能用作者回复替代来信。",
-        "具体获取路径：在Wiley DOI 10.1111/ceo.70063页面通过已有机构权限读取54卷585–586页；目前检索到的ResearchGate页面只有索取入口，本轮未联系作者。"
-      ],
-      "sources": [
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/41552978/",
-          "locator": "Letter、作者和DOI；无摘要"
-        },
-        {
-          "url": "https://onlinelibrary.wiley.com/doi/10.1111/ceo.70063",
-          "locator": "出版社题录；全文/PDF访问仍受限"
+          "url": "https://www.em-consulte.com/article/1768424/revue-des-techniques-chirurgicales-d-implantation-du",
+          "locator": "本轮实际读取Résumé/Summary与Plan目录；全文入口明确订阅限制。法文正文题名与DOI吻合。"
         }
       ]
     },
@@ -1293,17 +552,17 @@
       "title": "Quadruple Layer Technique of Corneal Graft, Amniotic Membrane, and Conjunctiva to Prevent Recurrent Tube Erosion Following Implantation of Glaucoma Drainage Device.",
       "pmid": "40889752",
       "before": {
-        "completion": "pending",
-        "scope": "restricted"
+        "completion": "limited",
+        "scope": "partial"
       },
       "after": {
         "completion": "limited",
         "scope": "partial"
       },
-      "reviewed_at": "2026-09-17T02:46:16.098534+00:00",
-      "content_changed": true,
+      "reviewed_at": "2026-09-20T17:41:00.758774+00:00",
+      "content_changed": false,
       "source_issues": [],
-      "actual_reading_scope": "已读出版社Background片段；正文病例方法、结果、随访和图片未开放取得，机构库仅有书目记录。",
+      "actual_reading_scope": "保留此前实读的出版社公开Background片段及其有限笔记。2026-09-21重试Thieme得到HTTP 200反机器人页面，RWTH返回空壳，均不是全文；OpenAlex仍将RWTH记录列为无PDF，OpenAIRE只列正式DOI/PubMed。未取得病例方法、随访、结果或图片的新内容。",
       "remaining_limits": [
         "只读到出版社公开Background，未取得病例过程、图片、结果和随访，仍为未完成的病例笔记。",
         "RWTH机构库题录与DOI、作者和PMID一致，但Files栏无稿件；ResearchGate同样没有本篇全文。",
