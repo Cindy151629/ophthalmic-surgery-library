@@ -1,227 +1,160 @@
 {
-  "last_attempt": "2026-09-21T06:19:59.156560+00:00",
+  "last_attempt": "2026-09-21T06:20:04.417414+00:00",
   "last_outcome": "partial",
   "deployed": true,
   "schedule_state": "远程周更已启用；未来定时触发另行记录",
   "sources": {
     "EuropePMC-CAT": {
-      "query": "((TITLE_ABS:\"phacoemulsification\" OR TITLE_ABS:\"cataract surgery\" OR TITLE_ABS:\"intraocular lens implantation\" OR TITLE_ABS:\"MSICS\" OR TITLE_ABS:\"capsular tension ring\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "((TITLE_ABS:\"phacoemulsification\" OR TITLE_ABS:\"cataract surgery\" OR TITLE_ABS:\"intraocular lens implantation\" OR TITLE_ABS:\"MSICS\" OR TITLE_ABS:\"capsular tension ring\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
+      "to": "2026-09-21",
       "status": "success",
-      "added": 2,
-      "last_success": "2026-09-16T16:12:46.791684+00:00",
+      "added": 5,
+      "last_success": "2026-09-21T06:20:26.585600+00:00",
       "pages": [
         {
           "page": 1,
           "cursor": "*",
           "returned": 500,
-          "hits": 598,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22phacoemulsification%22+OR+TITLE_ABS%3A%22cataract+surgery%22+OR+TITLE_ABS%3A%22intraocular+lens+implantation%22+OR+TITLE_ABS%3A%22MSICS%22+OR+TITLE_ABS%3A%22capsular+tension+ring%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:12:34.300315+00:00"
+          "hits": 664,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22phacoemulsification%22+OR+TITLE_ABS%3A%22cataract+surgery%22+OR+TITLE_ABS%3A%22intraocular+lens+implantation%22+OR+TITLE_ABS%3A%22MSICS%22+OR+TITLE_ABS%3A%22capsular+tension+ring%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
+          "at": "2026-09-21T06:20:04.526325+00:00"
         },
         {
           "page": 2,
-          "cursor": "AoIIP6EmZSg0NzQxNDMzMQ==",
-          "returned": 98,
-          "hits": 598,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22phacoemulsification%22+OR+TITLE_ABS%3A%22cataract+surgery%22+OR+TITLE_ABS%3A%22intraocular+lens+implantation%22+OR+TITLE_ABS%3A%22MSICS%22+OR+TITLE_ABS%3A%22capsular+tension+ring%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=AoIIP6EmZSg0NzQxNDMzMQ%3D%3D",
-          "at": "2026-09-16T16:12:38.603878+00:00"
+          "cursor": "AoIIP86wcyg1MTUxMjQwNg==",
+          "returned": 164,
+          "hits": 664,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22phacoemulsification%22+OR+TITLE_ABS%3A%22cataract+surgery%22+OR+TITLE_ABS%3A%22intraocular+lens+implantation%22+OR+TITLE_ABS%3A%22MSICS%22+OR+TITLE_ABS%3A%22capsular+tension+ring%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=AoIIP86wcyg1MTUxMjQwNg%3D%3D",
+          "at": "2026-09-21T06:20:11.674199+00:00"
         }
       ],
-      "hits": 598,
+      "hits": 664,
       "pagination_complete": true,
       "verification_complete": true
     },
     "EuropePMC-RET": {
-      "query": "((TITLE_ABS:\"vitrectomy\" OR TITLE_ABS:\"scleral buckling\" OR TITLE_ABS:\"pneumatic retinopexy\" OR TITLE_ABS:\"macular hole surgery\" OR TITLE_ABS:\"epiretinal membrane peeling\" OR TITLE_ABS:\"submacular hemorrhage\" OR TITLE_ABS:\"subretinal delivery\" OR TITLE_ABS:\"silicone oil removal\" OR TITLE_ABS:\"proliferative vitreoretinopathy\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "((TITLE_ABS:\"vitrectomy\" OR TITLE_ABS:\"scleral buckling\" OR TITLE_ABS:\"pneumatic retinopexy\" OR TITLE_ABS:\"macular hole surgery\" OR TITLE_ABS:\"epiretinal membrane peeling\" OR TITLE_ABS:\"submacular hemorrhage\" OR TITLE_ABS:\"subretinal delivery\" OR TITLE_ABS:\"silicone oil removal\" OR TITLE_ABS:\"proliferative vitreoretinopathy\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
+      "to": "2026-09-21",
       "status": "success",
-      "added": 0,
-      "last_success": "2026-09-16T16:12:52.263714+00:00",
+      "added": 2,
+      "last_success": "2026-09-21T06:20:41.110228+00:00",
       "pages": [
         {
           "page": 1,
           "cursor": "*",
-          "returned": 342,
-          "hits": 342,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22vitrectomy%22+OR+TITLE_ABS%3A%22scleral+buckling%22+OR+TITLE_ABS%3A%22pneumatic+retinopexy%22+OR+TITLE_ABS%3A%22macular+hole+surgery%22+OR+TITLE_ABS%3A%22epiretinal+membrane+peeling%22+OR+TITLE_ABS%3A%22submacular+hemorrhage%22+OR+TITLE_ABS%3A%22subretinal+delivery%22+OR+TITLE_ABS%3A%22silicone+oil+removal%22+OR+TITLE_ABS%3A%22proliferative+vitreoretinopathy%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:12:46.792294+00:00"
+          "returned": 384,
+          "hits": 384,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22vitrectomy%22+OR+TITLE_ABS%3A%22scleral+buckling%22+OR+TITLE_ABS%3A%22pneumatic+retinopexy%22+OR+TITLE_ABS%3A%22macular+hole+surgery%22+OR+TITLE_ABS%3A%22epiretinal+membrane+peeling%22+OR+TITLE_ABS%3A%22submacular+hemorrhage%22+OR+TITLE_ABS%3A%22subretinal+delivery%22+OR+TITLE_ABS%3A%22silicone+oil+removal%22+OR+TITLE_ABS%3A%22proliferative+vitreoretinopathy%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
+          "at": "2026-09-21T06:20:26.586271+00:00"
         }
       ],
-      "hits": 342,
+      "hits": 384,
       "pagination_complete": true,
       "verification_complete": true
     },
     "EuropePMC-GL": {
-      "query": "((TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "((TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
-      "status": "success",
-      "added": 101,
+      "to": "2026-09-21",
+      "status": "failed",
+      "added": 0,
       "last_success": "2026-09-16T16:13:14.953476+00:00",
-      "pages": [
-        {
-          "page": 1,
-          "cursor": "*",
-          "returned": 210,
-          "hits": 210,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glaucoma%22+OR+TITLE_ABS%3A%22MIGS%22+OR+TITLE_ABS%3A%22iStent%22+OR+TITLE_ABS%3A%22Hydrus%22+OR+TITLE_ABS%3A%22PRESERFLO%22+OR+TITLE_ABS%3A%22XEN+gel+stent%22+OR+TITLE_ABS%3A%22goniotomy%22+OR+TITLE_ABS%3A%22trabeculotomy%22+OR+TITLE_ABS%3A%22cyclophotocoagulation%22+OR+TITLE_ABS%3A%22laser+trabeculoplasty%22+OR+TITLE_ABS%3A%22laser+iridotomy%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:12:52.264465+00:00"
-        }
-      ],
-      "hits": 210,
-      "pagination_complete": true,
-      "historical": {
-        "query": "((TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")) AND FIRST_PDATE:[2025-08-17 TO 2026-08-17]",
-        "pages": [
-          {
-            "page": 1,
-            "cursor": "*",
-            "returned": 500,
-            "hits": 988,
-            "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glaucoma%22+OR+TITLE_ABS%3A%22MIGS%22+OR+TITLE_ABS%3A%22iStent%22+OR+TITLE_ABS%3A%22Hydrus%22+OR+TITLE_ABS%3A%22PRESERFLO%22+OR+TITLE_ABS%3A%22XEN+gel+stent%22+OR+TITLE_ABS%3A%22goniotomy%22+OR+TITLE_ABS%3A%22trabeculotomy%22+OR+TITLE_ABS%3A%22cyclophotocoagulation%22+OR+TITLE_ABS%3A%22laser+trabeculoplasty%22+OR+TITLE_ABS%3A%22laser+iridotomy%22%29%29+AND+FIRST_PDATE%3A%5B2025-08-17+TO+2026-08-17%5D&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-            "at": "2026-09-16T16:12:53.945135+00:00"
-          },
-          {
-            "page": 2,
-            "cursor": "AoIIQENVLig1NTEzNjk1MQ==",
-            "returned": 488,
-            "hits": 988,
-            "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glaucoma%22+OR+TITLE_ABS%3A%22MIGS%22+OR+TITLE_ABS%3A%22iStent%22+OR+TITLE_ABS%3A%22Hydrus%22+OR+TITLE_ABS%3A%22PRESERFLO%22+OR+TITLE_ABS%3A%22XEN+gel+stent%22+OR+TITLE_ABS%3A%22goniotomy%22+OR+TITLE_ABS%3A%22trabeculotomy%22+OR+TITLE_ABS%3A%22cyclophotocoagulation%22+OR+TITLE_ABS%3A%22laser+trabeculoplasty%22+OR+TITLE_ABS%3A%22laser+iridotomy%22%29%29+AND+FIRST_PDATE%3A%5B2025-08-17+TO+2026-08-17%5D&format=json&resultType=core&pageSize=500&cursorMark=AoIIQENVLig1NTEzNjk1MQ%3D%3D",
-            "at": "2026-09-16T16:12:57.843465+00:00"
-          }
-        ],
-        "hits": 988,
-        "complete": true
-      },
-      "verification_complete": true
+      "error": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glaucoma%22+OR+TITLE_ABS%3A%22MIGS%22+OR+TITLE_ABS%3A%22iStent%22+OR+TITLE_ABS%3A%22Hydrus%22+OR+TITLE_ABS%3A%22PRESERFLO%22+OR+TITLE_ABS%3A%22XEN+gel+stent%22+OR+TITLE_ABS%3A%22goniotomy%22+OR+TITLE_ABS%3A%22trabeculotomy%22+OR+TITLE_ABS%3A%22cyclophotocoagulation%22+OR+TITLE_ABS%3A%22laser+trabeculoplasty%22+OR+TITLE_ABS%3A%22laser+iridotomy%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:20:41.110986+00:00\", \"attempts\": [{\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}, {\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}, {\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}], \"status\": null, \"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glau",
+      "pagination_complete": false
     },
     "EuropePMC-CR": {
-      "query": "((TITLE_ABS:\"keratoplasty\" OR TITLE_ABS:\"DMEK\" OR TITLE_ABS:\"DSAEK\" OR TITLE_ABS:\"DALK\" OR TITLE_ABS:\"limbal stem cell transplantation\" OR TITLE_ABS:\"pterygium surgery\" OR TITLE_ABS:\"corneal perforation\" OR TITLE_ABS:\"corneal cross-linking\" OR TITLE_ABS:\"intracorneal ring\" OR TITLE_ABS:\"LASIK\" OR TITLE_ABS:\"photorefractive keratectomy\" OR TITLE_ABS:\"small incision lenticule extraction\" OR TITLE_ABS:\"implantable collamer lens\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "((TITLE_ABS:\"keratoplasty\" OR TITLE_ABS:\"DMEK\" OR TITLE_ABS:\"DSAEK\" OR TITLE_ABS:\"DALK\" OR TITLE_ABS:\"limbal stem cell transplantation\" OR TITLE_ABS:\"pterygium surgery\" OR TITLE_ABS:\"corneal perforation\" OR TITLE_ABS:\"corneal cross-linking\" OR TITLE_ABS:\"intracorneal ring\" OR TITLE_ABS:\"LASIK\" OR TITLE_ABS:\"photorefractive keratectomy\" OR TITLE_ABS:\"small incision lenticule extraction\" OR TITLE_ABS:\"implantable collamer lens\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
-      "status": "success",
+      "to": "2026-09-21",
+      "status": "failed",
       "added": 0,
       "last_success": "2026-09-16T16:13:20.989470+00:00",
       "pages": [
         {
           "page": 1,
           "cursor": "*",
-          "returned": 342,
-          "hits": 342,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22keratoplasty%22+OR+TITLE_ABS%3A%22DMEK%22+OR+TITLE_ABS%3A%22DSAEK%22+OR+TITLE_ABS%3A%22DALK%22+OR+TITLE_ABS%3A%22limbal+stem+cell+transplantation%22+OR+TITLE_ABS%3A%22pterygium+surgery%22+OR+TITLE_ABS%3A%22corneal+perforation%22+OR+TITLE_ABS%3A%22corneal+cross-linking%22+OR+TITLE_ABS%3A%22intracorneal+ring%22+OR+TITLE_ABS%3A%22LASIK%22+OR+TITLE_ABS%3A%22photorefractive+keratectomy%22+OR+TITLE_ABS%3A%22small+incision+lenticule+extraction%22+OR+TITLE_ABS%3A%22implantable+collamer+lens%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:13:14.954374+00:00"
+          "returned": 387,
+          "hits": 387,
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22keratoplasty%22+OR+TITLE_ABS%3A%22DMEK%22+OR+TITLE_ABS%3A%22DSAEK%22+OR+TITLE_ABS%3A%22DALK%22+OR+TITLE_ABS%3A%22limbal+stem+cell+transplantation%22+OR+TITLE_ABS%3A%22pterygium+surgery%22+OR+TITLE_ABS%3A%22corneal+perforation%22+OR+TITLE_ABS%3A%22corneal+cross-linking%22+OR+TITLE_ABS%3A%22intracorneal+ring%22+OR+TITLE_ABS%3A%22LASIK%22+OR+TITLE_ABS%3A%22photorefractive+keratectomy%22+OR+TITLE_ABS%3A%22small+incision+lenticule+extraction%22+OR+TITLE_ABS%3A%22implantable+collamer+lens%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
+          "at": "2026-09-21T06:21:51.453211+00:00"
         }
       ],
-      "hits": 342,
-      "pagination_complete": true,
-      "verification_complete": true
+      "hits": 387,
+      "pagination_complete": false,
+      "error": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22keratoplasty%22+OR+TITLE_ABS%3A%22DMEK%22+OR+TITLE_ABS%3A%22DSAEK%22+OR+TITLE_ABS%3A%22DALK%22+OR+TITLE_ABS%3A%22limbal+stem+cell+transplantation%22+OR+TITLE_ABS%3A%22pterygium+surgery%22+OR+TITLE_ABS%3A%22corneal+perforation%22+OR+TITLE_ABS%3A%22corneal+cross-linking%22+OR+TITLE_ABS%3A%22intracorneal+ring%22+OR+TITLE_ABS%3A%22LASIK%22+OR+TITLE_ABS%3A%22photorefractive+keratectomy%22+OR+TITLE_ABS%3A%22small+incision+lenticule+extraction%22+OR+TITLE_ABS%3A%22implantable+collamer+lens%22%29%29+AND+FIRST_PDATE%3A%5B2025-08-17+TO+2026-08-17%5D&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:08.981303+00:00\", \"attempts\": [{\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}, {\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22keratoplasty%22+OR+TITLE_ABS%3A%22DMEK%22+OR+TITLE_ABS%3A%22DSAEK%22+OR+TITLE_ABS%3A%22DALK%22+OR+TITLE_ABS%3A%22limbal+stem+cell+transplantation%22+OR+TITLE_ABS%3A%22pterygium+surgery%22+OR+TITLE_ABS%3A%22corneal+perforation%22+OR+TITLE_ABS%3A%22corneal+cross-linking%22+OR+TITLE_ABS%3A%22intracorneal+ring%22+OR+TITLE_ABS%3A%22LASIK%22+OR+TITLE_ABS%3A%22photorefractive+keratectomy%22+OR+TITLE_ABS%3A%22small+incision+lenticule+extraction%22+OR+TITLE_ABS%3A%22implantable+collamer+lens"
     },
     "EuropePMC-OCP": {
-      "query": "((TITLE_ABS:\"blepharoptosis surgery\" OR TITLE_ABS:\"blepharoplasty\" OR TITLE_ABS:\"eyelid reconstruction\" OR TITLE_ABS:\"entropion surgery\" OR TITLE_ABS:\"ectropion surgery\" OR TITLE_ABS:\"dacryocystorhinostomy\" OR TITLE_ABS:\"canalicular laceration\" OR TITLE_ABS:\"orbital decompression\" OR TITLE_ABS:\"orbital fracture surgery\" OR TITLE_ABS:\"evisceration\" OR TITLE_ABS:\"anophthalmic socket\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "((TITLE_ABS:\"blepharoptosis surgery\" OR TITLE_ABS:\"blepharoplasty\" OR TITLE_ABS:\"eyelid reconstruction\" OR TITLE_ABS:\"entropion surgery\" OR TITLE_ABS:\"ectropion surgery\" OR TITLE_ABS:\"dacryocystorhinostomy\" OR TITLE_ABS:\"canalicular laceration\" OR TITLE_ABS:\"orbital decompression\" OR TITLE_ABS:\"orbital fracture surgery\" OR TITLE_ABS:\"evisceration\" OR TITLE_ABS:\"anophthalmic socket\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
-      "status": "success",
+      "to": "2026-09-21",
+      "status": "failed",
       "added": 0,
       "last_success": "2026-09-16T16:13:24.947685+00:00",
-      "pages": [
-        {
-          "page": 1,
-          "cursor": "*",
-          "returned": 192,
-          "hits": 192,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22blepharoptosis+surgery%22+OR+TITLE_ABS%3A%22blepharoplasty%22+OR+TITLE_ABS%3A%22eyelid+reconstruction%22+OR+TITLE_ABS%3A%22entropion+surgery%22+OR+TITLE_ABS%3A%22ectropion+surgery%22+OR+TITLE_ABS%3A%22dacryocystorhinostomy%22+OR+TITLE_ABS%3A%22canalicular+laceration%22+OR+TITLE_ABS%3A%22orbital+decompression%22+OR+TITLE_ABS%3A%22orbital+fracture+surgery%22+OR+TITLE_ABS%3A%22evisceration%22+OR+TITLE_ABS%3A%22anophthalmic+socket%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:13:20.990378+00:00"
-        }
-      ],
-      "hits": 192,
-      "pagination_complete": true,
-      "verification_complete": true
+      "error": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22blepharoptosis+surgery%22+OR+TITLE_ABS%3A%22blepharoplasty%22+OR+TITLE_ABS%3A%22eyelid+reconstruction%22+OR+TITLE_ABS%3A%22entropion+surgery%22+OR+TITLE_ABS%3A%22ectropion+surgery%22+OR+TITLE_ABS%3A%22dacryocystorhinostomy%22+OR+TITLE_ABS%3A%22canalicular+laceration%22+OR+TITLE_ABS%3A%22orbital+decompression%22+OR+TITLE_ABS%3A%22orbital+fracture+surgery%22+OR+TITLE_ABS%3A%22evisceration%22+OR+TITLE_ABS%3A%22anophthalmic+socket%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:37.419022+00:00\", \"attempts\": [{\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22blepharoptosis+surgery%22+OR+TITLE_ABS%3A%22blepharoplasty%22+OR+TITLE_ABS%3A%22eyelid+reconstruction%22+OR+TITLE_ABS%3A%22entropion+surgery%22+OR+TITLE_ABS%3A%22ectropion+surgery%22+OR+TITLE_ABS%3A%22dacryocystorhinostomy%22+OR+TITLE_ABS%3A%22canalicular+laceration%22+OR+TITLE_ABS%3A%22orbital+decompression%22+OR+TITLE_ABS%3A%22orbital+fracture+surgery%22+OR+TITLE_ABS%3A%22evisceration%22+OR+TITLE_ABS%3A%22anophthalmic+socket%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\"}, {\"",
+      "pagination_complete": false
     },
     "EuropePMC-PTO": {
-      "query": "((TITLE_ABS:\"strabismus surgery\" OR TITLE_ABS:\"rectus transposition\" OR TITLE_ABS:\"pediatric cataract surgery\" OR TITLE_ABS:\"congenital glaucoma surgery\" OR TITLE_ABS:\"retinopathy of prematurity vitrectomy\" OR TITLE_ABS:\"open globe repair\" OR TITLE_ABS:\"intraocular foreign body\" OR TITLE_ABS:\"uveal melanoma biopsy\" OR TITLE_ABS:\"conjunctival melanoma surgery\" OR TITLE_ABS:\"retinoblastoma enucleation\" OR TITLE_ABS:\"ocular surface squamous neoplasia\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "((TITLE_ABS:\"strabismus surgery\" OR TITLE_ABS:\"rectus transposition\" OR TITLE_ABS:\"pediatric cataract surgery\" OR TITLE_ABS:\"congenital glaucoma surgery\" OR TITLE_ABS:\"retinopathy of prematurity vitrectomy\" OR TITLE_ABS:\"open globe repair\" OR TITLE_ABS:\"intraocular foreign body\" OR TITLE_ABS:\"uveal melanoma biopsy\" OR TITLE_ABS:\"conjunctival melanoma surgery\" OR TITLE_ABS:\"retinoblastoma enucleation\" OR TITLE_ABS:\"ocular surface squamous neoplasia\")) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
-      "status": "success",
+      "to": "2026-09-21",
+      "status": "failed",
       "added": 0,
       "last_success": "2026-09-16T16:13:26.942250+00:00",
-      "pages": [
-        {
-          "page": 1,
-          "cursor": "*",
-          "returned": 87,
-          "hits": 87,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22strabismus+surgery%22+OR+TITLE_ABS%3A%22rectus+transposition%22+OR+TITLE_ABS%3A%22pediatric+cataract+surgery%22+OR+TITLE_ABS%3A%22congenital+glaucoma+surgery%22+OR+TITLE_ABS%3A%22retinopathy+of+prematurity+vitrectomy%22+OR+TITLE_ABS%3A%22open+globe+repair%22+OR+TITLE_ABS%3A%22intraocular+foreign+body%22+OR+TITLE_ABS%3A%22uveal+melanoma+biopsy%22+OR+TITLE_ABS%3A%22conjunctival+melanoma+surgery%22+OR+TITLE_ABS%3A%22retinoblastoma+enucleation%22+OR+TITLE_ABS%3A%22ocular+surface+squamous+neoplasia%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:13:24.948675+00:00"
-        }
-      ],
-      "hits": 87,
-      "pagination_complete": true,
-      "verification_complete": true
+      "error": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22strabismus+surgery%22+OR+TITLE_ABS%3A%22rectus+transposition%22+OR+TITLE_ABS%3A%22pediatric+cataract+surgery%22+OR+TITLE_ABS%3A%22congenital+glaucoma+surgery%22+OR+TITLE_ABS%3A%22retinopathy+of+prematurity+vitrectomy%22+OR+TITLE_ABS%3A%22open+globe+repair%22+OR+TITLE_ABS%3A%22intraocular+foreign+body%22+OR+TITLE_ABS%3A%22uveal+melanoma+biopsy%22+OR+TITLE_ABS%3A%22conjunctival+melanoma+surgery%22+OR+TITLE_ABS%3A%22retinoblastoma+enucleation%22+OR+TITLE_ABS%3A%22ocular+surface+squamous+neoplasia%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:44.894167+00:00\", \"attempts\": [{\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22strabismus+surgery%22+OR+TITLE_ABS%3A%22rectus+transposition%22+OR+TITLE_ABS%3A%22pediatric+cataract+surgery%22+OR+TITLE_ABS%3A%22congenital+glaucoma+surgery%22+OR+TITLE_ABS%3A%22retinopathy+of+prematurity+vitrectomy%22+OR+TITLE_ABS%3A%22open+globe+repair%22+OR+TITLE_ABS%3A%22intraocular+foreign+body%22+OR+TITLE_ABS%3A%22uveal+melanoma+biopsy%22+OR+TITLE_ABS%3A%22conjunctival+melanoma+surgery%22+OR+TITLE_ABS%3A%22retinoblastoma+enucleation%22+OR+TITLE_ABS%3A%22ocular+surface+squamous+neoplasia%22%29%29+AND+%28FIRST_IDATE%3A%5B2026",
+      "pagination_complete": false
     },
     "EuropePMC-GEN": {
-      "query": "(((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-16] OR UPDATE_DATE:[2026-08-17 TO 2026-09-16])",
+      "query": "(((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))) AND (FIRST_IDATE:[2026-08-17 TO 2026-09-21] OR UPDATE_DATE:[2026-08-17 TO 2026-09-21])",
       "date_fields": [
         "FIRST_IDATE",
         "UPDATE_DATE"
       ],
       "from": "2026-08-17",
-      "to": "2026-09-16",
-      "status": "success",
+      "to": "2026-09-21",
+      "status": "failed",
       "added": 0,
       "last_success": "2026-09-16T16:13:28.473341+00:00",
-      "pages": [
-        {
-          "page": 1,
-          "cursor": "*",
-          "returned": 57,
-          "hits": 57,
-          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgical+simulation%22+OR+TITLE_ABS%3A%22surgical+training%22+OR+TITLE_ABS%3A%22surgical+safety%22+OR+TITLE_ABS%3A%22robot+surgery%22+OR+TITLE_ABS%3Aperioperative+OR+TITLE_ABS%3A%22endophthalmitis+prophylaxis%22+OR+TITLE_ABS%3A%22regional+anesthesia%22%29%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-16%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-16%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A",
-          "at": "2026-09-16T16:13:26.943260+00:00"
-        }
-      ],
-      "hits": 57,
-      "pagination_complete": true,
-      "verification_complete": true
+      "error": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgical+simulation%22+OR+TITLE_ABS%3A%22surgical+training%22+OR+TITLE_ABS%3A%22surgical+safety%22+OR+TITLE_ABS%3A%22robot+surgery%22+OR+TITLE_ABS%3Aperioperative+OR+TITLE_ABS%3A%22endophthalmitis+prophylaxis%22+OR+TITLE_ABS%3A%22regional+anesthesia%22%29%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:52.600646+00:00\", \"attempts\": [{\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgical+simulation%22+OR+TITLE_ABS%3A%22surgical+training%22+OR+TITLE_ABS%3A%22surgical+safety%22+OR+TITLE_ABS%3A%22robot+surgery%22+OR+TITLE_ABS%3Aperioperative+OR+TITLE_ABS%3A%22endophthalmitis+prophylaxis%22+OR+TITLE_ABS%3A%22regional+anesthesia%22%29%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\"}, {\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgi",
+      "pagination_complete": false
     },
     "Video-Moran": {
       "status": "success",
-      "last_success": "2026-09-16T16:15:31.489592+00:00",
+      "last_success": "2026-09-21T06:25:10.136429+00:00",
       "added": 0,
       "hits": 86,
       "pages": [
         {
           "url": "https://morancore.utah.edu/section-14-ophthalmic-surgery/",
-          "at": "2026-09-16T16:13:28.474298+00:00",
+          "at": "2026-09-21T06:23:00.140726+00:00",
           "page": 1,
           "candidate_links": 87,
-          "sha256": "0d75c84fed286b74ca39ff38574d727395fdf40317233765aa13e18ab1de23ba"
+          "sha256": "ffd02f9e18ee56ed0c9a5d1f455f7b6a373e623bc8aa8ad75f1317222c7e5975"
         }
       ],
       "pagination_complete": true,
@@ -229,18 +162,18 @@
     },
     "Video-Cybersight": {
       "status": "success",
-      "last_success": "2026-09-16T16:15:36.902794+00:00",
+      "last_success": "2026-09-21T06:25:13.549850+00:00",
       "added": 0,
-      "hits": 4,
+      "hits": 5,
       "pages": [
         {
-          "url": "https://cybersight.org/wp-json/wp/v2/library?per_page=100&page=1&orderby=modified&order=asc&modified_after=2026-08-17T16%3A03%3A19&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Ctype",
-          "at": "2026-09-16T16:15:31.490836+00:00",
+          "url": "https://cybersight.org/wp-json/wp/v2/library?per_page=100&page=1&orderby=modified&order=asc&modified_after=2026-08-17T16%3A15%3A36&_fields=id%2Clink%2Ctitle%2Cdate_gmt%2Cmodified_gmt%2Ctype",
+          "at": "2026-09-21T06:25:10.137617+00:00",
           "page": 1,
           "total_pages": 1,
-          "returned": 18,
-          "modified_after": "2026-08-17T16:03:19",
-          "sha256": "f3d7e5ef6ab4d339d1de16abf89b2e891a43689f70e53ec703ed867e1ef00ecf"
+          "returned": 19,
+          "modified_after": "2026-08-17T16:15:36",
+          "sha256": "6fabbae42a763cb979718f4434f37fb33e6ac90ce4fc70650fec76585860ce49"
         }
       ],
       "pagination_complete": true,
@@ -248,13 +181,13 @@
     },
     "Video-EyeRounds": {
       "status": "success",
-      "last_success": "2026-09-16T16:15:38.712788+00:00",
+      "last_success": "2026-09-21T06:25:15.795920+00:00",
       "added": 0,
       "hits": 3,
       "pages": [
         {
           "url": "https://webeye.ophth.uiowa.edu/eyeforum/video/",
-          "at": "2026-09-16T16:15:36.903971+00:00",
+          "at": "2026-09-21T06:25:13.550644+00:00",
           "page": 1,
           "candidate_links": 3,
           "sha256": "14991943d48ac471693108ec6628a3e91ee5bc2d71b7108e328cfd47bc2a2944"
@@ -265,32 +198,61 @@
     },
     "PubMed-status": {
       "status": "success",
-      "hits": 850,
+      "hits": 953,
       "missing": 0,
       "added": 0,
-      "last_success": "2026-09-16T16:15:50.606455+00:00"
+      "last_success": "2026-09-21T06:25:27.897854+00:00"
     },
     "Primary-links": {
       "status": "partial",
-      "hits": 1251,
-      "failed_or_deferred": 985,
+      "hits": 1258,
+      "failed_or_deferred": 989,
       "added": 0,
       "scope": {
         "attempted": 290,
-        "deferred": 961
+        "deferred": 968
       },
       "last_success": null,
       "error": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
     }
   },
-  "last_local_run": "2026-09-16T16:17:02.628156+00:00",
+  "last_local_run": "2026-09-21T06:26:34.159515+00:00",
   "schedule_description": "每周一09:17 · Asia/Shanghai；复用既有维护时段",
-  "next_run": "2026-09-21T09:17:00+08:00",
-  "last_attempt_status": "running",
-  "last_counts": {},
-  "last_errors": [],
+  "next_run": "2026-09-28T09:17:00+08:00",
+  "last_attempt_status": "partial",
+  "last_counts": {
+    "added": 7,
+    "staged": 172,
+    "records": 1258
+  },
+  "last_errors": [
+    {
+      "source": "EuropePMC-GL",
+      "reason": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glaucoma%22+OR+TITLE_ABS%3A%22MIGS%22+OR+TITLE_ABS%3A%22iStent%22+OR+TITLE_ABS%3A%22Hydrus%22+OR+TITLE_ABS%3A%22PRESERFLO%22+OR+TITLE_ABS%3A%22XEN+gel+stent%22+OR+TITLE_ABS%3A%22goniotomy%22+OR+TITLE_ABS%3A%22trabeculotomy%22+OR+TITLE_ABS%3A%22cyclophotocoagulation%22+OR+TITLE_ABS%3A%22laser+trabeculoplasty%22+OR+TITLE_ABS%3A%22laser+iridotomy%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:20:41.110986+00:00\", \"attempts\": [{\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}, {\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}, {\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}], \"status\": null, \"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22trabeculectomy%22+OR+TITLE_ABS%3A%22glaucoma+drainage%22+OR+TITLE_ABS%3A%22Baerveldt%22+OR+TITLE_ABS%3A%22Ahmed+glau"
+    },
+    {
+      "source": "EuropePMC-CR",
+      "reason": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22keratoplasty%22+OR+TITLE_ABS%3A%22DMEK%22+OR+TITLE_ABS%3A%22DSAEK%22+OR+TITLE_ABS%3A%22DALK%22+OR+TITLE_ABS%3A%22limbal+stem+cell+transplantation%22+OR+TITLE_ABS%3A%22pterygium+surgery%22+OR+TITLE_ABS%3A%22corneal+perforation%22+OR+TITLE_ABS%3A%22corneal+cross-linking%22+OR+TITLE_ABS%3A%22intracorneal+ring%22+OR+TITLE_ABS%3A%22LASIK%22+OR+TITLE_ABS%3A%22photorefractive+keratectomy%22+OR+TITLE_ABS%3A%22small+incision+lenticule+extraction%22+OR+TITLE_ABS%3A%22implantable+collamer+lens%22%29%29+AND+FIRST_PDATE%3A%5B2025-08-17+TO+2026-08-17%5D&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:08.981303+00:00\", \"attempts\": [{\"error\": \"ReadTimeout: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=22)\"}, {\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22keratoplasty%22+OR+TITLE_ABS%3A%22DMEK%22+OR+TITLE_ABS%3A%22DSAEK%22+OR+TITLE_ABS%3A%22DALK%22+OR+TITLE_ABS%3A%22limbal+stem+cell+transplantation%22+OR+TITLE_ABS%3A%22pterygium+surgery%22+OR+TITLE_ABS%3A%22corneal+perforation%22+OR+TITLE_ABS%3A%22corneal+cross-linking%22+OR+TITLE_ABS%3A%22intracorneal+ring%22+OR+TITLE_ABS%3A%22LASIK%22+OR+TITLE_ABS%3A%22photorefractive+keratectomy%22+OR+TITLE_ABS%3A%22small+incision+lenticule+extraction%22+OR+TITLE_ABS%3A%22implantable+collamer+lens"
+    },
+    {
+      "source": "EuropePMC-OCP",
+      "reason": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22blepharoptosis+surgery%22+OR+TITLE_ABS%3A%22blepharoplasty%22+OR+TITLE_ABS%3A%22eyelid+reconstruction%22+OR+TITLE_ABS%3A%22entropion+surgery%22+OR+TITLE_ABS%3A%22ectropion+surgery%22+OR+TITLE_ABS%3A%22dacryocystorhinostomy%22+OR+TITLE_ABS%3A%22canalicular+laceration%22+OR+TITLE_ABS%3A%22orbital+decompression%22+OR+TITLE_ABS%3A%22orbital+fracture+surgery%22+OR+TITLE_ABS%3A%22evisceration%22+OR+TITLE_ABS%3A%22anophthalmic+socket%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:37.419022+00:00\", \"attempts\": [{\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22blepharoptosis+surgery%22+OR+TITLE_ABS%3A%22blepharoplasty%22+OR+TITLE_ABS%3A%22eyelid+reconstruction%22+OR+TITLE_ABS%3A%22entropion+surgery%22+OR+TITLE_ABS%3A%22ectropion+surgery%22+OR+TITLE_ABS%3A%22dacryocystorhinostomy%22+OR+TITLE_ABS%3A%22canalicular+laceration%22+OR+TITLE_ABS%3A%22orbital+decompression%22+OR+TITLE_ABS%3A%22orbital+fracture+surgery%22+OR+TITLE_ABS%3A%22evisceration%22+OR+TITLE_ABS%3A%22anophthalmic+socket%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\"}, {\""
+    },
+    {
+      "source": "EuropePMC-PTO",
+      "reason": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22strabismus+surgery%22+OR+TITLE_ABS%3A%22rectus+transposition%22+OR+TITLE_ABS%3A%22pediatric+cataract+surgery%22+OR+TITLE_ABS%3A%22congenital+glaucoma+surgery%22+OR+TITLE_ABS%3A%22retinopathy+of+prematurity+vitrectomy%22+OR+TITLE_ABS%3A%22open+globe+repair%22+OR+TITLE_ABS%3A%22intraocular+foreign+body%22+OR+TITLE_ABS%3A%22uveal+melanoma+biopsy%22+OR+TITLE_ABS%3A%22conjunctival+melanoma+surgery%22+OR+TITLE_ABS%3A%22retinoblastoma+enucleation%22+OR+TITLE_ABS%3A%22ocular+surface+squamous+neoplasia%22%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:44.894167+00:00\", \"attempts\": [{\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28TITLE_ABS%3A%22strabismus+surgery%22+OR+TITLE_ABS%3A%22rectus+transposition%22+OR+TITLE_ABS%3A%22pediatric+cataract+surgery%22+OR+TITLE_ABS%3A%22congenital+glaucoma+surgery%22+OR+TITLE_ABS%3A%22retinopathy+of+prematurity+vitrectomy%22+OR+TITLE_ABS%3A%22open+globe+repair%22+OR+TITLE_ABS%3A%22intraocular+foreign+body%22+OR+TITLE_ABS%3A%22uveal+melanoma+biopsy%22+OR+TITLE_ABS%3A%22conjunctival+melanoma+surgery%22+OR+TITLE_ABS%3A%22retinoblastoma+enucleation%22+OR+TITLE_ABS%3A%22ocular+surface+squamous+neoplasia%22%29%29+AND+%28FIRST_IDATE%3A%5B2026"
+    },
+    {
+      "source": "EuropePMC-GEN",
+      "reason": "source request failed: {\"requested_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgical+simulation%22+OR+TITLE_ABS%3A%22surgical+training%22+OR+TITLE_ABS%3A%22surgical+safety%22+OR+TITLE_ABS%3A%22robot+surgery%22+OR+TITLE_ABS%3Aperioperative+OR+TITLE_ABS%3A%22endophthalmitis+prophylaxis%22+OR+TITLE_ABS%3A%22regional+anesthesia%22%29%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\", \"checked_at\": \"2026-09-21T06:22:52.600646+00:00\", \"attempts\": [{\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgical+simulation%22+OR+TITLE_ABS%3A%22surgical+training%22+OR+TITLE_ABS%3A%22surgical+safety%22+OR+TITLE_ABS%3A%22robot+surgery%22+OR+TITLE_ABS%3Aperioperative+OR+TITLE_ABS%3A%22endophthalmitis+prophylaxis%22+OR+TITLE_ABS%3A%22regional+anesthesia%22%29%29%29+AND+%28FIRST_IDATE%3A%5B2026-08-17+TO+2026-09-21%5D+OR+UPDATE_DATE%3A%5B2026-08-17+TO+2026-09-21%5D%29&format=json&resultType=core&pageSize=500&cursorMark=%2A\"}, {\"status\": 503, \"url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28%28%28TITLE_ABS%3Aophthalmic+OR+TITLE_ABS%3Acataract+OR+TITLE_ABS%3Aocular%29+AND+%28TITLE_ABS%3A%22surgi"
+    },
+    {
+      "source": "Primary-links",
+      "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
+    }
+  ],
   "first_attempt": "2026-09-16T16:12:29.622474+00:00",
-  "last_deploy": "2026-09-20T18:08:12.232626+00:00",
-  "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35528050305",
+  "last_deploy": "2026-09-21T06:26:46.518454+00:00",
+  "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35567994418",
   "last_publish_attempt": "2026-09-20T18:07:52.992613+00:00"
 }
