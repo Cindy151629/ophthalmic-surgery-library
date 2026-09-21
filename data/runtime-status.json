@@ -1,117 +1,20 @@
 {
   "domain_id": "ophthalmic-surgery",
   "schema_version": 1,
-  "status": "partial",
-  "started_at": "2026-09-20T18:07:52.992613+00:00",
-  "finished_at": "2026-09-20T18:08:15.470961+00:00",
-  "event": "workflow_dispatch",
+  "status": "running",
+  "started_at": "2026-09-21T06:19:59.156560+00:00",
+  "finished_at": null,
+  "event": "schedule",
   "first_started_at": "2026-09-16T15:59:47.670583+00:00",
   "last_success": null,
-  "run_scope": "publish-reviewed",
-  "run_id": "35528050305",
-  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35528050305",
-  "observed_scheduled_run": null,
-  "steps": {
-    "started": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "start_saved": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "dependencies": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "update": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "publication_guard": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "tests": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pages_config": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "upload": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "deployment": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "verification": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "pin": {
-      "outcome": "success",
-      "conclusion": "success"
-    },
-    "recovery_upload": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    },
-    "rollback_check": {
-      "outcome": "skipped",
-      "conclusion": "skipped"
-    }
-  },
+  "run_scope": "update-and-publish",
+  "run_id": "35567994418",
+  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/35567994418",
+  "observed_scheduled_run": "2026-09-21T06:19:59.156560+00:00",
+  "steps": {},
   "rollback": {
-    "available": true,
-    "status": "ready",
-    "commit": "9f087b2dcffa05b69aa5753492deddcf45617a55",
-    "data_version": "690c9483e94478ab943d2f54e2f41e9f30cfe6aafa8d575f7a3a27f0220815ab"
+    "status": "not_checked"
   },
-  "last_errors": [
-    {
-      "source": "Primary-links",
-      "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
-    },
-    {
-      "source": "tests",
-      "reason": "Workflow step failure"
-    },
-    {
-      "source": "pages_config",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "upload",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "deployment",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "verification",
-      "reason": "Workflow step skipped"
-    },
-    {
-      "source": "pin",
-      "reason": "Workflow step skipped"
-    }
-  ],
-  "last_counts": {
-    "added": 103,
-    "staged": 651,
-    "records": 1251
-  }
+  "last_errors": [],
+  "last_counts": {}
 }
