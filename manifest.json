@@ -1,7 +1,7 @@
 {
-  "version": "ade8b6d9e32bbb8e5e82f78875fde2d747ab58305607560801bcfbd988e655dc",
-  "built_at": "2026-10-02T14:30:05.882660+00:00",
-  "records": 1336,
+  "version": "2587593d8710115e05daacb86775e54667d70ada68c7b4cb1a710e1a27607f1e",
+  "built_at": "2026-10-02T15:03:38.617795+00:00",
+  "records": 1339,
   "status": {
     "last_attempt": "2026-10-02T14:25:01.725084+00:00",
     "last_outcome": "partial",
@@ -303,26 +303,25 @@
       }
     ],
     "first_attempt": "2026-09-16T16:12:29.622474+00:00",
-    "last_deploy": "2026-09-28T07:04:47.221780+00:00",
-    "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/36388650425",
-    "last_publish_attempt": "2026-09-20T18:07:52.992613+00:00"
+    "last_deploy": "2026-10-02T14:32:30.720083+00:00",
+    "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/37019670568",
+    "last_publish_attempt": "2026-10-02T15:03:31.830326+00:00"
   },
   "notes": {
-    "articles": 1046,
-    "with_note": 961,
+    "articles": 1049,
+    "with_note": 1049,
     "completion": {
-      "substantive": 949,
+      "substantive": 1034,
       "limited": 8,
-      "pending": 89
+      "pending": 7
     },
     "reading_scopes": {
-      "partial": 31,
-      "abstract": 655,
-      "fulltext": 271,
+      "partial": 33,
+      "abstract": 729,
+      "fulltext": 280,
       "metadata": 1,
-      "restricted": 3,
-      "pending": 85
+      "restricted": 6
     },
-    "source_concerns": 17
+    "source_concerns": 23
   }
 }
