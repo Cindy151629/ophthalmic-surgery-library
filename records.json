@@ -195133,5 +195133,2229 @@
         "label": "DOI"
       }
     ]
+  },
+  {
+    "id": "eye-v-d57e58c4bfc1",
+    "kind": "video",
+    "title": "Lecture: Ocular Surface Optimization Before Cataract Surgery",
+    "aliases": [],
+    "seed_description": "白内障术前眼表优化讲座。讲解干眼、睑板腺功能异常如何影响生物测量和IOL计算，介绍治疗后判断眼表何时足够稳定再测量的思路。属于围手术期教学，不是完整手术录像。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "CAT",
+    "procedures": [
+      "phaco",
+      "iol"
+    ],
+    "cross_sections": [
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+        "final_url": "https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+        "checked_at": "2026-10-02T15:28:04.567877+00:00",
+        "status": 200,
+        "sha256": "1e1e2e728c15f93594d9b5cf83e959136bb6314fc210aa544e4f640a15f4e7d4",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Ocular Surface Optimization Before Cataract Surgery",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "白内障术前眼表优化讲座。讲解干眼、睑板腺功能异常如何影响生物测量和IOL计算，介绍治疗后判断眼表何时足够稳定再测量的思路。属于围手术期教学，不是完整手术录像。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-09-28，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-9426ad110020",
+    "kind": "video",
+    "title": "Lecture: Managing Intraoperative Complications in Adult Cataract Surgery: Prevention, Recognition, and Rescue Strategies",
+    "aliases": [],
+    "seed_description": "成人白内障术中并发症讲座：后囊破裂、玻璃体脱出、悬韧带薄弱及虹膜问题，重点讨论识别、稳定术野、改变或分期操作以及囊袋受损后的IOL规划。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "CAT",
+    "procedures": [
+      "cataract-complication",
+      "complex-cataract"
+    ],
+    "cross_sections": [
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-managing-intraoperative-complications-in-adult-cataract-surgery-prevention-recognition-and-rescue-strategies/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-managing-intraoperative-complications-in-adult-cataract-surgery-prevention-recognition-and-rescue-strategies/",
+        "final_url": "https://cybersight.org/library/lecture-managing-intraoperative-complications-in-adult-cataract-surgery-prevention-recognition-and-rescue-strategies/",
+        "checked_at": "2026-10-02T15:28:04.402384+00:00",
+        "status": 200,
+        "sha256": "2738a34335e045b7a950d553ff890b76f0466559d68046eabd23a88defd6bbff",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Managing Intraoperative Complications in Adult Cataract Surgery: Prevention, Recognition, and Rescue Strategies",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "成人白内障术中并发症讲座：后囊破裂、玻璃体脱出、悬韧带薄弱及虹膜问题，重点讨论识别、稳定术野、改变或分期操作以及囊袋受损后的IOL规划。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-09-24，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-managing-intraoperative-complications-in-adult-cataract-surgery-prevention-recognition-and-rescue-strategies/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-managing-intraoperative-complications-in-adult-cataract-surgery-prevention-recognition-and-rescue-strategies/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-c71e5e01c061",
+    "kind": "video",
+    "title": "Lecture: Overview of Scleral Tectonic Grafting in Severe Corneal Trauma",
+    "aliases": [],
+    "seed_description": "严重角膜外伤中的巩膜补片修复讲座。以复杂裂伤和穿孔病例讨论结构性移植、术前评估、术中决策和术后管理，特别关注供体角膜资源有限的环境。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "CR",
+    "procedures": [
+      "cornea-repair",
+      "open-globe"
+    ],
+    "cross_sections": [
+      "CR",
+      "PTO"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-overview-of-scleral-tectonic-grafting-in-severe-corneal-trauma/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-overview-of-scleral-tectonic-grafting-in-severe-corneal-trauma/",
+        "final_url": "https://cybersight.org/library/lecture-overview-of-scleral-tectonic-grafting-in-severe-corneal-trauma/",
+        "checked_at": "2026-10-02T15:28:02.258443+00:00",
+        "status": 200,
+        "sha256": "3c1445d1f899ade19a31e74ba9e4bafa810603f6f30cb352f34f009867a99e3e",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Overview of Scleral Tectonic Grafting in Severe Corneal Trauma",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "严重角膜外伤中的巩膜补片修复讲座。以复杂裂伤和穿孔病例讨论结构性移植、术前评估、术中决策和术后管理，特别关注供体角膜资源有限的环境。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-09-17，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-overview-of-scleral-tectonic-grafting-in-severe-corneal-trauma/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-overview-of-scleral-tectonic-grafting-in-severe-corneal-trauma/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-2053f3f60e6b",
+    "kind": "video",
+    "title": "Lecture: Strabismus Surgery in Practice: Case-Based Lessons Across Horizontal, Vertical, & Reoperations",
+    "aliases": [],
+    "seed_description": "斜视手术病例讨论，覆盖水平、垂直偏斜、初次及再次手术，并讨论肌肉瓣撕裂等难题。内容侧重诊断、个体化手术计划和术后结果，不应当作单一术式疗效研究。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "PTO",
+    "procedures": [
+      "strabismus",
+      "transposition"
+    ],
+    "cross_sections": [
+      "PTO"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "final_url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "checked_at": "2026-10-02T15:28:05.220679+00:00",
+        "status": 200,
+        "sha256": "1a922405b8c5155847d1b2341fb8bc2d5d7e7b7d689ce0b6bcb095bfec1d361b",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Strabismus Surgery in Practice: Case-Based Lessons Across Horizontal, Vertical, & Reoperations",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "斜视手术病例讨论，覆盖水平、垂直偏斜、初次及再次手术，并讨论肌肉瓣撕裂等难题。内容侧重诊断、个体化手术计划和术后结果，不应当作单一术式疗效研究。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-08-11，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-933a531462d6",
+    "kind": "video",
+    "title": "Lecture: 6th Annual Crandall Cataract Conference: Phacoemulsification with Zonulopathy – My Best Teaching Videos",
+    "aliases": [],
+    "seed_description": "David F. Chang的悬韧带异常超乳教学讲座。围绕假性剥脱、外伤等造成的支撑不足，以手术片段讨论撕囊、核和皮质处理及长期IOL固定。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "CAT",
+    "procedures": [
+      "complex-cataract",
+      "iol-fixation"
+    ],
+    "cross_sections": [
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+        "final_url": "https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+        "checked_at": "2026-10-02T15:28:08.497246+00:00",
+        "status": 200,
+        "sha256": "07c00a8f2075d75643930b72cf9edc51ed0d5f95357a48d4d5a96c5abd775086",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: 6th Annual Crandall Cataract Conference: Phacoemulsification with Zonulopathy – My Best Teaching Videos",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "David F. Chang的悬韧带异常超乳教学讲座。围绕假性剥脱、外伤等造成的支撑不足，以手术片段讨论撕囊、核和皮质处理及长期IOL固定。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-31，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-f0833827adb3",
+    "kind": "video",
+    "title": "模拟手术：青光眼——结膜闭合",
+    "aliases": [],
+    "seed_description": "中文页面：利用小梁切除模拟眼练习结膜闭合，原站说明将真实手术与模型操作并列展示。重点是伤口缝合训练，不能将模拟模型的表现视为临床疗效。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "GL",
+    "procedures": [
+      "trabeculectomy",
+      "simulation"
+    ],
+    "cross_sections": [
+      "GL",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bb%93%e8%86%9c%e9%97%ad%e5%90%88/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bb%93%e8%86%9c%e9%97%ad%e5%90%88/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E9%9D%92%E5%85%89%E7%9C%BC-%E7%BB%93%E8%86%9C%E9%97%AD%E5%90%88/",
+        "checked_at": "2026-10-02T15:28:06.396251+00:00",
+        "status": 200,
+        "sha256": "8fdd50a9252c9fbced0c0760521d1e049f946b23fdd4d7981dc075784d41c1d4",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：青光眼——结膜闭合",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文页面：利用小梁切除模拟眼练习结膜闭合，原站说明将真实手术与模型操作并列展示。重点是伤口缝合训练，不能将模拟模型的表现视为临床疗效。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-03，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bb%93%e8%86%9c%e9%97%ad%e5%90%88/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bb%93%e8%86%9c%e9%97%ad%e5%90%88/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-2e813fa85735",
+    "kind": "video",
+    "title": "模拟手术：青光眼——缝合巩膜瓣",
+    "aliases": [],
+    "seed_description": "中文页面：小梁切除模拟训练中的巩膜瓣缝合。原站通用简介同时提及结膜分离、制瓣、巩膜造口及周边虹膜处理；本卡按具体标题归入缝合练习，细分内容尚未通过播放逐段确认。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "GL",
+    "procedures": [
+      "trabeculectomy",
+      "simulation"
+    ],
+    "cross_sections": [
+      "GL",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bc%9d%e5%90%88%e5%b7%a9%e8%86%9c%e7%93%a3/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bc%9d%e5%90%88%e5%b7%a9%e8%86%9c%e7%93%a3/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E9%9D%92%E5%85%89%E7%9C%BC-%E7%BC%9D%E5%90%88%E5%B7%A9%E8%86%9C%E7%93%A3/",
+        "checked_at": "2026-10-02T15:28:08.878024+00:00",
+        "status": 200,
+        "sha256": "57e73e6381d33e21c7d90c5a15b003866058cbca0fd858d4fa1485976da47131",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：青光眼——缝合巩膜瓣",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文页面：小梁切除模拟训练中的巩膜瓣缝合。原站通用简介同时提及结膜分离、制瓣、巩膜造口及周边虹膜处理；本卡按具体标题归入缝合练习，细分内容尚未通过播放逐段确认。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-03，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bc%9d%e5%90%88%e5%b7%a9%e8%86%9c%e7%93%a3/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bc%9d%e5%90%88%e5%b7%a9%e8%86%9c%e7%93%a3/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-938af6c14f3a",
+    "kind": "video",
+    "title": "模拟手术：青光眼——制作巩膜瓣",
+    "aliases": [],
+    "seed_description": "中文页面：小梁切除模拟训练中的巩膜瓣制作。介绍模型眼与临床画面并列教学；原站简介与同系列其他步骤共用，具体演示范围按制瓣标题标注，未将整个系列当成本片内容。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "GL",
+    "procedures": [
+      "trabeculectomy",
+      "simulation"
+    ],
+    "cross_sections": [
+      "GL",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e5%88%b6%e4%bd%9c%e5%b7%a9%e8%86%9c%e7%93%a3/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e5%88%b6%e4%bd%9c%e5%b7%a9%e8%86%9c%e7%93%a3/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E9%9D%92%E5%85%89%E7%9C%BC-%E5%88%B6%E4%BD%9C%E5%B7%A9%E8%86%9C%E7%93%A3/",
+        "checked_at": "2026-10-02T15:28:06.914672+00:00",
+        "status": 200,
+        "sha256": "9cef0c2804bb2acf19905f40a1dec990a8832897a56d73032183b6f5acbd7086",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：青光眼——制作巩膜瓣",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文页面：小梁切除模拟训练中的巩膜瓣制作。介绍模型眼与临床画面并列教学；原站简介与同系列其他步骤共用，具体演示范围按制瓣标题标注，未将整个系列当成本片内容。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-03，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e5%88%b6%e4%bd%9c%e5%b7%a9%e8%86%9c%e7%93%a3/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e5%88%b6%e4%bd%9c%e5%b7%a9%e8%86%9c%e7%93%a3/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-cadc3de773ff",
+    "kind": "video",
+    "title": "模拟手术：斜视——蝴蝶结可调整缝线技术",
+    "aliases": [],
+    "seed_description": "中文斜视模拟训练：直肌蝴蝶结可调缝线的制作与松解，以及肌肉前后位置调整。用于练习可调缝线概念和手眼配合，不是患者术后疗效随访。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "PTO",
+    "procedures": [
+      "strabismus",
+      "simulation"
+    ],
+    "cross_sections": [
+      "PTO",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%8f%af%e8%b0%83%e6%95%b4%e8%9d%b4%e8%9d%b6%e7%bb%93%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%8f%af%e8%b0%83%e6%95%b4%e8%9d%b4%e8%9d%b6%e7%bb%93%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E6%96%9C%E8%A7%86-%E5%8F%AF%E8%B0%83%E6%95%B4%E8%9D%B4%E8%9D%B6%E7%BB%93%E7%BC%9D%E7%BA%BF%E6%8A%80%E6%9C%AF/",
+        "checked_at": "2026-10-02T15:28:09.167871+00:00",
+        "status": 200,
+        "sha256": "d2b6cd7d511be3ca0daa0b6d332dd52544c8438267e8c81ec3436ee6c8b8d29d",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：斜视——蝴蝶结可调整缝线技术",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文斜视模拟训练：直肌蝴蝶结可调缝线的制作与松解，以及肌肉前后位置调整。用于练习可调缝线概念和手眼配合，不是患者术后疗效随访。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-03，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%8f%af%e8%b0%83%e6%95%b4%e8%9d%b4%e8%9d%b6%e7%bb%93%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%8f%af%e8%b0%83%e6%95%b4%e8%9d%b4%e8%9d%b6%e7%bb%93%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-532eaa9814a8",
+    "kind": "video",
+    "title": "模拟手术：斜视——切除技术",
+    "aliases": [],
+    "seed_description": "中文斜视模拟训练：外直肌切除。原站说明含模型操作及真实手术片段，用于联系巩膜穿针、直肌缝合和切除技术。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "PTO",
+    "procedures": [
+      "strabismus",
+      "simulation"
+    ],
+    "cross_sections": [
+      "PTO",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%88%87%e9%99%a4%e6%8a%80%e6%9c%af/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%88%87%e9%99%a4%e6%8a%80%e6%9c%af/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E6%96%9C%E8%A7%86-%E5%88%87%E9%99%A4%E6%8A%80%E6%9C%AF/",
+        "checked_at": "2026-10-02T15:28:10.514625+00:00",
+        "status": 200,
+        "sha256": "3895d116323cf26151d227ab6b78c4473b1e266389ce00ba144acd983c78d22d",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：斜视——切除技术",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文斜视模拟训练：外直肌切除。原站说明含模型操作及真实手术片段，用于联系巩膜穿针、直肌缝合和切除技术。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-02，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%88%87%e9%99%a4%e6%8a%80%e6%9c%af/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%88%87%e9%99%a4%e6%8a%80%e6%9c%af/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-d018b1c940cd",
+    "kind": "video",
+    "title": "模拟手术：斜视——下斜肌后徙术",
+    "aliases": [],
+    "seed_description": "中文斜视模拟训练：左眼下斜肌后徙。内容说明涉及穹窿切口定位、识别下斜肌及重新固定，模型还包含结膜、Tenon囊和直肌等结构。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "PTO",
+    "procedures": [
+      "transposition",
+      "simulation"
+    ],
+    "cross_sections": [
+      "PTO",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e4%b8%8b%e6%96%9c%e8%82%8c%e5%90%8e%e5%be%99%e6%9c%af/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e4%b8%8b%e6%96%9c%e8%82%8c%e5%90%8e%e5%be%99%e6%9c%af/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E6%96%9C%E8%A7%86-%E4%B8%8B%E6%96%9C%E8%82%8C%E5%90%8E%E5%BE%99%E6%9C%AF/",
+        "checked_at": "2026-10-02T15:28:10.934846+00:00",
+        "status": 200,
+        "sha256": "1a37f32e0862e817451a9e5b790e9a5222b01c51f77ad9689a4288b114975deb",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：斜视——下斜肌后徙术",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文斜视模拟训练：左眼下斜肌后徙。内容说明涉及穹窿切口定位、识别下斜肌及重新固定，模型还包含结膜、Tenon囊和直肌等结构。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-02，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e4%b8%8b%e6%96%9c%e8%82%8c%e5%90%8e%e5%be%99%e6%9c%af/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e4%b8%8b%e6%96%9c%e8%82%8c%e5%90%8e%e5%be%99%e6%9c%af/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-9cbf04efae71",
+    "kind": "video",
+    "title": "模拟手术：斜视——基本缝线技术",
+    "aliases": [],
+    "seed_description": "中文斜视基础缝线训练：使用模型眼体会巩膜穿行深度、不同进针方向及正反向持针。重点是针线操作和阻力反馈，不提供真实患者的安全界值。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "PTO",
+    "procedures": [
+      "strabismus",
+      "simulation"
+    ],
+    "cross_sections": [
+      "PTO",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%9f%ba%e6%9c%ac%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%9f%ba%e6%9c%ac%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E6%96%9C%E8%A7%86-%E5%9F%BA%E6%9C%AC%E7%BC%9D%E7%BA%BF%E6%8A%80%E6%9C%AF/",
+        "checked_at": "2026-10-02T15:28:11.014364+00:00",
+        "status": 200,
+        "sha256": "5011e6a4c6a3e37075045b6f5f11bff63a423de2d48a1de20047c8022953346b",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：斜视——基本缝线技术",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文斜视基础缝线训练：使用模型眼体会巩膜穿行深度、不同进针方向及正反向持针。重点是针线操作和阻力反馈，不提供真实患者的安全界值。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-02，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%9f%ba%e6%9c%ac%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%9f%ba%e6%9c%ac%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-e9505e7d268d",
+    "kind": "video",
+    "title": "模拟手术：超声乳化——水分离及核雕刻",
+    "aliases": [],
+    "seed_description": "中文超乳模拟：水分离及核雕刻，衔接EyeSi训练与模型眼操作。原站特别说明模型没有后囊，因此模型练习与真实眼的风险反馈有区别。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "CAT",
+    "procedures": [
+      "phaco",
+      "simulation"
+    ],
+    "cross_sections": [
+      "CAT",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e6%b0%b4%e5%88%86%e7%a6%bb%e5%8f%8a%e6%a0%b8%e9%9b%95%e5%88%bb/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e6%b0%b4%e5%88%86%e7%a6%bb%e5%8f%8a%e6%a0%b8%e9%9b%95%e5%88%bb/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E8%B6%85%E5%A3%B0%E4%B9%B3%E5%8C%96-%E6%B0%B4%E5%88%86%E7%A6%BB%E5%8F%8A%E6%A0%B8%E9%9B%95%E5%88%BB/",
+        "checked_at": "2026-10-02T15:28:12.863324+00:00",
+        "status": 200,
+        "sha256": "29151884667c229002bf3d4c16b33d56abd20a56243bbfb77daee8acac727461",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：超声乳化——水分离及核雕刻",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文超乳模拟：水分离及核雕刻，衔接EyeSi训练与模型眼操作。原站特别说明模型没有后囊，因此模型练习与真实眼的风险反馈有区别。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-02，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e6%b0%b4%e5%88%86%e7%a6%bb%e5%8f%8a%e6%a0%b8%e9%9b%95%e5%88%bb/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e6%b0%b4%e5%88%86%e7%a6%bb%e5%8f%8a%e6%a0%b8%e9%9b%95%e5%88%bb/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-4d9d7175d8e6",
+    "kind": "video",
+    "title": "模拟手术：超声乳化——制作切口及环形撕囊术",
+    "aliases": [],
+    "seed_description": "中文超乳模拟：自闭式角膜切口、前房黏弹剂注入和连续环形撕囊。侧重模拟囊膜的撕裂力学及镊子控制。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "模拟训练视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "CAT",
+    "procedures": [
+      "phaco",
+      "simulation"
+    ],
+    "cross_sections": [
+      "CAT",
+      "GEN"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e5%88%b6%e4%bd%9c%e5%88%87%e5%8f%a3%e5%8f%8a%e7%8e%af%e5%bd%a2%e6%92%95%e5%9b%8a%e6%9c%af/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e5%88%b6%e4%bd%9c%e5%88%87%e5%8f%a3%e5%8f%8a%e7%8e%af%e5%bd%a2%e6%92%95%e5%9b%8a%e6%9c%af/",
+        "final_url": "https://cybersight.org/library/%E6%A8%A1%E6%8B%9F%E6%89%8B%E6%9C%AF-%E8%B6%85%E5%A3%B0%E4%B9%B3%E5%8C%96-%E5%88%B6%E4%BD%9C%E5%88%87%E5%8F%A3%E5%8F%8A%E7%8E%AF%E5%BD%A2%E6%92%95%E5%9B%8A%E6%9C%AF/",
+        "checked_at": "2026-10-02T15:28:12.837944+00:00",
+        "status": 200,
+        "sha256": "8ae018f3127d4c76a3ed1ae674de2358fa81cd19d636fdc278cca34edfcc3e08",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "模拟手术：超声乳化——制作切口及环形撕囊术",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文超乳模拟：自闭式角膜切口、前房黏弹剂注入和连续环形撕囊。侧重模拟囊膜的撕裂力学及镊子控制。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-07-02，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e5%88%b6%e4%bd%9c%e5%88%87%e5%8f%a3%e5%8f%8a%e7%8e%af%e5%bd%a2%e6%92%95%e5%9b%8a%e6%9c%af/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e5%88%b6%e4%bd%9c%e5%88%87%e5%8f%a3%e5%8f%8a%e7%8e%af%e5%bd%a2%e6%92%95%e5%9b%8a%e6%9c%af/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-af5341986775",
+    "kind": "video",
+    "title": "手术：玻璃体切除术合并气体填充术 (2025.10 山西HBT-8）",
+    "aliases": [],
+    "seed_description": "山西省眼科医院2025年10月院基培训病例八，中文介绍。原站病例概要为右眼孔源性视网膜脱离，演示玻璃体切除联合气体填充；内容概括仅据病例简介，未推定长期复位率。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "RET",
+    "procedures": [
+      "ppv"
+    ],
+    "cross_sections": [
+      "RET"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/25octshanxihbt-8/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/25octshanxihbt-8/",
+        "final_url": "https://cybersight.org/library/25octshanxihbt-8/",
+        "checked_at": "2026-10-02T15:28:13.793325+00:00",
+        "status": 200,
+        "sha256": "efb9a6d8b12f864f97c95866a3ee1797195504450723b1edbb45599b8fb4545a",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "手术：玻璃体切除术合并气体填充术 (2025.10 山西HBT-8）",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "山西省眼科医院2025年10月院基培训病例八，中文介绍。原站病例概要为右眼孔源性视网膜脱离，演示玻璃体切除联合气体填充；内容概括仅据病例简介，未推定长期复位率。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-06-18，病例或会议日期以内容说明为准。 https://cybersight.org/library/25octshanxihbt-8/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/25octshanxihbt-8/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-d3273278b9bb",
+    "kind": "video",
+    "title": "手术：经平坦部玻璃体切除术 (2025.10 山西HBT-2）",
+    "aliases": [],
+    "seed_description": "山西省眼科医院2025年10月培训病例二，中文介绍。病例为糖尿病牵拉性视网膜脱离，接受经平坦部玻璃体切除，用于复杂糖网手术学习。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "RET",
+    "procedures": [
+      "ppv",
+      "diabetic-trd"
+    ],
+    "cross_sections": [
+      "RET"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/25octshanxihbt-2/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/25octshanxihbt-2/",
+        "final_url": "https://cybersight.org/library/25octshanxihbt-2/",
+        "checked_at": "2026-10-02T15:28:14.952929+00:00",
+        "status": 200,
+        "sha256": "12be9c19b145b7581ff5d214ac01a1af3435fa14de5d76f5171b73a0f55b3231",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "手术：经平坦部玻璃体切除术 (2025.10 山西HBT-2）",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "山西省眼科医院2025年10月培训病例二，中文介绍。病例为糖尿病牵拉性视网膜脱离，接受经平坦部玻璃体切除，用于复杂糖网手术学习。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-06-15，病例或会议日期以内容说明为准。 https://cybersight.org/library/25octshanxihbt-2/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/25octshanxihbt-2/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-0552049339f8",
+    "kind": "video",
+    "title": "手术：巩膜环扎术 (2025.10 山西HBT-1）",
+    "aliases": [],
+    "seed_description": "山西省眼科医院2025年10月培训病例一，中文介绍。展示右眼视网膜脱离的巩膜环扎；原站不同段落的年龄表述不一致，本卡不据此补写精确年龄。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "RET",
+    "procedures": [
+      "buckle"
+    ],
+    "cross_sections": [
+      "RET"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/25octshanxihbt-1/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/25octshanxihbt-1/",
+        "final_url": "https://cybersight.org/library/25octshanxihbt-1/",
+        "checked_at": "2026-10-02T15:28:15.556439+00:00",
+        "status": 200,
+        "sha256": "59860116d2a9246f41bd8f97e96194e8f0644b7cf1552ac4a78fec519c5da658",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "手术：巩膜环扎术 (2025.10 山西HBT-1）",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "山西省眼科医院2025年10月培训病例一，中文介绍。展示右眼视网膜脱离的巩膜环扎；原站不同段落的年龄表述不一致，本卡不据此补写精确年龄。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-06-12，病例或会议日期以内容说明为准。 https://cybersight.org/library/25octshanxihbt-1/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/25octshanxihbt-1/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-cf710dede413",
+    "kind": "video",
+    "title": "手术：玻璃体切除联合白内障超乳和眼内异物取出 (2025.5 山西HBT-5）",
+    "aliases": [],
+    "seed_description": "山西省眼科医院2025年5月培训病例五，中文介绍。眼内异物伴铁质沉着及复杂白内障，演示玻切联合超乳和异物取出；是同一病例联合处理的教学录像。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "PTO",
+    "procedures": [
+      "foreign-body",
+      "ppv",
+      "complex-cataract"
+    ],
+    "cross_sections": [
+      "PTO",
+      "RET",
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/25mayshanxihbt-5/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/25mayshanxihbt-5/",
+        "final_url": "https://cybersight.org/library/25mayshanxihbt-5/",
+        "checked_at": "2026-10-02T15:28:16.008147+00:00",
+        "status": 200,
+        "sha256": "d649a2441d3059878fdca6cf0b1febacde525d4bec48344ad642449858e2785d",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "手术：玻璃体切除联合白内障超乳和眼内异物取出 (2025.5 山西HBT-5）",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "山西省眼科医院2025年5月培训病例五，中文介绍。眼内异物伴铁质沉着及复杂白内障，演示玻切联合超乳和异物取出；是同一病例联合处理的教学录像。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-06-11，病例或会议日期以内容说明为准。 https://cybersight.org/library/25mayshanxihbt-5/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/25mayshanxihbt-5/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-58c14be0c40a",
+    "kind": "video",
+    "title": "Lecture: Windshield Replacement: Keratoplasty Principles & Clinical Pearls",
+    "aliases": [],
+    "seed_description": "角膜移植原则讲座，主要讲穿透性移植、术前检查及术后管理，并简要讨论角膜缘干细胞移植。属于技术背景与病例学习，不是单独某一移植手术全程。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "CR",
+    "procedures": [
+      "pk-dalk",
+      "surface"
+    ],
+    "cross_sections": [
+      "CR"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-windshield-replacement-keratoplasty-principles-clinical-pearls/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-windshield-replacement-keratoplasty-principles-clinical-pearls/",
+        "final_url": "https://cybersight.org/library/lecture-windshield-replacement-keratoplasty-principles-clinical-pearls/",
+        "checked_at": "2026-10-02T15:28:18.502748+00:00",
+        "status": 200,
+        "sha256": "992ab620d08d34fe2c25791d769119c6994785eae29006171f02abd077f85255",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Windshield Replacement: Keratoplasty Principles & Clinical Pearls",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "角膜移植原则讲座，主要讲穿透性移植、术前检查及术后管理，并简要讨论角膜缘干细胞移植。属于技术背景与病例学习，不是单独某一移植手术全程。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-05-08，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-windshield-replacement-keratoplasty-principles-clinical-pearls/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-windshield-replacement-keratoplasty-principles-clinical-pearls/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-23aff7d95520",
+    "kind": "video",
+    "title": "手术：玻璃体切除联合白内障超乳和IOL植入，并视网膜光凝术 (2025.5 山西HBT-3）",
+    "aliases": [],
+    "seed_description": "山西省眼科医院2025年5月培训病例三，中文介绍。增殖性糖网合并白内障，展示玻切、超乳及IOL植入联合视网膜光凝的病例。病种相关联不代表每一步都有独立疗效比较。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "RET",
+    "procedures": [
+      "ppv",
+      "phaco",
+      "diabetic-trd"
+    ],
+    "cross_sections": [
+      "RET",
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/25mayshanxihbt-3/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/25mayshanxihbt-3/",
+        "final_url": "https://cybersight.org/library/25mayshanxihbt-3/",
+        "checked_at": "2026-10-02T15:28:16.503868+00:00",
+        "status": 200,
+        "sha256": "86fefa409a1a9b5838a9c93055ba550b28ca87da553cb5011b3cb98325177a77",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "手术：玻璃体切除联合白内障超乳和IOL植入，并视网膜光凝术 (2025.5 山西HBT-3）",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "山西省眼科医院2025年5月培训病例三，中文介绍。增殖性糖网合并白内障，展示玻切、超乳及IOL植入联合视网膜光凝的病例。病种相关联不代表每一步都有独立疗效比较。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-05-07，病例或会议日期以内容说明为准。 https://cybersight.org/library/25mayshanxihbt-3/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/25mayshanxihbt-3/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-3fdb5bb1425c",
+    "kind": "video",
+    "title": "Surgery: Senile Entropion Repair: Subciliary Skin-Muscle Excision",
+    "aliases": [],
+    "seed_description": "老年性睑内翻手术示教：睫毛下皮肤肌肉切除及关闭。原站重点说明避免皮肤过切、注意瘢痕性外翻，并讨论明显水平松弛时联合收紧的考虑。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "en",
+    "section": "OCP",
+    "procedures": [
+      "lid-malposition"
+    ],
+    "cross_sections": [
+      "OCP"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+        "final_url": "https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+        "checked_at": "2026-10-02T15:28:16.937128+00:00",
+        "status": 200,
+        "sha256": "c799e4c2f076bdb8ffe7dccb2d8dd57a735942fb96490f5a8450db1bf6fed116",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Senile Entropion Repair: Subciliary Skin-Muscle Excision",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "老年性睑内翻手术示教：睫毛下皮肤肌肉切除及关闭。原站重点说明避免皮肤过切、注意瘢痕性外翻，并讨论明显水平松弛时联合收紧的考虑。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-03-18，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-1bedc41b5116",
+    "kind": "video",
+    "title": "Surgery: Augmented Superior Rectus Transposition",
+    "aliases": [],
+    "seed_description": "完全性外展神经麻痹病例中的增强上直肌移位，配合Foster缝线。原站说明涉及肌肉分离、转位和后部增强；是具体操作示教，不能据单视频估算成功率。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "en",
+    "section": "PTO",
+    "procedures": [
+      "transposition"
+    ],
+    "cross_sections": [
+      "PTO"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+        "final_url": "https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+        "checked_at": "2026-10-02T15:28:17.165604+00:00",
+        "status": 200,
+        "sha256": "b1a3380a3cc5c121990385e703cc7ab79fd8891c1a8b54873ae44b1b0a0da768",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Augmented Superior Rectus Transposition",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "完全性外展神经麻痹病例中的增强上直肌移位，配合Foster缝线。原站说明涉及肌肉分离、转位和后部增强；是具体操作示教，不能据单视频估算成功率。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-03-06，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-888abfcb4729",
+    "kind": "video",
+    "title": "手术：超声乳化白内障吸除术：拦截劈核法",
+    "aliases": [],
+    "seed_description": "中文页面：3级核性白内障合并皮质成分的拦截劈核（Stop-and-chop）超乳演示，学习核处理的节奏和器械配合。英文同题版本疑似同一病例，另列去重复核而不重复计数。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2026,
+    "language": "zh",
+    "section": "CAT",
+    "procedures": [
+      "phaco"
+    ],
+    "cross_sections": [
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/%e6%89%8b%e6%9c%af%ef%bc%9a%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96%e7%99%bd%e5%86%85%e9%9a%9c%e5%90%b8%e9%99%a4%e6%9c%af%ef%bc%9a%e6%8b%a6%e6%88%aa%e5%8a%88%e6%a0%b8%e6%b3%95/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/%e6%89%8b%e6%9c%af%ef%bc%9a%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96%e7%99%bd%e5%86%85%e9%9a%9c%e5%90%b8%e9%99%a4%e6%9c%af%ef%bc%9a%e6%8b%a6%e6%88%aa%e5%8a%88%e6%a0%b8%e6%b3%95/",
+        "final_url": "https://cybersight.org/library/%E6%89%8B%E6%9C%AF%EF%BC%9A%E8%B6%85%E5%A3%B0%E4%B9%B3%E5%8C%96%E7%99%BD%E5%86%85%E9%9A%9C%E5%90%B8%E9%99%A4%E6%9C%AF%EF%BC%9A%E6%8B%A6%E6%88%AA%E5%8A%88%E6%A0%B8%E6%B3%95/",
+        "checked_at": "2026-10-02T15:28:18.714126+00:00",
+        "status": 200,
+        "sha256": "2545df50a7d6d9459d08e95ba03806208ddd98b1878d00ead62bbc44b17d9abf",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "手术：超声乳化白内障吸除术：拦截劈核法",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "中文页面：3级核性白内障合并皮质成分的拦截劈核（Stop-and-chop）超乳演示，学习核处理的节奏和器械配合。英文同题版本疑似同一病例，另列去重复核而不重复计数。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-02-25，病例或会议日期以内容说明为准。 https://cybersight.org/library/%e6%89%8b%e6%9c%af%ef%bc%9a%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96%e7%99%bd%e5%86%85%e9%9a%9c%e5%90%b8%e9%99%a4%e6%9c%af%ef%bc%9a%e6%8b%a6%e6%88%aa%e5%8a%88%e6%a0%b8%e6%b3%95/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/%e6%89%8b%e6%9c%af%ef%bc%9a%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96%e7%99%bd%e5%86%85%e9%9a%9c%e5%90%b8%e9%99%a4%e6%9c%af%ef%bc%9a%e6%8b%a6%e6%88%aa%e5%8a%88%e6%a0%b8%e6%b3%95/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-e0a94aa68505",
+    "kind": "video",
+    "title": "Lecture: Mastering the Art of Pediatric Ab Externo Trabeculotomy",
+    "aliases": [],
+    "seed_description": "儿童外路小梁切开术讲座，介绍制瓣、寻找Schlemm管及缝线、微导管、小梁切开器等工具的选择，通过病例和手术视频讨论困难处理。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "GL",
+    "procedures": [
+      "child-glaucoma"
+    ],
+    "cross_sections": [
+      "GL"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+        "final_url": "https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+        "checked_at": "2026-10-02T15:28:19.295037+00:00",
+        "status": 200,
+        "sha256": "8cf6e87ccd0dcffe9f3bb3e6189e7c5ba85705a853e4d8c37a5bac04e89ff457",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Mastering the Art of Pediatric Ab Externo Trabeculotomy",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "儿童外路小梁切开术讲座，介绍制瓣、寻找Schlemm管及缝线、微导管、小梁切开器等工具的选择，通过病例和手术视频讨论困难处理。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2026-01-09，病例或会议日期以内容说明为准。 https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-7d599d5759c0",
+    "kind": "video",
+    "title": "Surgery: Capsulorhexis",
+    "aliases": [],
+    "seed_description": "撕囊专项操作视频：用针建立并控制囊膜瓣，维持方向和圆形连续撕囊。仅为超乳中的一个步骤，不能称为完整白内障手术。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2025,
+    "language": "en",
+    "section": "CAT",
+    "procedures": [
+      "phaco"
+    ],
+    "cross_sections": [
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-capsulorhexis/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-capsulorhexis/",
+        "final_url": "https://cybersight.org/library/surgery-capsulorhexis/",
+        "checked_at": "2026-10-02T15:28:20.807228+00:00",
+        "status": 200,
+        "sha256": "738b5ee9f87e096a0a6ca7dfbb032b4cba584db14a0f7c2c86ec5f69138444fa",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Capsulorhexis",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "撕囊专项操作视频：用针建立并控制囊膜瓣，维持方向和圆形连续撕囊。仅为超乳中的一个步骤，不能称为完整白内障手术。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2025-10-16，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-capsulorhexis/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-capsulorhexis/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-27135590d633",
+    "kind": "video",
+    "title": "Surgery: Medial Rectus Recession",
+    "aliases": [],
+    "seed_description": "内斜视病例的内直肌后徙示教。原站病例介绍简短，未提供偏斜角、手术量及随访，因此本卡不自行填入定量手术设计或成功率。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2025,
+    "language": "en",
+    "section": "PTO",
+    "procedures": [
+      "strabismus"
+    ],
+    "cross_sections": [
+      "PTO"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+        "final_url": "https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+        "checked_at": "2026-10-02T15:28:20.266336+00:00",
+        "status": 200,
+        "sha256": "a2fa28a5583b96a81a227a895d921646a61ae9c6597a1603980820ba606257cd",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Medial Rectus Recession",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "内斜视病例的内直肌后徙示教。原站病例介绍简短，未提供偏斜角、手术量及随访，因此本卡不自行填入定量手术设计或成功率。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2025-10-15，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-df9711450270",
+    "kind": "video",
+    "title": "Surgery: Lower Lid Repair with Hughes Tarsal Conjunctival Flap",
+    "aliases": [],
+    "seed_description": "外伤性下睑缺损使用Hughes睑板结膜瓣重建的训练视频。原站说明涵盖瘢痕松解、上睑组织瓣动员、组织层重建及避免缝线刺激角膜等关注点。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2025,
+    "language": "en",
+    "section": "OCP",
+    "procedures": [
+      "lid-reconstruction"
+    ],
+    "cross_sections": [
+      "OCP"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-lower-lid-repair-with-hughes-tarsal-conjunctival-flap/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-lower-lid-repair-with-hughes-tarsal-conjunctival-flap/",
+        "final_url": "https://cybersight.org/library/surgery-lower-lid-repair-with-hughes-tarsal-conjunctival-flap/",
+        "checked_at": "2026-10-02T15:28:22.534047+00:00",
+        "status": 200,
+        "sha256": "3928e4b0e43dd9721ec802ad1672e1bf1a673bf4765063de460d3bd0edf8f33b",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Lower Lid Repair with Hughes Tarsal Conjunctival Flap",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "外伤性下睑缺损使用Hughes睑板结膜瓣重建的训练视频。原站说明涵盖瘢痕松解、上睑组织瓣动员、组织层重建及避免缝线刺激角膜等关注点。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2025-09-17，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-lower-lid-repair-with-hughes-tarsal-conjunctival-flap/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-lower-lid-repair-with-hughes-tarsal-conjunctival-flap/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-70ea387fee39",
+    "kind": "video",
+    "title": "Surgery: External Levator Advancement",
+    "aliases": [],
+    "seed_description": "上睑下垂的外路提上睑肌腱膜前徙示教，强调眼睑解剖层次、止血与固定方式。学习重点是识别结构和控制睑位，不代替患者术前功能评估。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2025,
+    "language": "en",
+    "section": "OCP",
+    "procedures": [
+      "ptosis"
+    ],
+    "cross_sections": [
+      "OCP"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-external-levator-advancement-2/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-external-levator-advancement-2/",
+        "final_url": "https://cybersight.org/library/surgery-external-levator-advancement-2/",
+        "checked_at": "2026-10-02T15:28:22.666032+00:00",
+        "status": 200,
+        "sha256": "2e7e65ae47c23f759776bf19ce554534a5bd5f257148faec3c6cba111869148a",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: External Levator Advancement",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "上睑下垂的外路提上睑肌腱膜前徙示教，强调眼睑解剖层次、止血与固定方式。学习重点是识别结构和控制睑位，不代替患者术前功能评估。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2025-09-02，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-external-levator-advancement-2/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-external-levator-advancement-2/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-9b34457f1b09",
+    "kind": "video",
+    "title": "Surgery: Phacoemulsification: Complications with Capsulorhexis & Hydrodissection",
+    "aliases": [],
+    "seed_description": "超乳撕囊及水分离相关并发症教学。原站说明由Moolani医生讲解早期识别及处理思路；未将其当作并发症发生率或比较疗效证据。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2025,
+    "language": "en",
+    "section": "CAT",
+    "procedures": [
+      "phaco",
+      "cataract-complication"
+    ],
+    "cross_sections": [
+      "CAT"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+        "final_url": "https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+        "checked_at": "2026-10-02T15:28:22.857276+00:00",
+        "status": 200,
+        "sha256": "1f4cfbe6c91950b44d6b39c735fa006889aad71fd236f3b91fa46569e931f267",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Phacoemulsification: Complications with Capsulorhexis & Hydrodissection",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "超乳撕囊及水分离相关并发症教学。原站说明由Moolani医生讲解早期识别及处理思路；未将其当作并发症发生率或比较疗效证据。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2025-08-22，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-5ffe83532416",
+    "kind": "video",
+    "title": "Surgery: Lateral Rectus Recession & Medial Rectus Resection",
+    "aliases": [],
+    "seed_description": "左眼外直肌后徙联合内直肌切除示教，展示结膜入路、肌肉勾取与缝合、止血和关闭等过程，用于理解两种水平肌操作的配合。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术示教视频",
+    "year": 2025,
+    "language": "en",
+    "section": "PTO",
+    "procedures": [
+      "strabismus"
+    ],
+    "cross_sections": [
+      "PTO"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-02T15:34:25.757183+00:00",
+    "last_changed_at": "2026-10-02T15:34:25.757183+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+      "checked_at": "2026-10-02T15:34:25.757183+00:00",
+      "scope": "官方CMS题名与具体页面主标题、病例/教学介绍及Wistia播放器标识对应。媒体标识去重覆盖已有52个Cybersight页面。实际播放未完成。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+        "final_url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+        "checked_at": "2026-10-02T15:28:24.826639+00:00",
+        "status": 200,
+        "sha256": "dab5da1bdc653800e53da884f2c99d55d6a883d323991bf450ec7501433b9225",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Surgery: Lateral Rectus Recession & Medial Rectus Resection",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "左眼外直肌后徙联合内直肌切除示教，展示结膜入路、肌肉勾取与缝合、止血和关闭等过程，用于理解两种水平肌操作的配合。",
+      "summary_basis": "依据官方具体页题名和播放器前的病例/课程简介；本轮未下载、转录或逐帧分析视频。页面发布于2025-08-18，病例或会议日期以内容说明为准。 https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+      "playback": "unknown",
+      "playback_evidence": "已确认具体页面和官方播放器入口；浏览器播放测试连接超时，未取得时间轴前进或画面播放证据。页面可访问不等于已播放。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+        "label": "原站观看页面"
+      }
+    ]
   }
 ]
