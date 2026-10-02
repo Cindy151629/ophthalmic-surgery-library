@@ -1,6 +1,6 @@
 {
   "version": "2587593d8710115e05daacb86775e54667d70ada68c7b4cb1a710e1a27607f1e",
-  "built_at": "2026-10-02T15:03:38.617795+00:00",
+  "built_at": "2026-10-02T15:06:30.419044+00:00",
   "records": 1339,
   "status": {
     "last_attempt": "2026-10-02T14:25:01.725084+00:00",
@@ -305,7 +305,7 @@
     "first_attempt": "2026-09-16T16:12:29.622474+00:00",
     "last_deploy": "2026-10-02T14:32:30.720083+00:00",
     "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/37019670568",
-    "last_publish_attempt": "2026-10-02T15:03:31.830326+00:00"
+    "last_publish_attempt": "2026-10-02T15:06:25.795133+00:00"
   },
   "notes": {
     "articles": 1049,
