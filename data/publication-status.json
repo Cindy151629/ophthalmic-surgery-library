@@ -1,23 +1,23 @@
 {
   "domain_id": "ophthalmic-surgery",
   "deployed": true,
-  "verified_at": "2026-10-02T14:32:30.720083+00:00",
-  "data_version": "ade8b6d9e32bbb8e5e82f78875fde2d747ab58305607560801bcfbd988e655dc",
+  "verified_at": "2026-10-02T15:06:43.672265+00:00",
+  "data_version": "2587593d8710115e05daacb86775e54667d70ada68c7b4cb1a710e1a27607f1e",
   "file_hashes": {
-    "index.html": "6a890ce2ab63b06cbdeb6df35d6c14115fb403ec4d836d5d0990f5df15498dfc",
-    "records.json": "ad0f83aaa3ed3777fe053360f4ab5dc6f769f6b44d05c7dcfb6a756538ee39f2",
-    "manifest.json": "068764359f0cdd7d559e0c9f9cf5514c668eb8a60ebf7a2afb40a16b05821bd1",
+    "index.html": "0442edc8f6510d43fda8b805e9631f44ec1c5e782429eb776a1f01898ee4992f",
+    "records.json": "2a87985aef17660886a23c259c83dfd2748e71ee55d6d9c5482148c8d398ecfb",
+    "manifest.json": "a4a0fdc775d5d358d7d07d0c020111a13f83bb7290bb5ba6693f8d37dcacd89a",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "https_url": "https://cindy151629.github.io/ophthalmic-surgery-library/",
-  "run_id": "37019670568",
-  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/37019670568",
+  "run_id": "37024586599",
+  "run_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/37024586599",
   "event": "workflow_dispatch",
   "observed_scheduled_run": "2026-09-28T07:04:47.221780+00:00",
   "rollback": false,
   "schedule_active": true,
   "schedule_workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/blob/main/.github/workflows/weekly.yml",
-  "schedule_checked_at": "2026-10-02T14:32:30.944940+00:00",
+  "schedule_checked_at": "2026-10-02T15:06:43.813424+00:00",
   "schedule_check_scope": "GitHub Actions API 确认工作流 active；配置每周一 09:17 Asia/Shanghai。是否发生定时触发另看 observed_scheduled_run。",
   "next_planned_run": "2026-10-05T09:17:00+08:00"
 }
