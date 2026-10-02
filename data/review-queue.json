@@ -72046,5 +72046,29 @@
     "source": "link-audit",
     "url": "https://cybersight.org/library/lecture-planning-phacoemulsification-for-best-outcomes-biometry-basics-surgical-strategies-for-complex-cases/",
     "discovered_at": "2026-10-02T14:30:04.793265+00:00"
+  },
+  {
+    "key": "url:https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e7%a2%8e%e6%a0%b8%e5%9d%97%e7%a7%bb%e9%99%a4",
+    "title": "模拟手术：超声乳化——碎核块移除",
+    "reason": "页面解析得到的是通用导航说明，尚缺视频专属正文介绍；实际播放未完成。",
+    "source": "Cybersight-video-review",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e7%a2%8e%e6%a0%b8%e5%9d%97%e7%a7%bb%e9%99%a4/",
+    "discovered_at": "2026-10-02T15:34:25.757183+00:00"
+  },
+  {
+    "key": "url:https://cybersight.org/library/25octshanxihbt-9",
+    "title": "手术：玻璃体切除术 (2025.10 山西HBT-9）",
+    "reason": "病例简介写黄斑前膜，但页面后续时间点说明描述PDR反复出血合并白内障，尚不能确认是否错配。",
+    "source": "Cybersight-video-review",
+    "url": "https://cybersight.org/library/25octshanxihbt-9/",
+    "discovered_at": "2026-10-02T15:34:25.757183+00:00"
+  },
+  {
+    "key": "url:https://cybersight.org/library/surgery-phacoemulsification-stop-and-chop-technique",
+    "title": "Surgery: Phacoemulsification: Stop & Chop Technique",
+    "reason": "与中文42074的病例和内容描述高度相似，媒体编号不同，疑似语言版本；未完成同源配对前不重复计数。",
+    "source": "Cybersight-video-review",
+    "url": "https://cybersight.org/library/surgery-phacoemulsification-stop-and-chop-technique/",
+    "discovered_at": "2026-10-02T15:34:25.757183+00:00"
   }
 ]

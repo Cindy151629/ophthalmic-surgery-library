@@ -33,7 +33,7 @@
       "host": "cybersight.org",
       "mode": "wordpress",
       "article_selector": "a[href]",
-      "allowed_path": "^/library/(?:surgery|lecture|webinar|手术|讲座)[^/]+/?$",
+      "allowed_path": "^/library/[^/]+/?$",
       "title_selector": "h1",
       "api": "https://cybersight.org/wp-json/wp/v2/library"
     },

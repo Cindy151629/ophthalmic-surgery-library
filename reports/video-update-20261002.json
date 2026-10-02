@@ -1,0 +1,574 @@
+{
+  "checked_at": "2026-10-02T15:34:25.757183+00:00",
+  "catalog_scope": "Cybersight surgery搜索按日期倒序前100条（共10页，本轮未声称全站穷尽）；针对术式及中文训练人工选择33页。另检索Moran及EyeRounds。",
+  "specific_pages_checked": 33,
+  "existing_cybersight_pages_deduplicated": 52,
+  "added_videos": 30,
+  "before_videos": 290,
+  "after_videos": 320,
+  "with_chinese_page": 15,
+  "playback_tested": 0,
+  "playback_limit": "浏览器连接超时；只确认页面、正式播放器与内容说明，不声称全部可播放。",
+  "preservation": {
+    "previous_resources": 1339,
+    "current_resources": 1369,
+    "resources_preserved": true,
+    "authored_notes_present": 1049,
+    "checked_at": "2026-10-02T15:34:26.214078+00:00"
+  },
+  "article_notes_unchanged": true,
+  "staged_candidates": [
+    {
+      "cms_id": 44018,
+      "reason": "页面解析得到的是通用导航说明，尚缺视频专属正文介绍；实际播放未完成。",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e7%a2%8e%e6%a0%b8%e5%9d%97%e7%a7%bb%e9%99%a4/"
+    },
+    {
+      "cms_id": 43790,
+      "reason": "病例简介写黄斑前膜，但页面后续时间点说明描述PDR反复出血合并白内障，尚不能确认是否错配。",
+      "url": "https://cybersight.org/library/25octshanxihbt-9/"
+    },
+    {
+      "cms_id": 40402,
+      "reason": "与中文42074的病例和内容描述高度相似，媒体编号不同，疑似语言版本；未完成同源配对前不重复计数。",
+      "url": "https://cybersight.org/library/surgery-phacoemulsification-stop-and-chop-technique/"
+    }
+  ],
+  "entries": [
+    {
+      "id": "eye-v-d57e58c4bfc1",
+      "cms_id": 44683,
+      "title": "Lecture: Ocular Surface Optimization Before Cataract Surgery",
+      "url": "https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+      "procedures": [
+        "phaco",
+        "iol"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "e3msept3im",
+          "url": "https://fast.wistia.net/embed/iframe/e3msept3im?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-9426ad110020",
+      "cms_id": 44667,
+      "title": "Lecture: Managing Intraoperative Complications in Adult Cataract Surgery: Prevention, Recognition, and Rescue Strategies",
+      "url": "https://cybersight.org/library/lecture-managing-intraoperative-complications-in-adult-cataract-surgery-prevention-recognition-and-rescue-strategies/",
+      "procedures": [
+        "cataract-complication",
+        "complex-cataract"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "7uuu1ganrm",
+          "url": "https://fast.wistia.net/embed/iframe/7uuu1ganrm?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-c71e5e01c061",
+      "cms_id": 44632,
+      "title": "Lecture: Overview of Scleral Tectonic Grafting in Severe Corneal Trauma",
+      "url": "https://cybersight.org/library/lecture-overview-of-scleral-tectonic-grafting-in-severe-corneal-trauma/",
+      "procedures": [
+        "cornea-repair",
+        "open-globe"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "44235xulsy",
+          "url": "https://fast.wistia.net/embed/iframe/44235xulsy?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-2053f3f60e6b",
+      "cms_id": 44479,
+      "title": "Lecture: Strabismus Surgery in Practice: Case-Based Lessons Across Horizontal, Vertical, & Reoperations",
+      "url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+      "procedures": [
+        "strabismus",
+        "transposition"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "s93r309f32",
+          "url": "https://fast.wistia.net/embed/iframe/s93r309f32?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-933a531462d6",
+      "cms_id": 44391,
+      "title": "Lecture: 6th Annual Crandall Cataract Conference: Phacoemulsification with Zonulopathy – My Best Teaching Videos",
+      "url": "https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+      "procedures": [
+        "complex-cataract",
+        "iol-fixation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "06ry5flmte",
+          "url": "https://fast.wistia.net/embed/iframe/06ry5flmte?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-f0833827adb3",
+      "cms_id": 44048,
+      "title": "模拟手术：青光眼——结膜闭合",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bb%93%e8%86%9c%e9%97%ad%e5%90%88/",
+      "procedures": [
+        "trabeculectomy",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "vscol9me6o",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-2e813fa85735",
+      "cms_id": 44046,
+      "title": "模拟手术：青光眼——缝合巩膜瓣",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bc%9d%e5%90%88%e5%b7%a9%e8%86%9c%e7%93%a3/",
+      "procedures": [
+        "trabeculectomy",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "q07j60fhs2",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-938af6c14f3a",
+      "cms_id": 44043,
+      "title": "模拟手术：青光眼——制作巩膜瓣",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e5%88%b6%e4%bd%9c%e5%b7%a9%e8%86%9c%e7%93%a3/",
+      "procedures": [
+        "trabeculectomy",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "uq2j6dyxnl",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-cadc3de773ff",
+      "cms_id": 44041,
+      "title": "模拟手术：斜视——蝴蝶结可调整缝线技术",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%8f%af%e8%b0%83%e6%95%b4%e8%9d%b4%e8%9d%b6%e7%bb%93%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+      "procedures": [
+        "strabismus",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "7tijhhtvss",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-532eaa9814a8",
+      "cms_id": 44029,
+      "title": "模拟手术：斜视——切除技术",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%88%87%e9%99%a4%e6%8a%80%e6%9c%af/",
+      "procedures": [
+        "strabismus",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "rzy7tzn9jl",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-d018b1c940cd",
+      "cms_id": 44025,
+      "title": "模拟手术：斜视——下斜肌后徙术",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e4%b8%8b%e6%96%9c%e8%82%8c%e5%90%8e%e5%be%99%e6%9c%af/",
+      "procedures": [
+        "transposition",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "z3kka1i0ch",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-9cbf04efae71",
+      "cms_id": 44022,
+      "title": "模拟手术：斜视——基本缝线技术",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%9f%ba%e6%9c%ac%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+      "procedures": [
+        "strabismus",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "6z8le9vmlu",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-e9505e7d268d",
+      "cms_id": 44016,
+      "title": "模拟手术：超声乳化——水分离及核雕刻",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e6%b0%b4%e5%88%86%e7%a6%bb%e5%8f%8a%e6%a0%b8%e9%9b%95%e5%88%bb/",
+      "procedures": [
+        "phaco",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "bp5vra53rv",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-4d9d7175d8e6",
+      "cms_id": 44014,
+      "title": "模拟手术：超声乳化——制作切口及环形撕囊术",
+      "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e5%88%b6%e4%bd%9c%e5%88%87%e5%8f%a3%e5%8f%8a%e7%8e%af%e5%bd%a2%e6%92%95%e5%9b%8a%e6%9c%af/",
+      "procedures": [
+        "phaco",
+        "simulation"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "wctntk6b9x",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-af5341986775",
+      "cms_id": 43788,
+      "title": "手术：玻璃体切除术合并气体填充术 (2025.10 山西HBT-8）",
+      "url": "https://cybersight.org/library/25octshanxihbt-8/",
+      "procedures": [
+        "ppv"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "wsl6zj5gxw",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-d3273278b9bb",
+      "cms_id": 43713,
+      "title": "手术：经平坦部玻璃体切除术 (2025.10 山西HBT-2）",
+      "url": "https://cybersight.org/library/25octshanxihbt-2/",
+      "procedures": [
+        "ppv",
+        "diabetic-trd"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "h435eqrcdr",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-0552049339f8",
+      "cms_id": 43685,
+      "title": "手术：巩膜环扎术 (2025.10 山西HBT-1）",
+      "url": "https://cybersight.org/library/25octshanxihbt-1/",
+      "procedures": [
+        "buckle"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "759p9r0319",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-cf710dede413",
+      "cms_id": 43664,
+      "title": "手术：玻璃体切除联合白内障超乳和眼内异物取出 (2025.5 山西HBT-5）",
+      "url": "https://cybersight.org/library/25mayshanxihbt-5/",
+      "procedures": [
+        "foreign-body",
+        "ppv",
+        "complex-cataract"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "8wr3qk30hj",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-58c14be0c40a",
+      "cms_id": 43188,
+      "title": "Lecture: Windshield Replacement: Keratoplasty Principles & Clinical Pearls",
+      "url": "https://cybersight.org/library/lecture-windshield-replacement-keratoplasty-principles-clinical-pearls/",
+      "procedures": [
+        "pk-dalk",
+        "surface"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "6acxzanjiz",
+          "url": "https://fast.wistia.net/embed/iframe/6acxzanjiz?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-23aff7d95520",
+      "cms_id": 43180,
+      "title": "手术：玻璃体切除联合白内障超乳和IOL植入，并视网膜光凝术 (2025.5 山西HBT-3）",
+      "url": "https://cybersight.org/library/25mayshanxihbt-3/",
+      "procedures": [
+        "ppv",
+        "phaco",
+        "diabetic-trd"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "9q7qwspj69",
+          "locator": "resource Wistia container media identifier"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-3fdb5bb1425c",
+      "cms_id": 42358,
+      "title": "Surgery: Senile Entropion Repair: Subciliary Skin-Muscle Excision",
+      "url": "https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+      "procedures": [
+        "lid-malposition"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "xf8n20g9yd",
+          "url": "https://fast.wistia.net/embed/iframe/xf8n20g9yd?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-1bedc41b5116",
+      "cms_id": 42213,
+      "title": "Surgery: Augmented Superior Rectus Transposition",
+      "url": "https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+      "procedures": [
+        "transposition"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "c7lh3fnc7g",
+          "url": "https://fast.wistia.net/embed/iframe/c7lh3fnc7g?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-888abfcb4729",
+      "cms_id": 42074,
+      "title": "手术：超声乳化白内障吸除术：拦截劈核法",
+      "url": "https://cybersight.org/library/%e6%89%8b%e6%9c%af%ef%bc%9a%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96%e7%99%bd%e5%86%85%e9%9a%9c%e5%90%b8%e9%99%a4%e6%9c%af%ef%bc%9a%e6%8b%a6%e6%88%aa%e5%8a%88%e6%a0%b8%e6%b3%95/",
+      "procedures": [
+        "phaco"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "f3on729wpc",
+          "url": "https://fast.wistia.net/embed/iframe/f3on729wpc?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        },
+        {
+          "kind": "wistia",
+          "media_id": "e3vimja54n",
+          "url": "https://fast.wistia.net/embed/iframe/e3vimja54n?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-e0a94aa68505",
+      "cms_id": 41430,
+      "title": "Lecture: Mastering the Art of Pediatric Ab Externo Trabeculotomy",
+      "url": "https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+      "procedures": [
+        "child-glaucoma"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "us42vj0adk",
+          "url": "https://fast.wistia.net/embed/iframe/us42vj0adk?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-7d599d5759c0",
+      "cms_id": 40197,
+      "title": "Surgery: Capsulorhexis",
+      "url": "https://cybersight.org/library/surgery-capsulorhexis/",
+      "procedures": [
+        "phaco"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "f4syodxb7t",
+          "url": "https://fast.wistia.net/embed/iframe/f4syodxb7t?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        },
+        {
+          "kind": "wistia",
+          "media_id": "1dvrb0j6e3",
+          "url": "https://fast.wistia.net/embed/iframe/1dvrb0j6e3?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-27135590d633",
+      "cms_id": 40160,
+      "title": "Surgery: Medial Rectus Recession",
+      "url": "https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+      "procedures": [
+        "strabismus"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "8r0thbhgte",
+          "url": "https://fast.wistia.net/embed/iframe/8r0thbhgte?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-df9711450270",
+      "cms_id": 39905,
+      "title": "Surgery: Lower Lid Repair with Hughes Tarsal Conjunctival Flap",
+      "url": "https://cybersight.org/library/surgery-lower-lid-repair-with-hughes-tarsal-conjunctival-flap/",
+      "procedures": [
+        "lid-reconstruction"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "ons0wf7y6e",
+          "url": "https://fast.wistia.net/embed/iframe/ons0wf7y6e?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-70ea387fee39",
+      "cms_id": 39767,
+      "title": "Surgery: External Levator Advancement",
+      "url": "https://cybersight.org/library/surgery-external-levator-advancement-2/",
+      "procedures": [
+        "ptosis"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "fo74mfvgkk",
+          "url": "https://fast.wistia.net/embed/iframe/fo74mfvgkk?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-9b34457f1b09",
+      "cms_id": 39567,
+      "title": "Surgery: Phacoemulsification: Complications with Capsulorhexis & Hydrodissection",
+      "url": "https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+      "procedures": [
+        "phaco",
+        "cataract-complication"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "u4ogo7ajb5",
+          "url": "https://fast.wistia.net/embed/iframe/u4ogo7ajb5?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        },
+        {
+          "kind": "wistia",
+          "media_id": "c34rhuipgm",
+          "url": "https://fast.wistia.net/embed/iframe/c34rhuipgm?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-5ffe83532416",
+      "cms_id": 39498,
+      "title": "Surgery: Lateral Rectus Recession & Medial Rectus Resection",
+      "url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+      "procedures": [
+        "strabismus"
+      ],
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "zu7wsrijuu",
+          "url": "https://fast.wistia.net/embed/iframe/zu7wsrijuu?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    }
+  ]
+}
