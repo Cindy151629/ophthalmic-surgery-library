@@ -1,47 +1,49 @@
 {
-  "articles": 961,
-  "with_note": 961,
+  "articles": 1049,
+  "with_note": 1049,
   "completion": {
-    "substantive": 949,
+    "substantive": 1034,
     "limited": 8,
-    "pending": 4
+    "pending": 7
   },
   "reading_scopes": {
-    "partial": 31,
-    "abstract": 655,
-    "fulltext": 271,
+    "partial": 33,
+    "abstract": 729,
+    "fulltext": 280,
     "metadata": 1,
-    "restricted": 3
+    "restricted": 6
   },
   "sections": {
     "CAT": {
-      "substantive": 280,
+      "substantive": 295,
       "limited": 3,
       "pending": 1
     },
     "CR": {
-      "substantive": 107
+      "substantive": 120
     },
     "GEN": {
-      "substantive": 100,
+      "substantive": 107,
       "limited": 2
     },
     "GL": {
-      "substantive": 176,
+      "substantive": 196,
       "limited": 3,
       "pending": 3
     },
     "OCP": {
-      "substantive": 51
+      "substantive": 54
     },
     "PTO": {
-      "substantive": 59
+      "substantive": 77,
+      "pending": 2
     },
     "RET": {
-      "substantive": 176
+      "substantive": 185,
+      "pending": 1
     }
   },
-  "source_concerns": 17,
+  "source_concerns": 23,
   "concerns": [
     {
       "id": "eye-a-3a61e9760ecd",
@@ -510,6 +512,117 @@
           "locator": "Supplementary Table S1原始问卷：Night glare与Night halos为两个分立项目，症状频率选项never/rarely/sometimes/often/always；不是个体答卷或相关分析数据"
         }
       ]
+    },
+    {
+      "id": "eye-a-04b3cd5d5360",
+      "title": "Absorbable, nonabsorbable, and sutureless wound closure in pediatric cataract surgery: systematic review and meta-analysis.",
+      "pmid": "42507531",
+      "completion": "substantive",
+      "scope": "abstract",
+      "issues": [
+        "摘要称可吸收缝线并发症较少，却列OR>1而不明示参照方向；需全文森林图确认编码。当前笔记不倒数转换或自行确定效应方向。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42507531/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-ae2fa58540de",
+      "title": "Preliminary Outcomes of iStent Inject vs Kahook Dual Blade Goniotomy Combined With Phacoemulsification: A Randomized Controlled Trial.",
+      "pmid": "42745442",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "issues": [
+        "摘要将水肿和积血概括为KDB更多，但正文及Table 5只有积血如此，水肿为iStent65.7%对KDB54.5%；笔记分项列示。",
+        "Table 3第6个月药物数两组均0±0却给组间P=0.363，与Table 2的全零分布及P>0.999不同；RNFL脚注KDB n=17也超过该时点表头n=16，需原始分析说明。"
+      ],
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13592137/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-93eed1b71ead",
+      "title": "Capsular bag performance of an aspheric hydrophobic IOL after conventional phacoemulsification or femtosecond laser-assisted cataract surgery: 12-month results of a randomized prospective study.",
+      "pmid": "40679603",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "issues": [
+        "摘要总倾斜4.48°而正文Table 3为4.84°；该表12个月两组偏心均值0.54/0.49 mm、Total却0.46 mm，缺失值/统计口径未解释。",
+        "PMC正文Tables 1–3标题与所列问卷/位置数据内容错配；讨论把接近正视比例当作预测误差比例，不能直接沿用。"
+      ],
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12583352/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s00417-025-07045-8",
+          "locator": "正式Correction：Nd:YAG两对眼的百分比10.81%改为5.41%，发表于2025-11-29"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-cc63b5d59b90",
+      "title": "The corneal biomechanical changes of phacoemulsification in cataract patients: A systematic review and meta-analysis.",
+      "pmid": "39854585",
+      "completion": "substantive",
+      "scope": "partial",
+      "issues": [
+        "摘要将IOPg描述为升高，但MD为−0.73且正文IOPg段写降低；本次已厘清笔记方向，原摘要矛盾仍保留。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39854585/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11761610/",
+          "locator": "Results: IOPg of cataract patients with phacoemulsification；表1–4"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-cd75e62b93f0",
+      "title": "Effect of a One-Week Lubricant Pretreatment on Post-LASIK Dry Eye: Single-Center Randomized, Single-Masked Study With 1-Month Follow-Up.",
+      "pmid": "42339499",
+      "completion": "substantive",
+      "scope": "partial",
+      "issues": [
+        "摘要与表1的年龄/球镜数值不一致；表1显示均近视，已厘清负号但不能把所有差异视为单纯漏负号。",
+        "摘要总体OSDI与表2、表3/4不一致，且表2部分均值位于标注95%CI之外；未取得正式更正或原始数据，保留疑点。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42339499/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13284676/",
+          "locator": "摘要及表1、2、3、4交叉比较"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-350cacd82279",
+      "title": "Comparison of levels of expression of mammalian target of rapamycin (mTOR) and glutathione S-transferases (zeta, sigma, and kappa) in pterygium and normal conjunctival tissues.",
+      "pmid": "41455384",
+      "completion": "substantive",
+      "scope": "abstract",
+      "issues": [
+        "摘要mTOR阳性22/28与75.5%不一致（直接计算78.6%）；尚不能判断人数还是百分比录入错误。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41455384/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
     }
   ],
   "definition": "substantive表示已读来源范围内有逐篇实质笔记；摘要、部分正文与全文分别标注。limited为实质内容仍待补充，pending为未取得实质内容。原文报告问题用concerns独立记录；完整的批判性笔记不意味着原文数据可靠。",
@@ -813,6 +926,69 @@
         {
           "url": "https://publications.rwth-aachen.de/record/1031677",
           "locator": "RWTH作者机构记录；DOI/PMID一致、Files为空"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4aae081cd8b5",
+      "title": "Letter to the editor on 'Combined Phacovitrectomy with Metallic Intraocular Foreign Body Removal through Corneal Incision Using A Novel \"Magnetic Conduction\" Technique'.",
+      "pmid": "38901027",
+      "status": "pending",
+      "scope": "restricted",
+      "reason": [
+        "PubMed无摘要，出版商访问受限；尚不能核实来信具体主张，不能复制被评论论文结果冒充本信内容。",
+        "当前为身份及访问核验记录，不计作已完成详细阅读笔记。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38901027/",
+          "locator": "题名、作者、标识符、出版类型及无摘要状态"
+        },
+        {
+          "url": "https://doi.org/10.1097/iae.0000000000004185",
+          "locator": "出版社访问尝试，未读取正文"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-b48af94df0f1",
+      "title": "A Novel Suture-Assisted Technique for the Surgical Removal of Intraocular Foreign Body.",
+      "pmid": "40840582",
+      "status": "pending",
+      "scope": "restricted",
+      "reason": [
+        "PubMed/Europe PMC均无摘要，DOI仅返回跳转页，期刊正文访问受限；未取得病例、缝线操作及结果，不能按题名编写。",
+        "当前为身份及访问核验记录，不计作已完成详细阅读笔记。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40840582/",
+          "locator": "题名、作者、标识符、出版类型及无摘要状态"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.ajo.2025.08.044",
+          "locator": "出版社访问尝试，未读取正文"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-9749ce37064a",
+      "title": "Utility, safety, and accessibility of phone call follow-up in strabismus surgery postoperative care.",
+      "pmid": "41386486",
+      "status": "pending",
+      "scope": "restricted",
+      "reason": [
+        "同名Shao等原研究DOI为10.1016/j.jaapos.2025.104218、PMID40355077，已另建笔记。本信无摘要且正文受限，不能把原研究370人结果归入来信。",
+        "当前为身份及访问核验记录，不计作已完成详细阅读笔记。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41386486/",
+          "locator": "题名、作者、标识符、出版类型及无摘要状态"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.jaapos.2025.104724",
+          "locator": "出版社访问尝试，未读取正文"
         }
       ]
     }

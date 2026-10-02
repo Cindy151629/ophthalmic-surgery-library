@@ -299,5 +299,68 @@
         "locator": "RWTH作者机构记录；DOI/PMID一致、Files为空"
       }
     ]
+  },
+  {
+    "id": "eye-a-4aae081cd8b5",
+    "title": "Letter to the editor on 'Combined Phacovitrectomy with Metallic Intraocular Foreign Body Removal through Corneal Incision Using A Novel \"Magnetic Conduction\" Technique'.",
+    "pmid": "38901027",
+    "status": "pending",
+    "scope": "restricted",
+    "reason": [
+      "PubMed无摘要，出版商访问受限；尚不能核实来信具体主张，不能复制被评论论文结果冒充本信内容。",
+      "当前为身份及访问核验记录，不计作已完成详细阅读笔记。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38901027/",
+        "locator": "题名、作者、标识符、出版类型及无摘要状态"
+      },
+      {
+        "url": "https://doi.org/10.1097/iae.0000000000004185",
+        "locator": "出版社访问尝试，未读取正文"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-b48af94df0f1",
+    "title": "A Novel Suture-Assisted Technique for the Surgical Removal of Intraocular Foreign Body.",
+    "pmid": "40840582",
+    "status": "pending",
+    "scope": "restricted",
+    "reason": [
+      "PubMed/Europe PMC均无摘要，DOI仅返回跳转页，期刊正文访问受限；未取得病例、缝线操作及结果，不能按题名编写。",
+      "当前为身份及访问核验记录，不计作已完成详细阅读笔记。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40840582/",
+        "locator": "题名、作者、标识符、出版类型及无摘要状态"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.ajo.2025.08.044",
+        "locator": "出版社访问尝试，未读取正文"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-9749ce37064a",
+    "title": "Utility, safety, and accessibility of phone call follow-up in strabismus surgery postoperative care.",
+    "pmid": "41386486",
+    "status": "pending",
+    "scope": "restricted",
+    "reason": [
+      "同名Shao等原研究DOI为10.1016/j.jaapos.2025.104218、PMID40355077，已另建笔记。本信无摘要且正文受限，不能把原研究370人结果归入来信。",
+      "当前为身份及访问核验记录，不计作已完成详细阅读笔记。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41386486/",
+        "locator": "题名、作者、标识符、出版类型及无摘要状态"
+      },
+      {
+        "url": "https://doi.org/10.1016/j.jaapos.2025.104724",
+        "locator": "出版社访问尝试，未读取正文"
+      }
+    ]
   }
 ]

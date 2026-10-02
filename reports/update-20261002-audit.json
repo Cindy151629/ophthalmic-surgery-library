@@ -1,0 +1,1220 @@
+{
+  "checked_at": "2026-10-02T15:01:00.238285+00:00",
+  "baseline_review_records": 1251,
+  "before_manual_update_records": 1263,
+  "remote_discovery_added_literature": 73,
+  "manual_successor_or_original_added": 3,
+  "new_since_previous_review": 88,
+  "new_substantive_notes": 85,
+  "new_restricted_notes": 3,
+  "new_note_scopes": {
+    "abstract": 74,
+    "fulltext": 9,
+    "partial": 2,
+    "restricted": 3
+  },
+  "total_records": 1339,
+  "articles": 1049,
+  "videos": 290,
+  "completion": {
+    "substantive": 1034,
+    "limited": 8,
+    "pending": 7
+  },
+  "source_concerns": 23,
+  "preservation": {
+    "previous_resources": 1336,
+    "current_resources": 1339,
+    "resources_preserved": true,
+    "authored_notes_present": 1049,
+    "checked_at": "2026-10-02T15:01:01.007053+00:00"
+  },
+  "independent_pubmed_identity_checks": 88,
+  "discovery_run": {
+    "id": 37019670568,
+    "status": "completed",
+    "conclusion": "success",
+    "created_at": "2026-10-02T14:24:40Z",
+    "html_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/37019670568",
+    "updated_at": "2026-10-02T14:32:42Z"
+  },
+  "scope": "新旧Cochrane版本分别保留并链接；三篇无摘要且正文受限不计完成；原有未分配条目、视频、编号和人工笔记保持原样。",
+  "entries": [
+    {
+      "id": "eye-a-04b3cd5d5360",
+      "pmid": "42507531",
+      "title": "Absorbable, nonabsorbable, and sutureless wound closure in pediatric cataract surgery: systematic review and meta-analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42507531/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-ae2fa58540de",
+      "pmid": "42745442",
+      "title": "Preliminary Outcomes of iStent Inject vs Kahook Dual Blade Goniotomy Combined With Phacoemulsification: A Randomized Controlled Trial.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13592137/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-93eed1b71ead",
+      "pmid": "40679603",
+      "title": "Capsular bag performance of an aspheric hydrophobic IOL after conventional phacoemulsification or femtosecond laser-assisted cataract surgery: 12-month results of a randomized prospective study.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12583352/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s00417-025-07045-8",
+          "locator": "正式Correction：Nd:YAG两对眼的百分比10.81%改为5.41%，发表于2025-11-29"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-3a454612920b",
+      "pmid": "42746469",
+      "title": "Efficacy and Safety of the iStent infinite Trabecular Micro-Bypass Device for Glaucoma: A Systematic Review and Meta-Analysis.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13577642/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-3b268821e0a6",
+      "pmid": "42759658",
+      "title": "Gas Versus Air Tamponade in Surgery for Full-Thickness Macular Hole: A Systematic Review and Meta-analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42759658/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-8575001073d3",
+      "pmid": "42753945",
+      "title": "Scleral Buckling in Primary Vitrectomy for Giant Retinal Tears: A Systematic Review and Meta-Analysis of Anatomical and Functional Outcomes.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42753945/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-9a1aac9724a8",
+      "pmid": "42763778",
+      "title": "Five-Year Follow-Up of an Eight-Year-Old Boy With a Scleral-Fixated Carlevale Intraocular Lens After Ocular Trauma.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13589642/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-beecf5227fb8",
+      "pmid": "42765887",
+      "title": "Intraocular Mitomycin-C in the Management of Recurrent Retinal Detachment and Proliferative Vitreoretinopathy: A Comparative Study With a Control Group.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42765887/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-7ba3ac3a412c",
+      "pmid": "42770458",
+      "title": "Direct selective Laser trabeculoplasty in the management of glaucoma: The first systematic review and meta-analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42770458/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d856a533050e",
+      "pmid": "38968453",
+      "title": "Scleral bridging technique for preventing PreserFlo microshunt exposure: A case report.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11224877/",
+          "locator": "Methods、Results及Discussion；正文表格和图注"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-dc46285553fc",
+      "pmid": "41088927",
+      "title": "Pseudoexfoliation Glaucoma Selective Laser for Trabeculoplasty Treatment in Vietnam.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41088927/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-c2c1fabc1e5c",
+      "pmid": "25066789",
+      "title": "Antimetabolites in cataract surgery to prevent failure of a previous trabeculectomy.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25066789/",
+          "locator": "完整结构化摘要：研究目的、方法、结果与结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-ce98fab43ac6",
+      "pmid": "42819817",
+      "title": "Downlook Technique for Superior (Head-End) Phacoemulsification in Deep-Set Eyes.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42819817/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-86c93fab06f5",
+      "pmid": "42786929",
+      "title": "Goniotomy as a safe and effective option for glaucoma secondary to typical ocular coloboma: A 12-month follow-up case.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42786929/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d0c95648200d",
+      "pmid": "40630265",
+      "title": "Comparison of Subconjunctival Triamcinolone with Topical Prednisolone for Routine Anti-Inflammatory Prophylaxis in Manual Small Incision Cataract Surgery: A Single-Center, Randomized Controlled Trial Pilot Protocol.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40630265/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-194b5c336096",
+      "pmid": "41962549",
+      "title": "Incidence of secondary intraocular lens implantation in school-aged children left aphakic to age 4.5 years in the Infant Aphakia Treatment Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41962549/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-10edfb4cb8ba",
+      "pmid": "42791542",
+      "title": "Quantitative assessment of radial peripapillary capillary plexus vessel density after retrobulbar block in cataract surgery: a randomized controlled trial.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42791542/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-8c1ec46e12fa",
+      "pmid": "39258086",
+      "title": "Phacoemulsification Techniques and Their Effects on Corneal Endothelial Cells and Visual Acuity: A Review of \"Direct-Chop\" and \"Stop-and-Chop\" Approaches Under Topical Anesthesia.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39258086/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4ceff0cf49f2",
+      "pmid": "42778175",
+      "title": "Corneal Astigmatism Outcomes After Simultaneous Pterygium Excision Using The Bare Sclera Technique and Manual Small Incision Cataract Surgery: Protocol for a Prospective Single-Arm Pre-Post Interventional Cohort Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42778175/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d7ee03a9c78f",
+      "pmid": "42780653",
+      "title": "Comparative Visual Outcomes and Complications of Light Adjustable Intraocular Lens Technology: A Scoping Review.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42780653/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-59d467847b77",
+      "pmid": "42808863",
+      "title": "Comparison of surgical outcomes of suture gonioscopy-assisted transluminal trabeculotomy versus excisional goniotomy with Kahook dual blade at 12 months.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42808863/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-cc63b5d59b90",
+      "pmid": "39854585",
+      "title": "The corneal biomechanical changes of phacoemulsification in cataract patients: A systematic review and meta-analysis.",
+      "completion": "substantive",
+      "scope": "partial",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39854585/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11761610/",
+          "locator": "Results: IOPg of cataract patients with phacoemulsification；表1–4"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-c5833bb1d93b",
+      "pmid": "41921053",
+      "title": "Occlusion break surge performance of a next-generation phacoemulsification system.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41921053/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-e9a4d556ca37",
+      "pmid": "42435830",
+      "title": "Accuracy of Toric Intraocular Lens Realignment Calculators: A Vector-Based Bivariate Comparison of Current Calculation Methods.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42435830/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-3a31e00ef959",
+      "pmid": "40597043",
+      "title": "One-year outcomes of a trifocal intraocular lens with glistening-free hydrophobic acrylic using the mix-and-match technique.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40597043/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4feefe58ce31",
+      "pmid": "38951315",
+      "title": "A New Technique with Scleral Grooves for Sutureless Scleral Fixation of the Carlevale Intraocular Lens.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38951315/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-da5929ba40a8",
+      "pmid": "36520144",
+      "title": "Non-steroidal anti-inflammatory agents for treating cystoid macular edema following cataract surgery.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36520144/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-fba189911f69",
+      "pmid": "28931202",
+      "title": "Different-sized incisions for phacoemulsification in age-related cataract.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28931202/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-ba6bb7c83095",
+      "pmid": "28192644",
+      "title": "Perioperative antibiotics for prevention of acute endophthalmitis after cataract surgery.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28192644/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-ba5100f0935f",
+      "pmid": "26625212",
+      "title": "Device-modified trabeculectomy for glaucoma.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26625212/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36912740/",
+          "locator": "PubMed UpdateIn对应的新版综述及摘要"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d48c08057063",
+      "pmid": "28225198",
+      "title": "Adjunctive steroid therapy versus antibiotics alone for acute endophthalmitis after intraocular procedure.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28225198/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35665485/",
+          "locator": "PubMed UpdateIn对应的新版综述及摘要"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-30174da28901",
+      "pmid": "26871761",
+      "title": "Peripheral iridotomy for pigmentary glaucoma.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26871761/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-a6f3451d563d",
+      "pmid": "42814708",
+      "title": "OphthoEvidence report: Baseline structural optical coherence tomography biomarkers as predictors of visual outcomes following full-thickness macular hole surgery: A systematic review and meta-analysis protocol.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42814708/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4cbe05205216",
+      "pmid": "42823102",
+      "title": "Direct Ophthalmic Viscoelastic Device Plug Technique for Sclerotomy Closure in 25-Gauge Microincision Vitrectomy Surgery.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42823102/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-43f23243bfe6",
+      "pmid": "42805587",
+      "title": "Anti-Vascular Endothelial Growth Factor Injection-to-Surgery Interval in Diabetic Vitrectomy: A Systematic Review and Meta-Analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42805587/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-cdc23fc74f3b",
+      "pmid": "42816834",
+      "title": "Comparison of retinal thickness and choroidal vascularity index after vitrectomy in idiopathic versus diabetic epiretinal membrane.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42816834/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-7dca64774988",
+      "pmid": "42797436",
+      "title": "Treatment-Emergent Epiretinal Membrane in Diabetic Macular Edema: A Real-World OCT-Based Comparative Pharmacotherapy Study Across Intravitreal Agents-The TRIDENT-DME Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42797436/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-24c84013b20e",
+      "pmid": "32384099",
+      "title": "Comparative analysis of metamorphopsia and aniseikonia after vitrectomy for epiretinal membrane, macular hole, or rhegmatogenous retinal detachment.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32384099/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-524f3dba5f68",
+      "pmid": "42611598",
+      "title": "Trabeculectomy After Ahmed Glaucoma Valve Implantation Versus Repeat Trabeculectomy.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42611598/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-184faf59eb30",
+      "pmid": "42806063",
+      "title": "Bent ab interno needle goniotomy versus gonioscopy-assisted transluminal trabeculotomy in primary open angle glaucoma: a randomised clinical trial, 24-month outcomes.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42806063/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-3d083f16b861",
+      "pmid": "42217148",
+      "title": "Comparison of one-year postoperative outcomes between PreserFlo MicroShunt and trabeculectomy in Japanese patients with open angle glaucoma: a retrospective cohort study using propensity score matching.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42217148/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-6cabe56e879f",
+      "pmid": "39960587",
+      "title": "Surgical Outcomes of Baerveldt Glaucoma Implant Versus Ahmed Glaucoma Valve in Neovascular Glaucoma: A Retrospective Multicenter Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39960587/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-c8ee03bf4823",
+      "pmid": "42809259",
+      "title": "Autologous rotational partial thickness scleral flap - A salvage technique for late leaking blebs with scleral fistula.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42809259/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-09d6a2182a87",
+      "pmid": "28750481",
+      "title": "Aqueous shunts for glaucoma.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28750481/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-9d255099e878",
+      "pmid": "29694684",
+      "title": "Cyclodestructive procedures for non-refractory glaucoma.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29694684/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-3245270e1ebc",
+      "pmid": "28231380",
+      "title": "Perioperative medications for preventing temporarily increased intraocular pressure after laser trabeculoplasty.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28231380/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-134ebd1743e7",
+      "pmid": "42772430",
+      "title": "Incidence of De Novo Glaucoma and Ocular Hypertension After DMEK vs DSAEK: A Systematic Review and Meta-Analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42772430/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-1f0004814d8e",
+      "pmid": "42420918",
+      "title": "Deep anterior lamellar vs penetrating keratoplasty for macular and granular stromal dystrophies: clinical and refractive results.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42420918/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-0f3cf2741eeb",
+      "pmid": "42780609",
+      "title": "Comparison of Recurrence Rate and Outcomes of Pterygium Surgery with Inferior Versus Superior Rotational Conjunctival Flap: A Randomized Clinical Trial.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42780609/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-04df2e833b0b",
+      "pmid": "41497727",
+      "title": "Safety Profile of Intraoperative Corneal Debridement in Descemet Membrane Endothelial Keratoplasty (DMEK)-A Retrospective Comparative Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41497727/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-96670ec11c52",
+      "pmid": "38779265",
+      "title": "Comparative Analysis of Visual Outcomes and Complications in Intraocular Collamer Lens, Small-Incision Lenticule Extraction, and Laser-Assisted In Situ Keratomileusis Surgeries: A Comprehensive Review.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38779265/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-18cf1d0cd51e",
+      "pmid": "38073672",
+      "title": "Novel Technique to Improve the Efficacy of Corneal Cross Linking in Cases of Post LASIK Ectasia [Letter].",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10710254/",
+          "locator": "来信全文第1–4段及参考文献3"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-a672a17ede13",
+      "pmid": "41324117",
+      "title": "Evaluation of the Effect of Topical Vitamin A Eye Ointment on Pain Reduction and Accelerated Healing of Corneal Defect After Photorefractive Keratectomy: A Prospective Randomized Controlled Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41324117/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d5bc160ea51d",
+      "pmid": "42344789",
+      "title": "Comparative Topographic and Tomographic Assessment of Post-LASIK Corneal Ectasia.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42344789/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d79a19be0ed9",
+      "pmid": "41669707",
+      "title": "Evaluation of Corneal Irregular Astigmatism and Visual Quality Following Bilateral Sequential SMILE and LASEK: A Six-Year Comparative Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41669707/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-cd75e62b93f0",
+      "pmid": "42339499",
+      "title": "Effect of a One-Week Lubricant Pretreatment on Post-LASIK Dry Eye: Single-Center Randomized, Single-Masked Study With 1-Month Follow-Up.",
+      "completion": "substantive",
+      "scope": "partial",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42339499/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13284676/",
+          "locator": "摘要及表1、2、3、4交叉比较"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-a9a50a52b325",
+      "pmid": "24526345",
+      "title": "Endothelial keratoplasty versus penetrating keratoplasty for Fuchs endothelial dystrophy.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24526345/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-abfe6d7b2bcb",
+      "pmid": "28197998",
+      "title": "Laser-assisted subepithelial keratectomy (LASEK) versus laser-assisted in-situ keratomileusis (LASIK) for correcting myopia.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28197998/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-900892fec34b",
+      "pmid": "42788940",
+      "title": "Intraoperative Platelet-Rich Plasma Is Associated With Improved Scar Quality Following Blepharoplasty: A Randomized, Single-Blinded Controlled Trial.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42788940/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4553a386701f",
+      "pmid": "40934902",
+      "title": "A Novel Technique in One-Staged Reconstruction of Large Lower Eyelid Defects: Orbicularis Oculi Myoperiosteal Flap.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40934902/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-6d28048624a1",
+      "pmid": "40865166",
+      "title": "Trends and Outcomes of Endoscopic Versus External Dacryocystorhinostomy: A 20-year Retrospective Multi-Institutional Analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40865166/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-40b9a22f215e",
+      "pmid": "25315969",
+      "title": "Strabismus surgery before versus after completion of amblyopia therapy in children.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25315969/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-c5894eccaadd",
+      "pmid": "29178265",
+      "title": "Surgical interventions for vertical strabismus in superior oblique palsy.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29178265/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-881860a73a28",
+      "pmid": "42809277",
+      "title": "Intracameral phenylephrine-lidocaine preparation before gonioscopy-assisted transluminal trabeculotomy: A technical modification to reduce intraoperative angle bleeding.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://www.ovid.com/jnls/ijo/fulltext/10.4103/ijo.ijo_2278_26~intracameral-phenylephrinelidocaine-preparation-before",
+          "locator": "出版社开放正文全文；病例方法/结果或评论逐点论述"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-e2e61dbe6b4e",
+      "pmid": "42809271",
+      "title": "Comment on: Trabecular meshwork peeling technique of ab interno trabeculectomy - A retrospective review.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://www.ovid.com/jnls/ijo/fulltext/10.4103/ijo.ijo_778_26~comment-on-trabecular-meshwork-peeling-technique-of-ab",
+          "locator": "出版社开放正文全文；病例方法/结果或评论逐点论述"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-bfa7b489c582",
+      "pmid": "42809272",
+      "title": "Author's response to comment on: Trabecular meshwork peeling technique of ab interno trabeculectomy - A retrospective review.",
+      "completion": "substantive",
+      "scope": "fulltext",
+      "sources": [
+        {
+          "url": "https://www.ovid.com/jnls/ijo/fulltext/10.4103/ijo.ijo_890_26~authors-response-to-comment-on-trabecular-meshwork-peeling",
+          "locator": "出版社开放正文全文；病例方法/结果或评论逐点论述"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-29c1b7e61666",
+      "pmid": "42056358",
+      "title": "Visual outcomes after one-stage versus two-stage surgery for intraocular foreign body removal and open globe repair.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42056358/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-1fd373687455",
+      "pmid": "42047870",
+      "title": "Formulation of treatment protocol for ocular surface squamous neoplasia.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42047870/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-c661ddede154",
+      "pmid": "42589958",
+      "title": "Comparison of the Effect of Pyridostigmine and Sugammadex on Emergence Delirium in Pediatric Patients Undergoing Strabismus Surgery: A Randomized Controlled Trial.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42589958/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-1b5998e992a9",
+      "pmid": "41146078",
+      "title": "Topical 5-fluorouracil 1% versus surgical removal as a primary treatment modality for ocular surface squamous neoplasia: a comparison of recurrences and side effects.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41146078/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-b8507bd9bcd8",
+      "pmid": "41731541",
+      "title": "Effects of strabismus surgery on choroidal blood flow: a systematic review and meta-analysis.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41731541/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-eda4334559a8",
+      "pmid": "41146298",
+      "title": "Effect of sub-anesthetic dose of esketamine on oculocardiac reflex of pediatric strabismus surgery in total intravenous anesthesia: study protocol for a randomized controlled trial.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41146298/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-26d9e60f0499",
+      "pmid": "41843824",
+      "title": "Technique for intraocular foreign body levitation using the 27 gauge nitinol wire.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41843824/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-8a9b3e873340",
+      "pmid": "41552134",
+      "title": "A Systematic Review on Conjunctival Closure Techniques in Strabismus Surgery: Current Evidence and Clinical Practice.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41552134/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-8b742fd3283b",
+      "pmid": "41610911",
+      "title": "Scleral adjustment method: a novel and easy adjustable suture technique in strabismus surgery.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41610911/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-d3b3436220fd",
+      "pmid": "41155813",
+      "title": "Comparison of the Effects of Sugammadex and Pyridostigmine on Postoperative Nausea and Vomiting and the Recovery Profile in Pediatric Patients Undergoing Strabismus Surgery: A Prospective, Double-Blind, Observational Study.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41155813/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-f25e80ed6851",
+      "pmid": "41753218",
+      "title": "Fibrin Glue Versus Absorbable Sutures for Conjunctival Closure in Pediatric Strabismus Surgery: A Comparative Study of Clinical Outcomes and AS-OCT Findings.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41753218/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-2d5ae305ac94",
+      "pmid": "40955372",
+      "title": "Assessment of Ocular Torsion in Exotropic Patients Following Horizontal Strabismus Surgery: A Comparative Analysis Using Conventional Color Fundus Photography and Spectralis Optical Coherence Tomography.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40955372/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-c39c625ef911",
+      "pmid": "41646000",
+      "title": "The Effect of Binaural Sound on the Occurrence of Emergence Delirium in Children Undergoing Strabismus Surgery: A Randomized Controlled Trial.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41646000/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-008758ab7727",
+      "pmid": "41632696",
+      "title": "Macular microcirculation after extraocular muscle surgery: A comparative OCTA study of inferior oblique versus horizontal rectus procedures.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41632696/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-2f5bbc3b76e6",
+      "pmid": "41126464",
+      "title": "Evaluation of Scleral Adjustment Method: A Novel Adjustable Suture Technique in Strabismus Surgery.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41126464/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-350cacd82279",
+      "pmid": "41455384",
+      "title": "Comparison of levels of expression of mammalian target of rapamycin (mTOR) and glutathione S-transferases (zeta, sigma, and kappa) in pterygium and normal conjunctival tissues.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41455384/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-4aae081cd8b5",
+      "pmid": "38901027",
+      "title": "Letter to the editor on 'Combined Phacovitrectomy with Metallic Intraocular Foreign Body Removal through Corneal Incision Using A Novel \"Magnetic Conduction\" Technique'.",
+      "completion": "pending",
+      "scope": "restricted",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38901027/",
+          "locator": "题名、作者、标识符、出版类型及无摘要状态"
+        },
+        {
+          "url": "https://doi.org/10.1097/iae.0000000000004185",
+          "locator": "出版社访问尝试，未读取正文"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-b48af94df0f1",
+      "pmid": "40840582",
+      "title": "A Novel Suture-Assisted Technique for the Surgical Removal of Intraocular Foreign Body.",
+      "completion": "pending",
+      "scope": "restricted",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40840582/",
+          "locator": "题名、作者、标识符、出版类型及无摘要状态"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.ajo.2025.08.044",
+          "locator": "出版社访问尝试，未读取正文"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-9749ce37064a",
+      "pmid": "41386486",
+      "title": "Utility, safety, and accessibility of phone call follow-up in strabismus surgery postoperative care.",
+      "completion": "pending",
+      "scope": "restricted",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41386486/",
+          "locator": "题名、作者、标识符、出版类型及无摘要状态"
+        },
+        {
+          "url": "https://doi.org/10.1016/j.jaapos.2025.104724",
+          "locator": "出版社访问尝试，未读取正文"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-2934a14d98a4",
+      "pmid": "36912740",
+      "title": "Device-modified trabeculectomy for glaucoma.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36912740/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-31ae5402052e",
+      "pmid": "35665485",
+      "title": "Adjunctive steroid therapy versus antibiotics alone for acute endophthalmitis after intraocular procedure.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35665485/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    },
+    {
+      "id": "eye-a-003947e562e3",
+      "pmid": "40355077",
+      "title": "Utility, safety, and accessibility of phone call follow-up in strabismus surgery postoperative care.",
+      "completion": "substantive",
+      "scope": "abstract",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40355077/",
+          "locator": "完整摘要：目的、设计、方法、结果、结论"
+        }
+      ]
+    }
+  ]
+}
