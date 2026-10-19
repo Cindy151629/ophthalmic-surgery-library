@@ -233265,7 +233265,7 @@
     "kind": "literature",
     "title": "Comparison of manual marking and femtosecond laser-assisted capsular marking methods for toric intraocular lens alignment.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "散光IOL定位：飞秒囊膜标记与手工标记",
     "source": "Indian journal of ophthalmology",
     "resource_type": "Comparative Study; Journal Article",
     "year": 2026,
@@ -233284,15 +233284,47 @@
       "Dinc D"
     ],
     "first_added_at": "2026-10-05T07:02:22.712892+00:00",
-    "last_changed_at": "2026-10-05T07:02:22.712897+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42635456/",
       "checked_at": "2026-10-05T07:02:18.756882+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "散光IOL定位：飞秒囊膜标记与手工标记",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "飞秒标记能否减少散光三焦点IOL植入后的残余散光？",
+      "design": "2019–2024年回顾性70眼，两组各35眼，均植入PanOptix散光三焦点IOL。",
+      "methods": [
+        "比较裂隙灯手工标记与IntelliAxis飞秒标记；观察术前角膜散光、术后散光及视力。"
+      ],
+      "results": [
+        "手工组散光2.11±0.66 D降至0.51±0.17 D；飞秒组2.06±0.61 D降至0.38±0.13 D。",
+        "两组术前后均改善；飞秒组残余散光低0.13 D，组间P<0.05。"
+      ],
+      "interpretation": "支持该队列飞秒标记与更小残余散光相关；0.13 D的临床意义需结合视力、旋转误差和患者体验判断。",
+      "limitations": [
+        "非随机，术者与病例选择可能混杂。",
+        "摘要未量化旋转角、时间或墨水并发症，不能把结论中的操作优势当成已测定终点。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42635456/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42635456",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42635456/",
@@ -233321,7 +233353,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233329,7 +233361,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233347,7 +233379,7 @@
     "kind": "literature",
     "title": "Macular hole Delphi consensus statement (MHOST).",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "MHOST：黄斑裂孔手术的Delphi共识与分歧",
     "source": "Acta ophthalmologica",
     "resource_type": "Consensus Statement; Journal Article",
     "year": 2023,
@@ -233405,15 +233437,47 @@
       "Petrovski G"
     ],
     "first_added_at": "2026-10-05T07:02:22.780807+00:00",
-    "last_changed_at": "2026-10-05T07:02:22.780814+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/37493073/",
       "checked_at": "2026-10-05T07:02:20.276501+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "MHOST：黄斑裂孔手术的Delphi共识与分歧",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "全层及板层黄斑裂孔处理中，专家在哪些环节形成共识？",
+      "design": "21个主要欧洲国家的37名玻璃体视网膜术者参加Delphi问卷；第二轮35人。",
+      "methods": [
+        "首轮评36项；将45%–70%一致的18项带入第二轮，考察诊断、ILM处理与填充策略。"
+      ],
+      "results": [
+        "首轮报告10项达共识，涉及术中确认PVD、OCT分型、小裂孔环形ILM剥除、SF6偏好，以及板层裂孔ILM/LHEP处理等。",
+        "最终仅35%的诊断和术式问题达共识，仍有大量分歧。"
+      ],
+      "interpretation": "可用于整理术式决策争议；专家一致率不是疗效大小，也不能当作随机试验证据。保留地域与专家选择背景。",
+      "limitations": [
+        "摘要未给出每项最终票数及全部阈值细节。",
+        "没有患者结局队列，不能由共识推算闭孔率或确定某方案普遍优越。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37493073/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/37493073",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/37493073/",
@@ -233442,7 +233506,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233450,7 +233514,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233468,7 +233532,7 @@
     "kind": "literature",
     "title": "Does internal limiting membrane peeling during epiretinal membrane surgery induce microscotomas on microperimetry? Study protocol for PEELING, a randomized controlled clinical trial.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "PEELING方案：ERM术中追加ILM剥除与微暗点",
     "source": "Trials",
     "resource_type": "Clinical Trial Protocol; research-article; Journal Article",
     "year": 2020,
@@ -233502,15 +233566,48 @@
       "Weber M"
     ],
     "first_added_at": "2026-10-05T07:02:29.804777+00:00",
-    "last_changed_at": "2026-10-05T07:02:29.804781+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/32513229/",
       "checked_at": "2026-10-05T07:02:28.990819+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "PEELING方案：ERM术中追加ILM剥除与微暗点",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "在ERM剥除后ILM仍残留的患者中，主动剥除是否增加微暗点？",
+      "design": "多中心、前瞻性、单盲、双组随机试验方案；NCT02146144。本篇报告计划，不报告试验结果。",
+      "methods": [
+        "ERM去除后才判断是否随机；ILM自发脱离者入附属观察组。",
+        "拟随机每组53眼，共106名；含自发剥离病例的总入组上限222名，1、6、12月随访。"
+      ],
+      "results": [
+        "主要终点预设为术前至6个月微暗点数量变化；比较主动剥ILM与保留ILM。",
+        "摘要未提供实际入组完成数、组间微暗点差或复发率，不能据方案写疗效结论。"
+      ],
+      "interpretation": "把视觉敏感度纳入安全评估可补充单纯视力结局；术中随机限制了适用人群，不能外推ILM已经自发脱离的病例。",
+      "limitations": [
+        "方案发表时仍招募，不代表当前试验仍在招募。",
+        "样本量是假设驱动的计划数；需另查正式结果及方案变更。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32513229/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/32513229",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/32513229/",
@@ -233539,7 +233636,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233547,7 +233644,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233565,7 +233662,7 @@
     "kind": "literature",
     "title": "Effectiveness of selective laser trabeculoplasty in lowering intraocular pressure in pseudoexfoliative glaucoma: a systematic review.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "假性剥脱性青光眼SLT：降压可见，持续性不一致",
     "source": "Canadian journal of ophthalmology. Journal canadien d'ophtalmologie",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -233587,15 +233684,48 @@
       "Mathew DJ"
     ],
     "first_added_at": "2026-10-05T07:02:35.409182+00:00",
-    "last_changed_at": "2026-10-05T07:02:35.409190+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42829007/",
       "checked_at": "2026-10-05T07:02:32.185559+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "假性剥脱性青光眼SLT：降压可见，持续性不一致",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "SLT对假性剥脱性青光眼的降压幅度及持续时间如何？",
+      "design": "系统综述，14项研究752眼，含随机及观察研究；随访1–49个月。",
+      "methods": [
+        "检索MEDLINE、Embase、Cochrane至2025-12-26；注册CRD420251271861；叙述性综合眼压、成功率及不良事件。"
+      ],
+      "results": [
+        "平均降压范围2.8–8.1 mmHg，百分比18.4%–36.0%；部分研究一年仍降压>25%。",
+        "持续效果从约1月衰减到21–30月不等；成功率40.0%–78.4%。",
+        "短暂眼压峰值发生11.6%–28.0%；多数研究存在中至严重偏倚风险。"
+      ],
+      "interpretation": "SLT可作为降压选择，但跨研究范围不能当作个体预期或合并效应；持续性不稳定使后续监测尤其重要。",
+      "limitations": [
+        "纳入设计、基线眼压与成功定义不同，未提供统一合并估计。",
+        "不应把部分长期有效的病例概括为保证持久有效。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42829007/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42829007",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42829007/",
@@ -233624,7 +233754,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233632,7 +233762,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233650,7 +233780,7 @@
     "kind": "literature",
     "title": "Long-term outcomes of Mitomycin-C augmented trabeculectomy using subconjunctival injections versus soaked sponges: a randomised controlled trial.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "MMC注射与海绵小梁切除：三年随机试验",
     "source": "Eye (London, England)",
     "resource_type": "research-article; Randomized Controlled Trial; Journal Article",
     "year": 2024,
@@ -233674,15 +233804,50 @@
       "Pawar N"
     ],
     "first_added_at": "2026-10-05T07:02:35.449686+00:00",
-    "last_changed_at": "2026-10-05T07:02:35.449694+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/37968512/",
       "checked_at": "2026-10-05T07:02:34.314341+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "MMC注射与海绵小梁切除：三年随机试验",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "结膜下MMC注射能否获得与海绵敷药相近的长期手术结局？",
+      "design": "前瞻性随机137人，注射66、海绵71；最长随访3年。",
+      "methods": [
+        "均接受小梁切除，MMC浓度均0.2 mg/mL；比较眼压、药物、视力、成功率及并发症。"
+      ],
+      "results": [
+        "两组术前眼压约34 mmHg，末次11.25对11.81 mmHg；总体组间无显著眼压差。",
+        "3年成功率75.3%对70.7%，P=0.512；并发症与最终视力相近。",
+        "药物均值由两组2.32降为0.78及1.13；摘要给海绵组附P=0.930，但比较对象未明确。"
+      ],
+      "interpretation": "随机和3年随访提高参考价值；未检出差异不是正式等效结论，成本、给药分布及操作流程仍需结合全文。",
+      "limitations": [
+        "摘要未给失访人数、成功定义及组间差区间。",
+        "药物P值口径不清，不据此写“海绵组未减药”或自行更改数值。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37968512/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/37968512",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "concerns",
+      "evidence_issues": [
+        "摘要海绵组药物由2.32降至1.13却附P=0.930，未明确此P值对应组内还是组间比较，需正文澄清。"
+      ]
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/37968512/",
@@ -233711,7 +233876,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233719,7 +233884,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233737,7 +233902,7 @@
     "kind": "literature",
     "title": "Differential accommodative responses to autostereoscopic 3D visual training in patients following SMILE versus ICL surgery.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "SMILE与ICL后3D训练：即时调节反应",
     "source": "Photodiagnosis and photodynamic therapy",
     "resource_type": "Comparative Study; Journal Article",
     "year": 2026,
@@ -233766,15 +233931,47 @@
       "Zhou X"
     ],
     "first_added_at": "2026-10-05T07:02:43.599580+00:00",
-    "last_changed_at": "2026-10-05T07:02:43.599586+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42556442/",
       "checked_at": "2026-10-05T07:02:38.240936+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "SMILE与ICL后3D训练：即时调节反应",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "一次12分钟裸眼3D训练后，两类屈光手术患者的调节变化是否不同？",
+      "design": "前瞻性28名，SMILE与ICL各14名；术后1个月，平均25.11岁。",
+      "methods": [
+        "训练前后用WAM-5500测调节幅度、灵敏度、滞后及变异；重复测量ANOVA检验组别×时间交互。"
+      ],
+      "results": [
+        "幅度SMILE由7.88升至9.58 D，ICL由8.74升至10.61 D；灵敏度两组均改善，交互均不显著。",
+        "调节滞后交互P=0.021；ICL由1.53降至1.40 D，P=0.002。"
+      ],
+      "interpretation": "滞后有组间差异反应证据，幅度和灵敏度则不能因两组各自显著而认定术式反应不同。",
+      "limitations": [
+        "无未训练或假训练对照，不能排除重复测量、熟悉与短暂适应效应。",
+        "只观察即时反应，无持续视觉获益或长期康复证据。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42556442/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42556442",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42556442/",
@@ -233803,7 +234000,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233811,7 +234008,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233829,7 +234026,7 @@
     "kind": "literature",
     "title": "Minimally invasive resection of a spheno-orbital tumor: Review of surgical techniques and a case report.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "蝶眶肿瘤微创侧方入路：单病例18个月观察",
     "source": "Surgical neurology international",
     "resource_type": "Journal Article; Case Reports",
     "year": 2026,
@@ -233851,15 +234048,47 @@
       "Abduganieva I"
     ],
     "first_added_at": "2026-10-05T07:02:48.777242+00:00",
-    "last_changed_at": "2026-10-05T07:02:48.777256+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42829611/",
       "checked_at": "2026-10-05T07:02:45.800347+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "蝶眶肿瘤微创侧方入路：单病例18个月观察",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "局限切口与保留眶缘的蝶眶入路能否缓解症状并减少外观影响？",
+      "design": "技术综述结合46岁患者单病例；突眼及视力6/18约持续6年。",
+      "methods": [
+        "影像示蝶骨大翼病变累及眶和颅底，采用微创肿瘤切除联合眶减压；随访18个月。"
+      ],
+      "results": [
+        "术后早期过程顺利，第1日视力改善；18个月未观察到残留肿瘤生长。",
+        "摘要未给出术后最终视力数值、完整切除比例或标准化美容评分。"
+      ],
+      "interpretation": "提供症状导向分期治疗的技术实例；无残留生长不等于完全切除或长期无复发。",
+      "limitations": [
+        "单病例无法估计安全性、复发风险或相对开颅优势。",
+        "具体病理与侵犯边界需原文核对，不能将入路普遍用于所有蝶眶肿瘤。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42829611/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42829611",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42829611/",
@@ -233888,7 +234117,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233896,7 +234125,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -233914,7 +234143,7 @@
     "kind": "literature",
     "title": "Longitudinal refractive changes following orbital decompression in thyroid eye disease: dominant role of axial configuration and globe position with contributions from surgical technique and corneal biomechanics.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "甲状腺眼病眶减压后的屈光变化轨迹",
     "source": "Eye and vision (London, England)",
     "resource_type": "research-article; Journal Article",
     "year": 2026,
@@ -233948,15 +234177,47 @@
       "Wang L"
     ],
     "first_added_at": "2026-10-05T07:02:57.876639+00:00",
-    "last_changed_at": "2026-10-05T07:02:57.876647+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42487125/",
       "checked_at": "2026-10-05T07:02:55.828157+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "甲状腺眼病眶减压后的屈光变化轨迹",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "减压术后近视漂移如何随时间变化，与哪些解剖改变相关？",
+      "design": "回顾性纵向研究46名57眼，中重度甲状腺眼病。",
+      "methods": [
+        "用GEE及限制性立方样条分析重复测量，比较不同减压策略；多变量模型分析眼轴、突眼、睑位和角膜参数。"
+      ],
+      "results": [
+        "出现先近视漂移、再部分远视恢复的双相轨迹，近视变化在约2–3月最明显。",
+        "双壁减压较单壁变化更大更快；实测眼轴变化与屈光变化的关联最强，P<0.001。"
+      ],
+      "interpretation": "提示术后屈光并非立即稳定；最终配镜或屈光矫正的时点需结合个体稳定性。关联分析不能确认眼轴改变是唯一机制。",
+      "limitations": [
+        "非随机术式分配，病情及减压范围可能混杂。",
+        "摘要未列各时点屈光差的D数和置信区间，不足以制定统一等待期。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42487125/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42487125",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42487125/",
@@ -233985,7 +234246,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -233993,7 +234254,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -234011,7 +234272,7 @@
     "kind": "literature",
     "title": "Perioperative low-level light therapy for ocular surface protection in patients undergoing Femto-LASIK: a prospective double-masked, randomized controlled study.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "Femto-LASIK围术期低强度光疗：泪量与症状",
     "source": "Therapeutic advances in ophthalmology",
     "resource_type": "research-article; Journal Article",
     "year": 2026,
@@ -234041,15 +234302,49 @@
       "Giannaccare G"
     ],
     "first_added_at": "2026-10-05T07:02:57.894868+00:00",
-    "last_changed_at": "2026-10-05T07:02:57.894873+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42125262/",
       "checked_at": "2026-10-05T07:02:55.828157+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "Femto-LASIK围术期低强度光疗：泪量与症状",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "围术期LLLT能否减轻LASIK后的眼表不适与泪液变化？",
+      "design": "多中心、随机、双盲、假治疗对照，40名40眼，随访3个月。",
+      "methods": [
+        "按1:1分配；633±10 nm、每次15分钟，于手术前后7±2天干预。",
+        "评估TMH、Schirmer、DEQ-5、NIBUT及干涉成像。"
+      ],
+      "results": [
+        "对照组TMH由0.27降至0.20 mm，Schirmer由20.39降至15.65 mm/5分钟，DEQ-5由3.53升至5.94。",
+        "LLLT组1、3月TMH和Schirmer较高，1周至3月DEQ-5较低；NIBUT及干涉成像组间无显著差。",
+        "未观察到治疗相关不良事件。"
+      ],
+      "interpretation": "可能保护泪量和舒适度，但没有显示所有泪膜指标均改善；应依据组间比较，不能仅以一组显著另一组不显著判断疗效。",
+      "limitations": [
+        "样本小、随访短，未证明长期干眼预防或罕见安全性。",
+        "摘要未给出完整组间效应量、最小临床重要差异及多重比较校正。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42125262/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42125262",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42125262/",
@@ -234078,7 +234373,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -234086,7 +234381,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -234104,7 +234399,7 @@
     "kind": "literature",
     "title": "Comparison of different antibiotic prophylaxis regimens for the prevention of endophthalmitis after penetrating keratoplasty.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "穿透性角膜移植眼内炎：基础病与预防方案",
     "source": "International ophthalmology",
     "resource_type": "Comparative Study; Journal Article",
     "year": 2026,
@@ -234128,15 +234423,47 @@
       "Zhou SY"
     ],
     "first_added_at": "2026-10-05T07:02:57.906003+00:00",
-    "last_changed_at": "2026-10-05T07:02:57.906006+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41721919/",
       "checked_at": "2026-10-05T07:02:55.828157+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "穿透性角膜移植眼内炎：基础病与预防方案",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "PKP后眼内炎风险主要关联哪些因素，联合用药是否更好？",
+      "design": "单中心2012–2021年回顾性3706名PKP患者。",
+      "methods": [
+        "比较术中局部抗菌药、术前静脉给药及联合方案，用回归与生存分析评估感染。"
+      ],
+      "results": [
+        "总15/3706发生眼内炎，0.40%；感染性角膜病12/419（2.86%），非感染性3/3287（0.09%）。",
+        "疾病分层OR32.28，95%CI9.07–114.85；非感染组局部与联合方案差异P=0.079。"
+      ],
+      "interpretation": "基础感染风险差异突出；局部与联合方案未显著不同，不足以证明等效或支持所有PKP均省略其他预防措施。",
+      "limitations": [
+        "仅15个事件、非随机，稀少事件回归不稳定。",
+        "摘要未列各用药组人数、具体制剂或校正变量；不能据此制定剂量方案。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41721919/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41721919",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/41721919/",
@@ -234165,7 +234492,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -234173,7 +234500,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -234432,9 +234759,9 @@
     "kind": "literature",
     "title": "Comparison of Postoperative Intraocular Inflammation in Dogs Receiving Transzonular Intravitreal Triamcinolone-Moxifloxacin Versus Subconjunctival Triamcinolone After Phacoemulsification.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "犬超乳局部激素给药：配对眼比较",
     "source": "Veterinary ophthalmology",
-    "resource_type": "Comparative Study; Journal Article",
+    "resource_type": "兽医研究；Comparative Study; Journal Article",
     "year": 2026,
     "language": "en",
     "section": "CAT",
@@ -234456,15 +234783,48 @@
       "Berdoulay A"
     ],
     "first_added_at": "2026-10-12T07:21:54.314762+00:00",
-    "last_changed_at": "2026-10-12T07:21:54.314766+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40243332/",
       "checked_at": "2026-10-12T07:21:31.813438+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "犬超乳局部激素给药：配对眼比较",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "犬白内障术中经悬韧带玻璃体注射与结膜下注射的炎症结局有何差异？",
+      "design": "兽医研究48只犬96眼，双眼分别接受TITM与SCT。",
+      "methods": [
+        "两眼均超乳植入IOL；一眼曲安奈德-莫西沙星经悬韧带给药，对眼结膜下曲安奈德；另用术后滴眼和口服抗炎药。",
+        "多时点记录房水闪辉、纤维蛋白、IOL色素、PCO、角膜水肿及眼压。"
+      ],
+      "results": [
+        "整体闪辉随时间变化无组间差，但2–3周TITM更高，P=0.01；三个时点眼压有统计差，仍在参考范围。",
+        "总体视觉结局及成功率未见明确临床差异，额外协同效果仍不清楚。"
+      ],
+      "interpretation": "属于犬手术的配对比较，可作兽医背景资料，不能直接转成成人眼科的疗效或用药建议。",
+      "limitations": [
+        "双眼配对及反复测量相关性需在统计中处理。",
+        "同时存在其他抗炎用药，不能分离每种局部给药的增量贡献。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40243332/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40243332",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/40243332/",
@@ -234486,7 +234846,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -234494,7 +234854,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -234751,7 +235111,7 @@
     "kind": "literature",
     "title": "Subnuclear Phacoemulsification to Reduce Corneal Injury in Nuclear Cataract Surgery: Evidence From a Randomized Controlled Trial.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "硬核白内障核下超乳：256人随机试验",
     "source": "Journal of ophthalmology",
     "resource_type": "research-article; Journal Article",
     "year": 2025,
@@ -234778,15 +235138,47 @@
       "Zeng M"
     ],
     "first_added_at": "2026-10-12T07:21:54.328191+00:00",
-    "last_changed_at": "2026-10-12T07:21:54.328195+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40134609/",
       "checked_at": "2026-10-12T07:21:31.813438+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "硬核白内障核下超乳：256人随机试验",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "将超乳操作置于核下能否减轻硬核病例的角膜损伤？",
+      "design": "随机对照256名年龄相关硬核白内障患者；单术者、随访3月；ChiCTR2000031114。",
+      "methods": [
+        "比较核下SNP与常规CP；测CDE、超声时间、并发症、视力、中央角膜厚度及内皮密度。"
+      ],
+      "results": [
+        "能量、超声时间和并发症未见明显组间差异；SNP术后一周内视力更好、角膜更薄。",
+        "1及3月内皮密度更高；摘要未提供绝对细胞差和置信区间。"
+      ],
+      "interpretation": "随机结果支持早期角膜保护信号，且不一定依赖总能量减少；“广泛应用会大幅提升安全”的推广结论超出单术者短期证据。",
+      "limitations": [
+        "缺数值效应量难评估临床获益大小。",
+        "3个月与256人不足以排除罕见并发症，其他术者可重复性需验证。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40134609/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40134609",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/40134609/",
@@ -234808,7 +235200,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -234816,7 +235208,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -235328,7 +235720,7 @@
     "kind": "literature",
     "title": "Randomized controlled bilateral comparison of femtosecond laser-assisted cataract surgery versus conventional phacoemulsification.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "FLACS双眼随机比较：IOL位置与屈光表现",
     "source": "BMJ surgery, interventions, & health technologies",
     "resource_type": "research-article; Journal Article",
     "year": 2025,
@@ -235355,15 +235747,47 @@
       "Bolz M"
     ],
     "first_added_at": "2026-10-12T07:21:54.366472+00:00",
-    "last_changed_at": "2026-10-12T07:21:54.366476+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40662090/",
       "checked_at": "2026-10-12T07:21:31.813438+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "FLACS双眼随机比较：IOL位置与屈光表现",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "飞秒辅助白内障相对常规超乳是否改善囊袋/IOL稳定？",
+      "design": "50人100眼双眼随机研究，同一新型非球面疏水IOL，随访6个月。",
+      "methods": [
+        "比较前房深度、倾斜、偏心及视觉/屈光结局；设计要求考虑同一患者双眼配对。"
+      ],
+      "results": [
+        "倾斜4.87°对4.37°，P=0.124；偏心0.28对0.33 mm，P=0.414。",
+        "前房深度4.56对4.60 mm，P=0.903；等效球镜+0.17对+0.19 D，P=0.996。"
+      ],
+      "interpretation": "在该IOL和6个月范围内未显示FLACS优越；不等于所有术式、复杂病例或所有IOL均完全等效。",
+      "limitations": [
+        "样本50人，对罕见囊袋事件效能不足。",
+        "摘要前房深度SD差异较大且目标屈光包含正视或−2.5 D，需正文核对分组、测量和统计口径。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40662090/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40662090",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/40662090/",
@@ -235385,7 +235809,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -235393,7 +235817,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:16:59.587046+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -242250,9 +242674,9 @@
     "kind": "literature",
     "title": "Phacoemulsification in the Boston Terrier Breed: A Pilot Study Comparing Success Rates of Intentional Aphakia to Pseudophakia.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "波士顿梗超乳：保留无晶状体与植入IOL",
     "source": "Veterinary ophthalmology",
-    "resource_type": "Comparative Study; Journal Article",
+    "resource_type": "兽医研究；Comparative Study; Journal Article",
     "year": 2026,
     "language": "en",
     "section": "CAT",
@@ -242272,15 +242696,49 @@
       "Kim K"
     ],
     "first_added_at": "2026-10-12T07:21:54.710673+00:00",
-    "last_changed_at": "2026-10-12T07:21:54.710677+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40538011/",
       "checked_at": "2026-10-12T07:21:39.347039+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "波士顿梗超乳：保留无晶状体与植入IOL",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "该犬种超乳后是否植入IOL与最终视功能有何关联？",
+      "design": "单术者回顾性先导研究25只波士顿梗；至少随访6个月，平均20.2个月。",
+      "methods": [
+        "比较有意无晶状体与人工晶状体眼；Firth逻辑回归调整玻切和眼内激光，终点为末次有视力/失明。"
+      ],
+      "results": [
+        "无晶状体14/14眼保留视力；IOL组报告12/26保留视力，同时标为42.3%，该百分比与分数不符。",
+        "IOL眼纤维蛋白15/26、青光眼12/26、视网膜脱离2/26；作者报告调整后失明优势比约40倍。"
+      ],
+      "interpretation": "存在强烈组间关联但不能证明IOL致盲；这是一特定犬种的小样本，不能外推人类白内障手术。",
+      "limitations": [
+        "非随机且样本极小，模型稀疏、治疗选择混杂；摘要缺效应区间。",
+        "12/26应约46.2%，暂保留原人数并标记数字矛盾。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40538011/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40538011",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "concerns",
+      "evidence_issues": [
+        "摘要12/26保留视力同时写42.3%；直接计算约46.2%，无法据摘要判断人数或百分比何者错误。"
+      ]
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/40538011/",
@@ -242302,7 +242760,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -242310,7 +242768,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:17:00.670958+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -246101,7 +246559,7 @@
     "kind": "literature",
     "title": "Standard Monofocal Intraocular Lenses Versus Enhanced Monofocal Intraocular Lenses for Children 6 to 13 Years Old With Pediatric Cataract.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "儿童增强单焦点IOL：离焦曲线与近用眼镜",
     "source": "Journal of pediatric ophthalmology and strabismus",
     "resource_type": "Comparative Study; Randomized Controlled Trial; Journal Article",
     "year": 2026,
@@ -246126,15 +246584,47 @@
       "Maher S"
     ],
     "first_added_at": "2026-10-12T07:21:54.974587+00:00",
-    "last_changed_at": "2026-10-12T07:21:54.974592+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40736060/",
       "checked_at": "2026-10-12T07:21:46.033149+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "儿童增强单焦点IOL：离焦曲线与近用眼镜",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "增强单焦点IOL是否改善儿童多距离视觉？",
+      "design": "前瞻性随机45眼，6–13岁；标准单焦23眼、Eyhance22眼，随访3个月。",
+      "methods": [
+        "目标正视；测远中近裸眼/矫正视力、近附加和戴远用矫正的离焦曲线；包含单眼及双眼手术儿童。"
+      ],
+      "results": [
+        "常规远中近视力和近附加度数均无显著组间差；平均离焦范围视力0.30对0.41，Eyhance较好，P<0.01。",
+        "作者认为优势主要在>1米中距离，并未降低<1米所需眼镜度数。"
+      ],
+      "interpretation": "离焦曲线优势不等于摆脱近用镜；单点视力与整段离焦指标需分开看。",
+      "limitations": [
+        "样本按眼计且包含同一儿童两眼，相关性处理需正文核对。",
+        "仅3个月，不能说明儿童眼轴成长、长期屈光漂移或弱视管理结局。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40736060/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40736060",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/40736060/",
@@ -246156,7 +246646,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -246164,7 +246654,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:17:00.670958+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -247211,7 +247701,7 @@
     "kind": "literature",
     "title": "Nd:YAG Laser Iridotomy Versus Surgical Iridectomy in Descemet Membrane Endothelial Keratoplasty: Comparison of Postoperative Outcome and Incidence of Ocular Hypertension.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "DMEK预防瞳孔阻滞：YAG虹膜切开与术中切除",
     "source": "Cornea",
     "resource_type": "Comparative Study; Journal Article",
     "year": 2026,
@@ -247237,15 +247727,47 @@
       "Geerling G"
     ],
     "first_added_at": "2026-10-12T07:21:55.072705+00:00",
-    "last_changed_at": "2026-10-12T07:21:55.072711+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/39836497/",
       "checked_at": "2026-10-12T07:21:48.840025+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "DMEK预防瞳孔阻滞：YAG虹膜切开与术中切除",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "预防性激光虹膜切开和术中虹膜切除后的眼压风险是否不同？",
+      "design": "单中心回顾性，DMEK或联合白内障DMEK，两组各75名，平均随访22个月。",
+      "methods": [
+        "比较视力、角膜厚度、内皮、早期阻滞性升压、青光眼和再注气。"
+      ],
+      "results": [
+        "瞳孔阻滞相关早期升压：YAG组25/75（33.3%），术中切除2/75（2.67%），P<0.001。",
+        "新发青光眼均5.34%，再注气均16%；远期视力改善无显著组间差。"
+      ],
+      "interpretation": "早期阻滞存在明显差异，但观察性结果不能排除开孔尺寸、气体管理或年代差异；需区分早期事件和远期结局。",
+      "limitations": [
+        "未随机，摘要缺孔位置、大小与通畅性细节。",
+        "远期无显著差不等于两种预防措施在所有条件下等效。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39836497/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/39836497",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/39836497/",
@@ -247267,7 +247789,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -247275,7 +247797,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": "2026-10-19T06:17:01.844956+00:00",
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -250114,7 +250636,7 @@
     "kind": "literature",
     "title": "[Efficacy and safety of trabeculotome tunnelling trabeculoplasty with versus without phacoemulsification in patients with primary open-angle glaucoma and cataract].",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "3T小梁隧道成形术：联合白内障与单独手术",
     "source": "[Zhonghua yan ke za zhi] Chinese journal of ophthalmology",
     "resource_type": "Comparative Study; Journal Article; English Abstract",
     "year": 2026,
@@ -250143,15 +250665,48 @@
       "Zeng LZ"
     ],
     "first_added_at": "2026-10-19T06:12:45.758370+00:00",
-    "last_changed_at": "2026-10-19T06:12:45.758376+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42855778/",
       "checked_at": "2026-10-19T06:12:35.960700+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "3T小梁隧道成形术：联合白内障与单独手术",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "在POAG合并白内障中，联合超乳相对单独3T有何增益？",
+      "design": "回顾性59人71眼，联合35眼、单独36眼，随访6个月。",
+      "methods": [
+        "比较眼压、logMAR视力、药物数量、积血、眼压反跳及成功率；术后1日至6月多时点。"
+      ],
+      "results": [
+        "联合组眼压23.76降至15.28 mmHg；单独组24.56降至中位15.00，两组降压均显著、组间不显著。",
+        "联合组视力改善0.38 logMAR；反跳20.0%对41.7%，P<0.05。",
+        "成功率88.6%对80.6%、积血5.7%对11.1%，组间未显著。"
+      ],
+      "interpretation": "联合术视力改善符合去除白内障的作用；不能将全部改善归因于3T，也未证明更强降压或更高成功率。",
+      "limitations": [
+        "非随机、71眼来自59人，需核查双眼相关性。",
+        "仅6个月；均数与中位数混合报告不宜直接作均数差计算。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42855778/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42855778",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42855778/",
@@ -250166,7 +250721,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -250174,7 +250729,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -250192,7 +250747,7 @@
     "kind": "literature",
     "title": "Enhanced efficiency and endothelial protection of the intraocular lens shell technique in phacoemulsification: a retrospective stratified analysis by nuclear hardness.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "IOL-shell技术：手术效率与硬核亚组",
     "source": "Frontiers in medicine",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -250215,15 +250770,47 @@
       "Zhou L"
     ],
     "first_added_at": "2026-10-19T06:12:45.816845+00:00",
-    "last_changed_at": "2026-10-19T06:12:45.816850+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42845596/",
       "checked_at": "2026-10-19T06:12:36.820884+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "IOL-shell技术：手术效率与硬核亚组",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "IOL-shell是否减少能量、内皮损失及后囊破裂，效应是否受核硬度影响？",
+      "design": "回顾性200人，两组各100；按≥IV级和≤III级核硬度分层，视力随访1个月。",
+      "methods": [
+        "比较手术时间、CDE、内皮损失、后囊破裂、角膜水肿；进行术式×核硬度交互检验。"
+      ],
+      "results": [
+        "时间12.79对15.13 min，CDE8.36对12.03，内皮损失10.74%对14.59%；水肿18%对32%。",
+        "后囊破裂2%对8%，总体P=0.101；仅手术时间的核硬度交互显著，β−1.58，95%CI−2.93至−0.23。"
+      ],
+      "interpretation": "效率及短期内皮指标有积极关联；硬核亚组其他终点即使显著，也不能在交互不显著时认定获益更大。",
+      "limitations": [
+        "回顾性可能受术者经验与选择偏倚影响。",
+        "后囊破裂事件少、总体未显著；1个月无法判断长期IOL稳定或安全性。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42845596/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42845596",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42845596/",
@@ -250238,7 +250825,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -250246,7 +250833,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -250264,7 +250851,7 @@
     "kind": "literature",
     "title": "Large Language Models for Selecting Intraocular Lens Power Calculation Formulas: A Comparative Study.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "大模型选择IOL公式：较传统新公式的增益有限",
     "source": "Journal of refractive surgery (Thorofare, N.J. : 1995)",
     "resource_type": "Comparative Study; Journal Article",
     "year": 2026,
@@ -250287,15 +250874,47 @@
       "Lou W"
     ],
     "first_added_at": "2026-10-19T06:12:45.864697+00:00",
-    "last_changed_at": "2026-10-19T06:12:45.864708+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42842441/",
       "checked_at": "2026-10-19T06:12:37.962495+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "大模型选择IOL公式：较传统新公式的增益有限",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "按个体生物测量让大模型选择公式，能否改善屈光预测？",
+      "design": "208眼比较研究，10种大模型推荐6种候选公式；一模型因始终选Kane被排除。",
+      "methods": [
+        "输入眼轴、角膜曲率、前房深度和晶状体厚度，要求选唯一公式；与BUII及SRK/T比较预测误差精度、绝对误差及眼轴亚组。"
+      ],
+      "results": [
+        "多模型及BUII比SRK/T更精确；±0.50 D内比例Perplexity82.69%、ChatGPT82.21%、Qwen82.21%、BUII81.73%。",
+        "部分眼轴亚组较BUII有数值改善，但总体相对BUII优势有限。"
+      ],
+      "interpretation": "与SRK/T比较的优势不等于超过现代公式；约1个百分点总体差需结合区间及外部验证。模型选公式也不同于模型直接计算IOL度数。",
+      "limitations": [
+        "样本有限、多模型和多亚组比较易出现偶然最优。",
+        "摘要未说明模型版本、重复提示稳定性和外部验证；排除恒定选择模型可能改变公平比较。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42842441/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42842441",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42842441/",
@@ -250310,7 +250929,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -250318,7 +250937,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -250477,7 +251096,7 @@
     "kind": "literature",
     "title": "Phaco-Trabeculectomy Versus Phaco-XEN63 Gel Stent in Primary Open-Angle Glaucoma and Cataract: A Retrospective Comparative Study.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "联合超乳：小梁切除与XEN63一年比较",
     "source": "Current eye research",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -250501,15 +251120,48 @@
       "Sacchi M"
     ],
     "first_added_at": "2026-10-19T06:12:45.884148+00:00",
-    "last_changed_at": "2026-10-19T06:12:45.884153+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42850932/",
       "checked_at": "2026-10-19T06:12:37.962495+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "联合超乳：小梁切除与XEN63一年比较",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "POAG合并白内障时，Phaco-Trab与Phaco-XEN63有何差异？",
+      "design": "单中心回顾性34眼，小梁切除16、XEN63为18，随访12个月。",
+      "methods": [
+        "设眼压≤18且降低≥20%、≤15及≤12 mmHg三种成功阈值；分别统计无药完全成功与允许用药的条件成功。"
+      ],
+      "results": [
+        "12月眼压9.73±3.68对13.41±3.00 mmHg，小梁切除更低；减药也更多，P=0.017。",
+        "完全成功在三个阈值均偏向小梁切除；条件成功仅最严≤12阈值组间显著。",
+        "XEN63术后干预更多，视力变化无显著差。"
+      ],
+      "interpretation": "提示较低目标眼压下的小梁切除优势，但需同时看术后处理负担及不同成功定义；不能据34眼认定安全性孰优。",
+      "limitations": [
+        "非随机、样本很小、术式选择混杂。",
+        "摘要未给干预及并发症的具体人数，无法量化安全和照护成本差。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42850932/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42850932",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42850932/",
@@ -250524,7 +251176,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -250532,7 +251184,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -255077,7 +255729,7 @@
     "kind": "literature",
     "title": "Combined trabeculotomy-trabeculectomy with and without augmentation in primary congenital glaucoma: triple-armed randomized controlled trial.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "先天性青光眼CTT：MMC、Ologen与无增强三臂试验",
     "source": "International ophthalmology",
     "resource_type": "Randomized Controlled Trial; Journal Article",
     "year": 2023,
@@ -255101,15 +255753,47 @@
       "Al-Nashar HY"
     ],
     "first_added_at": "2026-10-19T06:13:28.047162+00:00",
-    "last_changed_at": "2026-10-19T06:13:28.047167+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/36266601/",
       "checked_at": "2026-10-19T06:13:25.194913+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "先天性青光眼CTT：MMC、Ologen与无增强三臂试验",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "联合小梁切开-小梁切除是否常规需要抗瘢痕增强？",
+      "design": "三臂随机试验，70眼随机，63眼完成一年并分析，每组21眼。",
+      "methods": [
+        "比较无增强CTT、MMC增强、Ologen增强；完全成功定义IOP<21 mmHg且无药/追加手术，另统计条件成功。"
+      ],
+      "results": [
+        "完全成功17/21、18/21、17/21；条件成功18/21、19/21、18/21。",
+        "一年累计成功率85.7%、90.5%、85.7%，log-rank P=0.862。"
+      ],
+      "interpretation": "结果没有证明常规增强的明确增益；MMC数值略高不构成优越，亦不能由不显著认定无需增强适用于所有严重程度。",
+      "limitations": [
+        "70随机但仅63完成者分析，可能有失访偏倚。",
+        "眼数与患儿数、双眼相关性及长期安全需正文；一年不足评估终生青光眼控制。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36266601/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/36266601",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/36266601/",
@@ -255124,7 +255808,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -255132,7 +255816,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -256097,7 +256781,7 @@
     "kind": "literature",
     "title": "Comparative analysis of outcomes of surface ablation for myopic astigmatism in patients after PKP and DALK.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "PKP与DALK后表层切削：四年屈光随访",
     "source": "European journal of ophthalmology",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -256118,15 +256802,47 @@
       "Karimian F"
     ],
     "first_added_at": "2026-10-19T06:13:39.945618+00:00",
-    "last_changed_at": "2026-10-19T06:13:39.945623+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42842325/",
       "checked_at": "2026-10-19T06:13:33.066680+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "PKP与DALK后表层切削：四年屈光随访",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "角膜移植后表层切削的效果是否受既往移植类型影响？",
+      "design": "回顾性36眼，既往DALK20眼、PKP16眼；拆线至少6个月后切削，至少随访4年。",
+      "methods": [
+        "比较远视力、等效球镜、安全/有效指数，并记录角膜厚度、切削深度、丝裂霉素及并发症。"
+      ],
+      "results": [
+        "安全指数1.14对1.12、有效指数0.94对0.84，差异不显著；术后等效球镜−2.18对−1.36 D，P=0.19。",
+        "两组混浊及并发症少；DALK组48个月等效球镜更稳定。"
+      ],
+      "interpretation": "可作为移植后残余屈光不正的观察性证据；主要终点未显著不表示等效，且仍残留近视。",
+      "limitations": [
+        "36眼无随机，移植前病情及剩余角膜结构可能不同。",
+        "摘要未给长期稳定性的效应区间和事件分母，不能推算个体安全阈值。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42842325/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42842325",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42842325/",
@@ -256141,7 +256857,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -256149,7 +256865,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -256167,7 +256883,7 @@
     "kind": "literature",
     "title": "Diabetes Severity in Cornea Donors and 1-Year Outcomes in Recipients in the Diabetes Endothelial Keratoplasty Study: A Secondary Analysis of a Randomized Clinical Trial.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "DEKS次级分析：供体糖尿病严重度与DMEK",
     "source": "JAMA ophthalmology",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -256209,15 +256925,48 @@
       ""
     ],
     "first_added_at": "2026-10-19T06:13:39.948968+00:00",
-    "last_changed_at": "2026-10-19T06:13:39.948974+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42848388/",
       "checked_at": "2026-10-19T06:13:33.066680+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "DEKS次级分析：供体糖尿病严重度与DMEK",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "供体HbA1c及糖化/氧化指标是否预测一年移植成败和内皮变化？",
+      "design": "美国28中心、46名术者的试验次级分析：1097人1421眼，95.2%为Fuchs病；低至中风险DMEK。",
+      "methods": [
+        "糖尿病/非糖尿病供体以最小化分配约1:2；按严重度评分及死后HbA1c分析，AGE/AOP为472名供体542片角膜子集。",
+        "终点为一年移植成功、内皮密度/丢失和细胞形态。"
+      ],
+      "results": [
+        "HbA1c<6.5%、6.5–<7.5%、7.5–<9.0%、≥9.0%对应成功率97.1%、97.4%、93.0%、95.8%，P=0.72。",
+        "严重度、HbA1c与AGE/AOP均未见与失败、密度及形态的显著关联；最高HbA1c组仅48眼。"
+      ],
+      "interpretation": "在该供体筛选及低中风险受体范围内，结果支持不因糖尿病指标单独拒绝角膜；严重度并非随机暴露，不能把次级关联分析称为随机比较不同HbA1c。",
+      "limitations": [
+        "高HbA1c组及生物标记子集较小，部分区间宽。",
+        "随访1年，不涵盖全部高风险受体或极端供体状态；摘要四个HbA1c分组人数总和少于全队列，需查缺测处理。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42848388/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42848388",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42848388/",
@@ -256232,7 +256981,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -256245,7 +256994,7 @@
         "pmid": null
       }
     ],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -256263,7 +257012,7 @@
     "kind": "literature",
     "title": "Timing of corneal cross-linking in eyes undergoing intracorneal ring segments for keratoconus: same-day versus staged CXL: a systematic review and meta-analysis.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "角膜环联合交联：同期与分期的短期比较",
     "source": "International ophthalmology",
     "resource_type": "Meta-Analysis; Comparative Study; Systematic Review; Journal Article",
     "year": 2026,
@@ -256285,15 +257034,47 @@
       "AlSabah DH"
     ],
     "first_added_at": "2026-10-19T06:13:39.952873+00:00",
-    "last_changed_at": "2026-10-19T06:13:39.952878+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41874765/",
       "checked_at": "2026-10-19T06:13:33.066680+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "角膜环联合交联：同期与分期的短期比较",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "ICRS植入当天交联，是否优于延迟数月交联？",
+      "design": "系统综述7项比较研究，2项随机试验、5项队列；检索至2025年10月。",
+      "methods": [
+        "比较同期ICRS+CXL与通常延迟3–6月CXL；共同效应模型综合视力、屈光、角膜曲率及不良事件。"
+      ],
+      "results": [
+        "6–12月视力与屈光变化接近；ΔUDVA和ΔCDVA的I²均0%。",
+        "Kmax无差，平均曲率有轻微偏向同期的变平趋势，但未明确显著；总体不良事件无明显差。"
+      ],
+      "interpretation": "目前更支持短期效果相近；I²=0不保证方法或临床完全一致，也不能证明两策略长期控制进展等效。",
+      "limitations": [
+        "研究少、随机与观察设计混合，摘要无合并效应量和区间。",
+        "缺长随访和进展控制终点，不应把短期曲率趋势当长期优越性。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41874765/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41874765",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/41874765/",
@@ -256308,7 +257089,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -256316,7 +257097,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -256406,7 +257187,7 @@
     "kind": "literature",
     "title": "Five-Year Follow-up of the ELZA-sub400 Protocol: Individualized Corneal Cross-linking With Riboflavin and UV-A in Ultrathin Keratoconic Corneas.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "ELZA-sub400超薄角膜交联：长期稳定性与随访分母",
     "source": "Journal of refractive surgery (Thorofare, N.J. : 1995)",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -256438,15 +257219,50 @@
       "Hafezi F"
     ],
     "first_added_at": "2026-10-19T06:13:39.985506+00:00",
-    "last_changed_at": "2026-10-19T06:13:39.985511+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42842445/",
       "checked_at": "2026-10-19T06:13:33.869669+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "ELZA-sub400超薄角膜交联：长期稳定性与随访分母",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "按基质厚度调整交联时间，能否稳定<400 μm角膜？",
+      "design": "回顾性病例系列33人39眼，基质214–398 μm；平均随访3.6年，18/39眼完成5年。",
+      "methods": [
+        "去上皮后按厚度调整3 mW/cm²照射时长；以分界线距内皮70 μm为目标；年度测Kmax、ARC3mm、视力及密度。"
+      ],
+      "results": [
+        "摘要报告33/39（84.6%）稳定或变平；Kmax平均−2.74 D，ARC3mm对应−1.29 D；视力中位0.40 logMAR未变。",
+        "未报告内皮失代偿；最薄厚度中位减少10 μm，前表面密度轻增。",
+        "“5年33/39稳定”的分母与仅18眼完成5年的陈述需进一步厘清。"
+      ],
+      "interpretation": "为以往不适合标准方案的超薄角膜提供观察性信号；不能将不同随访长度合并后的比例直接当作完整五年成功率。",
+      "limitations": [
+        "无对照、超过半数未完成5年，失访及分析集可能影响估计。",
+        "未失代偿不能排除小幅内皮损伤或罕见事件。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42842445/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42842445",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "concerns",
+      "evidence_issues": [
+        "摘要称18/39完成5年，却报告5年33/39稳定；未说明末次观察、插补或生存分析口径，暂不能确认真实五年分母。"
+      ]
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42842445/",
@@ -256461,7 +257277,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -256469,7 +257285,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -256628,7 +257444,7 @@
     "kind": "literature",
     "title": "Determination of the ablation center in LASIK surgery: comparison of three difference maps with anterior segment tomographic images.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "LASIK切削中心：三种差异地图的一致性",
     "source": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
     "resource_type": "Comparative Study; Research Support, Non-U.S. Gov't; Journal Article",
     "year": 2026,
@@ -256650,15 +257466,47 @@
       "Wang Y"
     ],
     "first_added_at": "2026-10-19T06:13:40.033643+00:00",
-    "last_changed_at": "2026-10-19T06:13:40.033649+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41484269/",
       "checked_at": "2026-10-19T06:13:35.140951+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "LASIK切削中心：三种差异地图的一致性",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "厚度、切向曲率及前表面高度差异图测得的中心是否可互换？",
+      "design": "回顾性56例FS-LASIK，3名观察者手工测量。",
+      "methods": [
+        "对比术前后厚度、曲率、高度差异图；用ICC、Bland–Altman及Bonferroni检验一致性。"
+      ],
+      "results": [
+        "距入瞳中心均值：厚度图0.366 mm、曲率图0.218 mm、高度图0.190 mm；厚度图更大，P<0.001。",
+        "观察者ICC依次0.868、0.929、0.931；y方向有差，x方向未显著。"
+      ],
+      "interpretation": "曲率与高度图相互更一致、重复性较高；但没有独立真值时不能仅凭两者一致就断言它们最接近真实切削中心。",
+      "limitations": [
+        "手工测量、样本小，Bland–Altman一致性界限未见于摘要。",
+        "术后角膜重塑会影响地图；本研究未证明某测量法改善临床视觉结局。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41484269/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41484269",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/41484269/",
@@ -256673,7 +257521,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -256681,7 +257529,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -258217,7 +259065,7 @@
     "kind": "literature",
     "title": "Modified Sub-Brow Blepharoplasty Reduces Early Postoperative Directional Wrinkles Without Compromising Surgical Outcomes: A Prospective Randomized Controlled Trial.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "改良眉下睑成形：早期皱褶改善能否持续",
     "source": "Aesthetic plastic surgery",
     "resource_type": "Journal Article",
     "year": 2026,
@@ -258242,15 +259090,47 @@
       "Cao J"
     ],
     "first_added_at": "2026-10-19T06:13:46.059340+00:00",
-    "last_changed_at": "2026-10-19T06:13:46.059346+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42850380/",
       "checked_at": "2026-10-19T06:13:42.362072+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "改良眉下睑成形：早期皱褶改善能否持续",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "改良术式能否减少术后上睑方向异常皱褶？",
+      "design": "前瞻性随机60名，改良眉下术对照眼轮匝肌瓣交叉固定，随访6个月。",
+      "methods": [
+        "比较主客观外观指标、医生GAIS及焦虑；报告3月和6月结果。"
+      ],
+      "results": [
+        "3月改良组异常皱褶较少、医生GAIS较高、焦虑较低。",
+        "6月早期差异消失，所有主客观指标未见显著组间差。"
+      ],
+      "interpretation": "优势主要落在早期恢复外观，不能称持续美容效果更好；6月无差也不是正式非劣效结论。",
+      "limitations": [
+        "摘要未给皱褶人数、量表差及置信区间。",
+        "需核对评估者盲法、分配隐藏和多终点处理，长期瘢痕及满意度未明确。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42850380/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42850380",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42850380/",
@@ -258265,7 +259145,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -258273,7 +259153,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -258291,7 +259171,7 @@
     "kind": "literature",
     "title": "A modified Y-shaped mucosal flap technique in endoscopic dacryocystorhinostomy.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "内镜DCR改良Y形瓣：早期愈合与复诊负担",
     "source": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
     "resource_type": "Comparative Study; Journal Article",
     "year": 2026,
@@ -258316,15 +259196,47 @@
       "Liu X"
     ],
     "first_added_at": "2026-10-19T06:13:46.098849+00:00",
-    "last_changed_at": "2026-10-19T06:13:46.098854+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41491415/",
       "checked_at": "2026-10-19T06:13:43.083244+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "内镜DCR改良Y形瓣：早期愈合与复诊负担",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "Y形鼻黏膜瓣配合膨胀海绵能否改善术后恢复？",
+      "design": "回顾性比较55人，Y形+海绵25人，传统D形瓣30人；随访12个月。",
+      "methods": [
+        "1周、1、3、12月评价术区内镜评分、耳鼻喉/眼科复诊次数和通畅/症状治愈。"
+      ],
+      "results": [
+        "1周评分1.640对2.933、1月0.720对2.233，均P<0.0001；3月中位0对1。",
+        "耳鼻喉复诊中位0对0.5，眼科1对2，均减少；12月通畅100%对90%、症状治愈96%对83.3%。"
+      ],
+      "interpretation": "提示早期恢复和复诊负担可能较好；瓣形与海绵同时改变，无法单独归因于Y形切口。",
+      "limitations": [
+        "非随机、55人；摘要未报告12月成功率差的检验或区间。",
+        "鼻腔条件、术者经验及复诊安排可能影响结果。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41491415/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41491415",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/41491415/",
@@ -258339,7 +259251,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -258347,7 +259259,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -258365,7 +259277,7 @@
     "kind": "literature",
     "title": "Outcomes of dacryocystorhinostomy with or without stent Insertion-A systematic review and Meta-analysis.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "DCR是否置管：18项随机试验的合并证据",
     "source": "Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie",
     "resource_type": "Meta-Analysis; Systematic Review; Journal Article",
     "year": 2026,
@@ -258393,15 +259305,47 @@
       "Wu DW"
     ],
     "first_added_at": "2026-10-19T06:13:46.102154+00:00",
-    "last_changed_at": "2026-10-19T06:13:46.102160+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41217508/",
       "checked_at": "2026-10-19T06:13:43.083244+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "DCR是否置管：18项随机试验的合并证据",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "支架对DCR成功率的影响是否因入路和留置时间不同？",
+      "design": "系统综述18项RCT，1517人；比较置管与不置管。",
+      "methods": [
+        "Mantel–Haenszel固定效应模型；按外路、内镜、激光辅助及≤6周/>6周分组。"
+      ],
+      "results": [
+        "总体OR1.691，95%CI1.196–2.391，P=0.003；平均成功率92.6%对88.2%。",
+        "外路亚组显著，内镜亚组未显著；≤6周亚组有获益，>6周未显著；激光辅助证据有限。"
+      ],
+      "interpretation": "总体优势约为平均成功率差4.4个百分点，不是成功概率提高69%。亚组显著性不同并不自动证明存在交互或≤6周优于更久。",
+      "limitations": [
+        "摘要未给入路/时长交互检验、风险偏倚和完整并发症估计。",
+        "短时与长时结果来自跨试验亚组，最佳拔管时点仍不确定。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41217508/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41217508",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/41217508/",
@@ -258416,7 +259360,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -258424,7 +259368,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -258442,7 +259386,7 @@
     "kind": "literature",
     "title": "[Establishment of the endonasal dacryocystorhinostomy technique and initial results at a German university eye hospital].",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "眼科团队开展鼻内镜DCR：早期学习曲线",
     "source": "Die Ophthalmologie",
     "resource_type": "Journal Article; English Abstract",
     "year": 2026,
@@ -258465,15 +259409,47 @@
       "Geerling G"
     ],
     "first_added_at": "2026-10-19T06:13:46.105963+00:00",
-    "last_changed_at": "2026-10-19T06:13:46.105967+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/41099798/",
       "checked_at": "2026-10-19T06:13:43.083244+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "眼科团队开展鼻内镜DCR：早期学习曲线",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "有经验眼整形术者在督导下能否建立鼻内镜DCR服务？",
+      "design": "德国大学医院初期系列，14人15次手术，3名术者；前6次由外部专家指导。",
+      "methods": [
+        "建立内镜设备与器械流程；比较前7次和后8次时间，记录拔管后主客观通畅及视力。"
+      ],
+      "results": [
+        "平均手术74±25 min，前7次93对后8次57 min，P=0.007；平均随访2.8个月。",
+        "13名患者症状消失且通畅，包括双侧病例；另一人仍有晨起黏涩但冲洗通畅，建议内镜复查。"
+      ],
+      "interpretation": "说明在既有眼整形经验和督导条件下有可行性；时间缩短不能单独证明技能全面熟练或长期成功率。",
+      "limitations": [
+        "无同期外路对照，仅与文献比较。",
+        "样本极小、随访短、三术者学习过程不同，不能把7例当普适培训门槛。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41099798/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41099798",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/41099798/",
@@ -258488,7 +259464,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -258496,7 +259472,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -258946,7 +259922,7 @@
     "kind": "literature",
     "title": "Prevalence of ocular surface squamous neoplasia in clinically diagnosed pterygium specimens: A systematic review and meta-analysis.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "临床翼状胬肉标本中的OSSN：病理复核价值",
     "source": "European journal of ophthalmology",
     "resource_type": "Review; Journal Article",
     "year": 2026,
@@ -258974,15 +259950,47 @@
       "Pourazizi M"
     ],
     "first_added_at": "2026-10-19T06:13:48.773309+00:00",
-    "last_changed_at": "2026-10-19T06:13:48.773314+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42852915/",
       "checked_at": "2026-10-19T06:13:47.339253+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "临床翼状胬肉标本中的OSSN：病理复核价值",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "临床诊断为胬肉的切除标本中有多少合并OSSN？",
+      "design": "21项横断面研究，22921人23165份标本；检索至2024年5月。",
+      "methods": [
+        "合并经病理确认的非胬肉及合并OSSN比例；剔除离群值后估计，并用地理坐标及区域肤色图作研究层面分析。"
+      ],
+      "results": [
+        "非胬肉诊断3.8%（95%CI1.9–5.8），合并OSSN3.7%（1.8–5.7）。",
+        "区域中等肤色研究合并比例10.25%；海拔与患病比例有研究层面正关联。"
+      ],
+      "interpretation": "支持重视手术标本病理评估，不能把3.7%外推到所有未手术胬肉人群；地域关联不构成个体肤色的因果或筛查依据。",
+      "limitations": [
+        "外科送检样本有选择偏倚，病理标准和地区病例构成可能不同。",
+        "离群值排除及生态学分组会影响汇总；标本数与人数不同。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42852915/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42852915",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42852915/",
@@ -258997,7 +260005,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -259005,7 +260013,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -259023,7 +260031,7 @@
     "kind": "literature",
     "title": "Minimally invasive strabismus surgery versus conventional surgical technique for inferior oblique recessions.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "下斜肌后徙MISS：早期外观与功能",
     "source": "Japanese journal of ophthalmology",
     "resource_type": "Comparative Study; Randomized Controlled Trial; Journal Article",
     "year": 2026,
@@ -259047,15 +260055,49 @@
       "Kumari S"
     ],
     "first_added_at": "2026-10-19T06:13:48.790301+00:00",
-    "last_changed_at": "2026-10-19T06:13:48.790305+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/40663230/",
       "checked_at": "2026-10-19T06:13:47.339253+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "下斜肌后徙MISS：早期外观与功能",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "微小切口下斜肌后徙相对传统切口能否改善恢复？",
+      "design": "前瞻性干预研究40名成人随机分组；随访1日、7日及6周。",
+      "methods": [
+        "MISS在下斜肌止端附近小放射切口；比较充血、水肿、结膜肿胀、最终眼位及残留下斜肌亢进。"
+      ],
+      "results": [
+        "后徙量约9.5 mm、组间接近；MISS早期充血、眶周水肿及1/7日结膜肿胀较少。",
+        "6周外观趋同；最终眼位及残留亢进无显著差。"
+      ],
+      "interpretation": "主要支持早期舒适/外观优势；摘要结论用“长期”一词，但实际最长仅6周，不能据此声称长期功能相同。",
+      "limitations": [
+        "40人、随访短，摘要缺效应量和不良事件分母。",
+        "两组无显著功能差不等于达到等效性标准。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40663230/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40663230",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "concerns",
+      "evidence_issues": [
+        "摘要将组间无差称为长期结果，但报告随访仅6周；本库按短期结果解读，长期疗效尚未证明。"
+      ]
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/40663230/",
@@ -259070,7 +260112,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -259078,7 +260120,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -259381,7 +260423,7 @@
     "kind": "literature",
     "title": "Müller muscle-conjunctival resection in modern ptosis surgery: patient selection, technical refinements, and expanding indications.",
     "aliases": [],
-    "seed_description": "新发现题录，尚待详细阅读。",
+    "seed_description": "MMCR现代综述：选择患者与多维评价",
     "source": "Frontiers in surgery",
     "resource_type": "Review; Journal Article",
     "year": 2026,
@@ -259401,15 +260443,47 @@
       "Mangan MS"
     ],
     "first_added_at": "2026-10-19T06:13:50.452274+00:00",
-    "last_changed_at": "2026-10-19T06:13:50.452282+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
     "identity": {
       "status": "verified",
       "source_url": "https://pubmed.ncbi.nlm.nih.gov/42852404/",
       "checked_at": "2026-10-19T06:13:49.869352+00:00",
-      "scope": "PubMed题名与DOI对应；尚未阅读全文",
+      "scope": "PubMed与Europe PMC题名、DOI对应；本轮逐项核读摘要，范围见笔记。",
       "conflicts": []
     },
-    "note": null,
+    "note": {
+      "zh_title": "MMCR现代综述：选择患者与多维评价",
+      "scope": "abstract",
+      "scope_description": "逐项核读 Europe PMC / PubMed 收录摘要；笔记覆盖摘要可证实的设计、结果与局限，未声称已阅读全文。",
+      "completion": "substantive",
+      "question": "后路Müller肌-结膜切除的适应证和改良技术有哪些证据边界？",
+      "design": "叙述性综述；摘要未报告系统检索流程、纳入篇数或合并分析。",
+      "methods": [
+        "讨论苯肾上腺素反应、提肌功能、严重程度、切除量算法；涉及睑板切除、缝线简化、结膜保留与围术期眼表保护。"
+      ],
+      "results": [
+        "总结部分非典型患者应用的扩展，指出苯肾上腺素预测价值不稳定且无通用切除算法。",
+        "成功定义不一致，单看睑高可能漏掉轮廓、双侧对称、眼表健康及患者体验。"
+      ],
+      "interpretation": "适合建立术前评估与结局评价清单；“扩大适应证”是综述讨论，不能当作已验证所有亚型都适用。",
+      "limitations": [
+        "摘要无具体成功率、风险比或各技术证据等级。",
+        "先天、神经及神经肌肉性下垂需分别评价，不能由总括性叙述替代个体筛选。"
+      ],
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42852404/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42852404",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "read_at": "2026-10-19T14:44:02.045268+00:00",
+      "evidence_status": "no_concern_identified_in_read_scope",
+      "evidence_issues": []
+    },
     "page_checks": [
       {
         "requested_url": "https://pubmed.ncbi.nlm.nih.gov/42852404/",
@@ -259424,7 +260498,7 @@
       "url": null,
       "read_scope": null
     },
-    "publication_status": "verified-index-pending-reading",
+    "publication_status": "verified-index",
     "video": {
       "playback": "unknown",
       "embedding": "unknown",
@@ -259432,7 +260506,7 @@
       "relations": []
     },
     "corrections": [],
-    "scientific_status_checked_at": null,
+    "scientific_status_checked_at": "2026-10-19T14:45:15.959948+00:00",
     "source_changed_since_note": null,
     "urls": [
       {
@@ -259442,6 +260516,156 @@
       {
         "url": "https://doi.org/10.3389/fsurg.2026.1950682",
         "label": "DOI"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-90038224bbb0",
+    "kind": "video",
+    "title": "Lecture: Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
+    "aliases": [],
+    "seed_description": "眼表重建：病例、技术选择与围术期决策。Leela Raju以病例讨论重建适应证、基础病理与术式选择，结合手术示教讲解术中判断、常见陷阱、并发症及延迟愈合的处理思路。属于含手术片段的教学讲座，不能据此推算疗效或成功率。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "CR",
+    "procedures": [
+      "surface",
+      "cornea-repair"
+    ],
+    "cross_sections": [
+      "CR"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [
+      "Leela Raju"
+    ],
+    "first_added_at": "2026-10-19T14:45:15.959948+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
+      "checked_at": "2026-10-19T14:45:15.959948+00:00",
+      "scope": "官方CMS、具体页标题、课程简介和正式Wistia入口已对应；未完成实际播放。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
+        "final_url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
+        "checked_at": "2026-10-19T14:36:08.955427+00:00",
+        "status": 200,
+        "sha256": "db0cbcf2eea1b94e2aa5f47e50ebe054f5843a7fba8b4e8530985d3e9beedb0e",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "眼表重建：病例、技术选择与围术期决策。Leela Raju以病例讨论重建适应证、基础病理与术式选择，结合手术示教讲解术中判断、常见陷阱、并发症及延迟愈合的处理思路。属于含手术片段的教学讲座，不能据此推算疗效或成功率。",
+      "summary_basis": "依据官方具体页面的标题与课程简介；未转录或逐帧分析视频。页面发布日期 2026-10-05。 https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
+      "playback": "unknown",
+      "playback_evidence": "2026-10-19浏览器导航及后续页面读取均超时；仅确认原站页面与正式播放器入口，不计播放测试通过。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
+        "label": "原站观看页面"
+      }
+    ]
+  },
+  {
+    "id": "eye-v-2ddceca6b05c",
+    "kind": "video",
+    "title": "Lecture: Thyroid Eye Disease: From Diagnosis and Monitoring to Modern Treatment Strategies",
+    "aliases": [],
+    "seed_description": "甲状腺眼病的诊断、监测与治疗进展讲座。官方简介涵盖AI辅助疾病监测、生物制剂、眼睑异常处理及眼眶减压手术，由越南和国际专家讨论临床经验。属于综合教学，眼眶与眼睑手术只是其中一部分，不是完整单一术式录像。",
+    "source": "Orbis · Cybersight",
+    "resource_type": "手术教学讲座",
+    "year": 2026,
+    "language": "en",
+    "section": "OCP",
+    "procedures": [
+      "decompression",
+      "lid-malposition"
+    ],
+    "cross_sections": [
+      "OCP"
+    ],
+    "doi": null,
+    "pmid": null,
+    "pmcid": null,
+    "authors": [],
+    "first_added_at": "2026-10-19T14:45:15.959948+00:00",
+    "last_changed_at": "2026-10-19T14:45:15.959948+00:00",
+    "identity": {
+      "status": "verified",
+      "source_url": "https://cybersight.org/library/lecture-thyroid-eye-disease-from-diagnosis-and-monitoring-to-modern-treatment-strategies/",
+      "checked_at": "2026-10-19T14:45:15.959948+00:00",
+      "scope": "官方CMS、具体页标题、课程简介和正式Wistia入口已对应；未完成实际播放。",
+      "conflicts": []
+    },
+    "note": null,
+    "page_checks": [
+      {
+        "requested_url": "https://cybersight.org/library/lecture-thyroid-eye-disease-from-diagnosis-and-monitoring-to-modern-treatment-strategies/",
+        "final_url": "https://cybersight.org/library/lecture-thyroid-eye-disease-from-diagnosis-and-monitoring-to-modern-treatment-strategies/",
+        "checked_at": "2026-10-19T14:36:15.608343+00:00",
+        "status": 200,
+        "sha256": "bfe36870a9faa666a8e7a80034321bec8e9d01cee48698803f6779ae034df391",
+        "page_state": "具体视频页题名、正文说明与播放入口已对应；播放未测试",
+        "page_title": "Lecture: Thyroid Eye Disease: From Diagnosis and Monitoring to Modern Treatment Strategies",
+        "title_present": true,
+        "title_match_source": "Cybersight single library article + hero h1",
+        "content_format": "HTML"
+      }
+    ],
+    "fulltext": {
+      "status": "not_applicable",
+      "url": null,
+      "read_scope": null
+    },
+    "publication_status": "verified-index",
+    "video": {
+      "summary": "甲状腺眼病的诊断、监测与治疗进展讲座。官方简介涵盖AI辅助疾病监测、生物制剂、眼睑异常处理及眼眶减压手术，由越南和国际专家讨论临床经验。属于综合教学，眼眶与眼睑手术只是其中一部分，不是完整单一术式录像。",
+      "summary_basis": "依据官方具体页面的标题与课程简介；未转录或逐帧分析视频。页面发布日期 2026-10-19。 https://cybersight.org/library/lecture-thyroid-eye-disease-from-diagnosis-and-monitoring-to-modern-treatment-strategies/",
+      "playback": "unknown",
+      "playback_evidence": "2026-10-19浏览器导航及后续页面读取均超时；仅确认原站页面与正式播放器入口，不计播放测试通过。",
+      "embedding": "unknown",
+      "embed_test": "not_attempted",
+      "duration": null,
+      "audio_language": null,
+      "subtitle_language": null,
+      "relations": []
+    },
+    "corrections": null,
+    "scientific_status_checked_at": null,
+    "source_changed_since_note": null,
+    "urls": [
+      {
+        "url": "https://cybersight.org/library/lecture-thyroid-eye-disease-from-diagnosis-and-monitoring-to-modern-treatment-strategies/",
+        "label": "原站观看页面"
       }
     ]
   }
