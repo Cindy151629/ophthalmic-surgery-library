@@ -1,0 +1,636 @@
+{
+  "checked_at": "2026-10-19T14:45:15.959948+00:00",
+  "scope": "按用户选择优先最新研究及高价值指南/试验；27篇2026文献、1篇共识、1篇试验方案及4篇随机试验。其余历史补漏保留待阅读，不冒充详细笔记。",
+  "remote_scheduled_runs": [
+    39208553158,
+    38217195911,
+    37275471461
+  ],
+  "automatically_added_since_20261002": 336,
+  "identity_checks": {
+    "checked": 336,
+    "conflicts": []
+  },
+  "new_substantive_notes": 33,
+  "new_note_scopes": {
+    "abstract": 33
+  },
+  "new_videos": [
+    {
+      "id": "eye-v-90038224bbb0",
+      "title": "Lecture: Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
+      "url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "hiome4mwpx",
+          "url": "https://fast.wistia.net/embed/iframe/hiome4mwpx?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    },
+    {
+      "id": "eye-v-2ddceca6b05c",
+      "title": "Lecture: Thyroid Eye Disease: From Diagnosis and Monitoring to Modern Treatment Strategies",
+      "url": "https://cybersight.org/library/lecture-thyroid-eye-disease-from-diagnosis-and-monitoring-to-modern-treatment-strategies/",
+      "media": [
+        {
+          "kind": "wistia",
+          "media_id": "evo2ozymus",
+          "url": "https://fast.wistia.net/embed/iframe/evo2ozymus?web_component=true&seo=false",
+          "locator": "resource iframe[data-src]"
+        }
+      ]
+    }
+  ],
+  "video_catalog_scope": "Cybersight 2026-10-02以来发布的9条CMS记录，完整1页；核查3个具体页。另复核今日云端Moran/EyeRounds目录遍历记录。",
+  "playback_passed": 0,
+  "total_resources": 1707,
+  "articles": 1385,
+  "videos": 322,
+  "completion": {
+    "substantive": 1067,
+    "limited": 8,
+    "pending": 310
+  },
+  "source_concerns": 27,
+  "remaining_new_unread": 303,
+  "preservation": {
+    "previous_resources": 1705,
+    "current_resources": 1707,
+    "resources_preserved": true,
+    "authored_notes_present": 1082,
+    "checked_at": "2026-10-19T14:45:16.744090+00:00"
+  },
+  "entries": [
+    {
+      "id": "eye-a-501e14c930f3",
+      "pmid": "42635456",
+      "title": "Comparison of manual marking and femtosecond laser-assisted capsular marking methods for toric intraocular lens alignment.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42635456/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42635456",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-34d97679740d",
+      "pmid": "37493073",
+      "title": "Macular hole Delphi consensus statement (MHOST).",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37493073/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/37493073",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-c387342b89e8",
+      "pmid": "32513229",
+      "title": "Does internal limiting membrane peeling during epiretinal membrane surgery induce microscotomas on microperimetry? Study protocol for PEELING, a randomized controlled clinical trial.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32513229/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/32513229",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-0fb042493a0a",
+      "pmid": "42829007",
+      "title": "Effectiveness of selective laser trabeculoplasty in lowering intraocular pressure in pseudoexfoliative glaucoma: a systematic review.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42829007/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42829007",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-14e79519d4f5",
+      "pmid": "42556442",
+      "title": "Differential accommodative responses to autostereoscopic 3D visual training in patients following SMILE versus ICL surgery.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42556442/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42556442",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-09e7d4562d6c",
+      "pmid": "42829611",
+      "title": "Minimally invasive resection of a spheno-orbital tumor: Review of surgical techniques and a case report.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42829611/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42829611",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-5d9e38b8d03e",
+      "pmid": "42487125",
+      "title": "Longitudinal refractive changes following orbital decompression in thyroid eye disease: dominant role of axial configuration and globe position with contributions from surgical technique and corneal biomechanics.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42487125/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42487125",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-44e3d0395d0f",
+      "pmid": "42125262",
+      "title": "Perioperative low-level light therapy for ocular surface protection in patients undergoing Femto-LASIK: a prospective double-masked, randomized controlled study.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42125262/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42125262",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-d9092d6e0ba0",
+      "pmid": "41721919",
+      "title": "Comparison of different antibiotic prophylaxis regimens for the prevention of endophthalmitis after penetrating keratoplasty.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41721919/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41721919",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-0e823642f816",
+      "pmid": "40243332",
+      "title": "Comparison of Postoperative Intraocular Inflammation in Dogs Receiving Transzonular Intravitreal Triamcinolone-Moxifloxacin Versus Subconjunctival Triamcinolone After Phacoemulsification.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40243332/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40243332",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-d964d24c0e1c",
+      "pmid": "40538011",
+      "title": "Phacoemulsification in the Boston Terrier Breed: A Pilot Study Comparing Success Rates of Intentional Aphakia to Pseudophakia.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40538011/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40538011",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": [
+        "摘要12/26保留视力同时写42.3%；直接计算约46.2%，无法据摘要判断人数或百分比何者错误。"
+      ]
+    },
+    {
+      "id": "eye-a-7169796ec92e",
+      "pmid": "40736060",
+      "title": "Standard Monofocal Intraocular Lenses Versus Enhanced Monofocal Intraocular Lenses for Children 6 to 13 Years Old With Pediatric Cataract.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40736060/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40736060",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-411c339216f7",
+      "pmid": "39836497",
+      "title": "Nd:YAG Laser Iridotomy Versus Surgical Iridectomy in Descemet Membrane Endothelial Keratoplasty: Comparison of Postoperative Outcome and Incidence of Ocular Hypertension.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39836497/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/39836497",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-8ec6e7986c90",
+      "pmid": "42855778",
+      "title": "[Efficacy and safety of trabeculotome tunnelling trabeculoplasty with versus without phacoemulsification in patients with primary open-angle glaucoma and cataract].",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42855778/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42855778",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-5edcc2c09485",
+      "pmid": "42845596",
+      "title": "Enhanced efficiency and endothelial protection of the intraocular lens shell technique in phacoemulsification: a retrospective stratified analysis by nuclear hardness.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42845596/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42845596",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-70613e5064d9",
+      "pmid": "42842441",
+      "title": "Large Language Models for Selecting Intraocular Lens Power Calculation Formulas: A Comparative Study.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42842441/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42842441",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-5cd3077ea54c",
+      "pmid": "42850932",
+      "title": "Phaco-Trabeculectomy Versus Phaco-XEN63 Gel Stent in Primary Open-Angle Glaucoma and Cataract: A Retrospective Comparative Study.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42850932/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42850932",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-3dab9942330e",
+      "pmid": "42842325",
+      "title": "Comparative analysis of outcomes of surface ablation for myopic astigmatism in patients after PKP and DALK.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42842325/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42842325",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-7ef10139dd3b",
+      "pmid": "42848388",
+      "title": "Diabetes Severity in Cornea Donors and 1-Year Outcomes in Recipients in the Diabetes Endothelial Keratoplasty Study: A Secondary Analysis of a Randomized Clinical Trial.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42848388/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42848388",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-eaf6cedc7ea2",
+      "pmid": "41874765",
+      "title": "Timing of corneal cross-linking in eyes undergoing intracorneal ring segments for keratoconus: same-day versus staged CXL: a systematic review and meta-analysis.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41874765/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41874765",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-bfc833b9e80f",
+      "pmid": "42842445",
+      "title": "Five-Year Follow-up of the ELZA-sub400 Protocol: Individualized Corneal Cross-linking With Riboflavin and UV-A in Ultrathin Keratoconic Corneas.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42842445/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42842445",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": [
+        "摘要称18/39完成5年，却报告5年33/39稳定；未说明末次观察、插补或生存分析口径，暂不能确认真实五年分母。"
+      ]
+    },
+    {
+      "id": "eye-a-66711f0d3187",
+      "pmid": "41484269",
+      "title": "Determination of the ablation center in LASIK surgery: comparison of three difference maps with anterior segment tomographic images.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41484269/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41484269",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-a72f1a8439e2",
+      "pmid": "42850380",
+      "title": "Modified Sub-Brow Blepharoplasty Reduces Early Postoperative Directional Wrinkles Without Compromising Surgical Outcomes: A Prospective Randomized Controlled Trial.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42850380/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42850380",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-fd26da52a7da",
+      "pmid": "41491415",
+      "title": "A modified Y-shaped mucosal flap technique in endoscopic dacryocystorhinostomy.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41491415/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41491415",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-2d91b073fab4",
+      "pmid": "41217508",
+      "title": "Outcomes of dacryocystorhinostomy with or without stent Insertion-A systematic review and Meta-analysis.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41217508/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41217508",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-6b55a175c01a",
+      "pmid": "41099798",
+      "title": "[Establishment of the endonasal dacryocystorhinostomy technique and initial results at a German university eye hospital].",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41099798/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/41099798",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-c6f8f4557d85",
+      "pmid": "42852915",
+      "title": "Prevalence of ocular surface squamous neoplasia in clinically diagnosed pterygium specimens: A systematic review and meta-analysis.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42852915/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42852915",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-97e01cd88ea5",
+      "pmid": "40663230",
+      "title": "Minimally invasive strabismus surgery versus conventional surgical technique for inferior oblique recessions.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40663230/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40663230",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": [
+        "摘要将组间无差称为长期结果，但报告随访仅6周；本库按短期结果解读，长期疗效尚未证明。"
+      ]
+    },
+    {
+      "id": "eye-a-4dcf53a83c83",
+      "pmid": "42852404",
+      "title": "Müller muscle-conjunctival resection in modern ptosis surgery: patient selection, technical refinements, and expanding indications.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42852404/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/42852404",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-6a0e157dd989",
+      "pmid": "37968512",
+      "title": "Long-term outcomes of Mitomycin-C augmented trabeculectomy using subconjunctival injections versus soaked sponges: a randomised controlled trial.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37968512/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/37968512",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": [
+        "摘要海绵组药物由2.32降至1.13却附P=0.930，未明确此P值对应组内还是组间比较，需正文澄清。"
+      ]
+    },
+    {
+      "id": "eye-a-52c448f70ffe",
+      "pmid": "40134609",
+      "title": "Subnuclear Phacoemulsification to Reduce Corneal Injury in Nuclear Cataract Surgery: Evidence From a Randomized Controlled Trial.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40134609/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40134609",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-01b6bc787812",
+      "pmid": "40662090",
+      "title": "Randomized controlled bilateral comparison of femtosecond laser-assisted cataract surgery versus conventional phacoemulsification.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40662090/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/40662090",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    },
+    {
+      "id": "eye-a-e38afb6eb833",
+      "pmid": "36266601",
+      "title": "Combined trabeculotomy-trabeculectomy with and without augmentation in primary congenital glaucoma: triple-armed randomized controlled trial.",
+      "sources": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36266601/",
+          "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+        },
+        {
+          "url": "https://europepmc.org/article/MED/36266601",
+          "locator": "收录摘要与题录交叉核对"
+        }
+      ],
+      "scope": "abstract",
+      "issues": []
+    }
+  ]
+}

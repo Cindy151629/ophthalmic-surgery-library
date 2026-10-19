@@ -577,5 +577,85 @@
         "locator": "完整摘要：目的、设计、方法、结果、结论"
       }
     ]
+  },
+  {
+    "id": "eye-a-6a0e157dd989",
+    "title": "Long-term outcomes of Mitomycin-C augmented trabeculectomy using subconjunctival injections versus soaked sponges: a randomised controlled trial.",
+    "pmid": "37968512",
+    "completion": "substantive",
+    "scope": "abstract",
+    "issues": [
+      "摘要海绵组药物由2.32降至1.13却附P=0.930，未明确此P值对应组内还是组间比较，需正文澄清。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37968512/",
+        "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+      },
+      {
+        "url": "https://europepmc.org/article/MED/37968512",
+        "locator": "收录摘要与题录交叉核对"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-d964d24c0e1c",
+    "title": "Phacoemulsification in the Boston Terrier Breed: A Pilot Study Comparing Success Rates of Intentional Aphakia to Pseudophakia.",
+    "pmid": "40538011",
+    "completion": "substantive",
+    "scope": "abstract",
+    "issues": [
+      "摘要12/26保留视力同时写42.3%；直接计算约46.2%，无法据摘要判断人数或百分比何者错误。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40538011/",
+        "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+      },
+      {
+        "url": "https://europepmc.org/article/MED/40538011",
+        "locator": "收录摘要与题录交叉核对"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-bfc833b9e80f",
+    "title": "Five-Year Follow-up of the ELZA-sub400 Protocol: Individualized Corneal Cross-linking With Riboflavin and UV-A in Ultrathin Keratoconic Corneas.",
+    "pmid": "42842445",
+    "completion": "substantive",
+    "scope": "abstract",
+    "issues": [
+      "摘要称18/39完成5年，却报告5年33/39稳定；未说明末次观察、插补或生存分析口径，暂不能确认真实五年分母。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42842445/",
+        "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+      },
+      {
+        "url": "https://europepmc.org/article/MED/42842445",
+        "locator": "收录摘要与题录交叉核对"
+      }
+    ]
+  },
+  {
+    "id": "eye-a-97e01cd88ea5",
+    "title": "Minimally invasive strabismus surgery versus conventional surgical technique for inferior oblique recessions.",
+    "pmid": "40663230",
+    "completion": "substantive",
+    "scope": "abstract",
+    "issues": [
+      "摘要将组间无差称为长期结果，但报告随访仅6周；本库按短期结果解读，长期疗效尚未证明。"
+    ],
+    "sources": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40663230/",
+        "locator": "题名、标识符与结构式摘要；方法/结果/结论"
+      },
+      {
+        "url": "https://europepmc.org/article/MED/40663230",
+        "locator": "收录摘要与题录交叉核对"
+      }
+    ]
   }
 ]

@@ -86688,14 +86688,6 @@
     "discovered_at": "2026-10-12T07:22:22.955389+00:00"
   },
   {
-    "key": "video:9138a58f772e03db41663e347026611c45b41db2f64294dd3cc1e798ef7f0693",
-    "title": "Lecture: Ocular Surface Reconstruction – Techniques, Cases, and Surgical Pearls",
-    "reason": "视频术式尚不能可靠分类",
-    "source": "Video-Cybersight",
-    "url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-techniques-cases-and-surgical-pearls/",
-    "discovered_at": "2026-10-12T07:24:52.989206+00:00"
-  },
-  {
     "key": "video:29d1f8b683c4ba3cef248df45c17043204cec3cf5494f0ae3733edddb62d2487",
     "title": "Quiz: Incidental Refractile Vitreous Opacities​​​",
     "reason": "未确认主资源内的正式播放器或有效媒体标识",
@@ -98486,5 +98478,13 @@
     "source": "link-audit",
     "url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
     "discovered_at": "2026-10-19T06:18:21.498907+00:00"
+  },
+  {
+    "key": "url:https://cybersight.org/library/bai-giang-benh-mat-tuyen-giap-tu-chan-doan-theo-doi-den-cac-chien-luoc-dieu-tri-hien-dai",
+    "title": "Bài giảng: Bệnh mắt tuyến giáp: Từ chẩn đoán, theo dõi đến các chiến lược điều trị hiện đại",
+    "url": "https://cybersight.org/library/bai-giang-benh-mat-tuyen-giap-tu-chan-doan-theo-doi-den-cac-chien-luoc-dieu-tri-hien-dai/",
+    "reason": "与英文TED讲座同题且简介对应，媒体ID不同；未实播核对多语言版本关系，本轮仅收录英文页面，不增加可能重复的计数。",
+    "source": "Cybersight-video-review",
+    "discovered_at": "2026-10-19T14:45:15.959948+00:00"
   }
 ]
