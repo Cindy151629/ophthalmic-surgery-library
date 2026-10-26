@@ -1,5 +1,5 @@
 {
-  "last_attempt": "2026-10-19T06:12:28.692690+00:00",
+  "last_attempt": "2026-10-26T06:11:58.052825+00:00",
   "last_outcome": "partial",
   "deployed": true,
   "schedule_state": "远程周更已启用；未来定时触发另行记录",
@@ -318,18 +318,9 @@
   "last_local_run": "2026-10-19T06:18:22.068375+00:00",
   "schedule_description": "每周一09:17 · Asia/Shanghai；复用既有维护时段",
   "next_run": "2026-10-26T09:17:00+08:00",
-  "last_attempt_status": "partial",
-  "last_counts": {
-    "added": 128,
-    "staged": 1297,
-    "records": 1705
-  },
-  "last_errors": [
-    {
-      "source": "Primary-links",
-      "reason": "主链接存在访问受限或因同源连续失败而延期的条目；保留上次内容及证据"
-    }
-  ],
+  "last_attempt_status": "running",
+  "last_counts": {},
+  "last_errors": [],
   "first_attempt": "2026-09-16T16:12:29.622474+00:00",
   "last_deploy": "2026-10-19T14:51:16.727126+00:00",
   "workflow_url": "https://github.com/Cindy151629/ophthalmic-surgery-library/actions/runs/39272593339",
