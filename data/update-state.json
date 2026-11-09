@@ -11,13 +11,13 @@
       "historical_end": "2025-08-17"
     },
     "EuropePMC-GL": {
-      "last_success": "2026-11-02T07:41:50.842313+00:00",
-      "last_query": "((TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")) AND (FIRST_IDATE:[2026-09-26 TO 2026-11-02] OR UPDATE_DATE:[2026-09-26 TO 2026-11-02])",
+      "last_success": "2026-11-09T07:59:02.915465+00:00",
+      "last_query": "((TITLE_ABS:\"trabeculectomy\" OR TITLE_ABS:\"glaucoma drainage\" OR TITLE_ABS:\"Baerveldt\" OR TITLE_ABS:\"Ahmed glaucoma\" OR TITLE_ABS:\"MIGS\" OR TITLE_ABS:\"iStent\" OR TITLE_ABS:\"Hydrus\" OR TITLE_ABS:\"PRESERFLO\" OR TITLE_ABS:\"XEN gel stent\" OR TITLE_ABS:\"goniotomy\" OR TITLE_ABS:\"trabeculotomy\" OR TITLE_ABS:\"cyclophotocoagulation\" OR TITLE_ABS:\"laser trabeculoplasty\" OR TITLE_ABS:\"laser iridotomy\")) AND (FIRST_IDATE:[2026-10-03 TO 2026-11-09] OR UPDATE_DATE:[2026-10-03 TO 2026-11-09])",
       "historical_end": "2024-08-17"
     },
     "EuropePMC-CR": {
-      "last_success": "2026-11-02T07:43:01.532937+00:00",
-      "last_query": "((TITLE_ABS:\"keratoplasty\" OR TITLE_ABS:\"DMEK\" OR TITLE_ABS:\"DSAEK\" OR TITLE_ABS:\"DALK\" OR TITLE_ABS:\"limbal stem cell transplantation\" OR TITLE_ABS:\"pterygium surgery\" OR TITLE_ABS:\"corneal perforation\" OR TITLE_ABS:\"corneal cross-linking\" OR TITLE_ABS:\"intracorneal ring\" OR TITLE_ABS:\"LASIK\" OR TITLE_ABS:\"photorefractive keratectomy\" OR TITLE_ABS:\"small incision lenticule extraction\" OR TITLE_ABS:\"implantable collamer lens\")) AND (FIRST_IDATE:[2026-09-26 TO 2026-11-02] OR UPDATE_DATE:[2026-09-26 TO 2026-11-02])",
+      "last_success": "2026-11-09T07:59:18.628252+00:00",
+      "last_query": "((TITLE_ABS:\"keratoplasty\" OR TITLE_ABS:\"DMEK\" OR TITLE_ABS:\"DSAEK\" OR TITLE_ABS:\"DALK\" OR TITLE_ABS:\"limbal stem cell transplantation\" OR TITLE_ABS:\"pterygium surgery\" OR TITLE_ABS:\"corneal perforation\" OR TITLE_ABS:\"corneal cross-linking\" OR TITLE_ABS:\"intracorneal ring\" OR TITLE_ABS:\"LASIK\" OR TITLE_ABS:\"photorefractive keratectomy\" OR TITLE_ABS:\"small incision lenticule extraction\" OR TITLE_ABS:\"implantable collamer lens\")) AND (FIRST_IDATE:[2026-10-03 TO 2026-11-09] OR UPDATE_DATE:[2026-10-03 TO 2026-11-09])",
       "historical_end": "2025-08-17"
     },
     "EuropePMC-OCP": {
@@ -25,36 +25,36 @@
       "last_query": "((TITLE_ABS:\"blepharoptosis surgery\" OR TITLE_ABS:\"blepharoplasty\" OR TITLE_ABS:\"eyelid reconstruction\" OR TITLE_ABS:\"entropion surgery\" OR TITLE_ABS:\"ectropion surgery\" OR TITLE_ABS:\"dacryocystorhinostomy\" OR TITLE_ABS:\"canalicular laceration\" OR TITLE_ABS:\"orbital decompression\" OR TITLE_ABS:\"orbital fracture surgery\" OR TITLE_ABS:\"evisceration\" OR TITLE_ABS:\"anophthalmic socket\")) AND (FIRST_IDATE:[2026-09-26 TO 2026-11-02] OR UPDATE_DATE:[2026-09-26 TO 2026-11-02])"
     },
     "EuropePMC-PTO": {
-      "last_success": "2026-11-02T07:43:19.413508+00:00",
-      "last_query": "((TITLE_ABS:\"strabismus surgery\" OR TITLE_ABS:\"rectus transposition\" OR TITLE_ABS:\"pediatric cataract surgery\" OR TITLE_ABS:\"congenital glaucoma surgery\" OR TITLE_ABS:\"retinopathy of prematurity vitrectomy\" OR TITLE_ABS:\"open globe repair\" OR TITLE_ABS:\"intraocular foreign body\" OR TITLE_ABS:\"uveal melanoma biopsy\" OR TITLE_ABS:\"conjunctival melanoma surgery\" OR TITLE_ABS:\"retinoblastoma enucleation\" OR TITLE_ABS:\"ocular surface squamous neoplasia\")) AND (FIRST_IDATE:[2026-09-26 TO 2026-11-02] OR UPDATE_DATE:[2026-09-26 TO 2026-11-02])",
+      "last_success": "2026-11-09T07:59:40.742389+00:00",
+      "last_query": "((TITLE_ABS:\"strabismus surgery\" OR TITLE_ABS:\"rectus transposition\" OR TITLE_ABS:\"pediatric cataract surgery\" OR TITLE_ABS:\"congenital glaucoma surgery\" OR TITLE_ABS:\"retinopathy of prematurity vitrectomy\" OR TITLE_ABS:\"open globe repair\" OR TITLE_ABS:\"intraocular foreign body\" OR TITLE_ABS:\"uveal melanoma biopsy\" OR TITLE_ABS:\"conjunctival melanoma surgery\" OR TITLE_ABS:\"retinoblastoma enucleation\" OR TITLE_ABS:\"ocular surface squamous neoplasia\")) AND (FIRST_IDATE:[2026-10-03 TO 2026-11-09] OR UPDATE_DATE:[2026-10-03 TO 2026-11-09])",
       "historical_end": "2025-08-17"
     },
     "EuropePMC-GEN": {
-      "last_success": "2026-11-02T07:43:21.983102+00:00",
-      "last_query": "(((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))) AND (FIRST_IDATE:[2026-09-26 TO 2026-11-02] OR UPDATE_DATE:[2026-09-26 TO 2026-11-02])",
+      "last_success": "2026-11-09T07:59:42.797125+00:00",
+      "last_query": "(((TITLE_ABS:ophthalmic OR TITLE_ABS:cataract OR TITLE_ABS:ocular) AND (TITLE_ABS:\"surgical simulation\" OR TITLE_ABS:\"surgical training\" OR TITLE_ABS:\"surgical safety\" OR TITLE_ABS:\"robot surgery\" OR TITLE_ABS:perioperative OR TITLE_ABS:\"endophthalmitis prophylaxis\" OR TITLE_ABS:\"regional anesthesia\"))) AND (FIRST_IDATE:[2026-10-03 TO 2026-11-09] OR UPDATE_DATE:[2026-10-03 TO 2026-11-09])",
       "historical_end": "2025-08-17"
     },
     "Video-Moran": {
-      "last_success": "2026-11-02T07:45:30.399616+00:00",
+      "last_success": "2026-11-09T08:01:03.698456+00:00",
       "last_directory_hashes": [
-        "fbabaef6e1df630169fe2c28ebc97b5983b2b63dcc24593d361b25f37c51eabd"
+        "99c8d99d3a09d876c8557a08ecb3dca34b72af559356ddbe6df99195e9da1881"
       ]
     },
     "Video-Cybersight": {
-      "last_success": "2026-11-02T07:45:46.414995+00:00",
+      "last_success": "2026-11-09T08:01:56.893588+00:00",
       "last_directory_hashes": [
-        "13bdb422939db45d0e13495c8ca9713fa516d24635d3c6d7c4ab74cb2128c88f"
+        "4f2502eca666127675886d75f450cc5cc951d022fa7cf69c68c83383bbf2b404"
       ]
     },
     "Video-EyeRounds": {
-      "last_success": "2026-11-02T07:45:48.474379+00:00",
+      "last_success": "2026-11-09T08:01:58.926306+00:00",
       "last_directory_hashes": [
         "14991943d48ac471693108ec6628a3e91ee5bc2d71b7108e328cfd47bc2a2944"
       ]
     },
     "PubMed-status": {
-      "last_success": "2026-11-02T07:46:08.887927+00:00"
+      "last_success": "2026-11-09T08:02:26.096841+00:00"
     }
   },
-  "rotation": 4
+  "rotation": 5
 }
