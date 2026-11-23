@@ -127350,5 +127350,1973 @@
     "source": "link-audit",
     "url": "https://cybersight.org/library/%e6%bc%94%e8%ae%b2-%e7%8e%bb%e7%92%83%e4%bd%93%e5%88%87%e9%99%a4%e6%9c%af%e5%90%8e%e5%89%8d%e6%88%bf%e7%a7%af%e8%84%93%e7%97%85%e4%be%8b%e5%88%86%e4%ba%ab/",
     "discovered_at": "2026-11-16T08:06:56.201535+00:00"
+  },
+  {
+    "key": "MED:43049717",
+    "title": "Neodymium:Yttrium-Aluminum-Garnet Laser for Intraretinal Cyst Collapse to Facilitate Scleral Buckling.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.562874+00:00"
+  },
+  {
+    "key": "MED:43037574",
+    "title": "Fibrin Glue Assisted Retinopexy over atrophic RPE in High Myopia: Case Report.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.563302+00:00"
+  },
+  {
+    "key": "MED:43050602",
+    "title": "Early Postoperative Focal Suprachoroidal Hemorrhage After Silicone Oil Removal Triggered by Bending-Induced Valsalva.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.565599+00:00"
+  },
+  {
+    "key": "MED:43057624",
+    "title": "Rhegmatogenous Retinal Detachment: A Contemporary Review of Repair Techniques, Common Complications, Advances in Imaging and Access to Care.",
+    "reason": "procedure classification requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.599703+00:00"
+  },
+  {
+    "key": "MED:43039979",
+    "title": "Freeze-dried human amniotic membrane graft insertion for the management of large and refractory macular holes.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.600784+00:00"
+  },
+  {
+    "key": "MED:43064332",
+    "title": "AAV peptide-conjugated LNPs highlight bottlenecks in LNP-mRNA delivery to photoreceptors.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.604332+00:00"
+  },
+  {
+    "key": "PPR:PPR1370686",
+    "title": "Risk factors for light perception or no light perception after vitrectomy for proliferative diabetic retinopathy: a retrospective cohort study",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.604472+00:00"
+  },
+  {
+    "key": "MED:43060973",
+    "title": "Case Report: Endogenous &lt;i&gt;Fusarium solani&lt;/i&gt; endophthalmitis without evident disseminated infection or fungemia after allogeneic hematopoietic stem cell transplantation.",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.605505+00:00"
+  },
+  {
+    "key": "MED:43040148",
+    "title": "Duration of macular detachment and postoperative aniseikonia and metamorphopsia in macula-off rhegmatogenous retinal detachment.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.605674+00:00"
+  },
+  {
+    "key": "MED:43053247",
+    "title": "Full thickness macular hole in neovascular age related macular degeneration - a case series of 4 patients successfully treated with vitrectomy.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.605954+00:00"
+  },
+  {
+    "key": "MED:43052415",
+    "title": "Outcomes of cataract surgery in eyes with vitreomacular traction: a retrospective cohort study.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.606094+00:00"
+  },
+  {
+    "key": "MED:43054304",
+    "title": "Fungal Endophthalmitis: A Comprehensive Narrative Review of Epidemiology, Clinical Characteristics, Diagnosis, and Management Strategies.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.612473+00:00"
+  },
+  {
+    "key": "MED:43055292",
+    "title": "Cataract surgery in eyes with vitreomacular traction: A systematic review and meta-analysis. ",
+    "reason": "procedure classification requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.613974+00:00"
+  },
+  {
+    "key": "MED:43052577",
+    "title": "Efficacy and safety of laser vitreolysis for symptomatic vitreous opacities: a systematic review and meta-analysis.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.619655+00:00"
+  },
+  {
+    "key": "PPR:PPR1371639",
+    "title": "Final visual acuity versus visual gain after idiopathic epiretinal membrane surgery: a 12-month retrospective study",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.629022+00:00"
+  },
+  {
+    "key": "MED:43054524",
+    "title": "Unveiling the tumor: a rare case of choroidal melanoma concealed by emulsified silicone oil and retinal detachment.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.629879+00:00"
+  },
+  {
+    "key": "MED:43061066",
+    "title": "EYE3DPHANTOM: A Novel 3-D-Printed Ophthalmic Phantom for Advanced Surgical Training.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.629965+00:00"
+  },
+  {
+    "key": "MED:43037404",
+    "title": "Pathogenesis of Bacillary Layer Detachment in Rhegmatogenous Retinal Detachment: Insights From Fundus Autofluorescence Imaging.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.633266+00:00"
+  },
+  {
+    "key": "MED:43042711",
+    "title": "Intravitreal dexamethasone implant-based versus ranibizumab-based regimens for stage 3 Coats' disease: Efficacy and complications.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.634539+00:00"
+  },
+  {
+    "key": "MED:43052414",
+    "title": "Incidence and visual outcomes of post-intravitreal injection endophthalmitis: a single-centre analysis of 224,397 injections.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.636870+00:00"
+  },
+  {
+    "key": "MED:43054873",
+    "title": "Favorable Outcome in Recalcitrant Klebsiella pneumoniae Endogenous Endophthalmitis: A Case Report.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.638992+00:00"
+  },
+  {
+    "key": "MED:43051266",
+    "title": "Vitreous vascular cell adhesion molecule-1 levels in vitreoretinal pathologies: a prospective analysis of 181 eyes.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.640393+00:00"
+  },
+  {
+    "key": "MED:43040146",
+    "title": "Visual and clinical outcomes of different IOL implantation strategies following posterior capsule rupture.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.640988+00:00"
+  },
+  {
+    "key": "MED:43051209",
+    "title": "Assessment of Ebola virus persistence in vitreous fluid of Ebola virus disease survivors with vitreoretinal disease in Sierra Leone: a cross-sectional study.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.652618+00:00"
+  },
+  {
+    "key": "MED:34720982",
+    "title": "Management of Iris Retraction Syndrome with Heterochromia and Retinal Detachment.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.660504+00:00"
+  },
+  {
+    "key": "MED:34033347",
+    "title": "Scleral Fixation of Intraocular Lenses",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.662054+00:00"
+  },
+  {
+    "key": "MED:30364763",
+    "title": "Central retinal artery occlusion on postoperative day one after vitreoretinal surgery.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.677477+00:00"
+  },
+  {
+    "key": "MED:34003921",
+    "title": "Intraoperative Retinal Changes May Predict Surgical Outcomes After Epiretinal Membrane Peeling.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.680144+00:00"
+  },
+  {
+    "key": "MED:33347461",
+    "title": "Salinomycin inhibits proliferative vitreoretinopathy formation in a mouse model.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.691634+00:00"
+  },
+  {
+    "key": "MED:35860728",
+    "title": "Widefield Optical Coherence Tomography in Pediatric Retina: A Case Series of Intraoperative Applications Using a Prototype Handheld Device.",
+    "reason": "surgical relevance requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.692151+00:00"
+  },
+  {
+    "key": "MED:35845749",
+    "title": "Diagnosis and management of iatrogenic trochar-induced cyclodialysis cleft with intraoperative gonioscopy and argon endolaser.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.694966+00:00"
+  },
+  {
+    "key": "MED:32948113",
+    "title": "Retinal Tropism and Transduction of Adeno-Associated Virus Varies by Serotype and Route of Delivery (Intravitreal, Subretinal, or Suprachoroidal) in Rats.",
+    "reason": "surgical relevance requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.696745+00:00"
+  },
+  {
+    "key": "MED:32832216",
+    "title": "A Mouse Model of Proliferative Vitreoretinopathy Induced by Intravitreal Injection of Gas and RPE Cells.",
+    "reason": "surgical relevance requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.699592+00:00"
+  },
+  {
+    "key": "MED:39596655",
+    "title": "Rhegmatogenous Retinal Detachment Secondary to Type I Stickler Syndrome: Diagnosis, Treatment and Long-Term Outcomes.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.702021+00:00"
+  },
+  {
+    "key": "MED:32243845",
+    "title": "Epigenomic and Transcriptomic Changes During Human RPE EMT in a Stem Cell Model of Epiretinal Membrane Pathogenesis and Prevention by Nicotinamide.",
+    "reason": "surgical relevance requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.705151+00:00"
+  },
+  {
+    "key": "MED:35702525",
+    "title": "Endophthalmitis Associated with a Retained Cilium in the Clear Corneal Wound after Cataract Surgery.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.707359+00:00"
+  },
+  {
+    "key": "MED:38905569",
+    "title": "Effect of Fenofibrate on Progression of Diabetic Retinopathy.",
+    "reason": "procedure classification requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.710728+00:00"
+  },
+  {
+    "key": "MED:35243145",
+    "title": "Surgical management of acanthamoeba chorioretinitis.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.711506+00:00"
+  },
+  {
+    "key": "MED:35811766",
+    "title": "Endophthalmitis Caused by &lt;i&gt;Kocuria Kristinae&lt;/i&gt;.",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.711517+00:00"
+  },
+  {
+    "key": "MED:34177542",
+    "title": "Management of Retinal Detachment Associated with Morning Glory Disc Syndrome.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.712300+00:00"
+  },
+  {
+    "key": "MED:32462470",
+    "title": "Treatment of presumed Nocardia endophthalmitis and subretinal abscess with serial intravitreal amikacin injections and pars plana vitrectomy.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.713747+00:00"
+  },
+  {
+    "key": "MED:33553806",
+    "title": "Nutritionally variant streptococci causing endophthalmitis associated with intravitreal anti-vascular endothelial growth factor injection.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.714989+00:00"
+  },
+  {
+    "key": "MED:30657523",
+    "title": "VCAN Canonical Splice Site Mutation is Associated With Vitreoretinal Degeneration and Disrupts an MMP Proteolytic Site.",
+    "reason": "surgical relevance requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.718831+00:00"
+  },
+  {
+    "key": "MED:32514378",
+    "title": "Toxoplasmosis chorioretinitis mimicking acute retinal necrosis associated with local corticosteroid.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.719872+00:00"
+  },
+  {
+    "key": "MED:35082649",
+    "title": "&lt;i&gt;Agrobacterium radiobacter&lt;/i&gt; Endophthalmitis Associated with Baerveldt Tube Exposure.",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.721726+00:00"
+  },
+  {
+    "key": "MED:33663619",
+    "title": "Clinical management of an outbreak of nutritionally variant streptococcus endophthalmitis following intravitreal bevacizumab injection.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.722091+00:00"
+  },
+  {
+    "key": "MED:35282603",
+    "title": "Ophthalmic complications associated with methamphetamine use disorder.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.724173+00:00"
+  },
+  {
+    "key": "MED:33613244",
+    "title": "Postoperative Endophthalmitis Caused by &lt;i&gt;Cutibacterium&lt;/i&gt; (Formerly &lt;i&gt;Propionibacterium&lt;/i&gt;) Acnes: Case Series and Review.",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.725135+00:00"
+  },
+  {
+    "key": "MED:31467698",
+    "title": "Risk of Endophthalmitis in Boston Type 1 Keratoprosthesis Combined with Vitrectomy and Silicone Oil Insertion.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.725540+00:00"
+  },
+  {
+    "key": "MED:32774295",
+    "title": "Lens-Induced Uveitis Triggered by Intravitreal Injection 40 Years after Primary Congenital Cataract Surgery with Aphakia.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.726257+00:00"
+  },
+  {
+    "key": "MED:31198885",
+    "title": "Pars plana vitrectomy with intraoperative optical coherence tomography for sub-internal limiting membrane fibrosis excision in a child with Terson syndrome: Surgical and pathological correlation.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.727513+00:00"
+  },
+  {
+    "key": "MED:32206361",
+    "title": "A Novel Technique for Recurrent Tube Exposure Repair.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.729355+00:00"
+  },
+  {
+    "key": "MED:32274442",
+    "title": "Proteomic analysis of intermediate uveitis suggests myeloid cell recruitment and implicates IL-23 as a therapeutic target.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.730827+00:00"
+  },
+  {
+    "key": "MED:31259811",
+    "title": "MANAGEMENT OF RETINAL HEMANGIOBLASTOMA IN VON HIPPEL-LINDAU DISEASE.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.732233+00:00"
+  },
+  {
+    "key": "MED:32642598",
+    "title": "Juvenile angle closure management: The role of lens extraction and goniosynechialysis.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.735268+00:00"
+  },
+  {
+    "key": "MED:30834355",
+    "title": "Traumatic chorioretinitis sclopetaria: Risk factors, management, and prognosis.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.737150+00:00"
+  },
+  {
+    "key": "MED:32844399",
+    "title": "Radiotherapy for neovascular age-related macular degeneration.",
+    "reason": "procedure classification requires review",
+    "source": "EuropePMC-RET",
+    "url": null,
+    "discovered_at": "2026-11-23T09:04:45.747630+00:00"
+  },
+  {
+    "key": "MED:43058358",
+    "title": "Trends in initial glaucoma surgery for patients with primary open angle glaucoma from 2015 to 2025: a national database study.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.443347+00:00"
+  },
+  {
+    "key": "MED:43045503",
+    "title": "Lens extraction with or without goniotomy versus trabeculectomy for glaucoma secondary to nanophthalmos.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.444422+00:00"
+  },
+  {
+    "key": "MED:43041822",
+    "title": "Management of Ahmed Glaucoma Valve Plate Exposure by Plate Removal and Tube Retention: A Case Report.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.444568+00:00"
+  },
+  {
+    "key": "MED:43039684",
+    "title": "Surgical outcomes of primary prolene intraluminal ripcord use in Preserflo MicroShunt surgery in patients at high risk for hypotony.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.448947+00:00"
+  },
+  {
+    "key": "MED:43065001",
+    "title": "Epidemiological characteristics and clinical outcomes of primary congenital glaucoma in Xinjiang, China.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.456326+00:00"
+  },
+  {
+    "key": "PPR:PPR1370833",
+    "title": "Bent Ab Interno Needle Goniotomy combined with phacoemulsification compared with phacoemulsification alone for mild to moderate glaucoma",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.456390+00:00"
+  },
+  {
+    "key": "MED:43060465",
+    "title": "Subconjunctival mitomycin C injection alters bleb survival and morphology but not intraocular pressure in a rabbit XEN63 model.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.457879+00:00"
+  },
+  {
+    "key": "MED:43052748",
+    "title": "Enhancing soil hydrothermal efficiency through spectral-selective mulching and drip irrigation in broccoli (Brassica oleracea var. italica L.).",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.466577+00:00"
+  },
+  {
+    "key": "MED:33024893",
+    "title": "Effective treatment of a normal-tension glaucoma patient with bilateral ab externo XEN Gel Stent implantation.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.480674+00:00"
+  },
+  {
+    "key": "PPR:PPR848695",
+    "title": "Modeling Saline Water Supply for Irrigation of Tomatoes in Semi-Arid Conditions Using Hydrus-1D",
+    "reason": "PubMed primary title not matched",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.494012+00:00"
+  },
+  {
+    "key": "MED:35520109",
+    "title": "Morphologic and Cellular Changes Induced by Selective Laser Trabeculoplasty.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.497883+00:00"
+  },
+  {
+    "key": "MED:33133442",
+    "title": "Combining Baerveldt Implant with Trabectome Negates Tube Fenestration: A Coarsened-matched Comparison.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.499927+00:00"
+  },
+  {
+    "key": "MED:35198824",
+    "title": "Spontaneous lens resorption in a patient with Marshall-Stickler Syndrome and glaucoma.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.501055+00:00"
+  },
+  {
+    "key": "MED:36180029",
+    "title": "Deep Learning Segmentation, Visualization, and Automated 3D Assessment of Ciliary Body in 3D Ultrasound Biomicroscopy Images.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.508115+00:00"
+  },
+  {
+    "key": "MED:31798628",
+    "title": "An Integrated Model of Minor Intron Emergence and Conservation.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.509459+00:00"
+  },
+  {
+    "key": "MED:20399922",
+    "title": "Proof of concept for combined insertion of fluocinolone acetonide and glaucoma drainage implants for eyes with uveitis and glaucoma.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.517122+00:00"
+  },
+  {
+    "key": "MED:32774290",
+    "title": "Corneal Opacification and Spontaneous Recovery following Injection of Healon5 into the Corneal Stroma during Intervention for Postoperative Hypotony.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.517808+00:00"
+  },
+  {
+    "key": "MED:32298335",
+    "title": "Intraocular pressure reduction in a pigmentary glaucoma model by Goniotome Ab interno trabeculectomy.",
+    "reason": "自动收录优先比较研究、指南、系统综述或明确技术文章；其余进入价值复核",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.518426+00:00"
+  },
+  {
+    "key": "MED:32372330",
+    "title": "Dose-dependent effects of netarsudil, a Rho-kinase inhibitor, on the distal outflow tract.",
+    "reason": "题名无特异眼科背景，不能自动收录",
+    "source": "EuropePMC-GL",
+    "url": null,
+    "discovered_at": "2026-11-23T09:06:11.518577+00:00"
+  },
+  {
+    "key": "video:a641f418f8cb75d552923c2966eca77bfbe063e84e6302ee2280e8d2296567ab",
+    "title": "Quiz: Corkscrew Conjunctival Vessels and Eyelid Edema",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/quiz-corkscrew-conjunctival-vessels-and-eyelid-edema/",
+    "discovered_at": "2026-11-23T09:12:52.980468+00:00"
+  },
+  {
+    "key": "video:3af59f8cb79677d72cfff19d3a0af14545a0aad0543d41bb9972c4799e7a3482",
+    "title": "Quiz: Niña de 6 años con síndrome PHACES",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/quiz-nino-de-6-anos-con-sindrome-phaces/",
+    "discovered_at": "2026-11-23T09:12:53.448578+00:00"
+  },
+  {
+    "key": "video:09cd5cc6f18f6f2d5ba8ea465ba8e89eb00adf1589fee7995ee527b3c6663b28",
+    "title": "Quiz: 8-Year History of Left-Sided Hemifacial Spasm",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/quiz-8-year-history-of-left-sided-hemifacial-spasm/",
+    "discovered_at": "2026-11-23T09:12:53.947403+00:00"
+  },
+  {
+    "key": "video:185548a4ce2dbe88889491ecf6763570c23b7c465f6f18eec3d71b19fd25d055",
+    "title": "Quiz: Bệnh sử 8 năm bị co thắt nửa bên mặt trái",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/quiz-benh-su-8-nam-bi-co-that-nua-ben-mat-trai/",
+    "discovered_at": "2026-11-23T09:12:54.458904+00:00"
+  },
+  {
+    "key": "video:c741edef28c623879de6b0430b8b18d0ff96891f09001459812accbb6004e6f4",
+    "title": "Quiz: historial de 8 años de espasmo hemifacial del lado izquierdo",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/quiz-historial-de-8-anos-de-espasmo-hemifacial-del-lado-izquierdo/",
+    "discovered_at": "2026-11-23T09:12:54.944075+00:00"
+  },
+  {
+    "key": "video:8e8a4df55e89562b9f066d27c01c2fa34f90c8ffd473148de39eab7e7e42a391",
+    "title": "Quiz: histórico de espasmo hemifacial esquerdo há 8 anos",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/quiz-historico-de-espasmo-hemifacial-esquerdo-ha-8-anos/",
+    "discovered_at": "2026-11-23T09:12:55.439405+00:00"
+  },
+  {
+    "key": "video:31b81302fdef43dc25cc01820cbf668691299c4b005c156aad7090e0e783b0c0",
+    "title": "小测试：8年的左侧半面痉挛病史",
+    "reason": "未确认主资源内的正式播放器或有效媒体标识",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/%e5%b0%8f%e6%b5%8b%e8%af%95-8%e5%b9%b4%e7%9a%84%e5%b7%a6%e4%be%a7%e5%8d%8a%e9%9d%a2%e7%97%89%e6%8c%9b%e7%97%85%e5%8f%b2/",
+    "discovered_at": "2026-11-23T09:12:55.946291+00:00"
+  },
+  {
+    "key": "video:0dd6e198ddd4400a31a9852b95d338767887f2cd8ade625a7300e2444802ae4a",
+    "title": "Lecture: Ophthalmology 101: Recognizing Sight- and Life-Threatening Eye Conditions",
+    "reason": "视频术式尚不能可靠分类",
+    "source": "Video-Cybersight",
+    "url": "https://cybersight.org/library/lecture-ophthalmology-101-recognizing-sight-and-life-threatening-eye-conditions/",
+    "discovered_at": "2026-11-23T09:12:56.453357+00:00"
+  },
+  {
+    "key": "changed-title:eye-a-4bc60d7732ac",
+    "title": "Risk factors for late intraocular lens dislocation: a systematic review and meta-analysis.",
+    "reason": "原始题录题名出现变化或身份待复核；保留现有笔记",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507533/",
+    "discovered_at": "2026-11-23T09:13:20.668699+00:00"
+  },
+  {
+    "key": "changed-title:eye-a-9c9e13096736",
+    "title": "Rotational Stability of Three Toric Intraocular Lens Platforms After Cataract Surgery: A Prospective Multicenter Randomized Trial.",
+    "reason": "原始题录题名出现变化或身份待复核；保留现有笔记",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42460451/",
+    "discovered_at": "2026-11-23T09:13:20.668751+00:00"
+  },
+  {
+    "key": "notice:eye-a-7ef10139dd3b3dc0b4bc873d7d79d3189f29b143e2d967a4a37ecb46e219e22a0e0f5dd5ced2",
+    "title": "Diabetes Severity in Cornea Donors and 1-Year Outcomes in Recipients in the Diabetes Endothelial Keratoplasty Study: A Secondary Analysis of a Randomized Clinical Trial.",
+    "reason": "PubMed存在更正/撤稿等关联记录，须按RefType逐项解释",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42848388/",
+    "discovered_at": "2026-11-23T09:13:20.675907+00:00"
+  },
+  {
+    "key": "notice:eye-a-a3065a1f7277c649848865d74bf67eba30355d517c2078ad97d8787b3a9417b9f43a7e627a87",
+    "title": "Complications, adverse events, and additional intraocular surgery 1 year after cataract surgery in the infant Aphakia Treatment Study.",
+    "reason": "PubMed存在更正/撤稿等关联记录，须按RefType逐项解释",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21925737/",
+    "discovered_at": "2026-11-23T09:13:20.679104+00:00"
+  },
+  {
+    "key": "notice:eye-a-6db4b1f2601328e175ff9ef480f3be9fca308a16472a3a5117fd43802a7fc3abb7a99aa254d4",
+    "title": "A randomized clinical trial comparing contact lens with intraocular lens correction of monocular aphakia during infancy: grating acuity and adverse events at age 1 year.",
+    "reason": "PubMed存在更正/撤稿等关联记录，须按RefType逐项解释",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20457949/",
+    "discovered_at": "2026-11-23T09:13:20.679153+00:00"
+  },
+  {
+    "key": "notice:eye-a-1984cdfccaacdb4317ca227f537ac36cba8e7303ad414bbf9ddb4b08c035fd4fbae26291dc8f",
+    "title": "Submacular hemorrhage: a study amongst Indian eyes.",
+    "reason": "PubMed存在更正/撤稿等关联记录，须按RefType逐项解释",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23202390/",
+    "discovered_at": "2026-11-23T09:13:20.679216+00:00"
+  },
+  {
+    "key": "notice:eye-a-b5c58587c5b6aa792d7b4cc8d462ae96777d47d8f6b46c48dd683f39185e99c5f6a90e7d3e73",
+    "title": "Comparison of two protocols of diode laser transscleral cyclophotocoagulation in refractory glaucoma.",
+    "reason": "PubMed存在更正/撤稿等关联记录，须按RefType逐项解释",
+    "source": "PubMed-status",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38450608/",
+    "discovered_at": "2026-11-23T09:13:20.679280+00:00"
+  },
+  {
+    "key": "page-change:eye-a-8f6562ca25347691539eebc3cec165b03c7d504ab9e73da8f837e453acb35e26bb1ec7bcca97",
+    "title": "European Society of Cataract and Refractive Surgeons (ESCRS) Recommendations for Cataract Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.escrs.org/escrs-recommendations-for-cataract-surgery",
+    "discovered_at": "2026-11-23T09:13:22.368134+00:00"
+  },
+  {
+    "key": "page-change:eye-a-49454cb359926007590cebedbdea60b782c93d65551b33ebaa2455e438b806be9f70bd1b45e4",
+    "title": "ESCRS Recommendations for Refractive Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.escrs.org/escrs-recommendations-for-refractive-surgery",
+    "discovered_at": "2026-11-23T09:13:22.368309+00:00"
+  },
+  {
+    "key": "page-change:eye-a-a6530b5ebd95887c9a2a5e37c648def45f41e03045f6bd377924f4bed55dd283df423136e553",
+    "title": "Retinal detachment",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.nature.com/articles/s41572-024-00501-5",
+    "discovered_at": "2026-11-23T09:13:26.285220+00:00"
+  },
+  {
+    "key": "page-change:eye-a-198e9443ef779c205b3ef37ec541247536a6581d0163af9672fb77a3563104762a47506949c2",
+    "title": "Comparison of treatment methods for submacular hemorrhage in neovascular age-related macular degeneration: conservative versus active surgical strategy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.nature.com/articles/s41598-022-18619-5",
+    "discovered_at": "2026-11-23T09:13:26.285262+00:00"
+  },
+  {
+    "key": "page-change:eye-a-23d115a1784756c4a147b06552f57403947224b6af6359275e68b2e315bdf7584527a47247fb",
+    "title": "Endophthalmitis following open-globe injuries",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.nature.com/articles/eye2011313",
+    "discovered_at": "2026-11-23T09:13:26.285461+00:00"
+  },
+  {
+    "key": "page-change:eye-v-e4152646fb5ad9bce1477ae2010aa6cbb410b533fd1d8e160753986332f4bc085d16290bf3a3",
+    "title": "Toric ICL Implantation",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.aao.org/education/clinical-video/toric-icl-implantation",
+    "discovered_at": "2026-11-23T09:13:27.651291+00:00"
+  },
+  {
+    "key": "page-change:eye-a-43b37ddb18ca527fb8282799c70a3b02ab06f8094e4242674a0bf45b60d5b8d09356f503128f",
+    "title": "Ophthalmic Surgery Checklist 2025",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.aao.org/education/patient-safety-statement/ophthalmic-surgical-task-force-surgery-checklist-2",
+    "discovered_at": "2026-11-23T09:13:27.651373+00:00"
+  },
+  {
+    "key": "page-change:eye-a-214b73e2ad0d4ea04ada6ee77533882458009897fc1e80d758e49b2491a0d6e5fa3f91c2ec5a",
+    "title": "The Role of Subretinal Injection in Ophthalmic Surgery: Therapeutic Agent Delivery and Other Indications",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10342145/",
+    "discovered_at": "2026-11-23T09:13:28.232738+00:00"
+  },
+  {
+    "key": "page-change:eye-a-4cf206bb156b5ec87784047633a5138d579f923790ebf8fb9b67f7f29426be7456ded46f557d",
+    "title": "Concomitant sutureless scleral fixation of intraocular lens with keratoplasty: Review of surgical techniques",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10391482/",
+    "discovered_at": "2026-11-23T09:13:28.232841+00:00"
+  },
+  {
+    "key": "page-change:eye-a-3057754226343d47532685472db1d83f72e75b10dbe2300d57cacb182b14d2bd46442ba89749",
+    "title": "Proliferative Vitreoretinopathy: A Review",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6310037/",
+    "discovered_at": "2026-11-23T09:13:28.232874+00:00"
+  },
+  {
+    "key": "page-change:eye-a-d009b8ab18ad8731f5cef2090f5649a4df724256703506eb94a378f3c83c022031e7f95e4a8c",
+    "title": "Simple limbal epithelial transplantation (SLET): Review of indications, surgical technique, mechanism, outcomes, limitations, and impact",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6677059/",
+    "discovered_at": "2026-11-23T09:13:28.232909+00:00"
+  },
+  {
+    "key": "page-change:eye-a-a38c1316aa824319ad90042c174dcbffbbb2cb05221c05768e6d5ac33f138100446747e1b1e8",
+    "title": "Conjunctival Autograft Versus Amniotic Membrane Transplantation for Treatment of Pterygium: Findings From a Cochrane Systematic Review",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5610642/",
+    "discovered_at": "2026-11-23T09:13:28.232933+00:00"
+  },
+  {
+    "key": "page-change:eye-a-71809d0313d3565f6d8b754ec08c55e70f2e727ce071d23eaae36d0a609c54919b36ec5ad9d8",
+    "title": "Meta-analysis and review: effectiveness, safety, and central port design of the intraocular collamer lens",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4907705/",
+    "discovered_at": "2026-11-23T09:13:28.232959+00:00"
+  },
+  {
+    "key": "page-change:eye-a-09de590e39c38e10dce6d76e39377c5921a4c6688316a367bb3fecc9d027886655e907e5972a",
+    "title": "Clinical outcomes of small incision lenticule extraction versus femtosecond laser-assisted LASIK for myopia: a Meta-analysis",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5596231/",
+    "discovered_at": "2026-11-23T09:13:28.232997+00:00"
+  },
+  {
+    "key": "page-change:eye-a-6fbfd471d19df6a8e932984bb71e1f3503cb1a5eb1b9ce76be72adb34a471b3642bbe0fd190a",
+    "title": "A Randomized Trial Comparing Bilateral Lateral Rectus Recession versus Unilateral Recess-Resect for Basic-Type Intermittent Exotropia",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6348023/",
+    "discovered_at": "2026-11-23T09:13:28.233027+00:00"
+  },
+  {
+    "key": "page-change:eye-a-854eba49496d8cfab0a7ce7615fd9cc9c2fced44eec0616f775059dd972ba80fc3426ed891c0",
+    "title": "Complications at 10 Years of Follow-up in the Infant Aphakia Treatment Study",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7863564/",
+    "discovered_at": "2026-11-23T09:13:28.233059+00:00"
+  },
+  {
+    "key": "page-change:eye-a-2e1d9082f4e24a1277c271752e79916522c5c41e1c54f41e705dfbcc115b7b70ec4bb91e5ed6",
+    "title": "A review of acquired blepharoptosis: prevalence, diagnosis, and current treatment options",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8376882/",
+    "discovered_at": "2026-11-23T09:13:28.233085+00:00"
+  },
+  {
+    "key": "page-change:eye-a-247a40273b70ecd62d463033a040169ffb996d25ccd89e75e5520e381ea822109356c8ae9ea5",
+    "title": "Endonasal versus external dacryocystorhinostomy for nasolacrimal duct obstruction",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6464401/",
+    "discovered_at": "2026-11-23T09:13:28.233127+00:00"
+  },
+  {
+    "key": "page-change:eye-a-41a771fdfc76a0532e70aa57e684fc4ab195c1b9d215f595083740da11c7b41d64e53afa35ce",
+    "title": "Ocular surface squamous neoplasia: management and outcomes",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8169825/",
+    "discovered_at": "2026-11-23T09:13:28.233157+00:00"
+  },
+  {
+    "key": "page-change:eye-v-1393fcb7eb030777f02c1ffb2e4f3d44f2c474276fae2c64aabf9a2b2ab5697231f71d6ccd35",
+    "title": "Goniotomy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467427040",
+    "discovered_at": "2026-11-23T09:13:29.152124+00:00"
+  },
+  {
+    "key": "page-change:eye-v-56485db96c0fafbb57656286239f55b2f622f12630e6695aae86cec85220ab7b3529afb503e2",
+    "title": "Trabeculotomy in Sturge Weber",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467427004",
+    "discovered_at": "2026-11-23T09:13:29.152153+00:00"
+  },
+  {
+    "key": "page-change:eye-v-8dc925826813b50c4558b2d6c6ec76580edf89a7067e205c84e1747471edd2499f8f43556897",
+    "title": "Mitomycin C Trabeculectomy #1",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467420036",
+    "discovered_at": "2026-11-23T09:13:29.152292+00:00"
+  },
+  {
+    "key": "page-change:eye-v-6f6d1fd712ae870abd676ca562c34f7f1498b66797fba6e3a3d422310969fde7f05c1d2e8d94",
+    "title": "Ahmed Seton",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467426725",
+    "discovered_at": "2026-11-23T09:13:29.152326+00:00"
+  },
+  {
+    "key": "page-change:eye-v-93d3820afa1fc7134e95118c05389ad4bcb6221a8a4dd424521fce36b50443fd5d5c32b3b442",
+    "title": "Baerveldt Seton",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467426826",
+    "discovered_at": "2026-11-23T09:13:29.152351+00:00"
+  },
+  {
+    "key": "page-change:eye-v-0729f661779b98d25fdd59695de6b87cde77c49464c4cb1a6b80a7063cce49bf7fcff74304d9",
+    "title": "1 Site Combined Mitomycin C Trabeculectomy & Phaco IOL",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467422689",
+    "discovered_at": "2026-11-23T09:13:29.152376+00:00"
+  },
+  {
+    "key": "page-change:eye-v-beacb5af3c10c60b524dd8593cc7eca1c368eb5123edd17d5a62290826eea81bf8da37bf62e5",
+    "title": "Tube Extender",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467426959",
+    "discovered_at": "2026-11-23T09:13:29.152409+00:00"
+  },
+  {
+    "key": "page-change:eye-v-14073dccaf816616ac07c2feb41af78a5e6752e6aec372586df6d80065203d0c24e2a0045655",
+    "title": "Cyclodialysis Cleft Repair: Direct Cyclopexy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://vimeo.com/467427224",
+    "discovered_at": "2026-11-23T09:13:29.152474+00:00"
+  },
+  {
+    "key": "page-change:eye-a-e3207d58be39baf6763b7707e45631b34e1b52eb3f50aa027337a7002958db016625bd87014d",
+    "title": "Finger iridectomy technique (FIT): anterior segment uveal melanoma biopsy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://jovs.amegroups.org/article/view/140804/html",
+    "discovered_at": "2026-11-23T09:13:32.371664+00:00"
+  },
+  {
+    "key": "page-change:eye-v-f6c8f0422f5bbaf6763b7707e45631b34e1b52eb3f50aa027337a7002958db016625bd87014d",
+    "title": "Video 1: The Finger iridectomy technique biopsy of ciliary body tumor",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://jovs.amegroups.org/article/view/140804/html",
+    "discovered_at": "2026-11-23T09:13:32.371718+00:00"
+  },
+  {
+    "key": "page-change:eye-a-e7da8b4e86e71e9dcb508ee92b8f62fe90760ae0ac77ef687d307ea6b634890ea181c86503a8",
+    "title": "Video-based surgical curriculum for open globe injury repair, IV: corneal wounds",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://djo.harvard.edu/index.php/djo/article/view/408",
+    "discovered_at": "2026-11-23T09:13:37.169866+00:00"
+  },
+  {
+    "key": "page-change:eye-a-9153e06a6a3ff1ab41d852599668ad22c002d7308f3843d817027ae590202e6454b70a941485",
+    "title": "Video-based surgical curriculum for open-globe injury repair, III: surgical repair",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://djo.harvard.edu/index.php/djo/article/view/407",
+    "discovered_at": "2026-11-23T09:13:37.169902+00:00"
+  },
+  {
+    "key": "page-change:eye-a-0d71ac4bc8d7f77b7a1eb92433e415978616fed235b39f5f3954baf4aafc14570f039ff525f1",
+    "title": "Video-based surgical curriculum for open-globe injury repair, V: scleral wounds",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://djo.harvard.edu/index.php/djo/article/view/605",
+    "discovered_at": "2026-11-23T09:13:37.169926+00:00"
+  },
+  {
+    "key": "page-change:eye-v-07a22c3d8f17cbc57e27a7870546cc7570051c21ec8658bde886e668e0cee2da89cf3e2e95e2",
+    "title": "Video 1 — Open-globe injury repair IV: corneal wounds",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://djo.harvard.edu/index.php/djo/article/view/408/317",
+    "discovered_at": "2026-11-23T09:13:37.169973+00:00"
+  },
+  {
+    "key": "page-change:eye-v-a51bd9166997a965c657241ad83d93ace40c9839bea3cfd18a85272cc71a50eb4cc8c49b526b",
+    "title": "Video 1 — Open-globe injury repair III: surgical repair",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://djo.harvard.edu/index.php/djo/article/view/407/312",
+    "discovered_at": "2026-11-23T09:13:37.169996+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d7560e4c9a0f6ed7671666f6f7de262711d8bd2674f4846a72fe4dd8f667d67afa0f8892b252",
+    "title": "Video 1 — Open-globe injury repair V: scleral wounds",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://djo.harvard.edu/index.php/djo/article/view/605/412",
+    "discovered_at": "2026-11-23T09:13:37.170017+00:00"
+  },
+  {
+    "key": "page-change:eye-a-7338c3524238f256bc0ce4f795c467d81f15471d5196630c47129951aaec5aa25f1ec41cad4d",
+    "title": "Femtosecond laser-assisted cataract surgery compared with phacoemulsification: the FACT non-inferiority RCT",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK567022/",
+    "discovered_at": "2026-11-23T09:13:37.251098+00:00"
+  },
+  {
+    "key": "page-change:eye-a-a0b300218eb5bebdf88d619259ab678f946b310f73b637e614550bfe2f968c3de38622899c23",
+    "title": "Lower Eyelid Full-Thickness Lid Margin Repair for 8-mm Defect Following Mohs Surgery for Basal Cell Carcinoma",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://jomi.com/article/513/lower-eyelid-full-thickness-lid-margin-repair-for-8-mm-defect-following-mohs-surgery-for-basal-cell-carcinoma",
+    "discovered_at": "2026-11-23T09:13:40.526868+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5ae6f3d15ed4bebdf88d619259ab678f946b310f73b637e614550bfe2f968c3de38622899c23",
+    "title": "Lower Eyelid Full-Thickness Lid Margin Repair for 8-mm Defect Following Mohs Surgery for Basal Cell Carcinoma",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://jomi.com/article/513/lower-eyelid-full-thickness-lid-margin-repair-for-8-mm-defect-following-mohs-surgery-for-basal-cell-carcinoma",
+    "discovered_at": "2026-11-23T09:13:40.526964+00:00"
+  },
+  {
+    "key": "page-change:eye-a-e0b4117b3c541a16c6013d60e820ff74a5e692bd8ea1f4c821bf840134cd18ab335da378e5ba",
+    "title": "中国白内障围手术期干眼防治专家共识（2021年）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://rs.yiigle.com/cmaid/1305609",
+    "discovered_at": "2026-11-23T09:13:43.159282+00:00"
+  },
+  {
+    "key": "page-change:eye-v-cb1c5111f2e271794638f428060ac864c5d96ba6d6b850ed287c5a913c20ea61f6a2334c776d",
+    "title": "慢性泪囊炎手术：内镜下泪囊鼻腔吻合术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/1066.aspx",
+    "discovered_at": "2026-11-23T09:13:48.940920+00:00"
+  },
+  {
+    "key": "page-change:eye-v-3121a97fc153786f589178a373d1123ef259c8712ed2b80d2faf6c2cc5251ca90ed06f3e4bb0",
+    "title": "联合筋膜鞘悬吊+提上睑肌缩短术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/1064.aspx",
+    "discovered_at": "2026-11-23T09:13:48.940963+00:00"
+  },
+  {
+    "key": "page-change:eye-v-6a7ca0c8a13a345a2c2b0646f87895962194751f474ff5c62ca40fd6fa58497f1beb2e340a9e",
+    "title": "额肌瓣悬吊术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/1063.aspx",
+    "discovered_at": "2026-11-23T09:13:48.940986+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d8e3a62fa1016a5fafa9dc6440ae0697ccd6c46dd05e5f0930827c5bc57a65c781d478d98d37",
+    "title": "睑板腺囊肿手术切除（经皮肤面）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/1062.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941008+00:00"
+  },
+  {
+    "key": "page-change:eye-v-ca1b136d266d60d859eccfe1d738f3bfbaebf63084dc441098ec34e415e823dbc014e09720d2",
+    "title": "睑板腺囊肿手术切除（经结膜面）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/1061.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941031+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d7c3a7b54bc5455971987daa9d74eb440957714dd15943af9b9e5d72ea67ac2de1f47948e6ab",
+    "title": "眼球穿通伤伴眼内异物手术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/1033.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941052+00:00"
+  },
+  {
+    "key": "page-change:eye-v-eadae667bb0fed5b8a378a0201cad9e89f8a83efb8a1f84793d1eea684bfc1c383401acc8c5c",
+    "title": "周边虹膜切除手术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/99.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941073+00:00"
+  },
+  {
+    "key": "page-change:eye-v-ad5e982ee4ba60b601074bac0f652402ee14b1b61697f92e8699d2221d0eeea5ea2246a01da1",
+    "title": "小切口手术录像",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/98.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941093+00:00"
+  },
+  {
+    "key": "page-change:eye-v-0faf74324808ce36765441633a367e330225df48de39033315b34e73940d83db7cadc78d3194",
+    "title": "PHACO手术录像",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/97.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941135+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d7ac5ccf0f5bbff2b7672414b8443fffd29cf7585988305a7c21c8c41791e7fac54b032c577f",
+    "title": "phaco",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/96.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941159+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5518450fd489cb4e9180411751a6ce47c82c4a822db93ef5b4231f5fa2035c35f43603cdac43",
+    "title": "ecce",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://ypgxkc.gzzoc.com/Item/87.aspx",
+    "discovered_at": "2026-11-23T09:13:48.941178+00:00"
+  },
+  {
+    "key": "page-change:eye-v-cc7458a4092d80ba1d49aa50bdcb044ebb96e226e8f7667205ae9f3cb6c4dcaafa8557df1acb",
+    "title": "Cataract Surgery: Phacoemulsification – A Complete Case",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/cataract-surgery-phacoemulsification-a-complete-case/",
+    "discovered_at": "2026-11-23T09:14:11.356712+00:00"
+  },
+  {
+    "key": "page-change:eye-v-150a2d65998c9436f803c0178a1bbf8e22a23af408c619859646ba77767b4843551c9434b268",
+    "title": "Phacoemulsification: Manual Capsulorrhexis",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/phacoemulsification-manual-capsulorrhexis/",
+    "discovered_at": "2026-11-23T09:14:11.356737+00:00"
+  },
+  {
+    "key": "page-change:eye-v-44fff36fd38c6291007ba3501668adef9248a567695412fe270b9d9acd9d07ca6357ca0cb06b",
+    "title": "Phacoemulsification: Hydrodissection and Nuclear Removal",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/phacoemulsification-hydrodissection-and-nuclear-removal/",
+    "discovered_at": "2026-11-23T09:14:11.356747+00:00"
+  },
+  {
+    "key": "page-change:eye-v-9dbed17d3db9132c7e4386e51266b082e1d3fc7f58708ae14b21ef632fdd204ebec2d9befafc",
+    "title": "Double Chop and Cross Chop",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/double-chop-and-cross-chop/",
+    "discovered_at": "2026-11-23T09:14:11.356757+00:00"
+  },
+  {
+    "key": "page-change:eye-v-2cad3573ae437b4be43beedd8fb1d471cc5170a4935069f837d65d3aaa1e6a2c2cda913ff8b5",
+    "title": "Small Incision Manual Cataract Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/small-incision-manual-cataract-surgery/",
+    "discovered_at": "2026-11-23T09:14:11.356767+00:00"
+  },
+  {
+    "key": "page-change:eye-v-ee6863579f9616def94ccfe8253fc051a600cd5633445003b127252efb3020f299fe0fb8c0a4",
+    "title": "Femtosecond Laser Assisted Cataract Surgery Technique",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/femtosecond-laser-assisted-cataract-surgery-technique/",
+    "discovered_at": "2026-11-23T09:14:11.356776+00:00"
+  },
+  {
+    "key": "page-change:eye-v-1267c1fbd66566daf53f85a8ae4962aa76af45385d00b7f9219bec5a07806a4ce6b137a8cf82",
+    "title": "Phacoemulsification: Malyugin Ring Insertion and Removal",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/phacoemulsification-malyugin-ring-insertion-and-removal/",
+    "discovered_at": "2026-11-23T09:14:11.356785+00:00"
+  },
+  {
+    "key": "page-change:eye-v-190b8b87fd4740b7bac766a3c5785ebdd3cd4408cc2d287ba5d8e1d76f76e0ef8d663a59d8d5",
+    "title": "How to Insert a Capsular Tension Ring",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/how-to-insert-a-capsular-tension-ring/",
+    "discovered_at": "2026-11-23T09:14:11.356793+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5cadfee92911491b5105e11c7497cf4493e1036e2ecf415154ac132ee5e67762af4a1ad8c7b9",
+    "title": "Yamane Intraocular Lens Fixation in a Patient with a Large Iris Defect",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/yamane-intraocular-lens-fixation-in-a-patient-with-a-large-iris-defect/",
+    "discovered_at": "2026-11-23T09:14:11.356803+00:00"
+  },
+  {
+    "key": "page-change:eye-v-08497b602839551e686e56adda37db9de3f4879ac6f2f26d85230d1afd10b52791e853beff18",
+    "title": "IOL Exchange and Reposition",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/iol-exchange-and-reposition/",
+    "discovered_at": "2026-11-23T09:14:11.356813+00:00"
+  },
+  {
+    "key": "page-change:eye-v-b4d548c7f65002c2a2c10ea2061efc005dfd8ffaf25979bbc8e90f6c155e4069875da135a4bd",
+    "title": "Vitrectomy for Cataract Surgeons",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/vitrectomy-for-cataract-surgeons/",
+    "discovered_at": "2026-11-23T09:14:11.356822+00:00"
+  },
+  {
+    "key": "page-change:eye-v-15b37c22faf97d44152342ef9b900d32a2d66658fe8afa4e0d533f0440b80d3b57ade7550e1e",
+    "title": "Dealing with Anterior Capsule Tears in Cataract Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/dealing-with-anterior-capsule-tears-in-cataract-surgery/",
+    "discovered_at": "2026-11-23T09:14:11.356831+00:00"
+  },
+  {
+    "key": "page-change:eye-v-206d2c8b8ef608df9e8bcc72f812e9a4029ac77f58fd4cb4818be5bb35c426f8a88ba3baa68f",
+    "title": "First Black Cataract",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/first-black-cataract/",
+    "discovered_at": "2026-11-23T09:14:11.356840+00:00"
+  },
+  {
+    "key": "page-change:eye-v-deed5e7d99b0846f86135d1e456687df29e257a8c8e3fa8a56f4c5311139b7acfdae1b5f7281",
+    "title": "Sulcus IOL Placement",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/sulcus-iol-placement/",
+    "discovered_at": "2026-11-23T09:14:11.356848+00:00"
+  },
+  {
+    "key": "page-change:eye-v-616549f04325268150b0edce2f7b39f7c38e351491a5299d46091a75db3e77b1e549873b4b86",
+    "title": "Cataract Surgery in the Uveitic Patient; Phaco in Complex Post-Refractive and Transplant Cases",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/cataract-surgery-in-the-uveitic-patient-phaco-in-complex-post-refractive-and-transplant-cases/",
+    "discovered_at": "2026-11-23T09:14:11.356857+00:00"
+  },
+  {
+    "key": "page-change:eye-v-851083dbfce8477d539015021a69ad2fa4164bd1d6de2fecbf5341ff51e682172e3c92ee042f",
+    "title": "Intracameral Antibiotics for Endophthalmitis Prophylaxis",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/intracameral-antibiotics-for-endophthalmitis-prophylaxis/",
+    "discovered_at": "2026-11-23T09:14:11.356866+00:00"
+  },
+  {
+    "key": "page-change:eye-v-f0114cec57416af0cec31732a22c15267ac804f6a6627551fbf51beda34d0a8b3ecdf3ef870f",
+    "title": "Technique to Rotate a Toric Lens with Irrigation and Aspiration!",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/technique-to-rotate-a-toric-lens-with-irrigation-and-aspiration/",
+    "discovered_at": "2026-11-23T09:14:11.356875+00:00"
+  },
+  {
+    "key": "page-change:eye-v-6737cd7007a267a74dad775c29f02ea9ef5d66bd6ce0028ac783f4b72440982ce70cde5c0aa6",
+    "title": "Pinch and Peel Method",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-12-retina-and-vitreous/pinch-and-peel-method/",
+    "discovered_at": "2026-11-23T09:14:11.356911+00:00"
+  },
+  {
+    "key": "page-change:eye-v-4420b278586887ce20c4ff8d373e8041210e204d721c6b079b843fc53bf0461a0d19a9ba2ff6",
+    "title": "PVD Induction",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-12-retina-and-vitreous/pvd-induction/",
+    "discovered_at": "2026-11-23T09:14:11.356923+00:00"
+  },
+  {
+    "key": "page-change:eye-v-1e998461a8fc43d0e03dc4123a7aedb2834b7f729e9b45812730c8b7d3040c2da789028cd542",
+    "title": "What is the role of scleral buckling in 2018?",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-12-retina-and-vitreous/what-is-the-role-of-scleral-buckling-in-2018/",
+    "discovered_at": "2026-11-23T09:14:11.356935+00:00"
+  },
+  {
+    "key": "page-change:eye-v-2c43ad279378b8dd81a714e69707441dce0270edc1543a5b2faf5d006ca9a6cf899917f2850f",
+    "title": "Lasers, Endophthalmitis, and Vitrectomy Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-12-retina-and-vitreous/lasers-endophthalmitis-and-vitrectomy-surgery-2/",
+    "discovered_at": "2026-11-23T09:14:11.356946+00:00"
+  },
+  {
+    "key": "page-change:eye-v-bb1fc04f332279c747bb279f94e8e58e0ab44d0b3459ea2a7b7c845d087f83e6f7bbfa1c1cb7",
+    "title": "Vitrectomy Port Placement",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-12-retina-and-vitreous/vitrectomy-port-placement/",
+    "discovered_at": "2026-11-23T09:14:11.356958+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5cc67699efc58894f47be09c33ee9991d07c3c20a613e0c6e937482eb9e3f7828cd737421d65",
+    "title": "Primary Buckle",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-12-retina-and-vitreous/primary-buckle/",
+    "discovered_at": "2026-11-23T09:14:11.356969+00:00"
+  },
+  {
+    "key": "page-change:eye-v-34ef8c0c36a30ff0175ac703bfb1e71c374b377a34ea5716f350b0a4277770ca038ac3c870cd",
+    "title": "Ahmed Valve (Glaucoma Tube) Technique",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/ahmed-valve-glaucoma-tube-technique/",
+    "discovered_at": "2026-11-23T09:14:11.356993+00:00"
+  },
+  {
+    "key": "page-change:eye-v-f679d925c5c12bd56d76b097ea7cd35b557b86e9d63c314e314e138f0f515c151d6bce43c70d",
+    "title": "Glaucoma Ahmed Tube Shunt",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-14-ophthalmic-surgery/glaucoma-ahmed-tube-shunt/",
+    "discovered_at": "2026-11-23T09:14:11.357006+00:00"
+  },
+  {
+    "key": "page-change:eye-v-096750e51cc413955eb492e41fb580110d7e41c78d02bbca9468554936453653b4480631787c",
+    "title": "Glaucoma Tube Extension Using a Mono-Crawford Stent",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/glaucoma-tube-extension-using-a-mono-crawford-stent/",
+    "discovered_at": "2026-11-23T09:14:11.357018+00:00"
+  },
+  {
+    "key": "page-change:eye-v-9dcd8b791ad7ef0be328b49fc35c18115584a0022498dc0f533711dcc182763e09c584e1723c",
+    "title": "Irido-zonulo-hyaloido-vitrectomy (IZHV) Surgical Technique and Settings",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/irido-zonulo-hyaloido-vitrectomy-izhv-surgical-technique-and-settings/",
+    "discovered_at": "2026-11-23T09:14:11.357031+00:00"
+  },
+  {
+    "key": "page-change:eye-v-e63e0f1a1f1981d60c9e98ccb73c36aacd65d23846c28411be7d7dc49ff8baf71dfccb3941ae",
+    "title": "Phaco-Trabeculectomy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-14-ophthalmic-surgery/phaco-trabeculectomy/",
+    "discovered_at": "2026-11-23T09:14:11.357044+00:00"
+  },
+  {
+    "key": "page-change:eye-v-0f350c1c74c9c47fb48e0ecf4a6596648a75d3d421ceec1abd30fc29421251f12d662e9d3757",
+    "title": "Releasable Flap Sutures",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/releasable-flap-sutures/",
+    "discovered_at": "2026-11-23T09:14:11.357057+00:00"
+  },
+  {
+    "key": "page-change:eye-v-44d8e746063576fe8f7c28c75e74a903f9bf43dba833901d6a85b264669d6b29c6055c99da8c",
+    "title": "Implantation of two trabecular micro-bypass stents for POAG",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/implantation-of-two-trabecular-micro-bypass-stents-for-poag/",
+    "discovered_at": "2026-11-23T09:14:11.357070+00:00"
+  },
+  {
+    "key": "page-change:eye-v-2b51d00745104e42ec4bf8638a8e55008f7f07b333190c2a06cbd5ed743154471db2c5cdb4d7",
+    "title": "Streamline and Istent Combination",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/streamline-and-istent-combination/",
+    "discovered_at": "2026-11-23T09:14:11.357083+00:00"
+  },
+  {
+    "key": "page-change:eye-v-dccc62d8cc9e1141615811dacfc9e1d504bebeca02a00f40256ba36b2db37898d0698eaf1519",
+    "title": "Trabeculectomy/Bleb Revision Technique",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-11-lens-and-cataract/trabeculectomy-bleb-revision-technique/",
+    "discovered_at": "2026-11-23T09:14:11.357097+00:00"
+  },
+  {
+    "key": "page-change:eye-v-299fd5592d2b48bb42e91666f4031ec170e24f31fe6c7a1e901df2982e7625a50c45ec8bf5ae",
+    "title": "The Effect of Transscleral Diode Cyclophotocoagulation Using Micropulse versus Continuous Wave on Ciliary Body Observed in Miyaki Apple View",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-10-glaucoma/the-effect-of-transscleral-diode-cyclophotocoagulation-using-micropulse-versus-continuous-wave-on-ciliary-body-observed-in-miyaki-apple-view/",
+    "discovered_at": "2026-11-23T09:14:11.357128+00:00"
+  },
+  {
+    "key": "page-change:eye-v-49db5127edabb9e5e153715933a81dd642b1338cbf7771e25fd6391a23f393cc30e2b2c56d17",
+    "title": "Surgical Management: Superior Oblique Paresis",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "http://morancore.utah.edu/section-14-ophthalmic-surgery/surgical-management-superior-oblique-paresis/",
+    "discovered_at": "2026-11-23T09:14:11.357413+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5e71e31721b2c7d3b8c8d7109e11ea9b44f286b0f78820fee809467d2937f79c4f1c596e78e8",
+    "title": "Small Incision Cataract Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "http://morancore.utah.edu/section-14-ophthalmic-surgery/small-incision-cataract-surgery/",
+    "discovered_at": "2026-11-23T09:14:11.357459+00:00"
+  },
+  {
+    "key": "page-change:eye-v-57a8928da3bf0b4c73ad3b905216b072cba2a09a6f5b7cff139630f9caea17c3914c68f95a80",
+    "title": "Surgical Pterygium Removal with Conjunctival Autograft",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://morancore.utah.edu/section-14-ophthalmic-surgery/surgical-pterygium-removal-with-conjunctival-autograft/",
+    "discovered_at": "2026-11-23T09:14:11.357539+00:00"
+  },
+  {
+    "key": "page-change:eye-v-f7a79b1345d22bd56d76b097ea7cd35b557b86e9d63c314e314e138f0f515c151d6bce43c70d",
+    "title": "Glaucoma Ahmed Tube Shunt",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "http://morancore.utah.edu/section-14-ophthalmic-surgery/glaucoma-ahmed-tube-shunt/",
+    "discovered_at": "2026-11-23T09:14:11.357588+00:00"
+  },
+  {
+    "key": "page-change:eye-v-0e34deb0305981d60c9e98ccb73c36aacd65d23846c28411be7d7dc49ff8baf71dfccb3941ae",
+    "title": "Phaco-Trabeculectomy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "http://morancore.utah.edu/section-14-ophthalmic-surgery/phaco-trabeculectomy/",
+    "discovered_at": "2026-11-23T09:14:11.357636+00:00"
+  },
+  {
+    "key": "page-change:eye-v-40052320279c48bb42e91666f4031ec170e24f31fe6c7a1e901df2982e7625a50c45ec8bf5ae",
+    "title": "The Effect of Transscleral Diode Cyclophotocoagulation Using Micropulse versus Continuous Wave on Ciliary Body Observed in Miyaki Apple View",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "http://morancore.utah.edu/section-10-glaucoma/the-effect-of-transscleral-diode-cyclophotocoagulation-using-micropulse-versus-continuous-wave-on-ciliary-body-observed-in-miyaki-apple-view/",
+    "discovered_at": "2026-11-23T09:14:11.357688+00:00"
+  },
+  {
+    "key": "page-change:eye-v-40a1726d3c176c5b3f8507ca3074b827be29c842bd33c368037bedafc9607bfef85be75ed353",
+    "title": "Surgery: Phacoemulsification + IOL implant in a Pseudoexfoliation Syndrome",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-phaco-in-pseudoexfoliation-syndrome/",
+    "discovered_at": "2026-11-23T09:14:34.271772+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5348c68fbce485354b896155368f25eaa1c61a61d6182496cb898ead725c0f5671b34e99e9e7",
+    "title": "Surgery: Capsular Tension Segment (CTS) Surgical Technique for Dislocated Cataract",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-capsular-tension-segment-cts-surgical-technique-for-dislocated-cataract/",
+    "discovered_at": "2026-11-23T09:14:34.271801+00:00"
+  },
+  {
+    "key": "page-change:eye-v-55c3f2a73e9acd2bd148cdf952482607d1a47cb7baa7b3de7d818a8dc2770b31e0428cea1283",
+    "title": "Surgery: Phacoemulsification of a Dense Cataract with Synechiolysis and Fibrotic Anterior Capsule",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-phacoemulsification-of-a-dense-cataract-with-synechiolysis-and-fibrotic-anterior-capsule/",
+    "discovered_at": "2026-11-23T09:14:34.271813+00:00"
+  },
+  {
+    "key": "page-change:eye-v-3260010f6c4704651e0fb407c202e6b8e2bfbb5919f4cb00039a7e113d1014784b922ae24827",
+    "title": "Surgery: IOL Implantation in Challenging Cases",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-iol-implantation-in-challenging-cases/",
+    "discovered_at": "2026-11-23T09:14:34.271825+00:00"
+  },
+  {
+    "key": "page-change:eye-v-530dff78a9796372218888dbb2ad26e7e0f6398aa078ffa2acd0701227b5d1a0ad7d9571d089",
+    "title": "Lecture: Visualizing Cataract Surgery & Techniques: A Step-by-Step Surgical Walkthrough",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-visualizing-cataract-surgery-techniques-a-step-by-step-surgical-walkthrough/",
+    "discovered_at": "2026-11-23T09:14:34.271836+00:00"
+  },
+  {
+    "key": "page-change:eye-v-a9e64a6a1036c78ce829bb1737f2d940ccf6cb92a5e500c703019cd7d507cd9716a58f8075f8",
+    "title": "Lecture: Approaching Traumatic Cataracts and Secondary IOLs - Think Before You Start!",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-approaching-traumatic-cataracts-and-secondary-iols-think-before-you-start/",
+    "discovered_at": "2026-11-23T09:14:34.271848+00:00"
+  },
+  {
+    "key": "page-change:eye-v-9b5cdbd5080a6c9d5422238858d0f5f30ad39cd9cdbe0857f43e04196650e4fec14e86285575",
+    "title": "Surgery: The 21st Century Scleral Buckle: Heads up with a Chandelier",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/3d-surgery-the-21st-century-scleral-buckle-heads-up-with-a-chandelier/",
+    "discovered_at": "2026-11-23T09:14:34.271907+00:00"
+  },
+  {
+    "key": "page-change:eye-v-446b7672096ca73089d95b098246a12a819cfd678fe8561253a6fbe154d389475ec3f89e10e9",
+    "title": "Lecture: Surgery for Retinal Detachment",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-surgery-for-retinal-detachment/",
+    "discovered_at": "2026-11-23T09:14:34.271920+00:00"
+  },
+  {
+    "key": "page-change:eye-v-a8768141f069cd66989e3c0a8c2db9332ba50c3f01af7dfea4fba41accd866d52fa2240def06",
+    "title": "Surgery: Vitrectomy in Tractional Retinal Detachment",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-vitrectomy-in-tractional-retinal-detachment/",
+    "discovered_at": "2026-11-23T09:14:34.271942+00:00"
+  },
+  {
+    "key": "page-change:eye-v-864a410404774ed0208ebcbd74e9d75636d2a67d93bf38f5f6b4e74a263d08d6e2354718ba09",
+    "title": "Live Surgical Demo: Fundamentals of Macular Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demo-fundamentals-of-macular-surgery/",
+    "discovered_at": "2026-11-23T09:14:34.271955+00:00"
+  },
+  {
+    "key": "page-change:eye-v-ecad29c834e2b131bb87418c075ee7657e83bc3fbed87dba4cf43adfef9e9c7ec818a86fd58a",
+    "title": "Surgery: Utilizing a Large Radial Sponge and Scleral Buckle to Repair a Retinal Detachment",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-utilizing-a-large-radial-scleral-buckle-to-repair-a-retinal-detachment/",
+    "discovered_at": "2026-11-23T09:14:34.271967+00:00"
+  },
+  {
+    "key": "page-change:eye-v-83016ec352b2b4db702d40c9513b63daab2ef18adef7c7ab71d14b640bceeb25188b235651aa",
+    "title": "Lecture: Surgery for Retinal Detachment and PVR",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-surgery-for-retinal-detachment-and-pvr/",
+    "discovered_at": "2026-11-23T09:14:34.271979+00:00"
+  },
+  {
+    "key": "page-change:eye-v-449ea1418025615da856335d69486f12b618e87c4b104b808b970bdf9462b6e002902060b65b",
+    "title": "Simulated Surgery: Retinal Buckling: Placing the Buckle",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/simulated-surgery-retinal-buckling-placing-the-buckle/",
+    "discovered_at": "2026-11-23T09:14:34.272001+00:00"
+  },
+  {
+    "key": "page-change:eye-v-994a69c86b1dccbb779dd91c5e998a03eaa75df05520022de523b9d190d022d2a3dac67153bb",
+    "title": "Lecture: Surgery for Diabetic Retinopathy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-surgery-for-diabetic-retinopathy/",
+    "discovered_at": "2026-11-23T09:14:34.272014+00:00"
+  },
+  {
+    "key": "page-change:eye-v-22ba43b50d72ecec6532931811d5b3915781b022624ee9685da1fe7e62184240d07be2cad528",
+    "title": "Surgery: Complex Retinal Detachment with PVR",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-complex-retinal-detachment-with-pvr/",
+    "discovered_at": "2026-11-23T09:14:34.272036+00:00"
+  },
+  {
+    "key": "page-change:eye-v-62d57038b0fe412d3bfda5964d98e7568c5ea46dc9d9d984bd7e7a16a1eceb5eda71098bafac",
+    "title": "Lecture: Update on Macular Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-update-on-macular-surgery/",
+    "discovered_at": "2026-11-23T09:14:34.272068+00:00"
+  },
+  {
+    "key": "page-change:eye-v-59bfccaf34600eb4054d7ca8c86f86e060efbebd36f2547c59cfeb0fd70176bc95fae67e00b1",
+    "title": "Live Surgical Demo: Training a Retinal Surgeon on Pars Plana Vitrectomy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demo-training-a-retinal-surgeon-on-pars-plana-vitrectomy/",
+    "discovered_at": "2026-11-23T09:14:34.272080+00:00"
+  },
+  {
+    "key": "page-change:eye-v-f88f9119104b7aa4e51759bf15bd5d06cfe8ee55e14d5af41af7336f3c72f8434015f12ace70",
+    "title": "Surgery: Scleral Buckle with Double Segmental Elements and Vitrectomy Under Air to Fix a PVR-related RD",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-double-106-segmental-scleral-buckles-with-vitrectomy-under-air-to-fix-a-pvr-related-rd/",
+    "discovered_at": "2026-11-23T09:14:34.272093+00:00"
+  },
+  {
+    "key": "page-change:eye-v-99c6634e05eaa6c417d37d0034c9f0c686dd16fc48c78e353fb67ccc59a18fd2aa6b94a5e525",
+    "title": "Lecture: Pneumatic Retinopexy – Principles and Pearls",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-pneumatic-retinopexy-principles-and-pearls/",
+    "discovered_at": "2026-11-23T09:14:34.272131+00:00"
+  },
+  {
+    "key": "page-change:eye-v-8c9fde9d5fd74bdbaf8b3627cc10031e3e492b639ef167ac67ef2de79fdf82c8c2b8f78c5c21",
+    "title": "Surgery: Gonioscopy Assisted Transluminal Trabeculotomy (GATT)",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-gonioscopy-assisted-transluminal-trabeculotomy-gatt/",
+    "discovered_at": "2026-11-23T09:14:34.272177+00:00"
+  },
+  {
+    "key": "page-change:eye-v-9b8cd9615bca3582ca72217de7af5880db5392261556805d45c55faaec01a367a9d522fd9982",
+    "title": "Surgery: Gonioscopy Assisted Transluminal Trabeculotomy (GATT)",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-gonioscopy-assisted-transluminal-trabeculotomy-gatt-2/",
+    "discovered_at": "2026-11-23T09:14:34.272193+00:00"
+  },
+  {
+    "key": "page-change:eye-v-324c46c8f4d510da566953c35343483388b60a767e4de2bc00b90b468687bfe4c990a481f822",
+    "title": "Surgery: Baerveldt Glaucoma Implant",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-baerveldt-glaucoma-implant/",
+    "discovered_at": "2026-11-23T09:14:34.272233+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d8a9bcd77c9573edf22820b9b9ba9ea67954738d49b6222bb1b60ab69209d72a1b6b5f9ae103",
+    "title": "Surgery: Penetrating Keratoplasty",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-penetrating-keratoplasty/",
+    "discovered_at": "2026-11-23T09:14:34.272267+00:00"
+  },
+  {
+    "key": "page-change:eye-v-3738684c0a449d37b98e76798d3652ce98a5bcf0f9aab6e5468cbba5b68a8787d0ba4e3d34c6",
+    "title": "Surgery: Deep Anterior Lamellar Keratoplasty (DALK)",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-deep-anterior-lamellar-keratoplasty-dalk-2/",
+    "discovered_at": "2026-11-23T09:14:34.272297+00:00"
+  },
+  {
+    "key": "page-change:eye-v-23166791a8c9df72e82de60028327e99397932e2959f7b057a99c96bc573dd868c4ab41ff7e2",
+    "title": "Live Surgical Demo: DSAEK Indications and Techniques",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demo-dsaek-indications-and-techniques/",
+    "discovered_at": "2026-11-23T09:14:34.272314+00:00"
+  },
+  {
+    "key": "page-change:eye-v-2a1ca1ec3ac33b24c1dd433e0fd429af9f1c0325a0b4d4febf5361628351f0d4a81200a0c9f3",
+    "title": "Lecture: Amniotic Membrane Transplant (AMT)",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-amniotic-membrane-transplant-amt/",
+    "discovered_at": "2026-11-23T09:14:34.272334+00:00"
+  },
+  {
+    "key": "page-change:eye-v-b5a20297edbebf28513926a34024a20ccffd201717f9e0c072ab3c32b2050e0920a8329f23cd",
+    "title": "Lecture: Introduction to SLET",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-introduction-to-slet/",
+    "discovered_at": "2026-11-23T09:14:34.272351+00:00"
+  },
+  {
+    "key": "page-change:eye-v-a6baa3a564b2a642ee51e1a5d1378ed5cd17ad3f75aba02be26b3be804bbc70bda53192d1f64",
+    "title": "Lecture: Ocular Surface Reconstruction for Severe Ocular Surface Disease",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-ocular-surface-reconstruction-for-severe-ocular-surface-disease/",
+    "discovered_at": "2026-11-23T09:14:34.272369+00:00"
+  },
+  {
+    "key": "page-change:eye-v-0f108cd1b821c3b2f43b760735dbd8e038c08772bc9d53459066dcb4f18a14450d3dda8f94ab",
+    "title": "Lecture: Corneal Cross-Linking: Expert Insights and Current Protocols in Our Practice",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-corneal-cross-linking-expert-insights-and-current-protocols-in-our-practice/",
+    "discovered_at": "2026-11-23T09:14:34.272386+00:00"
+  },
+  {
+    "key": "page-change:eye-v-bc61808415fdec019155b0134833e1ae40fc532fc0326123d6c1da30719ea1bffaf662206da3",
+    "title": "Lecture: Anophthalmia and Socket Reconstruction",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-anophthalmia-and-socket-reconstruction/",
+    "discovered_at": "2026-11-23T09:14:34.272431+00:00"
+  },
+  {
+    "key": "page-change:eye-v-c44d5b4048f23ebda76a2ddd4fecbf8dad607bbaeeb5c5d74bb922bfe89441131966792cd642",
+    "title": "Surgery: Lateral Rectus Resection in Residual Esotropia",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-lateral-rectus-resection-in-residual-esotropia/",
+    "discovered_at": "2026-11-23T09:14:34.272471+00:00"
+  },
+  {
+    "key": "page-change:eye-v-c2539f46607c98f16be843a0c13012b08c146131be66d075851ca05f0ca05fa625e0024d84cf",
+    "title": "Surgery: Lens Aspiration in a Congenital Cataract",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-lens-aspiration-in-a-congenital-cataract/",
+    "discovered_at": "2026-11-23T09:14:34.272492+00:00"
+  },
+  {
+    "key": "page-change:eye-v-276f40edf7b76a0298bb6160c777f3209cc83e045118fbccff729a02e71500efe314cfd2c9d0",
+    "title": "手术 玻璃体切除联合白内障超声乳化和IOL植入 2025年5月山西HBT 8",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/25mayshanxihbt-8/",
+    "discovered_at": "2026-11-23T09:14:34.272549+00:00"
+  },
+  {
+    "key": "page-change:eye-v-862aab1d55ef48681d622d984cd18134ec75e4a020e951ca9d89336dd8afe7b8751cd750eebc",
+    "title": "Surgery: Cataract Surgery Compilation Video: Teaching Pearls from the Moran Eye Institute",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-cataract-surgery-compilation-video-teaching-pearls-from-the-moran-eye-institute/",
+    "discovered_at": "2026-11-23T09:14:34.272577+00:00"
+  },
+  {
+    "key": "page-change:eye-v-67db0f003a8e1a8ab0ea88372a437e2e2180e0db33525d4c8dc998db1db913d8ecfe3a20cb7e",
+    "title": "Live Surgical Demonstration: Complex Cataract Surgeries",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demonstration-complex-cataract-surgeries/",
+    "discovered_at": "2026-11-23T09:14:34.272601+00:00"
+  },
+  {
+    "key": "page-change:eye-v-26dd952eb985b9ca28272361beccee559da25d80799f195d0f0d1c8a167caae0f1a1f57ee389",
+    "title": "Live Surgical Demo: Surgical Management of Dislocated Intra-ocular Lens (IOL)",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demo-surgical-management-of-dislocated-intra-ocular-lens-iol/",
+    "discovered_at": "2026-11-23T09:14:34.272624+00:00"
+  },
+  {
+    "key": "page-change:eye-v-108098eda9027a30fd332c5a30bfa166bdbe5b2c94da0f19e7b4387fbd3e6222b9e66802ca72",
+    "title": "Surgery: Live Surgical Demonstration: Vitreoretinal",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demonstration-vitreoretinal/",
+    "discovered_at": "2026-11-23T09:14:34.272651+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d54a81fd9f98b766ae908dc6cbb731bcddc6a7a8cf4f2b2059311fcc5341ed2273af0ef16f9d",
+    "title": "Lecture: Cataract Surgery and Glaucoma",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-cataract-surgery-and-glaucoma/",
+    "discovered_at": "2026-11-23T09:14:34.272677+00:00"
+  },
+  {
+    "key": "page-change:eye-v-a6277afaa517db95c7496561e4cd7e4b8a5546e89de8483a0bd49ec1291c2e70a11b7b313399",
+    "title": "Lecture: Planning Phacoemulsification for Best Outcomes: Biometry Basics & Surgical Strategies for Complex Cases",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-planning-phacoemulsification-for-best-outcomes-biometry-basics-surgical-strategies-for-complex-cases/",
+    "discovered_at": "2026-11-23T09:14:34.272927+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d57e58c4bfc10fc1a3a08f5bc9d7b8e90ea74ac887a56c06da6dcd5f6acbaec36b319f188b09",
+    "title": "Lecture: Ocular Surface Optimization Before Cataract Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-ocular-surface-optimization-before-cataract-surgery/",
+    "discovered_at": "2026-11-23T09:14:34.273048+00:00"
+  },
+  {
+    "key": "page-change:eye-v-933a531462d62013b421f9136d9c9e98cdcb5ab0c8de06d8b6cbade8ca971968cc7dec57ca03",
+    "title": "Lecture: 6th Annual Crandall Cataract Conference: Phacoemulsification with Zonulopathy – My Best Teaching Videos",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-6th-annual-crandall-cataract-conference-phacoemulsification-with-zonulopathy-my-best-teaching-videos/",
+    "discovered_at": "2026-11-23T09:14:34.273295+00:00"
+  },
+  {
+    "key": "page-change:eye-v-f0833827adb3837608d155cba91ef36700a96c21f94d59d20b491334e2420426458ec51f73a2",
+    "title": "模拟手术：青光眼——结膜闭合",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bb%93%e8%86%9c%e9%97%ad%e5%90%88/",
+    "discovered_at": "2026-11-23T09:14:34.273355+00:00"
+  },
+  {
+    "key": "page-change:eye-v-2e813fa85735390e122ca84693c3b7c95a8323809b37c40f27e0b7dc207f9ab6687ce7797844",
+    "title": "模拟手术：青光眼——缝合巩膜瓣",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e7%bc%9d%e5%90%88%e5%b7%a9%e8%86%9c%e7%93%a3/",
+    "discovered_at": "2026-11-23T09:14:34.273411+00:00"
+  },
+  {
+    "key": "page-change:eye-v-938af6c14f3af4617bc0f5d1528cfc594dc948f1ca45bcc320722e96b10649e3d007b97d1282",
+    "title": "模拟手术：青光眼——制作巩膜瓣",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e9%9d%92%e5%85%89%e7%9c%bc-%e5%88%b6%e4%bd%9c%e5%b7%a9%e8%86%9c%e7%93%a3/",
+    "discovered_at": "2026-11-23T09:14:34.273472+00:00"
+  },
+  {
+    "key": "page-change:eye-v-cadc3de773ff762d317143ab893aa5fb24b6aa147cef67617792319b931d0f0f6c37bbe71eb6",
+    "title": "模拟手术：斜视——蝴蝶结可调整缝线技术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%8f%af%e8%b0%83%e6%95%b4%e8%9d%b4%e8%9d%b6%e7%bb%93%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+    "discovered_at": "2026-11-23T09:14:34.273533+00:00"
+  },
+  {
+    "key": "page-change:eye-v-532eaa9814a82ff393bb4a848cd3342a7873422d4e3c154aeae424abc958c16fec58acdf85c0",
+    "title": "模拟手术：斜视——切除技术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%88%87%e9%99%a4%e6%8a%80%e6%9c%af/",
+    "discovered_at": "2026-11-23T09:14:34.273595+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d018b1c940cd97e8f993a06b668202999f8786e20e75d433be55c564969616eded9a99da725b",
+    "title": "模拟手术：斜视——下斜肌后徙术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e4%b8%8b%e6%96%9c%e8%82%8c%e5%90%8e%e5%be%99%e6%9c%af/",
+    "discovered_at": "2026-11-23T09:14:34.273655+00:00"
+  },
+  {
+    "key": "page-change:eye-v-9cbf04efae71ae933888021989d5a9031c1b897c34be086d411008fd6e2adb80b218db4123cb",
+    "title": "模拟手术：斜视——基本缝线技术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e6%96%9c%e8%a7%86-%e5%9f%ba%e6%9c%ac%e7%bc%9d%e7%ba%bf%e6%8a%80%e6%9c%af/",
+    "discovered_at": "2026-11-23T09:14:34.273716+00:00"
+  },
+  {
+    "key": "page-change:eye-v-e9505e7d268dd852a9f957bac61b49f4320328302d3e66daffb0a0ca6d1d0a25d95fd21037d9",
+    "title": "模拟手术：超声乳化——水分离及核雕刻",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e6%b0%b4%e5%88%86%e7%a6%bb%e5%8f%8a%e6%a0%b8%e9%9b%95%e5%88%bb/",
+    "discovered_at": "2026-11-23T09:14:34.273777+00:00"
+  },
+  {
+    "key": "page-change:eye-v-4d9d7175d8e6368aaacc98dbf00711fc3e0d11aa1b6e203d3aeb976a736fcec4f8f540027af3",
+    "title": "模拟手术：超声乳化——制作切口及环形撕囊术",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%a8%a1%e6%8b%9f%e6%89%8b%e6%9c%af-%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96-%e5%88%b6%e4%bd%9c%e5%88%87%e5%8f%a3%e5%8f%8a%e7%8e%af%e5%bd%a2%e6%92%95%e5%9b%8a%e6%9c%af/",
+    "discovered_at": "2026-11-23T09:14:34.273838+00:00"
+  },
+  {
+    "key": "page-change:eye-v-af5341986775a6df2a36407c33018e84b8cf3264d7c6d2c588d01f9bdd42a55b591c6ec4fb4e",
+    "title": "手术：玻璃体切除术合并气体填充术 (2025.10 山西HBT-8）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/25octshanxihbt-8/",
+    "discovered_at": "2026-11-23T09:14:34.273899+00:00"
+  },
+  {
+    "key": "page-change:eye-v-d3273278b9bb2ce0eb4ef8e1f8f58625b75609ecc96116346c924e186d41c0070ec4444a5083",
+    "title": "手术：经平坦部玻璃体切除术 (2025.10 山西HBT-2）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/25octshanxihbt-2/",
+    "discovered_at": "2026-11-23T09:14:34.273970+00:00"
+  },
+  {
+    "key": "page-change:eye-v-0552049339f8d3648b60bfe5904b750e12d7308570cde44878bffb2a7e247f39f7552aee4275",
+    "title": "手术：巩膜环扎术 (2025.10 山西HBT-1）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/25octshanxihbt-1/",
+    "discovered_at": "2026-11-23T09:14:34.274032+00:00"
+  },
+  {
+    "key": "page-change:eye-v-cf710dede413129eb549ff078a89522170efc5dbf4228bb6329fa6cb884b27195d551320e602",
+    "title": "手术：玻璃体切除联合白内障超乳和眼内异物取出 (2025.5 山西HBT-5）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/25mayshanxihbt-5/",
+    "discovered_at": "2026-11-23T09:14:34.274091+00:00"
+  },
+  {
+    "key": "page-change:eye-v-23aff7d95520154464d6ffb084e2fecae86f4fb094bb58820d307268101f65bd2d4a8c538359",
+    "title": "手术：玻璃体切除联合白内障超乳和IOL植入，并视网膜光凝术 (2025.5 山西HBT-3）",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/25mayshanxihbt-3/",
+    "discovered_at": "2026-11-23T09:14:34.274220+00:00"
+  },
+  {
+    "key": "page-change:eye-v-3fdb5bb1425cadc42a49feaf4b15c2e68c5865b5350b05257d7f90e0883e044664ab2909b229",
+    "title": "Surgery: Senile Entropion Repair: Subciliary Skin-Muscle Excision",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-senile-entropion-repair-subciliary-skin-muscle-excision/",
+    "discovered_at": "2026-11-23T09:14:34.274280+00:00"
+  },
+  {
+    "key": "page-change:eye-v-1bedc41b511608293804dc7982a08fa2d896680439fc2698c5ba18d07d5229c0c0711a284d30",
+    "title": "Surgery: Augmented Superior Rectus Transposition",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-augmented-superior-rectus-transposition/",
+    "discovered_at": "2026-11-23T09:14:34.274342+00:00"
+  },
+  {
+    "key": "page-change:eye-v-888abfcb4729972af4e02ad6a0d5f2c56689fe42bfb492ba6b5c666fec9e6ce35a4e7cbd5b13",
+    "title": "手术：超声乳化白内障吸除术：拦截劈核法",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%89%8b%e6%9c%af%ef%bc%9a%e8%b6%85%e5%a3%b0%e4%b9%b3%e5%8c%96%e7%99%bd%e5%86%85%e9%9a%9c%e5%90%b8%e9%99%a4%e6%9c%af%ef%bc%9a%e6%8b%a6%e6%88%aa%e5%8a%88%e6%a0%b8%e6%b3%95/",
+    "discovered_at": "2026-11-23T09:14:34.274406+00:00"
+  },
+  {
+    "key": "page-change:eye-v-e0a94aa6850598d47afeb5c30f831cf8fb7632aaa1096433fa39f99c6bcd5ff1a4ff8b2def8c",
+    "title": "Lecture: Mastering the Art of Pediatric Ab Externo Trabeculotomy",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/lecture-mastering-the-art-of-pediatric-ab-externo-trabeculotomy/",
+    "discovered_at": "2026-11-23T09:14:34.274469+00:00"
+  },
+  {
+    "key": "page-change:eye-v-7d599d5759c0211f59bd163d87425b7e1b46917f94034eb1dae13e2dbee68b5f3308113b948a",
+    "title": "Surgery: Capsulorhexis",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-capsulorhexis/",
+    "discovered_at": "2026-11-23T09:14:34.274533+00:00"
+  },
+  {
+    "key": "page-change:eye-v-27135590d633969566ee2cc15f72995efc85b00b31f3cc222bf5a15c6e19ce9bf051ec1b01eb",
+    "title": "Surgery: Medial Rectus Recession",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-medial-rectus-recession-4/",
+    "discovered_at": "2026-11-23T09:14:34.274595+00:00"
+  },
+  {
+    "key": "page-change:eye-v-70ea387fee390d6acee8dd411f38058dac63fe5157cb5c4b12c2a3d15929a66ccf3e32b5e4ab",
+    "title": "Surgery: External Levator Advancement",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-external-levator-advancement-2/",
+    "discovered_at": "2026-11-23T09:14:34.274716+00:00"
+  },
+  {
+    "key": "page-change:eye-v-9b34457f1b092f3dfd8cb364f6b7115bdfdd9546b96175456b91a12a430c8b2a8a5edd3f675d",
+    "title": "Surgery: Phacoemulsification: Complications with Capsulorhexis & Hydrodissection",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-phacoemulsification-complications-with-capsulorhexis-hydrodissection/",
+    "discovered_at": "2026-11-23T09:14:34.274779+00:00"
+  },
+  {
+    "key": "page-change:eye-v-5ffe83532416af6c0fbe2aa67a76d36ca7525d6c373d306d3229d421067559e9cbf75d20fc26",
+    "title": "Surgery: Lateral Rectus Recession & Medial Rectus Resection",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/surgery-lateral-rectus-recession-medial-rectus-resection/",
+    "discovered_at": "2026-11-23T09:14:34.274841+00:00"
+  },
+  {
+    "key": "page-change:eye-v-feb78dccdb1f9feaf9698bcd855185b3f99f0f907965bcfb2037b10d9fba516c7f1a57801cc4",
+    "title": "Live Surgical Demo: Mastering Corneal Collagen Cross-Linking – Accelerated CXL Surgery",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/live-surgical-demo-mastering-corneal-collagen-cross-linking-accelerated-cxl-surgery/",
+    "discovered_at": "2026-11-23T09:14:34.275257+00:00"
+  },
+  {
+    "key": "page-change:eye-v-e1e77e0b2b5ad055080e0126eefacca4ab4b2eda72fb091828a2e0cdf03b8c67298916151875",
+    "title": "演讲：玻璃体切除术后前房积脓病例分享",
+    "reason": "主来源页面内容哈希变化，正文笔记保持原值，等待复核",
+    "source": "link-audit",
+    "url": "https://cybersight.org/library/%e6%bc%94%e8%ae%b2-%e7%8e%bb%e7%92%83%e4%bd%93%e5%88%87%e9%99%a4%e6%9c%af%e5%90%8e%e5%89%8d%e6%88%bf%e7%a7%af%e8%84%93%e7%97%85%e4%be%8b%e5%88%86%e4%ba%ab/",
+    "discovered_at": "2026-11-23T09:14:34.275340+00:00"
   }
 ]
